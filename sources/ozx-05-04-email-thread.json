@@ -1,0 +1,34 @@
+{
+  "id": "ozx-05-04-email-thread",
+  "title": "Kitchen Notes and Call Windows",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m019",
+    "m021"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m019",
+      "text": "Subject: Follow up: Kitchen notes and scheduling\n\nIris,\n\nI wanted to share what worked out with the relief cook last week, since we talked about finding ways to reduce the interruptions during service.\n\nI wrote down the exact sequence and quantities for the roast chicken dish. It’s a staple, so the cook already knew how to prepare it, but the specific timing for the vegetables and the sauce was a bit loose in my head. I printed the sheet and taped it to the prep station.\n\nDuring the trial run, she followed the sheet without calling me away from the purchasing ledger. That was the main goal. I was able to finish the supplier order list without being pulled into the kitchen every ten minutes. She managed the usual batch size perfectly. The second seasonal dish, the beet salad, remains undocumented, but we decided not to overcomplicate things for now. The chicken sheet is enough for this rotation."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m021",
+      "text": "Subject: Re: Follow up: Kitchen notes and scheduling\n\nBeatrice,\n\nThat sounds like a solid win. Keeping the kitchen flow steady is half the battle. It’s interesting how much just having the numbers written down changes the dynamic, even when the cook knows the food.\n\nI’ve been trying a similar approach with the home-care schedule. I’ve set up specific callback windows for helpers whose paid shifts make repeated daytime calls difficult. I only record the availability needed for scheduling, not personal details. It keeps the log clean.\n\nI completed the confirmations for next week during those windows. It went smoothly. I did leave one request visibly pending on the board, though. I couldn’t match it with an available helper, and I didn’t want to promise a visit that I couldn’t guarantee. Better to have it sitting there than to have a client waiting for a confirmation that never comes."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m019",
+      "text": "Subject: Re: Re: Follow up: Kitchen notes and scheduling\n\nIris,\n\nLeaving it pending is the right call. I’ve found that a visible 'no' is less stressful than a silent 'maybe.'\n\nI’m thinking of doing the same with my menu cards. If a dish isn’t confirmed for the next cycle, I’ll keep the card out rather than hiding it. It saves people asking if it’s coming back. The folklore cards are nice, but the practical list is what keeps the kitchen moving.\n\nThanks for the email. Good luck with the rest of the confirmations."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m021",
+      "text": "Subject: Re: Re: Re: Follow up: Kitchen notes and scheduling\n\nBeatrice,\n\nVisible 'no' is a good phrase. I might steal that for my training notes.\n\nAll confirmed now. See you at the canteen on Thursday.\n\nIris"
+    }
+  ],
+  "content_sha256": "91aa97c006642068152b86d8abad6a8bcad6abd4eafa24f613707e99d993bf4f"
+}

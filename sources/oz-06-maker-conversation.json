@@ -1,0 +1,99 @@
+{
+  "id": "oz-06-maker-conversation",
+  "title": "The baker wanted a gap, not another handle",
+  "format": "conversation_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m002",
+    "m014"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Pavel, you brought a drawing to the repair co-op. Martin says it was mostly arrows."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m014",
+      "text": "Useful arrows. They showed where my fingers weren't fitting. We stack clean, cool, empty trays on a shelf before the morning work starts. The bottom edges sit so close together that I used to lift the whole stack to get the first one free."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m002",
+      "text": "I offered him a handle. He looked at me as if I'd offered to put a bell on it."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m014",
+      "text": "You offered a very nice handle for the wrong problem. I didn't need help carrying a tray. I needed a gap under the stack."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m002",
+      "text": "So we made two removable wooden spacers for the storage shelf. They're outside the food-preparation area. Nothing is attached to a baking tray, and nothing goes near an oven."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m014",
+      "text": "I brought one of our ordinary trays over and showed Martin how I lift it. The first spacers were too close together. He moved them, and I could get my fingers underneath without lifting the rest."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Have they been back to the bakery?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m014",
+      "text": "They've been on the clean-tray storage shelf all week. I take them out when I wipe the shelf. That's another reason I didn't want them fixed down."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m002",
+      "text": "He rejected my first sketch and improved the second one. I'm allowing him to call that design work."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "m014",
+      "text": "How generous. You did round the corners nicely."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m002",
+      "text": "That was for me. I kept catching my sleeve on the first pair in the workshop."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "Is this becoming a product?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m014",
+      "text": "It is becoming a thing I stop thinking about every morning. That's plenty."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "m002",
+      "text": "We kept the measurements. If someone has a similar shelf, we can look at theirs. I'm not mailing out a universal bakery solution."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "m014",
+      "text": "Good. Then you won't need a green seal on the box."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "m002",
+      "text": "I'd settle for the loaf you promised."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "m014",
+      "text": "On the bench. Away from the sawdust, before you ask."
+    }
+  ],
+  "content_sha256": "f9a769085f13fa50b8ddac0a799e46bfc25e41b69fc80db77c26391c219cc2ed"
+}

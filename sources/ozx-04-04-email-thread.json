@@ -1,0 +1,34 @@
+{
+  "id": "ozx-04-04-email-thread",
+  "title": "Counters and Carrots: An Eastfield Exchange",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m027",
+    "m029"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m027",
+      "text": "Hi Celia, I saw your notice about the sketch session and it made me think of the tally work I did last week. A newer apprentice joined my shift and was unsure about the harvest logs. I pulled out a set of spare counters we keep for inventory checks and walked her through the method I’d been practicing. She ran a practice total first, then we checked a real tally together while her supervisor handled the unfamiliar pruning tasks. It seemed to take the pressure off. She didn't need to guess; she just needed the right tool at the right time. I thought you might appreciate the mix of practical counting and visual organization. It reminded me of how you structure the allotment schedules."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m029",
+      "text": "Thanks for writing, Lydia. I actually just finished setting up the sketch session you mentioned. We used the old harvested carrots and beets from the community plot as subjects. I put them on the ordinary allotment table—the one with the wobbly leg that finally got shimmed—and let people draw them as they were, quirks and all. It was interesting because two gardeners who usually decline to give growing demonstrations were very comfortable with just sketching. They said it was less performative. The small drawings are currently drying on the rack, and I’m planning to pin the best ones to the shared noticeboard at the Eastfield shed. It’s a small thing, but it gives people who don’t love talking about soil a way to show off their harvest. Your counter story makes me wonder if I should ask if you can help label the board sections with simple tallies so everyone can see how many plots are represented in each art row."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m027",
+      "text": "I’d be happy to help with the tallies. I still have that set of spare counters, and I can print a simple key so people know what the marks mean. It’s better than just listing names, which gets crowded fast. I’ll bring them to the shed on Thursday. As for the carrots, at least the drawings won’t wilt before they’re pinned up. The beets looked much more stable, though. Do you need a hand setting up the table before the session next time? The wobbly leg shimmed well, but the table itself is a bit heavy for one person to move around the garden paths."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m029",
+      "text": "Thursday works for me. And yes, a hand with the table would be great. I find the weight of it tricky when the path is muddy. Thanks, Lydia. It’s nice to coordinate with someone who thinks about the practical details before the aesthetic ones. I’ll save you a spot next to the beets."
+    }
+  ],
+  "content_sha256": "75bfbb3ca361e231b0c0ed8e1afb762f0108554a3027c3ede5c832b9e5e1645b"
+}

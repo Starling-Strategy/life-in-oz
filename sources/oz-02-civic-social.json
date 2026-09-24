@@ -1,0 +1,34 @@
+{
+  "id": "oz-02-civic-social",
+  "title": "The little yellow receipt is more useful than the big green seal",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m030",
+    "m001"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m030",
+      "text": "Spent the morning with a resident in South Meadow who had been waiting on a water pipe repair for three weeks. The official confirmation letter from the Wizard's Office was lovely—green paper, gold seal, very authoritative. But it didn't have a tracking number. It just said 'Resolved.' Which is comforting, if you believe it. The little yellow slip from the plumber's van had a number on it, and that’s how she actually traced the crew. Green seals impress. Yellow receipts work."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m001",
+      "text": "Heard this week. A driver on the Blue Orchard loop reported that the directional sign for the East Gate was backwards. I called the transit office, got a ticket number, and two days later a woman in a high-vis vest came and swapped the arrow. It was efficient. No grand ceremony, just a corrected sign. But I still felt a bit guilty. I’d spent the last month writing polite emails about the *color* of the bus stops. Maybe I should have started with the arrows that point the wrong way."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m030",
+      "text": "I think the ticket number is only useful if the person knows how to follow up. Last week I gave a tracking code to a neighbor in the flats, and he called me back two days later asking where the 'dispatch hub' was. He didn't know what the number was for. The green letter at least told him someone was *thinking* about him. The yellow slip just told him his pipe was still broken."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m001",
+      "text": "That’s a fair point. But 'thinking about you' is not a repair. I’d take the broken pipe with a number over the pretty letter with a promise any day. I’m going to put a small card on my guesthouse desk: 'If something is wrong, here is the number to call. If you want a nice letter, visit the Emerald City, but don't wait.' It’s not polite, but it’s honest."
+    }
+  ],
+  "content_sha256": "43f1b941f56f1b77b9d85c8f4c5d797b868d8d093c711a554856fd8f3a015581"
+}

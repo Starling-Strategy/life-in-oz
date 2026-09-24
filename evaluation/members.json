@@ -1,0 +1,369 @@
+{
+  "community": {
+    "name": "Munchkin Association Alumni",
+    "setting": "A light modern fictional Oz, centered on Munchkin Country: orchard villages, blue-painted community rooms, the maintained yellow brick road, ordinary buses, phones, kitchens, workshops, and seasonal gatherings. Settlement names are invented local labels, not real locations or canonical geography.",
+    "fictional_notice": "Entirely fictional authoring facts for a source-only generation lab. These are provisional planning premises, not extracted evidence, verified biographies, or scripted episodes. Any resemblance to real people is unintended.",
+    "assumptions": [
+      "The association is an invented network of alumni from local shared learning workshops, not a real institution or a degree-granting school.",
+      "All 50 members are adult human residents of this version of Munchkin Country. Human adaptations of nonhuman Baum characters are provisional and do not assert book canon.",
+      "Twelve entries draw loosely on characters encountered in Baum's first Oz book; thirty-eight entries are original Munchkin residents. Each inspiration field identifies its category. Borrowed names and motifs do not imply canonical biographies.",
+      "Home values are fictional neighborhoods or settlements only; there are no real addresses, contact details, or personal identifiers.",
+      "Relationships list reciprocal acquaintance links only. They authorize no specific interaction, family tie, shared incident, or testimony.",
+      "Each experience_domains item is an open personal-activity prompt, not an event asserted to have happened. Each can support multiple later source accounts, targeting 3–8 later stories per member only after source material exists.",
+      "Backgrounds describe ordinary strengths, constraints, and learning interests. Do not convert them directly into evidence or preapproved stories.",
+      "The separate manual examples are author-authored style demonstrations outside roster canon; Rowan Bell is a fictional moderator in the examples and community-life source documents, outside the 50-member roster."
+    ]
+  },
+  "members": [
+    {
+      "id": "m001",
+      "first_name": "Eleanor",
+      "last_name": "Bougham",
+      "role": "Guesthouse host",
+      "home": "Blue Orchard village"
+    },
+    {
+      "id": "m002",
+      "first_name": "Martin",
+      "last_name": "Woodward",
+      "role": "Repair cooperative mechanic",
+      "home": "Timber Verge"
+    },
+    {
+      "id": "m003",
+      "first_name": "Clara",
+      "last_name": "Micefield",
+      "role": "Neighborhood mutual-aid organizer",
+      "home": "Meadowbank"
+    },
+    {
+      "id": "m004",
+      "first_name": "Ada",
+      "last_name": "Reed",
+      "role": "Seed librarian",
+      "home": "Blue Orchard village"
+    },
+    {
+      "id": "m005",
+      "first_name": "Samuel",
+      "last_name": "Strawbridge",
+      "role": "Adult learning tutor",
+      "home": "Eastfield"
+    },
+    {
+      "id": "m006",
+      "first_name": "Leona",
+      "last_name": "Bracken",
+      "role": "Walking-route steward",
+      "home": "South Copse"
+    },
+    {
+      "id": "m007",
+      "first_name": "Dorothy",
+      "last_name": "Gale",
+      "role": "Bus depot assistant",
+      "home": "Brickway Junction"
+    },
+    {
+      "id": "m008",
+      "first_name": "Glinda",
+      "last_name": "Southwell",
+      "role": "Community mediator",
+      "home": "South Meadow"
+    },
+    {
+      "id": "m009",
+      "first_name": "Nora",
+      "last_name": "Northcott",
+      "role": "Visiting nurse",
+      "home": "North Orchard"
+    },
+    {
+      "id": "m010",
+      "first_name": "Tobias",
+      "last_name": "Hale",
+      "role": "Community kitchen porter",
+      "home": "Meadowbank"
+    },
+    {
+      "id": "m011",
+      "first_name": "Oscar",
+      "last_name": "Diggs",
+      "role": "Traveling exhibition technician",
+      "home": "Junction Quarter"
+    },
+    {
+      "id": "m012",
+      "first_name": "Greta",
+      "last_name": "Vane",
+      "role": "Reading-room attendant",
+      "home": "Junction Quarter"
+    },
+    {
+      "id": "m013",
+      "first_name": "Vera",
+      "last_name": "Porcelain",
+      "role": "Pottery mender",
+      "home": "Clay Hollow"
+    },
+    {
+      "id": "m014",
+      "first_name": "Pavel",
+      "last_name": "Dunn",
+      "role": "Bread baker",
+      "home": "Blue Orchard village"
+    },
+    {
+      "id": "m015",
+      "first_name": "Mina",
+      "last_name": "Vale",
+      "role": "Local bus driver",
+      "home": "Brickway Junction"
+    },
+    {
+      "id": "m016",
+      "first_name": "Jonas",
+      "last_name": "Pike",
+      "role": "Irrigation caretaker",
+      "home": "Eastfield"
+    },
+    {
+      "id": "m017",
+      "first_name": "Ruth",
+      "last_name": "Fenwick",
+      "role": "Boot repairer",
+      "home": "South Copse"
+    },
+    {
+      "id": "m018",
+      "first_name": "Elias",
+      "last_name": "Moss",
+      "role": "Housing cooperative treasurer",
+      "home": "South Meadow"
+    },
+    {
+      "id": "m019",
+      "first_name": "Beatrice",
+      "last_name": "Kettle",
+      "role": "Canteen cook",
+      "home": "Meadowbank"
+    },
+    {
+      "id": "m020",
+      "first_name": "Felix",
+      "last_name": "Rowe",
+      "role": "Community radio producer",
+      "home": "Bell Market"
+    },
+    {
+      "id": "m021",
+      "first_name": "Iris",
+      "last_name": "Marsh",
+      "role": "Home-care scheduler",
+      "home": "Meadowbank"
+    },
+    {
+      "id": "m022",
+      "first_name": "Daniel",
+      "last_name": "Cress",
+      "role": "Clay supplier",
+      "home": "Clay Hollow"
+    },
+    {
+      "id": "m023",
+      "first_name": "Hannah",
+      "last_name": "Bellamy",
+      "role": "Cycle courier",
+      "home": "Timber Verge"
+    },
+    {
+      "id": "m024",
+      "first_name": "Victor",
+      "last_name": "Sedge",
+      "role": "Road maintenance lead",
+      "home": "Brickway Junction"
+    },
+    {
+      "id": "m025",
+      "first_name": "June",
+      "last_name": "Arden",
+      "role": "Local newsletter editor",
+      "home": "Bell Market"
+    },
+    {
+      "id": "m026",
+      "first_name": "Amir",
+      "last_name": "Brook",
+      "role": "Device repair clerk",
+      "home": "Junction Quarter"
+    },
+    {
+      "id": "m027",
+      "first_name": "Lydia",
+      "last_name": "Hart",
+      "role": "Orchard apprentice",
+      "home": "Eastfield"
+    },
+    {
+      "id": "m028",
+      "first_name": "Owen",
+      "last_name": "Flint",
+      "role": "Drainage inspector",
+      "home": "Reed Flats"
+    },
+    {
+      "id": "m029",
+      "first_name": "Celia",
+      "last_name": "Dove",
+      "role": "Garden allotment coordinator",
+      "home": "Eastfield"
+    },
+    {
+      "id": "m030",
+      "first_name": "Marcus",
+      "last_name": "Wren",
+      "role": "Tenant support clerk",
+      "home": "South Meadow"
+    },
+    {
+      "id": "m031",
+      "first_name": "Tessa",
+      "last_name": "Finch",
+      "role": "Amateur theater stage manager",
+      "home": "Bell Market"
+    },
+    {
+      "id": "m032",
+      "first_name": "Caleb",
+      "last_name": "Alder",
+      "role": "Clinic reception clerk",
+      "home": "North Orchard"
+    },
+    {
+      "id": "m033",
+      "first_name": "Nadia",
+      "last_name": "Stone",
+      "role": "Survey assistant",
+      "home": "South Copse"
+    },
+    {
+      "id": "m034",
+      "first_name": "Peter",
+      "last_name": "Ash",
+      "role": "Market produce seller",
+      "home": "Blue Orchard village"
+    },
+    {
+      "id": "m035",
+      "first_name": "Esther",
+      "last_name": "Lane",
+      "role": "Evening classroom caretaker",
+      "home": "Junction Quarter"
+    },
+    {
+      "id": "m036",
+      "first_name": "Quentin",
+      "last_name": "Birch",
+      "role": "Parcel depot clerk",
+      "home": "Brickway Junction"
+    },
+    {
+      "id": "m037",
+      "first_name": "Rosa",
+      "last_name": "Clay",
+      "role": "Ceramics instructor",
+      "home": "Clay Hollow"
+    },
+    {
+      "id": "m038",
+      "first_name": "Isaac",
+      "last_name": "Holt",
+      "role": "Clothing alteration worker",
+      "home": "Timber Verge"
+    },
+    {
+      "id": "m039",
+      "first_name": "Daphne",
+      "last_name": "Lark",
+      "role": "School meal buyer",
+      "home": "North Orchard"
+    },
+    {
+      "id": "m040",
+      "first_name": "Simon",
+      "last_name": "Fern",
+      "role": "Reusable crate washer",
+      "home": "Blue Orchard village"
+    },
+    {
+      "id": "m041",
+      "first_name": "Elena",
+      "last_name": "Cross",
+      "role": "Bus dispatch assistant",
+      "home": "Brickway Junction"
+    },
+    {
+      "id": "m042",
+      "first_name": "Arthur",
+      "last_name": "Keene",
+      "role": "Retired joiner",
+      "home": "South Meadow"
+    },
+    {
+      "id": "m043",
+      "first_name": "Priya",
+      "last_name": "Dell",
+      "role": "Bird survey volunteer and shop cashier",
+      "home": "South Copse"
+    },
+    {
+      "id": "m044",
+      "first_name": "Henry",
+      "last_name": "Dale",
+      "role": "Community compost caretaker",
+      "home": "South Meadow"
+    },
+    {
+      "id": "m045",
+      "first_name": "Mara",
+      "last_name": "Wells",
+      "role": "Care equipment loan clerk",
+      "home": "North Orchard"
+    },
+    {
+      "id": "m046",
+      "first_name": "Noel",
+      "last_name": "Banks",
+      "role": "Rain gauge volunteer and farmhand",
+      "home": "Reed Flats"
+    },
+    {
+      "id": "m047",
+      "first_name": "Imogen",
+      "last_name": "Shaw",
+      "role": "Community network technician",
+      "home": "Junction Quarter"
+    },
+    {
+      "id": "m048",
+      "first_name": "Julian",
+      "last_name": "Park",
+      "role": "Market display maker",
+      "home": "Clay Hollow"
+    },
+    {
+      "id": "m049",
+      "first_name": "Florence",
+      "last_name": "Gray",
+      "role": "Reading group convener and grocer",
+      "home": "Bell Market"
+    },
+    {
+      "id": "m050",
+      "first_name": "Bennett",
+      "last_name": "Cole",
+      "role": "Festival equipment custodian",
+      "home": "Bell Market"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ozx-01-05-manager-conversation",
+  "title": "Notes on Local Fixes and Cover Schedules",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m042",
+    "m044"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Arthur Keene about the volunteer repair list he received from a neighbor in South Meadow. He mentioned that sorting the list was the main challenge, not the actual carpentry. He separated the items into small furniture jobs he could handle in his garage and larger structural or building-related requests that needed a licensed contractor or the municipal service. He told me he accepted a job to fix a loose drawer handle on a small bedside table. He said the fit was a bit tight because the previous owner had used a different screw type, but he managed to secure it without damaging the wood. He returned the updated list to the neighbor, making sure to leave the request for a squeaky gate explicitly marked as 'pending service appointment' so the neighbor knew it hadn't been forgotten, just delegated."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Arthur added that he didn't try to fix the gate because he didn't want to give the impression that volunteer hours covered major infrastructure work. He said the neighbor appreciated the clarity. He might take on another small cabinet job next month if he has the time, but he's careful not to overcommit. He mentioned that the list had been sitting for a while, and getting it organized helped the whole street feel less overwhelmed. He didn't ask for a certificate or recognition for this; he just wanted the list to make sense."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Turned to Henry Dale, who was dealing with a busy stretch of paid grounds work. He explained that he had to separate his daily volunteer checks for the community compost from the occasional, larger caretaker jobs. He worried that mixing the two would cause him to miss the daily sorting checks because he was busy with the paid work. He created a simple rota where a cover volunteer would handle just the daily tasks—checking the bins, turning the pile, and noting any issues—during the busy period. He emphasized that this cover volunteer was not taking over the long-term maintenance or the occasional heavy lifting, just the daily routine."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Henry said the cover volunteer completed the listed daily tasks and handed back a clear record. He noted that the volunteer stuck to the agreed scope and didn't try to fix a broken lid or move the large compost bins, which were outside their brief. This kept the responsibility clear. Henry mentioned that this separation helped him focus on the paid work without worrying about the compost site being neglected. He might expand this cover system if other volunteers need to be away, but for now, it's working well. He didn't see it as a formal innovation, just a way to keep the jobs distinct so they could actually get done."
+    }
+  ],
+  "content_sha256": "48979a9907788984655db9575c1f67d905e65552a5def4b243752c67eb9a430b"
+}

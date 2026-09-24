@@ -1,0 +1,59 @@
+{
+  "id": "ozx-06-03-social-thread",
+  "title": "Display setup and craft sorting",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m011",
+    "m013"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m013",
+      "text": "Spent the morning at the community center sorting through the donated ornamental pieces for Saturday's craft session. It’s a lot of broken clay, but some of it is actually perfect for display. I’ve separated the sturdier, more stable pieces that can be handled and arranged into a small grouping for the table. The rest—fragments, hairline cracks that are too risky—I’ve set aside. I’m not making any promises about restoring those, just keeping them safe in a separate box. It’s about knowing what’s ready to be used and what isn’t."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m011",
+      "text": "Glad you’re getting that sorted, Vera. I just finished delivering a similar setup for a small traveling display. The organizer wanted something that looked impressive but had a tight budget, so we broke it down into three parts: the design, the preparation of the panels, and the transport. I built the version they could actually afford without the optional backdrop they’d initially asked for. It arrived at the hall this morning, and they were happy to sign the invoice for exactly what they’d paid for. No extra charges, no surprises. Whether they book me for a second session next month is still up in the air, but for now, the job is done."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m013",
+      "text": "That sounds like a clean handoff, Oscar. I like the idea of separating the design from the optional extras. It saves a lot of headaches when the budget is firm. I’ve been thinking about the same thing for my craft session. I want the volunteers to feel confident using the pieces, not worrying they’ll break something they can’t fix. If I’ve done my job sorting them, they can just focus on the arrangement."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m011",
+      "text": "Exactly. Confidence is the key. I’ve seen too many displays fail because the people using them weren’t sure what they were doing. By making the setup straightforward and the transport reliable, I remove the anxiety. The hall staff just had to follow a simple checklist. No magic, just good planning. And honestly, that’s where the real value is, not in the fancy backdrop."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m013",
+      "text": "Agreed. Good craft is about what works, not what looks like it’s been blessed by the Wizard’s Office. I’m looking forward to seeing how the volunteers handle the pieces. If they leave them as they are, I’ll consider it a win. If they break one, I’ll just have another practice join for my next showcase."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m011",
+      "text": "Ha! I’ll keep that in mind. I’m heading back to the Junction Quarter now to pack up the transport case. If you need a hand with the display table on Saturday, let me know. I might be around."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m013",
+      "text": "I’ll keep that offer in my back pocket, Oscar. Thanks for the heads-up. It’s good to know we’re both out there, doing the unglamorous but necessary work of making things usable."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m011",
+      "text": "Anytime. Just don’t tell anyone I’m thinking about that optional backdrop again. I already lost that battle to the budget."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m013",
+      "text": "Your secret is safe with me. Now, if you’ll excuse me, I have a box of fragments that need a very gentle home."
+    }
+  ],
+  "content_sha256": "45de35d356ac55d8e6985c1a5566ba5bb532b78581d3c91a552f9b56d423ecbb"
+}

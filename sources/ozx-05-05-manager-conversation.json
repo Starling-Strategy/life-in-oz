@@ -1,0 +1,34 @@
+{
+  "id": "ozx-05-05-manager-conversation",
+  "title": "Notes on Welcoming Services: Caleb and Mara",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m032",
+    "m045"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "I spoke with Caleb Alder this morning about his work at the clinic reception. He mentioned that the waiting area has been feeling particularly slow during the mid-morning shift, which coincides with the public transport arrival times. Caleb explained that instead of leaving visitors to wonder if the building was closed or if the staff had taken a break, he started posting general status updates on the whiteboard near the entrance. He clarified that these updates do not disclose specific appointment reasons or patient names, but simply indicate whether the reception is currently processing check-ins or taking a short administrative pause. He noted that this small transparency helped reduce the number of people calling through the front door, as they could see from the hallway that the delay was a system-wide issue rather than personal neglect."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Caleb also described offering a private conversation option for those who needed to discuss their booking details. He said he noticed that some visitors became anxious when standing in a group while others were waiting for different services. By inviting those with specific questions to step aside into the small office next to the main desk, he allowed for a more focused interaction. He emphasized that he did not know when the queue would clear, so he did not promise specific wait times, but he did let them know they were welcome to discuss whether an alternative arrangement might suit their schedule better. He seemed satisfied that this approach made the space feel less chaotic without requiring any new equipment or staff."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "I then had a separate conversation with Mara Wells at the care equipment loan desk. She told me about a specific issue she addressed regarding the public information available online and at the civic information desk. Mara explained that an outdated notice had been circulating, suggesting that all requested equipment from the North Orchard depot could be collected immediately. She pointed out that this was misleading because stock levels fluctuate, and it caused frustration when people traveled to the depot only to find the specific item unavailable. She contacted the civic information desk directly to request that this statement be removed and replaced with a clearer instruction to check availability first."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Mara said that the corrected notice is now live, directing people to verify stock before making a trip. She mentioned that this change has had a practical effect on her daily interactions with her counter staff. Previously, staff sometimes felt pressured to offer clinical advice or make promises they couldn't keep when customers arrived with high expectations based on the old notice. Now, the conversation starts with a verification step, which allows the staff to focus on logistics rather than guessing. She noted that while she has not yet tracked the exact number of trips saved, the early feedback from her team suggests that the desk interactions have become calmer and more focused on the actual loan process rather than apologizing for incorrect public information."
+    }
+  ],
+  "content_sha256": "d6f4a0ac097086bade850e3150e24088f564e471449617f817a72e5d6ae3e015"
+}

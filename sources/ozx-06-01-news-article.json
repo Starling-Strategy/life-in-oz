@@ -1,0 +1,83 @@
+{
+  "id": "ozx-06-01-news-article",
+  "title": "Six Small Fixes, No Green Spectacles Required",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m011",
+    "m013",
+    "m022",
+    "m026",
+    "m037",
+    "m048"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Across the Junction Quarter and Clay Hollow, a quiet trend is emerging among local tradespeople and makers: the deliberate choice of simple, durable solutions over elaborate, high-maintenance displays. This week’s roundups highlight six residents who achieved specific, useful results without relying on complex machinery or grandiose promises. The common thread is a focus on what works within existing schedules and budgets, rather than what might look impressive from a distance."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In the Junction Quarter hall, traveling exhibition technician Oscar Diggs recently installed a tabletop exhibition depicting changing orchard seasons. Rather than using powered projections or animated dioramas, Diggs constructed the display using painted folding panels. Visitors were able to walk around the central table and follow the sequence of blooms and harvests at their own pace. Diggs noted that the primary advantage of the folding design was logistics; the entire installation packed flat into standard carrying cases, allowing for quick setup and teardown without damaging the hall’s flooring."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m011",
+      "text": "People wanted to feel like they were walking through the seasons, not just watching a screen. When I made the panels foldable, it meant I could set it up before the doors opened and have it gone by the time the staff needed to sweep. It’s simpler, and it stays on the table exactly where I put it."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Over in Clay Hollow, pottery mender Vera Porcelain handled a request for a chipped decorative wall plaque. Porcelain prepared a written estimate that clearly separated the structural repair from optional color matching. The customer ultimately chose the modest version, opting only for the structural fix. Upon collection, the plaque was stable and secure. Neither Porcelain nor the customer claimed the repair was invisible; instead, they agreed that the join was acceptable for the plaque’s decorative purpose, and the agreed price was paid in full."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m013",
+      "text": "I always separate the glue from the paint in my quotes. Some people want it to look brand new, but others just want it to stay on the wall. This time, the customer looked at the plaque, tapped it gently, and said it felt right. That was enough for me. We didn't pretend the crack wasn't there, but it held fast."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Clay supplier Daniel Cress addressed a common inventory challenge by offering local potters a modest shared collection window. Instead of holding large, uncertain bulk purchases in his warehouse, Cress allowed customers to collect separately labeled clay orders over a set period. This approach ensured that participating customers collected their exact agreed quantities, and Cress retained enough cash uncommitted to cover his next ordinary supplier payment without financial strain."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m022",
+      "text": "Holding onto tons of clay because I think I might sell it later is a bad business habit. By letting them pick up in smaller, labeled batches, I know exactly who is coming and what they need. It kept my cash flow steady and let me pay my supplier on time without worrying about a stack of unused bags."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "At the local reading room, device repair clerk Amir Brook assisted a visitor who was struggling to find a saved document on a tablet. Rather than taking the device to demonstrate the process, Brook guided the visitor through the interface, asking them to perform each tap and swipe themselves. The visitor successfully reopened the file and then repeated the navigation sequence unaided. Brook did not read or retain the contents of the private document, focusing solely on the user interface."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m026",
+      "text": "If I do it for them, they forget it in ten minutes. If they do it for me, they remember it for the next time. I just pointed to the icon and said, 'That’s the one.' They got it. I didn't need to see what was in the file to help them find it."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Ceramics instructor Rosa Clay recently shortened a standard adult course to focus on a small set of decorative tiles. This adjustment allowed participants to finish their work within the studio’s available schedule, avoiding the rush that often accompanies ambitious vessel projects. The group completed a shared display of individually chosen marks on their tiles. Clay noted that the more ambitious vessel project remained an option for future sessions, rather than a promised result for this specific term."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m037",
+      "text": "We had a full room of people who wanted to leave with something they could actually put on their shelves. By focusing on tiles, we could all get our glazes done and fired in time. The big vases are still on the syllabus for next month, but for this group, the tiles were the win. They looked proud of the marks they chose."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Finally, market display maker Julian Park created a set of interchangeable blue lettering panels for a Clay Hollow stallholder. The trader wanted a local aesthetic that matched the surrounding shops but did not want the cost or effort of replacing the entire sign frame. Park’s panels allowed the trader to update the product wording quickly while retaining the original display frame. The trader used the new panels at the next market, finding the setup significantly faster than repainting or replacing the old signage."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m048",
+      "text": "The frame was solid, just the letters were wrong for the new stock. I made these panels to fit the existing slots. She can swap them out in five minutes if she changes her mind about what she’s selling. It’s a local look that doesn’t cost a local fortune to maintain."
+    }
+  ],
+  "content_sha256": "2b73296989d6e5e5f1b63157c64d6afb7b2379e452fa85c3b95f56a2fcc4432d"
+}

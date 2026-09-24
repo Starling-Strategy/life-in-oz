@@ -1,0 +1,59 @@
+{
+  "id": "oz-04-invention-report",
+  "title": "The Cleverest Thing at the Demonstration Did Not Glow",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m002",
+    "m047"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The quarterly community demonstration at the Junction Quarter park usually draws a crowd interested in green spectacles and humming devices. But this month, the most attended corner of the tent held a plain wooden handcart and a coil of black cable."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Martin Woodward, a repair cooperative mechanic from Timber Verge, had made a removable wooden divider for a shared garden handcart. Small plant pots normally slid together on the trip from the shed to the beds. His divider separated them into compartments and lifted out when someone needed the cart for a larger load."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m002",
+      "text": "We tried it with the pots the gardeners actually use, not a drawing of the pots I thought they used. They stayed apart on the trip across the yard. Then we lifted the whole divider out. I don't want the next person borrowing a cart that only does my favorite job."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The trial used light plant pots on the community garden's usual path. Woodward said the divider was not a way to carry heavier loads or secure a person. A gardener asked for one wider compartment; he marked that request on the prototype rather than declaring the design finished."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "At the next table, Imogen Shaw, a community network technician from Junction Quarter, showed a separate fix for the repair cooperative's guest connection. Visitors near the front counter had been losing the signal from equipment tucked behind a metal storage cabinet."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m047",
+      "text": "We moved the existing access point to a clear shelf and used a spare cable to reach it. Before, a visitor could connect beside the cabinet and lose the connection at the counter. After the move, we could keep the same connection at both places. I haven't tested it with a room full of people."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Shaw described that as a local improvement, not more bandwidth or a new network for all of Oz. The cooperative kept a note of the new location so the next tidy-up would not put the equipment back behind the cabinet."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Woodward used workshop offcuts for the divider; Shaw reused equipment and a spare cable. Neither presented a measured cost saving. Woodward offered to bring the wider-compartment version back for another try. Shaw said the cooperative should report whether the counter connection stayed reliable during a normal busy week."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "As the crowd dispersed, the green-glowing exhibits in the adjacent tent continued to hum. The handcart and the cable, however, remained in their places, waiting for the next load of soil or the next study group. They were not the most impressive sights in Oz, but they were the ones people kept coming back to check."
+    }
+  ],
+  "content_sha256": "45ecf207606f64e9b1a9cad82236e80cbecb8720a6084f868a16b9da90b14a86"
+}

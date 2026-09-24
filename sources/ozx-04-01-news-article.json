@@ -1,0 +1,53 @@
+{
+  "id": "ozx-04-01-news-article",
+  "title": "Blue Country Roundup: Growth, Governance, and Practical Adjustments",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m004",
+    "m016",
+    "m027",
+    "m029",
+    "m034",
+    "m040"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Across the Munchkin Association Alumni community, recent weeks have seen a steady flow of practical adjustments in gardens, orchards, and local markets. From the seed libraries of Blue Orchard to the irrigation channels of Eastfield, residents are finding that small changes in routine often yield the most tangible results. This roundup highlights six distinct efforts where local knowledge met immediate need, ranging from civic paperwork to the logistics of washing produce crates."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "**Memory and the Seed Shelf**\n\nIn Blue Orchard village, seed librarian Ada Reed has curated a display that bridges the gap between botanical record and personal history. The exhibit pairs local bean varieties with blue paper patterns contributed by adult gardeners from the village. The visual connection is intentional; the blue paper serves as a local aesthetic marker, distinct from the seed packets themselves. More significantly, Ada separated visitor recollections onto individual cards, keeping these memories visibly distinct from the official seed library’s growing records. This separation ensures that anecdotal history does not blur the line with verified agricultural data. Visitors have found the display inviting, adding their own cards without overwriting the librarian’s catalog, a quiet success for a project designed to preserve both facts and feelings."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "**Reading Between the Lines of the Water Rota**\n\nIn Eastfield, irrigation caretaker Jonas Pike spent the week comparing a proposed orchard water rota with the existing allocation notice. His work was not about changing the flow of water, but about clarifying its status. Pike marked the specific differences between a local suggestion put forward by growers and an adopted rule issued by the Wizard's Office. At the subsequent public review, this distinction allowed growers to discuss the actual proposal on its merits rather than reacting to the green heading paper as if it were a final, unchangeable decree. The meeting proceeded with a focus on the proposed schedule’s feasibility, demonstrating that understanding the source of a document can prevent unnecessary friction between local needs and official standards."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "**The Planning Sheet That Saved the Shift**\n\nOrchard apprentice Lydia Hart addressed a recurring logistical snag during pear picking by introducing a simple planning sheet. Hart compared a small pear-picking tally from the previous day with the number of empty baskets available for the next shift. Rather than relying on guesswork, she created a visual chart showing the gap between demand and supply. Her supervisor used this sheet to request the remaining baskets before the work began, rather than treating Hart’s first estimate as an exact prediction. The result was a smoother morning shift, with workers having the tools they needed from the start. Hart noted that the sheet was not meant to be a permanent policy, but a helpful tool for that specific season’s volume."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "**A One-Visit Orientation for New Allotment Holders**\n\nGarden allotment coordinator Celia Dove in Eastfield refined her approach to onboarding new residents. Instead of assigning indefinite mentoring duties to experienced gardeners, Dove paired willing new allotment holders with veterans for a single orientation visit. The goal was practical: helping newcomers find their specific plots and understand the location of shared facilities like the water spigot and compost bin. Both parties agreed that the introduction was complete once the newcomer had navigated the site successfully. This approach avoided creating an unspoken continuing obligation, allowing the experienced gardeners to return to their own plots while still providing a helpful, bounded support structure for the newcomers."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "**Small Bags for Easy Carrying**\n\nAt the local market in Blue Orchard village, produce seller Peter Ash responded to customer feedback by offering clearly priced smaller bags of pears alongside his usual larger portions. The change was prompted by customers asking for purchases they could carry home easily without straining. The smaller bags sold well during the next market day, and Ash’s end-of-day tally distinguished these sales from fruit taken for household use, providing him with clearer data on sales versus household use. The adjustment was simple, requiring only a new scale and a few bags, but it addressed a specific physical inconvenience for shoppers while expanding Ash’s customer base."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "**Separating the Ready from the Washing**\n\nIn Blue Orchard, reusable crate washer Simon Fern introduced a small but effective change to his stall operations. Fern implemented separate collection tickets for returned vegetable crates and crates ready to leave, while retaining the established cleaning routine. Previously, stallholders had to wait for Fern to finish a wash cycle before knowing if their crates were ready. With the new ticket system, stallholders could identify their ready allocation without moving containers between work areas or asking Simon to interrupt a wash to check status. The system reduced congestion around the washing station and allowed Fern to maintain a steady cleaning rhythm, a practical innovation born from the simple need to keep the flow of goods moving without clutter."
+    }
+  ],
+  "content_sha256": "80dba18dd90067cbba187c08df8696c7ff675d3bde3ca0d104a47e6f1ddf722a"
+}

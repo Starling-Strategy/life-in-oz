@@ -1,0 +1,78 @@
+{
+  "id": "ozx-07-02-webinar",
+  "title": "The Land Tells Us, and What It Does Not: A Munchkin Association Webinar",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m006",
+    "m028",
+    "m033",
+    "m039",
+    "m043",
+    "m046"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The screen flickered green for a moment before Rowan Bell, the Association’s community manager, cleared the static and welcomed the group. 'Welcome back. Today we are looking at how we record what is actually there, rather than what we wish was there, or what we think we remember. We have a mixed bag of field notes, procurement queries, and shop-floor tweaks. Leona, you started the week with a walk. How did it go?'"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m006",
+      "text": "It went fine, mostly. I led a short familiar-path walk through South Copse. The key was the pauses. I asked the group beforehand if they wanted to stop at the old oak or the stream crossing. We agreed on the stops, and everyone returned together. I didn’t include the extension past the gate because I hadn’t checked the footing there recently. I’d rather not recommend a stretch I can’t vouch for."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m028",
+      "text": "That sounds sensible. I’m dealing with something less scenic in Reed Flats. I’ve been testing a field-note template for drainage inspections. It has three boxes: location, observation, and unanswered question. I used the local landmark names—like 'the bend by the blue fence'—alongside the official grid references. A colleague took my notes and found every point without asking me. The office could finally tell the difference between 'water is here' and 'water is here because of the pipe,' which is a small but important distinction."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m046",
+      "text": "I’m also in Reed Flats, so I follow that. I’ve been working on the rain-gauge logs. I used to try to remember readings between shifts, which is a bad idea. I now use a pocket tally card. I write the time and the level right after I check it. This week, I had a gap because I was out on the farm and didn’t come back until evening. I left that space blank instead of guessing. The record is usable precisely because it admits where I wasn’t looking."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "That honesty about the gap is exactly the point, Noel. It keeps the data honest. Priya, you’re in a very different environment, but I suspect the logic is similar. Tell us about your shop floor."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m043",
+      "text": "It’s about order. I grouped the common produce codes for the shop in the order I actually need them at the till. My supervisor agreed, so I moved the sheets. During a busy shift, I didn’t have to hunt through three separate binders to ring up the standard apples or carrots. It’s not magic, but it saves time. Anything unfamiliar still goes through the normal check, but the routine items are faster now."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m033",
+      "text": "I’ve been doing something similar with public-space measurements. I added a small sketch of the landmark next to each entry in my notebook. I asked a colleague to retrace the sequence using only the sketches and notes. She found the points without clarification. It makes the record easier for someone else to use later, even if the measurement limitations are still explicit in the margins. A drawing of a stump is easier to find than 'station 4, offset 12 meters'."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m039",
+      "text": "My part of this is more bureaucratic. I was looking at a supplier list for school meals that carried the Wizard’s Office branding. I asked the local purchasing office directly whether that list was compulsory or just a directory. They sent a written clarification saying it was a directory. That allowed me to compare an eligible nearby seller on the same terms. I didn’t claim an exemption; I just used the rules as written to get a fair comparison."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "There is a common thread here, though none of you used the word 'efficiency' once. It’s about making the record reflect reality, whether that’s a missing rain reading, a physical sketch, or a procurement rule. Owen, did your colleague’s success change how you write the notes?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "m028",
+      "text": "It made me trust the template more. Before, I felt I had to over-explain. Now I know that if I name the landmark clearly, the next person can find it. It’s about removing the guesswork for the person who comes after you."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m046",
+      "text": "And for me, the tally card means I don’t have to be a good actor. I don’t have to pretend I remembered the 3 PM reading when I didn’t. The card says what I saw. That’s all I can do."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "That’s a good summary. We’re all trying to make the gap between 'what is' and 'what we think is' as small as possible. Let’s leave it there. Thank you all for sharing these practical adjustments."
+    }
+  ],
+  "content_sha256": "6a68557679dde25513ac6782f6d0b076ede91f706e4ac6233a6e81a4d4a9cd4d"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Oscar Diggs — a distinct completed source episode",
+  "purpose": "Original synthetic source supplement, not an application record or factual historical record.",
+  "member_ids": [
+    "m011"
+  ],
+  "world_notes": [
+    "All people are adult human adaptations or original residents of modern Oz. They belong to the fictional Munchkin Association Alumni, whose shared history is attending local practical-learning workshops.",
+    "The Emerald City and Munchkin Country have ordinary shops, civic administration, buses, newspapers, phones and video calls. A few fanciful visual details are welcome. No complicated invented magic system is needed.",
+    "The Wizard's Office is a fictional governing institution, not a roster member. Residents disagree reasonably about its role: public works and shared standards versus cumbersome paperwork and showy announcements. Do not turn every official into a villain or introduce real-world politicians.",
+    "Book motifs are inspiration only: imposed green spectacles and the city's green commerce; Munchkin blue as a local preference; the gap between the Wizard's spectacle and practical ability; useful skills already present before receiving credentials; companions helping each other. Do not quote invented passages or imply that modern institutions/events occur in Baum.",
+    "Use fictional community manager Rowan Bell as needed, outside the member count. Unnamed customers and public officials are allowed. Do not create additional named private people.",
+    "Use relative time or no dates. A document's reference to a future action must remain a future action. Avoid creating a rigid shared timeline except where an explicit dependency is provided. No real URLs, social accounts, email addresses, telephone numbers or claims of actual recordings.",
+    "These are alternative original-fiction artifacts, not a continuation of pilot-01. Do not reuse that pilot's apple crates, raking mistakes, seed mix-ups, handout mistakes, flat tires or kitchen-capacity stories."
+  ],
+  "documents": [
+    {
+      "id": "ozx-08-oscar-listening-corner",
+      "format": "email_thread",
+      "theme": "Local memory and accessible exhibitions",
+      "member_ids": [
+        "m011"
+      ],
+      "target_words": 380,
+      "topic": "An exhibition you could listen to with your eyes closed",
+      "premise": "Write an actual warm email from Oscar Diggs to community manager Rowan Bell about a DIFFERENT completed job: last winter, before either of the folding-panel jobs in the existing collection, a reading room asked Oscar to make a small listening corner for local memories. He recorded two consenting adult residents recalling their first visits to the Emerald City, edited a short excerpt, played it back to both contributors, removed one identifying detail at their request, and set up the approved excerpt for visitors to listen to during an open afternoon. Describe a modest observed visitor response, not usage statistics or a citywide rollout. This is unrelated to the orchard-panel installation, its civic logo, and the budgeted traveling display. One later idea can remain a plan. These are invented events inside the synthetic setting; no actual audio attachment or recording is supplied and no link is claimed.",
+      "genre_notes": "One substantive email from Oscar, optionally a short response from Rowan. Use m011 for Oscar and manager for Rowan. No new named people, addresses, fake attachment reference, physical/electrical instructions or count-padding. Names of recorded residents need not be supplied. Let Oscar sound pleased, a little conversational, and precise about contributor permission rather than delivering a generic moral."
+    }
+  ]
+}

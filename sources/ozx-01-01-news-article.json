@@ -1,0 +1,53 @@
+{
+  "id": "ozx-01-01-news-article",
+  "title": "Local Power Without the Big Green Seal",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m003",
+    "m008",
+    "m018",
+    "m012",
+    "m042",
+    "m044"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Across Munchkin Country, residents are finding ways to solve immediate problems without waiting for a formal credential or a stamp from the Wizard’s Office. This week, six neighborhoods reported small but concrete wins in logistics, noise management, budgeting, records, furniture repair, and composting. Each effort relied on existing local knowledge rather than new official certification."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "**Meadowbank Errands Now Fit Around Work Hours**\n\nClara Micefield, a neighborhood mutual-aid organizer in Meadowbank, restructured the local errand rota after interviewing volunteers about their paid work schedules. Instead of assigning half-day blocks, she split duties into short collection and delivery shifts that fit around jobs.\n\n\"The biggest barrier wasn't willingness,\" Micefield said. \"It was time. People couldn't give up an afternoon, but they could spare forty minutes.\" Under the new system, the group completed the week's agreed errands without any single person being overloaded. However, the outlying lane at the edge of the district still lacks regular coverage, a gap Micefield acknowledged remains unresolved."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "**South Meadow Shares a Room on Its Own Terms**\n\nIn South Meadow, community mediator Glinda Southwell helped two groups agree on separate hours for quiet use and music practice in a shared room. The agreement specifies time slots for each group, allowing both to book their sessions without interference.\n\nBoth groups have tested the arrangement and completed their booked sessions without complaint. Southwell noted that the agreement explicitly excludes weekend use, leaving that period unassigned rather than assuming a silent default. \"We aren't solving the weekend yet,\" she said. \"We're just not fighting over the weekdays anymore.\""
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "**Cooperative Budget Distinguishes Confirmed from Pending**\n\nElias Moss, treasurer of the South Meadow housing cooperative, presented a budget to residents that clearly separated confirmed civic grants from pending requests. This distinction allowed members to approve an affordable common-room purchase using only the funds already secured.\n\nA second request for additional materials is still awaiting a response from the Wizard’s Office. Moss emphasized that the purchase decision relied solely on the confirmed amount. \"We don't spend money we haven't received,\" Moss said. \"The waiting request is noted, but it doesn't drive this week's decision.\""
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "**Reading Room Drops Duplicate Registration Step**\n\nGreta Vane, a reading-room attendant in the Junction Quarter, investigated whether a second registration slip bearing the Wizard’s crest was required before issuing ordinary loans. After consulting the administering office, she confirmed that the existing register was sufficient.\n\nVane removed the duplicate step for subsequent borrowers, streamlining the process without discarding any required records. \"The crest looks impressive, but it didn't add any security or clarity,\" Vane said. \"The existing log did the job. So we stopped duplicating it.\""
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "**Retired Joiner Uses Spare Sample to Fix Drawer**\n\nArthur Keene, a retired joiner in South Meadow, used a spare cabinet sample to learn an unfamiliar drawer fitting before tackling a small, agreed furniture repair. He practiced on the sample until the mechanism felt right, then applied the technique to the actual piece.\n\nThe repaired drawer opened and closed smoothly during the owner's check. Keene kept the sample for future practice, noting that he did not present himself as newly certified in this specific fitting. \"I know what I can do with this joint now,\" Keene said. \"I didn't need a badge to show it. The drawer works.\""
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "**Compost Volunteers Ask Better Questions**\n\nHenry Dale, community compost caretaker in South Meadow, welcomed new adult volunteers with a short walk through the established sorting signs. He invited questions before assigning routine duties.\n\nThe group completed the agreed session and asked about an unfamiliar item they encountered. Dale set the item aside for checking rather than dismissing the question. \"Asking what something is not the same as not knowing the signs,\" Dale said. \"We checked it, and now we all know where it goes. That's how the pile stays clean.\""
+    }
+  ],
+  "content_sha256": "8b24cdd903419c0d2f034721420413f3a7eaa335f44b3eaffdf42d71920d6a7e"
+}

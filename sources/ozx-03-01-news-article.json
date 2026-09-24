@@ -1,0 +1,83 @@
+{
+  "id": "ozx-03-01-news-article",
+  "title": "Oz Travel Digest: Small Fixes, Clearer Routes",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m007",
+    "m015",
+    "m024",
+    "m023",
+    "m041",
+    "m036"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Getting from one end of the county to the other doesn’t require a brass band or a sash. This month’s local transport and logistics updates show how a few small, practical adjustments are making the journey smoother for residents and travelers alike. From the bus depot at Brickway Junction to the delivery cycles in Timber Verge, the focus is on clarity and efficiency rather than ceremony."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "**Brickway Junction: A New Way to Find Your Bus**\n\nDorothy Gale, a bus depot assistant, has been experimenting with how she handles inquiries at the counter. Instead of pointing travelers to a wall of internal route codes, she created a reference sheet organized by the names of destination villages. She spent the week checking each entry against the current timetable to ensure the information was accurate. The result is that she can now explain onward connections in a single conversation, sparing travelers the hassle of decoding cryptic signs."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m007",
+      "text": "People don't think in codes. They think in places. When I hand them a sheet that says 'To Oakhaven, you'll need to change here at four-oh-two,' they stop looking confused. It’s just a list, but it’s a list that speaks their language."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "**The Orchard-Loop: Naming That Makes Sense**\n\nLocal bus driver Mina Vale noticed that during a trial stop on the orchard-loop route, passengers were frequently asking about a stop that the official notices called by a generic grid reference. Vale recorded where people actually wanted to get off and passed the feedback to the transport office. The office recently published a notice that now uses the familiar local name alongside the official label, making it much easier for regular riders to recognize the change."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m015",
+      "text": "The official name was fine for the map, but it was useless for the people sitting on the bench waiting for the bus. It’s just about matching the name on the sign to the name on the road. If the office takes a note from the passengers, the process works."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "**Road Maintenance: Fixing the Factual Error**\n\nVictor Sedge, a road maintenance lead, found himself in a minor bureaucratic tangle. A Wizard’s Office announcement for a recent roadwork project suggested a ceremonial reopening date that was several days before his crew had actually finished the repairs. Sedge matched the announcement to his crew’s confirmed schedule and requested a correction. The office published the actual access dates, which allowed local market organizers to plan their setups without treating the ceremony as a hard maintenance deadline."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m024",
+      "text": "We do the work, the office does the announcing. Sometimes the dates don’t line up. I just sent a note saying, 'The road is still wet,' and they put up the right date. It’s not a big fight, but it’s better when the public isn’t led astray by a ribbon-cutting that hasn’t happened yet."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "**Timber Verge: The Parcel Round**\n\nHannah Bellamy, a cycle courier, has been looking for a more efficient way to handle non-urgent parcel collections. Rather than making a separate trip for every customer who called in, she grouped the requests into a regular round. She completed the agreed route within her working day, and customers received clear collection windows. It wasn’t instant delivery, but it was a reliable and transparent way to manage the workload."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m023",
+      "text": "If everyone wants a different time, I spend my whole day pedaling in circles. By grouping them, I can give them a solid two-hour window. They know where the bike is coming from, and I know I’m not running late. It’s a win for everyone involved."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "**Dispatch: A Date for Your Board**\n\nElena Cross, a bus dispatch assistant, updated the routine for replacing notices on the bus boards at Brickway Junction. She added a revision date and a check against the master timetable to her process. During a scheduled change this week, she replaced the relevant notices, and a colleague verified that the new boards matched the master schedule. The goal was to ensure that the physical boards were accurate, rather than relying on the fact that they had always looked a certain way."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m041",
+      "text": "Old habits are hard to break. You assume the board is right because it’s been there for three years. Putting a date on it forces you to look at the source. It’s a small change, but it stops us from just copying the same old errors from one board to the next."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "**Depot Markers: More Than Just a Color**\n\nQuentin Birch, a parcel depot clerk, has been testing new markers for the collection shelves. The previous system relied heavily on color, which proved difficult for some workers and customers. Birch’s new markers combine a large letter with a plain location word, such as 'North Shelf A.' During a recent test, a temporary depot worker found their assigned shelf on the first attempt. The markers also ensure that customer names remain off the public-facing signs, protecting privacy."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m036",
+      "text": "Color is great until you’re tired or the lighting is bad. 'A for Apple' alongside 'North Shelf' is just easier to process. If a new person can find it without asking me, I know I’ve done my job. And nobody wants their name on a big sticker for the whole world to see."
+    }
+  ],
+  "content_sha256": "0f2dc7bb595d310edcd95d6e7a655c308d80221ee880e358f331baf46a4bb222"
+}

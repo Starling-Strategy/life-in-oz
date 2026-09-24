@@ -1,0 +1,24 @@
+{
+  "id": "ozx-04-05-manager-conversation",
+  "title": "Notes: Plum Tally Trial and Relief Worker Handover",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m034",
+    "m040"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Peter Ash (m034) by phone this morning. He’s been testing a small tally card at his plum stall to see if he can keep his stock counts clearer. Previously, he’d juggle sales, free samples, and damaged fruit in his head or on a scrap of paper, which got messy by the end of a busy morning. He printed a simple three-column card: sales, samples, and damaged. He marks each transaction as it happens. At closing, he counts the remaining plums and reconciles that number against the initial stock minus the three categories. He told me he managed to get the numbers to match for the first two days he tried it, which was a relief after last week’s fudge on the pear bag sales. He noted, however, that two days is too short to know if this actually reduces his overall loss or if he’s just being more careful because he’s watching the card. He plans to keep using it for another week, especially since the blue stall cards he introduced earlier help him explain where the fruit came from, but he hasn’t committed to it as a permanent method yet."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Simon Fern (m040) stopped by the office yesterday to drop off a few crate tickets. We talked about his recent work with the relief worker who covers the collection desk when he’s at the wash station. Simon mentioned that the handovers were getting confused, with items sometimes marked as returned but not actually logged, or discrepancies being buried in the general count. So he prepared a simple count sheet for her to use. The key change is that she keeps unresolved discrepancies in a separate column from confirmed returns. This means if a container is missing or a count doesn’t add up, it stays flagged rather than being smoothed over or blamed on a stallholder. He told me the worker completed the afternoon handover using this sheet last Tuesday. She passed on one query about a missing container, but she didn’t accuse anyone or quietly adjust the count to make it look right. She just flagged it for Simon to check when he got back. Simon said he found the container in the back alley, so it wasn’t a theft, just a mix-up. He didn’t ask me to tell the worker about it, but I did mention it to her later, and she appreciated having a clear way to raise the issue without drama. He’s going to keep the sheet template on the desk for now, but he’s not setting up a formal training session for other staff yet. He just wants to see if it stays useful as the workload changes."
+    }
+  ],
+  "content_sha256": "cb5ee72d9ba1a34489428249b2093f12310a2283c8b769e79a0ba9754b25b6bf"
+}

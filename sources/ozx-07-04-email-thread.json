@@ -1,0 +1,34 @@
+{
+  "id": "ozx-07-04-email-thread",
+  "title": "Notes from the Copse and the Kitchen",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m033",
+    "m039"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m033",
+      "text": "Subject: Measuring what is actually there\n\nHi Daphne,\n\nI just got back from South Copse where I spent the afternoon measuring the usable tabletop lengths for the community drawing display. It’s funny how much space looks like a lot until you actually line up the paper. I translated the measurements into a simple layout sheet afterward. The organizers are using it to arrange the submitted work before opening, but they were clear that they aren’t treating it as a structural assessment of the room itself. Just a guide for where the art fits without overlapping the tables’ edges.\n\nIt reminded me of how the land tells us what it has, but not necessarily what we want it to be. The tables are what they are; I just had to work out how to respect that. Hope the week is treating you well.\n\nNadia"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m039",
+      "text": "Subject: Re: Measuring what is actually there\n\nNadia,\n\nI like that you didn’t try to make the tables do something they couldn’t. I was dealing with a similar sort of boundary issue this week, though in the kitchen. I’ve been gathering cooks’ preferences for ordinary ingredient substitutions into a short purchasing reference. It’s mostly about distinguishing acceptable alternatives from items that require another conversation. We had a disrupted delivery on Tuesday, and I used the reference to place an agreed replacement order. I made sure to leave an unapproved substitute out rather than making the cooks absorb it. It felt less like a list and more like a map of where the cooks were comfortable.\n\nDaphne"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m033",
+      "text": "Subject: Re: Measuring what is actually there\n\nA map of comfort. That’s a good way to put it. I suppose both of us are just trying to see the ground we’re standing on before we build on it. I hope the display turns out nicely. The paper layout felt very solid in my hands, which is a rare feeling when you’re dealing with measurements.\n\nNadia"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m039",
+      "text": "Subject: Re: Measuring what is actually there\n\nLikewise. I think the land, or the kitchen, or the room, has a voice if you listen for it, but you have to be willing to accept the answer. Let me know if the organizers needed any help with the final placement. I’d be happy to lend a hand if it’s just moving things around.\n\nDaphne"
+    }
+  ],
+  "content_sha256": "3b1713657aaefdd117ab7f2a1752ab06693e7411ce68c88ba650555ecf685613"
+}

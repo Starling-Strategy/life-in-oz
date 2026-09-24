@@ -1,0 +1,34 @@
+{
+  "id": "oz-11-business-messages",
+  "title": "Re: Your window card sent someone round",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m014",
+    "m017"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m017",
+      "text": "Hi Pavel,\n\nYour window card sent someone round this morning. She said she'd bought a loaf, seen the note about my repair counter beside your till, and remembered the loose heel she'd been meaning to bring in. I checked the boot and booked it for repair.\n\nPutting my opening hours on that card was a good idea. She knew I'd still be here after lunch.\n\nRuth"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m014",
+      "text": "Ruth,\n\nThat's good to hear. The other direction worked yesterday: a customer came in carrying the little bread card you put at your counter. She bought a rye loaf and said you'd described it as 'the one that doesn't disappear when you put soup beside it'. I'm keeping that description.\n\nI wrote the cards and you found a place where people actually stop to read them. One customer each isn't a marketing study, but it is a nice beginning.\n\nPavel"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m017",
+      "text": "You may keep the soup line if I can keep the cards.\n\nFor the next try, shall we put the walking directions underneath? Someone asked whether 'three doors down' meant toward the market or away from it. I can draw a very small arrow. No grand map of Oz.\n\nNot printed yet—tell me which way you want yours pointing.\n\nRuth"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m014",
+      "text": "Toward the market for bread; away from it for boots. I'll check the wording before we make another batch.\n\nWe should resist putting a green seal on them. It would use all the room for the opening hours.\n\nPavel"
+    }
+  ],
+  "content_sha256": "e34870d6b27fd681570465aa935d77d14a8bd8ca6ca38fb80173d9d82127598c"
+}

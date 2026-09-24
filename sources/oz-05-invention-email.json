@@ -1,0 +1,34 @@
+{
+  "id": "oz-05-invention-email",
+  "title": "Re: The booking board does not need an app",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m047",
+    "m038"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m038",
+      "text": "Imogen,\n\nYou were right about separating quick fittings from the ones that need more time. I tried it for three afternoons: short hem checks together, coat fittings in longer slots. Customers still chose an appointment time, but I stopped offering every job the same-sized gap. I wasn't rushing the coat customer to make room for the next hem.\n\nI've taped the slot list inside my counter door. How did you get on with the display board?\n\nIsaac"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m047",
+      "text": "Hi Isaac,\n\nI finished it before I left your counter yesterday. It's the steel board from the store cupboard, with the existing magnetic strips marked 'Open' and 'Full'. The backing board is plain enough that you can rub off a day and write the next one without reprinting anything.\n\nI moved the labels while you were with a customer, then asked you to reset them. You did it without me talking you through it, which was the test I cared about. No batteries, no account to remember.\n\nImogen"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m038",
+      "text": "That’s the kind of thing I like. Physical movement. It forces you to look at the actual gaps.\n\nSince the board is working, I was thinking we might try one small experiment for next week. I have a stack of those small, colored index cards left over from the workshop notes. What if we use the white cards for the standard alterations and the yellow ones for the rush jobs? I can leave a small box on the counter for people to drop a note if they need something by the weekend. We’d just move the yellow card to the top of the board when it comes in.\n\nNo new printing, no new app. Just the cards we already have. Does that sound manageable, or is it adding too many moving parts?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m047",
+      "text": "That sounds worth trying for a week. Keep the cards with your own work notes rather than on the public availability board; people only need to see which slots are open. I can help make a small divider for the card box if you want one.\n\nIf the colors become one more thing to manage, go back to plain cards. I'm pleased the longer fitting slots are already helping.\n\nImogen"
+    }
+  ],
+  "content_sha256": "14dfad8cd897542ad39428286c8a152f08b76ab87002931a7637ff8447d4226f"
+}

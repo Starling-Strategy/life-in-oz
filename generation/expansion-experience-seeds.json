@@ -1,0 +1,930 @@
+{
+  "fictional": true,
+  "purpose": "Authoring premises, not source evidence",
+  "members": [
+    {
+      "id": "m003",
+      "first_name": "Clara",
+      "last_name": "Micefield",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Mutual help",
+          "seed": "Clara split a Meadowbank errand rota into short collection and delivery shifts after asking volunteers about their paid work. Neighbors completed the week's agreed errands without anyone needing to surrender an entire afternoon, although the outlying lane still lacked regular cover."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Clara brought anonymized examples of missed evening access to a local office administering the Wizard's community rooms. The office trialed a later key collection window, and her volunteers collected their key after work rather than asking someone to leave a shift."
+        },
+        {
+          "slot": 3,
+          "theme": "Innovation in Oz",
+          "seed": "Clara introduced separate pockets for offered and confirmed help on a volunteer board, using removable cards without household details. A substitute organizer used the board to complete a weekend handover and could identify the remaining gap without calling Clara for an explanation."
+        }
+      ]
+    },
+    {
+      "id": "m004",
+      "first_name": "Ada",
+      "last_name": "Reed",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Fashion and local identity",
+          "seed": "Ada assembled a small display pairing local bean names with blue paper patterns contributed by adult gardeners in Blue Orchard village. Visitors supplied additional recollections on separate cards, and she kept those memories visibly distinct from the seed library's growing records."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Ada tested a borrowing register with separate spaces for seed taken and seed later returned, rather than treating every exchange as a completed loan. At the next opening she could reconcile the packets on hand without mistaking an intended return for stock."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Ada held a quiet browsing hour for first-time seed borrowers who wanted to ask basic questions away from the busy exchange table. The visitors chose packets and left with the library's existing growing notes; a question about an unfamiliar variety remained unanswered."
+        }
+      ]
+    },
+    {
+      "id": "m005",
+      "first_name": "Samuel",
+      "last_name": "Strawbridge",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Samuel used an ordinary public stall-fee notice from the Wizard's Office in an Eastfield reading lesson, separating the charge from the application deadline. Adult learners located both details themselves, while a vague exemption prompted a question rather than an invented answer."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Samuel replaced a long explanation of receipt totals with movable paper strips showing purchases, payment and change. Adult learners rearranged the strips and checked a fresh practice receipt without his demonstration, giving him a reusable activity that fitted the short evening session."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Samuel ran a reading session around a short locally written comic scene, letting adult learners choose speaking or following along silently. The group finished the scene and discussed its ending, and a usually quiet participant volunteered to read a small part again."
+        }
+      ]
+    },
+    {
+      "id": "m006",
+      "first_name": "Leona",
+      "last_name": "Bracken",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Leona submitted a marked walking map when a public path notice used an unfamiliar administrative boundary instead of the South Copse entrance name. The local office issued a clarified notice, and walkers could match its wording to the sign they actually encountered."
+        },
+        {
+          "slot": 2,
+          "theme": "Mutual help",
+          "seed": "Leona led a short familiar-path walk with pauses agreed beforehand, asking participants whether the stopping places worked for them. Everyone returned together and several stayed to compare route preferences, though she left an unvisited extension out of her recommendations."
+        },
+        {
+          "slot": 3,
+          "theme": "Fashion and local identity",
+          "seed": "Leona gathered walkers' descriptions of the blue gateposts used as informal South Copse landmarks and added those descriptions to an existing route leaflet. Newcomers found the intended meeting entrance during a trial walk without treating every blue gate as a public path."
+        }
+      ]
+    },
+    {
+      "id": "m007",
+      "first_name": "Dorothy",
+      "last_name": "Gale",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Dorothy arranged a depot reference sheet by passengers' destination villages instead of internal route codes, checking each entry against the current timetable. At the Brickway Junction counter she used it to explain onward connections without sending travelers between separate noticeboards."
+        },
+        {
+          "slot": 2,
+          "theme": "Fashion and local identity",
+          "seed": "Dorothy asked regular travelers which everyday objects helped them recognize the orchard-loop stops and assembled a small illustrated orientation display. A blue shop awning proved more useful than a ceremonial green arch, and newcomers correctly matched the pictures to their intended stops."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Dorothy helped an unnamed traveler compare the remaining services after a missed connection and checked where the onward bus would actually depart. The traveler boarded the confirmed alternative; Dorothy did not promise reimbursement or claim to have changed the timetable."
+        }
+      ]
+    },
+    {
+      "id": "m008",
+      "first_name": "Glinda",
+      "last_name": "Southwell",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Mutual help",
+          "seed": "Glinda helped neighbors agree separate hours for quiet use and music practice in a shared South Meadow room. Both groups tried the arrangement and completed their booked sessions, while weekend use remained explicitly outside the agreement rather than silently settled."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Glinda asked a local civic clerk to distinguish the Wizard's room-booking requirements from optional meeting customs on a public checklist. The revised checklist removed a ceremonial introduction from the required steps, and a neighborhood group submitted its booking without arranging one."
+        },
+        {
+          "slot": 3,
+          "theme": "Innovation in Oz",
+          "seed": "Glinda tried a closing routine in which each participant restated only the task they had personally accepted, with permission to leave an item open. The resulting agreement assigned the confirmed jobs clearly and retained an unclaimed job instead of recording imaginary consensus."
+        }
+      ]
+    },
+    {
+      "id": "m009",
+      "first_name": "Nora",
+      "last_name": "Northcott",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Nora compared her North Orchard travel schedule with the clinics' public opening windows and proposed a different order for administrative stops. The revised route let her deliver routine paperwork while reception desks were staffed, without changing any clinical decisions or sharing household information."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Nora pointed out that a civic directory listed a clinic's public entrance under an old building name and supplied the current reception wording. The Wizard's local information desk corrected its directory, making the clinic entry consistent with the sign outside."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Nora walked a temporary colleague through the nonclinical parts of her visiting rota, including reception contact windows and where blank administrative forms were kept. The colleague completed the office handover without a public list of households; a remote stop still needed scheduling."
+        }
+      ]
+    },
+    {
+      "id": "m010",
+      "first_name": "Tobias",
+      "last_name": "Hale",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Tobias paired the community kitchen's written duty names with simple drawings of the relevant work areas, checking their meaning with other porters. A relief worker followed the closing rota without repeatedly interrupting the cook, while the full written instructions remained available."
+        },
+        {
+          "slot": 2,
+          "theme": "Mutual help",
+          "seed": "Tobias offered a short orientation for new kitchen volunteers, showing where ordinary supplies belonged and who could answer questions outside his role. The volunteers put away the delivery in the agreed places, and the next shift found what it needed without searching."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Tobias lent clean, unused kitchen utensils to an adult theater group for a comic sound-effects rehearsal and kept a simple return list. The performers found the sounds they wanted, and he received the complete set back before the next kitchen shift."
+        }
+      ]
+    },
+    {
+      "id": "m011",
+      "first_name": "Oscar",
+      "last_name": "Diggs",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Arts",
+          "seed": "Oscar made a tabletop exhibition of changing orchard seasons using painted folding panels rather than a powered spectacle. Visitors could move around the display in the Junction Quarter hall and follow the sequence, and the panels packed into the available carrying cases."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Oscar separated a borrowed Wizard's Office emblem from the credits on a community exhibition so visitors would not mistake a venue loan for official endorsement. The hall accepted the revised display, which still acknowledged the loan and named the volunteers' contribution collectively."
+        },
+        {
+          "slot": 3,
+          "theme": "Small-business wins",
+          "seed": "Oscar quoted a small traveling display in separate parts for design, preparation and transport, then delivered the version a hall could afford. The organizer paid the agreed invoice without expecting the optional backdrop, while demand for a second booking remained uncertain."
+        }
+      ]
+    },
+    {
+      "id": "m012",
+      "first_name": "Greta",
+      "last_name": "Vane",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Greta checked whether the reading room actually needed a second registration slip bearing the Wizard's crest before issuing ordinary loans. The administering office confirmed the existing register was sufficient, and she removed the duplicate step for subsequent borrowers without discarding required records."
+        },
+        {
+          "slot": 2,
+          "theme": "Arts",
+          "seed": "Greta arranged a listening-free poetry display where visitors could read short locally contributed verses quietly and leave an optional response. Readers used it during the normal evening opening, and the response cards included requests for another selection without requiring a public performance."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Greta reserved a clearly marked table for readers who wanted help finding materials, while keeping the quiet corner free of consultations. During the trial evening, newcomers received assistance and regular readers kept their usual space; the arrangement still needed testing on busier nights."
+        }
+      ]
+    },
+    {
+      "id": "m013",
+      "first_name": "Vera",
+      "last_name": "Porcelain",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Small-business wins",
+          "seed": "Vera prepared a written estimate for restoring a chipped decorative wall plaque, separating the visible repair from optional color matching. The customer chose the modest version and paid the agreed price after collection, without either of them claiming the join had disappeared."
+        },
+        {
+          "slot": 2,
+          "theme": "Arts",
+          "seed": "Vera assembled a small Clay Hollow display of decorative fragments and practice joins, showing repairs as part of an object's history rather than disguising every line. Visitors compared the examples closely, and an adult beginner selected an imperfect practice piece without embarrassment."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Vera sorted donated ornamental pieces for a community craft session, separating those suitable for display from fragments she would not offer for handling. Volunteers completed a small arrangement with the selected pieces; she made no promise about restoring the remaining objects."
+        }
+      ]
+    },
+    {
+      "id": "m015",
+      "first_name": "Mina",
+      "last_name": "Vale",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Mina recorded where passengers actually asked to alight during an authorized orchard-loop stop trial and passed the observations to the transport office. Its final public notice used the familiar stop name alongside the official label, making the change recognizable to regular riders."
+        },
+        {
+          "slot": 2,
+          "theme": "Mutual help",
+          "seed": "Mina asked passengers whether her usual destination announcements were audible and useful rather than assuming familiarity meant they needed none. She tried the requested wording on a later run, and a traveler identified the right stop without waiting for another passenger's cue."
+        },
+        {
+          "slot": 3,
+          "theme": "Fashion and local identity",
+          "seed": "Mina contributed a handwritten account of the different blue market-day clothes she noticed from her stationary bus during breaks, with no passenger descriptions that identified individuals. A depot display included her observations alongside local fabric samples, prompting travelers to compare village preferences."
+        }
+      ]
+    },
+    {
+      "id": "m016",
+      "first_name": "Jonas",
+      "last_name": "Pike",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Jonas compared a proposed orchard water rota with the existing allocation notice and marked the difference between a local suggestion and an adopted rule. At the public review, growers discussed the actual proposal rather than treating its green heading as the Wizard's final order."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Jonas reorganized his channel inspection notebook by familiar orchard landmarks and added a separate space for matters awaiting a decision. His relief caretaker located the recorded observations during a handover without mistaking an unconfirmed concern for a completed maintenance job."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Jonas ran a short question session for new orchard plot users about where to find the current shared water schedule and whom to contact about conflicts. Participants identified their listed turns, while he referred a disputed allocation instead of making a private exception."
+        }
+      ]
+    },
+    {
+      "id": "m018",
+      "first_name": "Elias",
+      "last_name": "Moss",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Elias separated the housing cooperative's confirmed civic grant from a pending request in the budget he presented to South Meadow residents. Members approved an affordable common-room purchase using the confirmed amount, while the Wizard's Office had not answered the second request."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Elias replaced an unexplained total for shared supplies with a plain summary linking each category to its receipts, leaving private household accounts out. Residents could trace the proposed stationery purchase during the meeting, and the cooperative adopted the summary for its next accounts discussion."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Elias showed a new volunteer how to record community-room contributions using a fictional practice ledger before handing over the real receipt book privately. The volunteer completed the next collection record and reconciled its total, without presenting neighbors' individual payments to the whole room."
+        }
+      ]
+    },
+    {
+      "id": "m019",
+      "first_name": "Beatrice",
+      "last_name": "Kettle",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Small-business wins",
+          "seed": "Beatrice offered a short canteen lunch menu built around produce already available from her suppliers instead of advertising dishes dependent on uncertain deliveries. Customers bought the listed lunches, and the kitchen finished service without needing to cross out half the menu."
+        },
+        {
+          "slot": 2,
+          "theme": "Fashion and local identity",
+          "seed": "Beatrice gathered memories of ordinary Munchkin market lunches and paired her existing canteen dishes with small cards explaining the local names. Diners compared the names used in their own villages, while she kept the ingredient information separate from the affectionate folklore."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Beatrice wrote down the sequence and quantities for an ordinary dish a relief cook already knew how to prepare, then observed a trial service. The cook reproduced the usual batch without calling her away from purchasing; a second seasonal dish remained undocumented."
+        }
+      ]
+    },
+    {
+      "id": "m020",
+      "first_name": "Felix",
+      "last_name": "Rowe",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Felix compared the Wizard's announcement of extended public-counter hours with the actual opening notice and asked the local office about the difference. His radio item gave listeners the confirmed hours and kept the proposed extension distinct; the office later clarified its announcement."
+        },
+        {
+          "slot": 2,
+          "theme": "Arts",
+          "seed": "Felix recorded a short local sound portrait using consenting adult traders' calls and ordinary market ambience, keeping intelligible private conversations out. The community station aired the finished piece, and listeners recognized the market through its everyday sounds rather than a ceremonial introduction."
+        },
+        {
+          "slot": 3,
+          "theme": "Small-business wins",
+          "seed": "Felix produced a brief interview about a trader's completed packaging change and checked the business description with the speaker before broadcast. The finished segment explained the practical choice without turning it into a paid advertisement or claiming that the broadcast increased sales."
+        }
+      ]
+    },
+    {
+      "id": "m021",
+      "first_name": "Iris",
+      "last_name": "Marsh",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Iris separated requested visits from confirmed assignments in her scheduling view and tested the change with a colleague using dummy entries. The colleague correctly identified the unstaffed slots, and Iris used the distinction in the next private handover without exposing household information."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Iris asked a civic service desk to correct a public leaflet that implied every home-help request received an immediate appointment. The replacement explained the confirmation step, and staff could give applicants consistent information while the actual availability of visits remained limited."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Iris arranged agreed callback windows for helpers whose paid shifts made repeated daytime calls difficult, recording only the availability needed for scheduling. She completed the next week's confirmations during those windows and left an unmatched request visibly pending rather than promising a visit."
+        }
+      ]
+    },
+    {
+      "id": "m022",
+      "first_name": "Daniel",
+      "last_name": "Cress",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Small-business wins",
+          "seed": "Daniel offered potters a modest shared collection window for separately labeled clay orders instead of holding stock for an uncertain bulk purchase. The participating customers collected their agreed quantities, and he kept enough cash uncommitted for his next ordinary supplier payment."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Daniel paired his clay stock list with removable batch cards that stayed with reserved orders until collection. During the next busy opening he distinguished reserved material from available stock without unpacking every order, though a late customer's reservation still required a decision."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Daniel supplied clearly identified small clay samples for an adult ceramics class exploring surface marks, using material already allocated for demonstrations. The class completed a set of practice textures, and its instructor could connect each sample to the relevant batch description."
+        }
+      ]
+    },
+    {
+      "id": "m023",
+      "first_name": "Hannah",
+      "last_name": "Bellamy",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Small-business wins",
+          "seed": "Hannah grouped consenting customers' nonurgent parcel collections into a regular Timber Verge round rather than offering a separate trip for every request. She completed the agreed round within her working day, and the customers received clear collection windows without a promise of instant delivery."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Hannah submitted examples of delivery instructions that conflicted with a posted brick-road closure, omitting customer identities and parcel contents. The local works office clarified the approved public route on its notice, and she could plan the next round without relying on rumor."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Hannah delivered a bundle of borrowed reading-room books for neighbors during an already agreed community errand round and recorded the handover with staff. The books reached the return desk before closing, while she declined to add an unconfirmed extra trip that evening."
+        }
+      ]
+    },
+    {
+      "id": "m024",
+      "first_name": "Victor",
+      "last_name": "Sedge",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Victor matched a Wizard's Office roadwork announcement to his crew's confirmed schedule and requested a correction where the ceremonial reopening date came too early. The office published the actual access dates, allowing market organizers to plan without treating the ceremony as a maintenance deadline."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Victor introduced a handover sheet separating completed tasks, work still underway and questions awaiting an office decision. During a shift change, the incoming crew identified the remaining assigned work from the sheet without treating a penciled proposal as an instruction to begin."
+        },
+        {
+          "slot": 3,
+          "theme": "Fashion and local identity",
+          "seed": "Victor arranged a small ground-level display of retired yellow road bricks beside approved modern paving samples at a public information session. Residents could compare their appearance and ask about preserving local character, while he kept the display separate from any engineering approval."
+        }
+      ]
+    },
+    {
+      "id": "m026",
+      "first_name": "Amir",
+      "last_name": "Brook",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Mutual help",
+          "seed": "Amir guided a reading-room visitor through finding their own saved document, asking them to operate the tablet rather than taking it from them. The visitor reopened the file and repeated the navigation unaided, without Amir reading or retaining its private contents."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Amir made a reusable troubleshooting card for the repair counter that separated what a customer saw from what staff had actually reproduced. On the next intermittent fault, the card preserved the useful observations and left the cause unresolved instead of implying a completed repair."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Amir helped adult exhibition volunteers arrange their own photographs into a simple offline slideshow on an existing reading-room tablet. They tested the sequence successfully before the local display opened, and he left them a brief navigation note rather than becoming the permanent operator."
+        }
+      ]
+    },
+    {
+      "id": "m027",
+      "first_name": "Lydia",
+      "last_name": "Hart",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Lydia compared a small pear-picking tally with the empty baskets available for the next shift and made a simple planning sheet. Her supervisor used the sheet to request the remaining baskets before work began, rather than treating her first estimate as exact."
+        },
+        {
+          "slot": 2,
+          "theme": "Fashion and local identity",
+          "seed": "Lydia added a removable blue fabric marker to her own ordinary work bag after comparing the similar bags left in the orchard break room. She found it immediately at shift's end, and coworkers adapted the idea with their preferred colors rather than buying matching equipment."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Lydia showed a newer adult apprentice the harvest tally method she had recently learned, using spare counters before they recorded actual work. The apprentice completed a practice total and then checked a real tally with her, while unfamiliar orchard tasks stayed with their supervisor."
+        }
+      ]
+    },
+    {
+      "id": "m028",
+      "first_name": "Owen",
+      "last_name": "Flint",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Owen summarized repeated standing-water observations for the local works office, separating where water was seen from his unconfirmed explanation. The office acknowledged the report and added the location to its inspection list; he did not describe that acknowledgment as a completed repair."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Owen tested a field-note template with spaces for location, observation and unanswered question, using familiar Reed Flats landmarks alongside official labels. A colleague located the recorded inspection points from the notes, and the office could distinguish the observed conditions from possible causes."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Owen helped residents turn vague reports about a wet lane into location descriptions the village desk could use, without asking anyone to inspect drains themselves. The desk accepted the grouped reports and linked duplicates, while the source of the recurring water remained undetermined."
+        }
+      ]
+    },
+    {
+      "id": "m029",
+      "first_name": "Celia",
+      "last_name": "Dove",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Mutual help",
+          "seed": "Celia paired willing new allotment holders with experienced gardeners for a single orientation visit rather than assigning indefinite mentoring duties. The newcomers found their plots and shared facilities, and both sides knew the introduction was complete without creating an unspoken continuing obligation."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Celia displayed the actual plot-allocation rules beside a plain account of how the waiting list worked, keeping applicant names private. At an Eastfield meeting residents could distinguish the council's requirements from local preferences, although they did not agree on a proposed priority change."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Celia organized an adult gardeners' sketch session using harvested vegetables as subjects and the ordinary allotment table as a workspace. Participants completed small drawings that later decorated the shared noticeboard, including contributions from gardeners who had declined to give a growing demonstration."
+        }
+      ]
+    },
+    {
+      "id": "m031",
+      "first_name": "Tessa",
+      "last_name": "Finch",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Arts",
+          "seed": "Tessa divided a village play's rehearsals by scene so adult performers could attend around retail and farm shifts. The cast completed a run-through with the necessary scene partners present, while she kept an optional extra rehearsal separate from the agreed commitment."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Tessa replaced a cumbersome scene-change plan with numbered baskets for small hand props and a written return order. Volunteers completed the changes during rehearsal without hunting through one mixed box, and a new helper ran the final sequence without Tessa standing beside them."
+        },
+        {
+          "slot": 3,
+          "theme": "Fashion and local identity",
+          "seed": "Tessa coordinated borrowed blue scarves and everyday jackets for a local production instead of requesting newly made matching costumes. The adult cast completed its dress rehearsal with the intended village look, and each borrowed item had an agreed owner and return arrangement."
+        }
+      ]
+    },
+    {
+      "id": "m032",
+      "first_name": "Caleb",
+      "last_name": "Alder",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Caleb asked the civic directory desk to distinguish the clinic's reception opening time from its appointment hours. The corrected public listing stopped implying that an open door guaranteed an appointment, and his counter notice matched it without disclosing anything about individual visitors."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Caleb tested a revised blank booking slip with larger spacing between the appointment day, arrival time and reception contact instructions. Colleagues interpreting dummy examples identified the intended time consistently, and the clinic adopted the administrative layout without changing any clinical wording."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Caleb kept a delayed reception queue informed with general status updates and offered private conversations for individual booking questions. Visitors could choose whether to wait or discuss another arrangement, while nobody's appointment reason was announced and the finishing time remained uncertain."
+        }
+      ]
+    },
+    {
+      "id": "m033",
+      "first_name": "Nadia",
+      "last_name": "Stone",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Nadia presented a preliminary path survey with measured sections shaded differently from stretches not yet checked. A public-works meeting used the drawing to choose where further information was needed, rather than treating the Wizard's printed heading as proof that the entire route was assessed."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Nadia added a small landmark sketch beside each entry in a public-space measurement notebook and asked a colleague to retrace the sequence. The colleague found the intended points without clarification, making the record easier to reuse while its measurement limitations stayed explicit."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Nadia measured the usable tabletop lengths for a South Copse community drawing display and translated them into a simple paper layout. Organizers arranged the submitted work within the available space before opening, without treating her layout as a structural assessment of the room."
+        }
+      ]
+    },
+    {
+      "id": "m034",
+      "first_name": "Peter",
+      "last_name": "Ash",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Small-business wins",
+          "seed": "Peter offered clearly priced smaller bags of pears alongside his usual larger portions after customers asked for purchases they could carry home easily. The smaller bags sold during the next market, and his end-of-day tally distinguished those sales from fruit taken for household use."
+        },
+        {
+          "slot": 2,
+          "theme": "Fashion and local identity",
+          "seed": "Peter replaced generic green market cards with readable blue cards naming the local growing areas represented on his stall. Customers asked about the different orchards, and he could answer from his delivery records without pretending that color alone guaranteed quality or origin."
+        },
+        {
+          "slot": 3,
+          "theme": "Innovation in Oz",
+          "seed": "Peter tried a small tally card with separate marks for sales, samples and damaged fruit during a plum market. At closing he reconciled the remaining stock with those categories, although the trial was too short to establish whether his overall losses had changed."
+        }
+      ]
+    },
+    {
+      "id": "m035",
+      "first_name": "Esther",
+      "last_name": "Lane",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Mutual help",
+          "seed": "Esther asked evening learners which seating arrangement let them join discussions comfortably and prepared the classroom accordingly before the next session. Participants used the requested spaces without having to negotiate chairs on arrival, and she retained an easy way to request later changes."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Esther made a room-reset card showing the agreed positions of ordinary classroom supplies and divided closing duties with the tutors. After the next evening session, the room was ready for its morning users without her repeating the entire cleanup after everyone left."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Esther arranged a temporary display area for adult learners' drawings using existing tabletop holders and asked contributors how they wanted their work credited. The display opened during normal classroom hours, including unsigned pieces, and all contributions were returned at the agreed collection session."
+        }
+      ]
+    },
+    {
+      "id": "m036",
+      "first_name": "Quentin",
+      "last_name": "Birch",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Quentin tested parcel shelf markers that combined a large letter with a plain location word rather than relying on color alone. A temporary depot worker found the assigned collection shelf on the first attempt, while customer names remained off the public-facing markers."
+        },
+        {
+          "slot": 2,
+          "theme": "Small-business wins",
+          "seed": "Quentin agreed a quieter collection window with a local trader who regularly arrived during the depot's busiest queue. The trader collected a prepared order within that window, and Quentin completed the handover without interrupting the main counter's existing line of customers."
+        },
+        {
+          "slot": 3,
+          "theme": "Government and the Wizard",
+          "seed": "Quentin compared a proposed civic parcel notice with the depot's actual collection requirements and flagged a decorative seal described as mandatory. The issuing office removed that wording before distribution, while a separate question about collections by representatives remained with the policy staff."
+        }
+      ]
+    },
+    {
+      "id": "m037",
+      "first_name": "Rosa",
+      "last_name": "Clay",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Arts",
+          "seed": "Rosa shortened an adult ceramics course to a small set of decorative tiles so participants could finish within the studio's available schedule. The group completed a shared display of individually chosen marks, and the more ambitious vessel project remained an option rather than a promised result."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Rosa arranged practice examples by the stage of work they illustrated rather than by how polished they looked. During class, adult learners selected the relevant example themselves and resumed their own pieces, giving her more time for questions that actually required individual attention."
+        },
+        {
+          "slot": 3,
+          "theme": "Fashion and local identity",
+          "seed": "Rosa invited adult learners to develop blue decorative motifs from ordinary Clay Hollow doorways, fabrics and market signs rather than copy a single official emblem. Their finished sample display showed distinct local references, including a participant's choice to leave part of a tile uncolored."
+        }
+      ]
+    },
+    {
+      "id": "m039",
+      "first_name": "Daphne",
+      "last_name": "Lark",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Small-business wins",
+          "seed": "Daphne compared vegetable offers with kitchen staff's preparation estimates before placing a routine school-meal order. She chose a modestly priced option the cooks could use within their working time, and the delivered order matched the agreed quantities without requiring an extra preparation shift."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Daphne asked the local purchasing office whether a Wizard-branded supplier list was compulsory or simply a directory. Its written clarification allowed her to compare an eligible nearby seller on the same terms, and she completed the comparison without claiming an exemption from procurement rules."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Daphne gathered cooks' preferences for ordinary ingredient substitutions into a short purchasing reference, distinguishing acceptable alternatives from items requiring another conversation. During a disrupted delivery she placed an agreed replacement order, while leaving an unapproved substitute out rather than making the cooks absorb it."
+        }
+      ]
+    },
+    {
+      "id": "m040",
+      "first_name": "Simon",
+      "last_name": "Fern",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Simon introduced separate collection tickets for returned vegetable crates and crates ready to leave, while retaining the established cleaning routine. At the next handover, stallholders could identify their ready allocation without moving containers between work areas or asking him to interrupt a wash."
+        },
+        {
+          "slot": 2,
+          "theme": "Small-business wins",
+          "seed": "Simon agreed a regular return window with market herb sellers whose late arrivals had complicated his finishing time. They brought their empty containers during the window on the next market day, and he completed the booked cleaning work within the shift he had quoted."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Simon prepared a simple count sheet for a relief worker covering his collection desk, with unresolved discrepancies kept separate from confirmed returns. The worker completed the afternoon handover and passed on one missing-container query without blaming a stallholder or quietly changing the count."
+        }
+      ]
+    },
+    {
+      "id": "m041",
+      "first_name": "Elena",
+      "last_name": "Cross",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Elena added a revision date and a check against the master timetable to her bus-board update routine. She replaced the relevant Brickway Junction notices during a scheduled change, and a colleague verified that the boards agreed without relying on the familiar layout."
+        },
+        {
+          "slot": 2,
+          "theme": "Mutual help",
+          "seed": "Elena coordinated an available relief driver after a disruption by confirming the assignment and handover point before updating waiting staff. The relief driver took the agreed service, while Elena kept a later unresolved gap visible instead of implying that every departure was covered."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Elena checked the final bus departures against the advertised finish of an adult community performance and supplied the organizers with confirmed travel information. They adjusted their audience notice before opening, so attendees could compare the actual options rather than assume a special late service existed."
+        }
+      ]
+    },
+    {
+      "id": "m042",
+      "first_name": "Arthur",
+      "last_name": "Keene",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Arthur used a spare cabinet sample to learn an unfamiliar drawer fitting before tackling a small agreed furniture repair. The repaired drawer opened and closed during the owner's check, and he kept the sample for practice rather than presenting himself as newly certified."
+        },
+        {
+          "slot": 2,
+          "theme": "Arts",
+          "seed": "Arthur turned small wood offcuts into tabletop label blocks for a South Meadow craft display, working within the organizers' existing layout. The labels remained readable beside the exhibits throughout the open afternoon, and the blocks were collected for reuse rather than discarded with the cards."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Arthur sorted a neighbors' volunteer repair list into small furniture jobs he accepted and requests he referred beyond his remit. He completed a loose drawer-handle job and returned the updated list, leaving a building-related request explicitly pending with the appropriate service."
+        }
+      ]
+    },
+    {
+      "id": "m043",
+      "first_name": "Priya",
+      "last_name": "Dell",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Priya divided her bird notebook into seen, heard and uncertain observations and tested the layout during a familiar South Copse survey. She submitted a usable record of common birds with the uncertain entry clearly marked, rather than dropping the whole outing or inventing certainty."
+        },
+        {
+          "slot": 2,
+          "theme": "Small-business wins",
+          "seed": "Priya grouped the shop's common produce codes beside the till in the order she actually needed them, with her supervisor's agreement. During a busy shift she completed the usual entries without searching several separate sheets, while unfamiliar items still went through the normal check."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Priya contributed small drawings of familiar birds to a neighborhood nature display, labeling them as her illustrations rather than identification evidence. Visitors used the drawings to discuss ordinary woodland sightings, and she kept an uncertain field observation out of the display's factual captions."
+        }
+      ]
+    },
+    {
+      "id": "m044",
+      "first_name": "Henry",
+      "last_name": "Dale",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Mutual help",
+          "seed": "Henry welcomed new adult compost volunteers with a short walk through the established sorting signs and invited questions before assigning routine duties. They completed the agreed session and asked about an unfamiliar item, which he set aside for checking rather than treating the question as carelessness."
+        },
+        {
+          "slot": 2,
+          "theme": "Government and the Wizard",
+          "seed": "Henry assembled the dates and public reference numbers for missed grounds-service collections affecting the community compost area. The local office confirmed a revised collection appointment and the material was collected, although it offered no guarantee that the wider schedule would remain unchanged."
+        },
+        {
+          "slot": 3,
+          "theme": "Innovation in Oz",
+          "seed": "Henry separated daily volunteer checks from occasional caretaker jobs on the compost rota before a busy stretch of paid grounds work. His cover volunteer completed the listed daily tasks and handed back a clear record, without assuming responsibility for jobs outside the agreed cover."
+        }
+      ]
+    },
+    {
+      "id": "m045",
+      "first_name": "Mara",
+      "last_name": "Wells",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Innovation in Oz",
+          "seed": "Mara separated returned equipment awaiting the established check from stock recorded as available in her loan ledger. At the next desk handover, a colleague accurately described availability without promising an unchecked item, and no borrower details appeared on the public stock notice."
+        },
+        {
+          "slot": 2,
+          "theme": "Mutual help",
+          "seed": "Mara coordinated an ordinary loan-extension request through the service's existing process and confirmed the revised return arrangement privately. The borrower received a clear answer without repeating personal circumstances at the counter, while Mara left another unconfirmed request pending rather than linking the two households."
+        },
+        {
+          "slot": 3,
+          "theme": "Government and the Wizard",
+          "seed": "Mara asked the civic information desk to remove an outdated statement that equipment could always be collected immediately from North Orchard. The corrected notice directed people to check availability first, and her counter staff could explain the same process without offering clinical advice."
+        }
+      ]
+    },
+    {
+      "id": "m046",
+      "first_name": "Noel",
+      "last_name": "Banks",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Government and the Wizard",
+          "seed": "Noel supplied his local rainfall log to a public-works consultation with missing readings visibly marked instead of filled by guesswork. The office included the log as a limited observation record, while leaving the cause of lane flooding to its separate investigation."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Noel tested a pocket tally card that let him transfer rain-gauge observations to his notebook after farm shifts without relying on memory. The week's entries retained their observation times and one explicit gap, making the record usable without pretending it was continuous."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Noel arranged a clearly bounded observation handover with another willing adult during a busy farm period, explaining the existing record format rather than asking for conclusions. The volunteer returned completed entries for the agreed days, and Noel credited those observations separately from his own."
+        }
+      ]
+    },
+    {
+      "id": "m048",
+      "first_name": "Julian",
+      "last_name": "Park",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Fashion and local identity",
+          "seed": "Julian made interchangeable blue lettering panels for a Clay Hollow stallholder who wanted a local look without replacing the whole sign. The trader used the panels at the next market and changed the product wording afterward, retaining the original display frame."
+        },
+        {
+          "slot": 2,
+          "theme": "Small-business wins",
+          "seed": "Julian recorded the finishing time on a small tabletop sign order and included that work explicitly in his next quotation. The customer accepted the stated scope, and he delivered the finished signs for the agreed price without adding unpaid decorative flourishes."
+        },
+        {
+          "slot": 3,
+          "theme": "Arts",
+          "seed": "Julian arranged reusable title cards for an adult ceramics exhibition, checking their readability beside actual pieces before producing the set. Visitors could match each title to its object during the opening, while an oversized piece remained outside the planned display rather than being squeezed in."
+        }
+      ]
+    },
+    {
+      "id": "m049",
+      "first_name": "Florence",
+      "last_name": "Gray",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Arts",
+          "seed": "Florence chose a short locally written story for the Bell Market reading group and offered silent reading before discussion rather than assigning preparation. New participants joined the conversation using passages everyone had just seen, while disagreement about the ending remained part of the evening."
+        },
+        {
+          "slot": 2,
+          "theme": "Small-business wins",
+          "seed": "Florence tested a modest grocery order list for customers seeking ordinary pantry items she could not keep continuously on the shelves. She placed only confirmed requests with her supplier, and customers collected the delivered items without her tying up cash in a speculative full range."
+        },
+        {
+          "slot": 3,
+          "theme": "Government and the Wizard",
+          "seed": "Florence hosted a reading-group comparison of a Wizard's Office public notice and the longer explanation available beside it, marking statements actually present in each. Participants identified a missing practical detail and submitted a shared question, without claiming their discussion had changed the policy."
+        }
+      ]
+    },
+    {
+      "id": "m050",
+      "first_name": "Bennett",
+      "last_name": "Cole",
+      "experiences": [
+        {
+          "slot": 1,
+          "theme": "Fashion and local identity",
+          "seed": "Bennett sorted the festival's faded blue bunting by usable length and offered organizers a deliberate mix of shades rather than pretending every piece still matched. They used the selected decorations at a Bell Market gathering, keeping the familiar local color without ordering a complete replacement."
+        },
+        {
+          "slot": 2,
+          "theme": "Innovation in Oz",
+          "seed": "Bennett attached a contents card to each box of nonpowered table decorations and recorded loans by box as well as individual item. After a community gathering, the returning volunteers reconciled their borrowed set at the store without unpacking every unrelated shelf."
+        },
+        {
+          "slot": 3,
+          "theme": "Mutual help",
+          "seed": "Bennett negotiated separate collection and return windows when two community groups requested the same reusable tablecloths on different days. Both groups completed their gatherings with the agreed loan, and he kept a later overlapping request unconfirmed instead of promising the cloths twice."
+        }
+      ]
+    }
+  ]
+}

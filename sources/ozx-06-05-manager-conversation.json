@@ -1,0 +1,29 @@
+{
+  "id": "ozx-06-05-manager-conversation",
+  "title": "Notes: Local motifs and exhibition labeling",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m037",
+    "m048"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Rosa Clay this morning about the recent workshop. She explained that she moved away from the standard decorative tile curriculum to focus specifically on developing blue motifs derived from local elements—Clay Hollow doorways, market signage, and fabric patterns—rather than having participants replicate a single official emblem. She mentioned that the finished sample display highlighted distinct local references, with one participant notably leaving a section of a tile uncolored to create a specific visual break. She was pleased that the result felt more like a collection of individual observations than a uniform product line."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Followed up with Julian Park regarding the adult ceramics exhibition. He detailed the process of creating reusable title cards for the display. His primary concern was ensuring the text remained readable when placed next to the actual pieces, so he tested several font sizes and spacing options before printing the final set. He noted that during the opening, visitors were able to easily match the titles to their corresponding objects, which seemed to reduce confusion and allow people to focus on the craftsmanship. He also mentioned that one oversized piece was kept outside the main display area because it didn’t fit the planned layout, a decision he felt preserved the overall balance of the room."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Both conversations touched on the value of practical adjustments over rigid adherence to standard formats. Rosa’s shift in curriculum focus and Julian’s emphasis on legibility and spatial fit suggest a shared interest in making the work accessible and contextually appropriate. I will look into whether their approaches could be combined in a future joint workshop, perhaps focusing on the intersection of local visual identity and practical display design."
+    }
+  ],
+  "content_sha256": "0dfb17561567a54f87dfadc7cbbafeca43b5753d5d3a77756a913d4f3d87f571"
+}

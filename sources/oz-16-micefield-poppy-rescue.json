@@ -1,0 +1,28 @@
+{
+  "id": "oz-16-micefield-poppy-rescue",
+  "title": "Special Meeting Minutes: Emergency Evacuation in the South Poppy Meadow",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m003"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Clara Micefield briefed the committee on yesterday's emergency response in the south poppy meadow. A large traveler had collapsed from the heavy flower scent and was unable to wake up."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Within an hour of the distress call, Clara organized thousands of local field mice. Each brought a short length of string to tie together as towlines hitched to a wooden farm wagon."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "As recorded by the field coordinator: \"Thousands of tiny mice came running with bits of string, and when they were hitched to the truck, they pulled the great beast right out of the poppies into clean air.\" The subject recovered fully once out of range."
+    }
+  ],
+  "content_sha256": "d868cc02ba062c6cbeccd2a9414f8dcd9e0f24ab616fd623beb92aeaf8d07c33"
+}

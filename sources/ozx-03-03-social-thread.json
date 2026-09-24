@@ -1,0 +1,34 @@
+{
+  "id": "ozx-03-03-social-thread",
+  "title": "Missed connections and blue awnings",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m007",
+    "m015"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m007",
+      "text": "Anyone else spend the morning untangling a timetable mess? A traveler arrived at the depot just as the 10:15 to Emerald City pulled out without them. They were convinced the next bus would wait, but the schedule says the onward service leaves from the South Platform, not the main bay. I spent ten minutes comparing the remaining services so they could see which one actually fits their connection. They ended up on the 10:42, which is the right one, and I didn't promise them a refund or claim I could change the stops. Just wanted to make sure they weren't standing in the wrong rain."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m015",
+      "text": "The South Platform is a trap. I see people get lost there every week. I was at the depot during my break yesterday and noticed a new display board. It has local fabric samples next to handwritten notes about the blue market-day clothes I've seen on the orchard loop. I didn't write anything about specific passengers, just the colors and styles I noticed from the driver's seat. It’s a nice touch to help travelers understand which village they’re actually in, since the blue shades are pretty different from place to place."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m007",
+      "text": "I saw that board! I thought it looked like a dry-cleaning ad at first. Do people actually use it? The traveler I helped earlier was more interested in the bus than the fabric, but I did point out that the blue awnings in the display matched the stop signs we’ve been painting. It’s a small thing, but it stops people asking which direction is toward the bakery."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m015",
+      "text": "That’s the point. If they can find the bakery, they’ll find the bus. I’m picking up a few more notes this week, just to see if the descriptions match what people in the village actually wear. No grand procession of fashion critics, just a driver with a pen and a window."
+    }
+  ],
+  "content_sha256": "8eba46c68c3253a112a4343bce2a78e96b0dd63469a5ef39c9e3311b0d6c37d6"
+}

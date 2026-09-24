@@ -1,0 +1,103 @@
+{
+  "id": "ozx-01-02-webinar",
+  "title": "Local Power Without the Big Green Seal: A Webinar on Practical Adjustments",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m003",
+    "m008",
+    "m018",
+    "m012",
+    "m042",
+    "m044"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The call opened with the familiar low hum of a line that had been tested too many times. Rowan Bell, the community manager, greeted the group and set the tone for the hour: a discussion on how residents were navigating local services without waiting for official sign-offs. The session focused on six specific instances where individuals made small, distinct changes that improved daily operations."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "I’m seeing everyone’s video feeds. Clara, you’re up first. You mentioned bringing examples to the local office. What was the specific change you requested?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m003",
+      "text": "The community rooms were only accessible during standard office hours. My volunteers worked late. I brought anonymized logs showing the missed evening access to the office administering the Wizard’s community rooms. We didn’t ask for new rules, just a trial. They agreed to a later key collection window. Now, volunteers collect their keys after work instead of asking a staff member to break a shift."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m008",
+      "text": "That sounds efficient. I had a similar friction with the booking forms. I asked a local civic clerk to distinguish between the Wizard’s actual room-booking requirements and optional meeting customs on a public checklist. It turns out a ceremonial introduction was listed as mandatory."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m003",
+      "text": "Mandatory? Really?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m008",
+      "text": "It was. The revised checklist removed it from the required steps. A neighborhood group submitted their booking last week without arranging one. The room was just as available, and no one noticed the absence of the formal greeting."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "So the bureaucracy was a habit, not a rule. Elias, you dealt with a different kind of opacity. Can you walk us through the supply summary?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m018",
+      "text": "We had an unexplained total in our shared supplies account. It was just a number. I replaced it with a plain summary linking each category to its receipts, leaving private household accounts out. During the meeting, residents could trace the proposed stationery purchase line by line. The cooperative adopted this summary format for its next accounts discussion. It’s not magic, just visibility."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m012",
+      "text": "Visibility is key. I tried to apply that to the reading room, but in a quieter way. I arranged a listening-free poetry display. Visitors could read short, locally contributed verses quietly and leave an optional response. No microphone, no audience, just paper and time."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "m042",
+      "text": "Did it work? People can be shy about public displays."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m012",
+      "text": "It worked well. Readers used it during the normal evening opening. The response cards included requests for another selection, but they explicitly noted they didn’t require a public performance. The quiet format actually encouraged more engagement than the previous spoken-word nights."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "m044",
+      "text": "I appreciate the shift away from spectacle. I was dealing with missed grounds-service collections affecting the community compost area. I assembled the dates and public reference numbers for the missed pickups. The local office confirmed a revised collection appointment, and the material was collected. However, they offered no guarantee that the wider schedule would remain unchanged. It’s a fix for this week, not a promise for the year."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "That’s an honest assessment. Arthur, you’re the last one. You turned wood offcuts into label blocks. How did that fit into the craft display?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "m042",
+      "text": "The South Meadow craft display had a layout, but the labels were flimsy. I turned small wood offcuts into tabletop label blocks, working within the organizers' existing layout. The labels remained readable beside the exhibits throughout the open afternoon. At the end, the blocks were collected for reuse rather than discarded with the paper cards. It’s a small thing, but it saved material and looked better."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "m008",
+      "text": "It sounds like a lot of these changes involved removing unnecessary steps or adding clarity, rather than adding new power."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "m018",
+      "text": "Yes. We didn’t take power from the Wizard’s Office. We just made sure the tools we already had were actually visible and usable. The green seal is still there, but we didn’t need it to fix the key window or the label blocks."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "That’s a good summary. The session ends here. I’ll compile the notes and send them out. Thank you all for sharing specific, grounded examples."
+    }
+  ],
+  "content_sha256": "3c0c2eb5e536f33d2120ebac19af2a880b5c060175300f56ad964aed574a7fb0"
+}

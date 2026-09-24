@@ -1,0 +1,34 @@
+{
+  "id": "oz-07-style-social",
+  "title": "Blue in the Green City",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m038",
+    "m017"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m038",
+      "text": "You can wear Munchkin blue in the Emerald City. I just finished letting out the side seams of a neighbor's indigo jacket, using the seam allowance already there. We kept the blue and changed the worn buttons. She wanted her own jacket to fit, not a new green personality.\n\nIf you're trying colors through tinted spectacles, take a look without them too before buying a matching ribbon. The glasses don't have to choose your outfit. — Isaac"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m017",
+      "text": "And you can take boots you already like. I replaced the worn heels on a regular customer's brown pair this week. She tried them at the bench before leaving and said they felt familiar again. No need to break in new boots just to look like a visitor with a plan. — Ruth"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m038",
+      "text": "A visitor with a plan is usually the one checking the hem before leaving home. I shortened a different coat this morning because its owner kept stepping on the edge when climbing bus steps. We pinned it at a length she could move in before I stitched. She chose where it sat; I didn't consult the city's color scheme."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m017",
+      "text": "Excellent. Blue coat, familiar boots, and enough time to catch the bus. I can't promise any of those will make the fare cheaper."
+    }
+  ],
+  "content_sha256": "6f7f634a14ff63f89ac9132ebee3b923faa25230521e3937a5d8e660c50e2779"
+}

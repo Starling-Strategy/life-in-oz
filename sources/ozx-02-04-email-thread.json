@@ -1,0 +1,29 @@
+{
+  "id": "ozx-02-04-email-thread",
+  "title": "Display holders and the trader's new boxes",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m035",
+    "m020"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m035",
+      "text": "Hi Felix,\n\nQuick update on the drawing display. I set it up in the back corner of the classroom using the same tabletop holders we keep by the water cooler. I didn't want to mount anything on the wall, so these are movable. I asked each contributor how they wanted their name to appear, or if they preferred to be unsigned. A few chose not to put their names down, which was fine.\n\nThe display opened during normal evening hours, so people could walk by and look at the pieces while they were settling in. I made a note to keep the unsigned pieces with the rest, not segregate them. Everything is coming back at the agreed collection session next week. I'll make sure the holders are back on the shelf and the pieces are boxed up.\n\nIt’s a small thing, but I like that the space feels like theirs for a week. Let me know what you’re working on.\n\nBest,\nEsther"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m020",
+      "text": "Hey Esther,\n\nGlad the display is going well. The tabletop holders are a good choice; keeps it low-pressure.\n\nI just wrapped up a segment for the radio. I interviewed a trader in Bell Market about a change they made to their packaging. They switched to a different box shape, not for looks, but because it fits better on the shelf and stacks more securely during transport. They weren't trying to launch a marketing campaign; they just wanted to reduce damage and save a little on shipping. \n\nI checked the business description with them before we aired it. I made sure the segment explained the practical reason without turning it into a paid ad. I didn't claim the broadcast increased their sales, because I have no idea if it did, and I don't want to imply it. The listener just gets to hear a local business making a sensible tweak. It’s a short clip, maybe two minutes. \n\nI’m curious if your display gets much foot traffic. I imagine people stop to look more than they do to critique.\n\nCheers,\nFelix"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m035",
+      "text": "Felix,\n\nThat sounds like a solid piece. I agree on the sales point. It’s hard to measure, and you shouldn't have to promise results you can't verify. The practical reason is the story there.\n\nAs for the display, you’re right. People stop to look. I’ve seen a few learners who usually stay in the back corner actually walk over and look at the unsigned pieces. It’s not a gallery opening, just a moment of pause. I think the fact that it’s temporary helps; people don’t feel like they have to judge it, just see it. \n\nI’ll keep the collection session on track. Thanks for asking.\n\nEsther"
+    }
+  ],
+  "content_sha256": "c33c76a8e60b5704bdf382c53ec0e6d2e2479d183b55deb1e2848da487851675"
+}

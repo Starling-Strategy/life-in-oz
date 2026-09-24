@@ -1,0 +1,39 @@
+{
+  "id": "ozx-05-03-social-thread",
+  "title": "Kitchen tools and visiting rotas: a shared thread on making services work",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m009",
+    "m010"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m009",
+      "text": "I was walking a temporary colleague through the nonclinical parts of my visiting rota yesterday. It’s easy to assume the hard part is the clinical side, but the real friction is often the logistics: knowing exactly when the reception desk is staffed, where we keep the blank administrative forms, and which households are currently on the pause list. She handled the office handover well, but we still have a remote stop that needs scheduling next week. It’s a small thing, but seeing her navigate the paperwork without getting lost helped."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m010",
+      "text": "Nora, that sounds like a solid handover. I did something similar this week, though my 'forms' were slightly different. The adult theater group from Meadowbank needed clean, unused kitchen utensils for a comic sound-effects rehearsal. They wanted to hear how different sized tongs and ladles clatter against the prep table. I lent them a set and kept a simple return list just to be safe. They found the sounds they wanted, and I got the complete set back before my next kitchen shift. No missing spoons, which is a victory in itself."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m009",
+      "text": "A return list for sound effects? I like that. It’s surprising how many times people forget that we have extra things stored in the back room that could help others without much effort. I’ve been thinking about whether we could share a list of 'available for temporary use' items with the community kitchen. It might make it easier for groups like that theater company to ask without feeling like they’re imposing."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m010",
+      "text": "That would be great. The only thing I’d add is that we need to be clear about what 'clean' means. For my kitchen, that means sanitized and dry. For a theater rehearsal, it might just mean no grease on the handle. If we set a simple standard, it saves time. I can write up a one-line description of what I consider ready to lend. It’s a tiny bit of admin, but it prevents the awkward 'is that still in the dishwasher?' conversation."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m009",
+      "text": "Fair point. I can model it after the reception contact windows I gave my colleague. If we know the conditions, the process is smoother for everyone. I’ll draft a short note for the next association meeting. It’s not a grand system, just a way to make sure the help we offer is actually usable."
+    }
+  ],
+  "content_sha256": "3e53adc5e56f28a6014ecc332146772dee9fde835f22cd27836d94cea57504b9"
+}

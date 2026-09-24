@@ -1,0 +1,83 @@
+{
+  "id": "ozx-04-02-conversation-transcript",
+  "title": "Notes from the Orchard Break Room: Second Passes",
+  "format": "conversation_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m004",
+    "m016",
+    "m027",
+    "m029",
+    "m034",
+    "m040"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "We gathered for the second round of these discussions, focusing on small adjustments that stuck. The room smelled of wet wool and apple blossom. Ada, you’re up first. I recall your display work; what’s different this time?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m004",
+      "text": "The register. I used to treat every packet handout as a loan that would eventually bounce back. It didn’t. Some seeds stayed in gardens, some in drawers. I split the ledger into two columns: 'Taken' and 'Returned.' It sounds simple, but when I reconciled the stock at the last opening, I wasn’t guessing whether a missing packet was on a table or in a satchel. I knew where the gaps were. It’s less about the seeds and more about the space between the action and the record."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m016",
+      "text": "That sounds like a relief for the head count. I have a similar mess in my notebooks. I used to list inspections by date. It was a wall of numbers. I reorganized them by landmarks—the twisted pear tree, the old mill gate. And I added a third column: 'Awaiting Decision.' My relief caretaker, who isn’t used to my shorthand, could find the note about the leak near the mill gate without thinking it was already fixed. It’s a small thing, but it stops the panic of 'did I already patch this?'"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m029",
+      "text": "A landmark is a good anchor. I’m dealing with rules, which are harder to anchor. I’ve been posting the plot-allocation rules at the Eastfield shed, but I put them next to a plain explanation of the waiting list. Names are kept private, of course. I just wanted people to see where the council’s requirements end and our local preferences begin. At the last meeting, people argued about a proposed priority change for new residents. They were angry, but they knew exactly which rule they were objecting to. It’s a start."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m034",
+      "text": "Angry but informed is better than confused. I’ve been looking at my stall cards. I had generic green cards, which is fine for the city, but in the Blue Orchard, everyone knows the difference between the river plots and the hillside ones. I switched to blue cards that name the specific growing areas. Customers started asking questions. 'Which orchard is this from?' I could answer from my delivery records. I didn’t have to guess or pretend the color guaranteed the taste. The blue just says, 'Here is where it came from.'"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m027",
+      "text": "I like that. I had a problem with my work bag. It looked like everyone else’s in the break room. Same canvas, same shape. I started losing it, or rather, it was lost by everyone else. I added a removable blue fabric marker. Not a logo, just a patch. I found it immediately at shift’s end. A few coworkers started adding their own patches—red, yellow, whatever. It wasn’t about matching equipment; it was about making the object yours again without buying a new one."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "A marker that keeps your belongings from becoming public property. Simon, you’re with crates, which are famously public property until proven otherwise. What’s your update?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m040",
+      "text": "The herb sellers were late. Always late. It messed up my finishing time because I was waiting for empty containers to wash so I could get them back to the stalls. We agreed on a regular return window now. They bring the empties during that specific hour. Last market day, they stuck to it. I finished the booked cleaning work within the shift I’d quoted. I didn’t have to stay late wondering if the last crate was coming. It’s just a window, but it gave me my evening back."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m016",
+      "text": "Did you have to threaten them?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "m040",
+      "text": "No. I just told them my washing cycle was fixed. They seemed surprised I had a schedule. I think they respect the water more than they respect my time."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m029",
+      "text": "Fixed cycles are hard to negotiate with. I wish the council could agree on a cycle for their rule changes."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "m004",
+      "text": "You can’t put a clock on politics, Celia. But you can put a clock on a seed return. It’s easier when the thing is small and tangible. I still like my two columns. It’s a way of admitting that things don’t always come back the way they were sent out."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "That’s a good note to end on. Acknowledging the gap between intention and outcome. Thank you, all. We’ll keep these notes and see if any of the ideas—like the landmark columns or the blue markers—spread to other workshops."
+    }
+  ],
+  "content_sha256": "5db96d3757787ef8ea91a718e5b21643c368135937a0237cc04a3cadf4193fc0"
+}

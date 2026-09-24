@@ -1,0 +1,15 @@
+{
+  "id": "book-adventures",
+  "synthetic": true,
+  "document_ids": [
+    "oz-13-dorothy-intake-arrival",
+    "oz-14-woodman-trail-clearing",
+    "oz-15-lion-ravine-crossing",
+    "oz-16-micefield-poppy-rescue",
+    "oz-17-strawbridge-river-pole"
+  ],
+  "total_documents": 5,
+  "total_words": 559,
+  "annotation_scope": null,
+  "continuity": "Separate adventure scenario; shared IDs are cast correspondences, not permission to merge biographies with community-life."
+}

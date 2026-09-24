@@ -1,0 +1,153 @@
+{
+  "id": "ozx-02-02-conversation-transcript",
+  "title": "Transcript: Workshop Roundtable on Local Improvisation",
+  "format": "conversation_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m005",
+    "m031",
+    "m035",
+    "m020",
+    "m049",
+    "m050"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone. Thanks for joining on short notice. We’re discussing how the group is handling the logistics of our own spaces and events without waiting for outside help. I’d like to start with the classroom and stage setups, since those are the most visible to our neighbors."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m035",
+      "text": "For the evening classroom, I stopped trying to memorize where every supply goes. I drew a simple card showing the agreed positions for the chalk, the extra desks, and the coat hooks. Then I split the closing duties with the tutors. One person handles the floor, one handles the shelves. After the last session, the room was ready for the morning users without me having to stay behind and redo everything alone."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m031",
+      "text": "That sounds manageable. With the stage, I had a similar issue but with more moving parts. We used to have one big mixed box for hand props during rehearsals. It was a mess. I replaced that with numbered baskets for specific items and wrote out a return order. The volunteers could swap scenes without hunting through the box, and a new helper ran the final sequence last week without me standing beside them."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m005",
+      "text": "I’m curious how you decided the basket numbers. Did you use a standard code, or just sequential labels? I’m dealing with something similar in my literacy sessions, but it’s paper-based."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m031",
+      "text": "Just sequential. One through five. Simple enough that anyone can grab the right one. I found that if the system requires thinking, it breaks down when someone is tired. What are you doing with paper?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m005",
+      "text": "I replaced the long written explanation of receipt totals with movable paper strips. One strip for the purchase, one for the payment, one for the change. My adult learners can rearrange the strips to check a fresh practice receipt. It fits into a short evening session, and they don’t need my demonstration to figure out the next one. They’re pretty sharp once the physical layout is clear."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "That’s a good example of breaking a complex task into physical pieces. Let’s move to the equipment side. Bennett, you were mentioned in relation to the festival storage."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m050",
+      "text": "Right. I attached a contents card to each box of non-powered table decorations. I also started recording loans by box rather than by individual item. After the last community gathering, the volunteers returning the gear reconciled their borrowed set at the store without unpacking every unrelated shelf. It saved us about an hour of counting."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m035",
+      "text": "That’s interesting. I do something similar with the classroom card, but I track individual items. Does your card list everything inside the box, or just the box ID?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "m050",
+      "text": "Just the box ID and the type of contents. If a specific item goes missing, we open that specific box. If the box is intact, we assume the contents are intact. It’s less precise, but it’s faster for the people doing the restocking."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m020",
+      "text": "I’ve been thinking about the 'atmosphere' of these spaces, too. I recorded a short sound portrait of Bell Market using consenting adult traders’ calls and ordinary ambience. I made sure to keep any intelligible private conversations out. The community station aired it, and listeners recognized the market through its everyday sounds rather than a ceremonial introduction. It felt more honest that way."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "m031",
+      "text": "I liked that. It’s like my numbered baskets, but for audio. You’re organizing the sensory experience so it’s clear without being overwhelming. Do you think that applies to the stage sets, too?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m020",
+      "text": "I think it does. If the sound is too busy, it competes with the action. If it’s too silent, it feels empty. There’s a middle ground where the sound supports the scene. I’m trying to get more people to think about what they’re leaving out, not just what they’re putting in."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "m049",
+      "text": "I’m not so interested in the atmosphere as I am in the inventory. I’ve been testing a modest grocery order list for my shop. Customers often ask for ordinary pantry items I can’t keep continuously on the shelves. I started placing only confirmed requests with my supplier. Last week, customers collected the delivered items without me tying up cash in a speculative full range. It’s a small change, but it keeps the shelves looking full without me guessing."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "That’s a practical application of the 'only what’s needed' principle. How do you handle it when a customer wants an item that’s not on the list?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "m049",
+      "text": "I tell them I’ll order it if I have at least two requests for the same thing in a week. It stops the one-off weird requests from clogging up my cash flow. It’s not perfect, but it’s sustainable."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "m005",
+      "text": "I like that. It’s like the paper strips. You’re not forcing the system to handle every possible edge case. You’re just making the common cases easy. What happens when two people want the same item, but one of them is a regular and the other is new?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "m049",
+      "text": "The regular usually knows the process, so I just confirm the order. The new customer might need a bit of explaining. I keep a small sign up by the counter with the rules. It’s not very elegant, but it works."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "m031",
+      "text": "Do you think the sign is enough, or do you need to talk to them? I found that with the stage props, a sign wasn’t enough. People needed to see the basket system in action once."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "m049",
+      "text": "I think it depends on the person. If they’re in a hurry, the sign is enough. If they’re curious, I’ll show them the list. I don’t want to spend all my time explaining the system. I want to spend my time stocking the shelves."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "manager",
+      "text": "It sounds like we’re all moving in the same direction: simplifying the handoff, whether it’s a classroom, a stage, a shop, or a radio station. Is there anything that’s still frustrating you?"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "m050",
+      "text": "The boxes. Some of them are heavy. The contents card helps, but lifting them is still a pain. I’m thinking about asking the storekeeper for a suitable trolley rather than carrying them. But I haven’t done that yet."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "m035",
+      "text": "You could ask what they already use to move the heavier boxes. I used tape to hold my classroom card to the wall, but that only helps with the label, not the lifting."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "m050",
+      "text": "That’s a good idea. I’ll try that. Thanks, Esther."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "manager",
+      "text": "I think we’re done for tonight. The next meeting will be in a week, and I’ll circulate a summary of what we discussed. If you have any updates on your projects, send them to me before then."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "m020",
+      "text": "I’ll send you the final cut of the market sound portrait. I think it’s ready to be archived."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "manager",
+      "text": "Great. See you all next week."
+    }
+  ],
+  "content_sha256": "0af843eb74f2439193729f9b9dd1f6a68d55d05396771453e81a7f3bf3d1580a"
+}

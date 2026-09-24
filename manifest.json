@@ -1,0 +1,921 @@
+{
+  "collection": "Life in Oz",
+  "edition": "1.0.0",
+  "synthetic": true,
+  "creation_method": "AI-assisted fiction with agent editorial review; see docs/method.md for scope and limits.",
+  "real_events_or_recordings": false,
+  "use": "Select one collection from collections/. Use only its sources/*.txt for blind extraction; withhold world/, generation/, evaluation/, source JSON and membership metadata.",
+  "text_representation_note": "Trailing whitespace removed and one terminal newline retained; evidence uses canonical JSON block text.",
+  "documents": [
+    {
+      "id": "oz-01-civic-news",
+      "title": "City Office Answers Tenant Questions Directly, Skipping the Ceremonial Stage",
+      "theme": "Government and the Wizard",
+      "format": "news_article",
+      "text_file": "sources/oz-01-civic-news.txt",
+      "text_sha256": "43fa31cdbe388cee98a80c940c9bb8bdef69e3419c05ee76a3c57f1dd2b00156",
+      "canonical_blocks_file": "sources/oz-01-civic-news.json",
+      "content_sha256": "8ffe7f4f76c4a4e384a89dc3df1acc3ace422c6765a0b6e609735d889e80a515",
+      "words": 522,
+      "member_ids": [
+        "m025",
+        "m030"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-02-civic-social",
+      "title": "The little yellow receipt is more useful than the big green seal",
+      "theme": "Government and the Wizard",
+      "format": "social_thread",
+      "text_file": "sources/oz-02-civic-social.txt",
+      "text_sha256": "85a5b8d131311f84b40bbe132544150b7b70454b8374ad283f88178290f08357",
+      "canonical_blocks_file": "sources/oz-02-civic-social.json",
+      "content_sha256": "43f1b941f56f1b77b9d85c8f4c5d797b868d8d093c711a554856fd8f3a015581",
+      "words": 314,
+      "member_ids": [
+        "m030",
+        "m001"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-03-civic-panel",
+      "title": "Webinar: Does Everything Need a Stamp?",
+      "theme": "Government and the Wizard",
+      "format": "webinar",
+      "text_file": "sources/oz-03-civic-panel.txt",
+      "text_sha256": "026feeb0eb4479be0b80d9662eeba823ee6de1ccec01807733e00b17edc7e8ff",
+      "canonical_blocks_file": "sources/oz-03-civic-panel.json",
+      "content_sha256": "69d7ce2fa8628de640b8480ccb48070718b4f24a58a35793ac286aaa818fb3cf",
+      "words": 764,
+      "member_ids": [
+        "m025",
+        "m030",
+        "m047"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-04-invention-report",
+      "title": "The Cleverest Thing at the Demonstration Did Not Glow",
+      "theme": "Innovation in Oz",
+      "format": "news_article",
+      "text_file": "sources/oz-04-invention-report.txt",
+      "text_sha256": "d050e6b9915bb8bb4f1c8d056f33ead2c49abd4139539e38dfa7d7b479e116bd",
+      "canonical_blocks_file": "sources/oz-04-invention-report.json",
+      "content_sha256": "45ecf207606f64e9b1a9cad82236e80cbecb8720a6084f868a16b9da90b14a86",
+      "words": 433,
+      "member_ids": [
+        "m002",
+        "m047"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-05-invention-email",
+      "title": "Re: The booking board does not need an app",
+      "theme": "Innovation in Oz",
+      "format": "email_thread",
+      "text_file": "sources/oz-05-invention-email.txt",
+      "text_sha256": "c9c9b2d4a8aa11bd1d14caf60dd814892c5ca85e5db3e74d2eecc0ef77c9acb8",
+      "canonical_blocks_file": "sources/oz-05-invention-email.json",
+      "content_sha256": "14dfad8cd897542ad39428286c8a152f08b76ab87002931a7637ff8447d4226f",
+      "words": 367,
+      "member_ids": [
+        "m047",
+        "m038"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-06-maker-conversation",
+      "title": "The baker wanted a gap, not another handle",
+      "theme": "Innovation in Oz",
+      "format": "conversation_transcript",
+      "text_file": "sources/oz-06-maker-conversation.txt",
+      "text_sha256": "6129c547a9210ad6a7f09f5a41789f3a7b1f43b0c038b8f7b4cbc14cc8254394",
+      "canonical_blocks_file": "sources/oz-06-maker-conversation.json",
+      "content_sha256": "f9a769085f13fa50b8ddac0a799e46bfc25e41b69fc80db77c26391c219cc2ed",
+      "words": 312,
+      "member_ids": [
+        "m002",
+        "m014"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-07-style-social",
+      "title": "Blue in the Green City",
+      "theme": "Fashion and local identity",
+      "format": "social_thread",
+      "text_file": "sources/oz-07-style-social.txt",
+      "text_sha256": "0725c35cd44c60afce97d60f9f09597643029c2f2d555edcceae6511ac109882",
+      "canonical_blocks_file": "sources/oz-07-style-social.json",
+      "content_sha256": "6f7f634a14ff63f89ac9132ebee3b923faa25230521e3937a5d8e660c50e2779",
+      "words": 212,
+      "member_ids": [
+        "m038",
+        "m017"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-08-style-feature",
+      "title": "The Geometry of a Good Pocket",
+      "theme": "Fashion and local identity",
+      "format": "magazine_feature",
+      "text_file": "sources/oz-08-style-feature.txt",
+      "text_sha256": "54583dd4e27bfdfb8aa7f280f66e19a29aab70b7fa2c912ae67b21f2c73b6eec",
+      "canonical_blocks_file": "sources/oz-08-style-feature.json",
+      "content_sha256": "447d74ebbf346584c55946dae941231b5978db45c98cd33ec3ca9f9fc9b99223",
+      "words": 336,
+      "member_ids": [
+        "m038",
+        "m025"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-09-style-phone-notes",
+      "title": "Phone Notes: Boots, Borrowed Bags, and Readiness",
+      "theme": "Fashion and local identity",
+      "format": "manager_conversation",
+      "text_file": "sources/oz-09-style-phone-notes.txt",
+      "text_sha256": "dd540ab50c417fe7e3e7d1b0b6b4f488107c062f68cefc593a97231e9ce9068e",
+      "canonical_blocks_file": "sources/oz-09-style-phone-notes.json",
+      "content_sha256": "1758d44111b137518a7d6facee128f2e66cb31b1557a62bf9ddaf5106b859a91",
+      "words": 318,
+      "member_ids": [
+        "m017",
+        "m001"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-10-business-news",
+      "title": "Blue Orchard's Quiet Breakfast Deal: A Baker and a Host Find a Middle Ground",
+      "theme": "Small-business wins",
+      "format": "news_article",
+      "text_file": "sources/oz-10-business-news.txt",
+      "text_sha256": "218b4a6f2fb3f5028d33e3eba476b6dd2e225a47699f4cc0522f011fca02a40b",
+      "canonical_blocks_file": "sources/oz-10-business-news.json",
+      "content_sha256": "df2ddccfa89d9f87a4bfc3ea64db830055ab247110b51e6b4642e1ae392a2507",
+      "words": 460,
+      "member_ids": [
+        "m014",
+        "m001"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-11-business-messages",
+      "title": "Re: Your window card sent someone round",
+      "theme": "Small-business wins",
+      "format": "email_thread",
+      "text_file": "sources/oz-11-business-messages.txt",
+      "text_sha256": "af8b988ce41dfe68ad8343a115a30ed63bfca6a1c0150477b98c25b5a5fc1573",
+      "canonical_blocks_file": "sources/oz-11-business-messages.json",
+      "content_sha256": "e34870d6b27fd681570465aa935d77d14a8bd8ca6ca38fb80173d9d82127598c",
+      "words": 245,
+      "member_ids": [
+        "m014",
+        "m017"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-12-alumni-open-house",
+      "title": "Open House: What Have You Made Easier for Someone Lately?",
+      "theme": "Across Oz: useful work and good company",
+      "format": "webinar",
+      "text_file": "sources/oz-12-alumni-open-house.txt",
+      "text_sha256": "3d3ce7b2693ead65f5656581520cf4b39e8bb74e37a385f169ce9168e6e802ab",
+      "canonical_blocks_file": "sources/oz-12-alumni-open-house.json",
+      "content_sha256": "6870c4528f6df95c73bdceeca572e82409987e49e01736fec85909db68a302e5",
+      "words": 696,
+      "member_ids": [
+        "m001",
+        "m002",
+        "m014",
+        "m017",
+        "m025",
+        "m030",
+        "m038",
+        "m047"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-01-01-news-article",
+      "title": "Local Power Without the Big Green Seal",
+      "theme": "Local power without the big green seal",
+      "format": "news_article",
+      "text_file": "sources/ozx-01-01-news-article.txt",
+      "text_sha256": "915e7ba7d8c0c2d940bd9b3e37c6a4bca7bf48835a88b364d22f58b2dd46f8bc",
+      "canonical_blocks_file": "sources/ozx-01-01-news-article.json",
+      "content_sha256": "8b24cdd903419c0d2f034721420413f3a7eaa335f44b3eaffdf42d71920d6a7e",
+      "words": 632,
+      "member_ids": [
+        "m003",
+        "m008",
+        "m018",
+        "m012",
+        "m042",
+        "m044"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-01-02-webinar",
+      "title": "Local Power Without the Big Green Seal: A Webinar on Practical Adjustments",
+      "theme": "Local power without the big green seal",
+      "format": "webinar",
+      "text_file": "sources/ozx-01-02-webinar.txt",
+      "text_sha256": "b969263945d2f6b04c6ce51cfb6c38233e8008c61fac590a482e14b269c6c5a9",
+      "canonical_blocks_file": "sources/ozx-01-02-webinar.json",
+      "content_sha256": "3c0c2eb5e536f33d2120ebac19af2a880b5c060175300f56ad964aed574a7fb0",
+      "words": 665,
+      "member_ids": [
+        "m003",
+        "m008",
+        "m018",
+        "m012",
+        "m042",
+        "m044"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-01-03-social-thread",
+      "title": "Closing without the green ribbon",
+      "theme": "Local power without the big green seal",
+      "format": "social_thread",
+      "text_file": "sources/ozx-01-03-social-thread.txt",
+      "text_sha256": "dda233e132b5cdd5e5c59d1653e18b26d38b1596755dbe0a953aa8309594c410",
+      "canonical_blocks_file": "sources/ozx-01-03-social-thread.json",
+      "content_sha256": "3e02f98e45d95c811e7faed8daffa92af75ece338550290a012bd64e5390aa87",
+      "words": 304,
+      "member_ids": [
+        "m003",
+        "m008"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-01-04-email-thread",
+      "title": "Keeping the Books and the Quiet Corner",
+      "theme": "Local power without the big green seal",
+      "format": "email_thread",
+      "text_file": "sources/ozx-01-04-email-thread.txt",
+      "text_sha256": "94dc2a7d0ec366711126ba12485c7ff9b1037eb41242f56d6bad9e4af2763529",
+      "canonical_blocks_file": "sources/ozx-01-04-email-thread.json",
+      "content_sha256": "ddcf862e14bf5cdc66d813451f25c8b3dbbf10dc2d6983feedcd3afee823388c",
+      "words": 753,
+      "member_ids": [
+        "m018",
+        "m012"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-01-05-manager-conversation",
+      "title": "Notes on Local Fixes and Cover Schedules",
+      "theme": "Local power without the big green seal",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-01-05-manager-conversation.txt",
+      "text_sha256": "5173c4fa85b8ff28c71c30347fc50afeb5dcfbf63fc0115436b9cb5846fcad5f",
+      "canonical_blocks_file": "sources/ozx-01-05-manager-conversation.json",
+      "content_sha256": "48979a9907788984655db9575c1f67d905e65552a5def4b243752c67eb9a430b",
+      "words": 452,
+      "member_ids": [
+        "m042",
+        "m044"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-02-01-news-article",
+      "title": "Local Efforts Put the Show on the Town",
+      "theme": "A town that makes its own entertainment",
+      "format": "news_article",
+      "text_file": "sources/ozx-02-01-news-article.txt",
+      "text_sha256": "7ed942e76310f61733ff76cd91abcfe2505d79ac34d15ce5d5865457ca157d0c",
+      "canonical_blocks_file": "sources/ozx-02-01-news-article.json",
+      "content_sha256": "89f5ff798583184c4788a2e0caaa08a37bdb9f83ff6c576e34c51e87ea391ea1",
+      "words": 838,
+      "member_ids": [
+        "m005",
+        "m031",
+        "m035",
+        "m020",
+        "m049",
+        "m050"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-02-02-conversation-transcript",
+      "title": "Transcript: Workshop Roundtable on Local Improvisation",
+      "theme": "A town that makes its own entertainment",
+      "format": "conversation_transcript",
+      "text_file": "sources/ozx-02-02-conversation-transcript.txt",
+      "text_sha256": "63554955ac96ad3d7cd58d029dc3675d3d3711c798b03c684a01871c08b582a2",
+      "canonical_blocks_file": "sources/ozx-02-02-conversation-transcript.json",
+      "content_sha256": "0af843eb74f2439193729f9b9dd1f6a68d55d05396771453e81a7f3bf3d1580a",
+      "words": 1106,
+      "member_ids": [
+        "m005",
+        "m031",
+        "m035",
+        "m020",
+        "m049",
+        "m050"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-02-03-social-thread",
+      "title": "Making the village ourselves",
+      "theme": "A town that makes its own entertainment",
+      "format": "social_thread",
+      "text_file": "sources/ozx-02-03-social-thread.txt",
+      "text_sha256": "a9f6502d2a5bc4fea2dd86e6802da2519d5b10e349f2b56ff59e2e4f4bbd7acb",
+      "canonical_blocks_file": "sources/ozx-02-03-social-thread.json",
+      "content_sha256": "b166c60db7a8a1e4c000dbb212393896ebc88f4de58342054710a9243bd60ee3",
+      "words": 306,
+      "member_ids": [
+        "m005",
+        "m031"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-02-04-email-thread",
+      "title": "Display holders and the trader's new boxes",
+      "theme": "A town that makes its own entertainment",
+      "format": "email_thread",
+      "text_file": "sources/ozx-02-04-email-thread.txt",
+      "text_sha256": "d57a5307113315f2627039f21d4a0f54e107fe305963628250edaa9b7d9a3adc",
+      "canonical_blocks_file": "sources/ozx-02-04-email-thread.json",
+      "content_sha256": "c33c76a8e60b5704bdf382c53ec0e6d2e2479d183b55deb1e2848da487851675",
+      "words": 447,
+      "member_ids": [
+        "m035",
+        "m020"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-02-05-manager-conversation",
+      "title": "Notes on Community Entertainment and Logistics",
+      "theme": "A town that makes its own entertainment",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-02-05-manager-conversation.txt",
+      "text_sha256": "fec2980ea79103a4b0889314160bde11e380886fc544abd13a9763db53559f8f",
+      "canonical_blocks_file": "sources/ozx-02-05-manager-conversation.json",
+      "content_sha256": "efb5a8e91c58cb8d8237baf5f5fc46feae25e759b9788c2a42316c2369f1e1f9",
+      "words": 270,
+      "member_ids": [
+        "m049",
+        "m050"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-03-01-news-article",
+      "title": "Oz Travel Digest: Small Fixes, Clearer Routes",
+      "theme": "Getting across Oz without a grand procession",
+      "format": "news_article",
+      "text_file": "sources/ozx-03-01-news-article.txt",
+      "text_sha256": "c1379e8cfb38eb5debfa75691a449ed94ec4a66fb5e8ce3ae52ed83ee9df384b",
+      "canonical_blocks_file": "sources/ozx-03-01-news-article.json",
+      "content_sha256": "0f2dc7bb595d310edcd95d6e7a655c308d80221ee880e358f331baf46a4bb222",
+      "words": 863,
+      "member_ids": [
+        "m007",
+        "m015",
+        "m024",
+        "m023",
+        "m041",
+        "m036"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-03-02-webinar",
+      "title": "Getting Across Oz Without a Grand Procession: A Dispatch from the Brickway Junction Depot",
+      "theme": "Getting across Oz without a grand procession",
+      "format": "webinar",
+      "text_file": "sources/ozx-03-02-webinar.txt",
+      "text_sha256": "6558902e26322f71d231110a9ce43e46a539502a78888009052595f610e306f7",
+      "canonical_blocks_file": "sources/ozx-03-02-webinar.json",
+      "content_sha256": "23de64dfefa8cbc4547ca45d0d99c2749031436b42570c52755eff1d20dde2c1",
+      "words": 922,
+      "member_ids": [
+        "m007",
+        "m015",
+        "m024",
+        "m023",
+        "m041",
+        "m036"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-03-03-social-thread",
+      "title": "Missed connections and blue awnings",
+      "theme": "Getting across Oz without a grand procession",
+      "format": "social_thread",
+      "text_file": "sources/ozx-03-03-social-thread.txt",
+      "text_sha256": "f42a236e7fb1ef7eea7223dca7badaaf1ba66f2f7ab49b4b2e4d62b0ce14c68f",
+      "canonical_blocks_file": "sources/ozx-03-03-social-thread.json",
+      "content_sha256": "8eba46c68c3253a112a4343bce2a78e96b0dd63469a5ef39c9e3311b0d6c37d6",
+      "words": 314,
+      "member_ids": [
+        "m007",
+        "m015"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-03-04-email-thread",
+      "title": "Bricks, Books, and the Tuesday Afternoon",
+      "theme": "Getting across Oz without a grand procession",
+      "format": "email_thread",
+      "text_file": "sources/ozx-03-04-email-thread.txt",
+      "text_sha256": "730cb688a3880d40754b36bb4d2ccc6d696bba1146ae95d66447d135b1cb4095",
+      "canonical_blocks_file": "sources/ozx-03-04-email-thread.json",
+      "content_sha256": "9276b5d0153c3cd7dd86d424ff31e4b0e658a5624a79c180019b1d7bc7493d69",
+      "words": 519,
+      "member_ids": [
+        "m024",
+        "m023"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-03-05-manager-conversation",
+      "title": "Notes on getting people across without the parade",
+      "theme": "Getting across Oz without a grand procession",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-03-05-manager-conversation.txt",
+      "text_sha256": "4a3925e5da79faf9eda2516318b92ac72e7c44c3a7fb872e747576fcccdbe976",
+      "canonical_blocks_file": "sources/ozx-03-05-manager-conversation.json",
+      "content_sha256": "eb9eb5a01ccb65404db24f07573edd45cd7b37e1bf2d048af0986b9a322a22ca",
+      "words": 446,
+      "member_ids": [
+        "m041",
+        "m036"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-04-01-news-article",
+      "title": "Blue Country Roundup: Growth, Governance, and Practical Adjustments",
+      "theme": "Blue country, growing things",
+      "format": "news_article",
+      "text_file": "sources/ozx-04-01-news-article.txt",
+      "text_sha256": "583425484dfb3295397c3fb6665f8dae9c98d83ec4cad56e564436bc1e38e95c",
+      "canonical_blocks_file": "sources/ozx-04-01-news-article.json",
+      "content_sha256": "80dba18dd90067cbba187c08df8696c7ff675d3bde3ca0d104a47e6f1ddf722a",
+      "words": 799,
+      "member_ids": [
+        "m004",
+        "m016",
+        "m027",
+        "m029",
+        "m034",
+        "m040"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-04-02-conversation-transcript",
+      "title": "Notes from the Orchard Break Room: Second Passes",
+      "theme": "Blue country, growing things",
+      "format": "conversation_transcript",
+      "text_file": "sources/ozx-04-02-conversation-transcript.txt",
+      "text_sha256": "f8c258e73c6e2e3d9113654930888df51fe0bd92a500e851a6824ed8f0064621",
+      "canonical_blocks_file": "sources/ozx-04-02-conversation-transcript.json",
+      "content_sha256": "5db96d3757787ef8ea91a718e5b21643c368135937a0237cc04a3cadf4193fc0",
+      "words": 737,
+      "member_ids": [
+        "m004",
+        "m016",
+        "m027",
+        "m029",
+        "m034",
+        "m040"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-04-03-social-thread",
+      "title": "Blue Country Growing Things: Quiet Hours and Water Rota Queries",
+      "theme": "Blue country, growing things",
+      "format": "social_thread",
+      "text_file": "sources/ozx-04-03-social-thread.txt",
+      "text_sha256": "0332c125051da4e2dff59ff7b4b21c1c199ca5f7e59d030b3483e1ff3288d9dc",
+      "canonical_blocks_file": "sources/ozx-04-03-social-thread.json",
+      "content_sha256": "623eb8d62a02cea19a52be1a93745f7f9ec5e13c55960bf22c9245fda5e7771e",
+      "words": 442,
+      "member_ids": [
+        "m004",
+        "m016"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-04-04-email-thread",
+      "title": "Counters and Carrots: An Eastfield Exchange",
+      "theme": "Blue country, growing things",
+      "format": "email_thread",
+      "text_file": "sources/ozx-04-04-email-thread.txt",
+      "text_sha256": "77a4aba465a54bb3f7cd72f0f82372b8294e04e579ee212332fe37409d016147",
+      "canonical_blocks_file": "sources/ozx-04-04-email-thread.json",
+      "content_sha256": "75bfbb3ca361e231b0c0ed8e1afb762f0108554a3027c3ede5c832b9e5e1645b",
+      "words": 443,
+      "member_ids": [
+        "m027",
+        "m029"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-04-05-manager-conversation",
+      "title": "Notes: Plum Tally Trial and Relief Worker Handover",
+      "theme": "Blue country, growing things",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-04-05-manager-conversation.txt",
+      "text_sha256": "91a01ebd5c0d0a3f91d59c353b926fb4f26a1287a1bb59b1c471186120129915",
+      "canonical_blocks_file": "sources/ozx-04-05-manager-conversation.json",
+      "content_sha256": "cb5ee72d9ba1a34489428249b2093f12310a2283c8b769e79a0ba9754b25b6bf",
+      "words": 445,
+      "member_ids": [
+        "m034",
+        "m040"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-05-01-news-article",
+      "title": "Local Services Adjust Schedules, Signage, and Menus for Clarity",
+      "theme": "Making ordinary services welcoming",
+      "format": "news_article",
+      "text_file": "sources/ozx-05-01-news-article.txt",
+      "text_sha256": "8aa0bb56c6d0e83c36fc99fd351a1ae3ee0a15775c6171b8c453454cc67fa452",
+      "canonical_blocks_file": "sources/ozx-05-01-news-article.json",
+      "content_sha256": "3cb622781c1575b5c6c0847cb2df9a60465500a6458a8397275aa61d09d000b7",
+      "words": 738,
+      "member_ids": [
+        "m009",
+        "m010",
+        "m019",
+        "m021",
+        "m032",
+        "m045"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-05-02-webinar",
+      "title": "Webinar Notes: Making Ordinary Services Welcoming",
+      "theme": "Making ordinary services welcoming",
+      "format": "webinar",
+      "text_file": "sources/ozx-05-02-webinar.txt",
+      "text_sha256": "f7914bc37a8feebd987cb97509963f34ba20f0dc2dd3a85f4e6398460603d8d5",
+      "canonical_blocks_file": "sources/ozx-05-02-webinar.json",
+      "content_sha256": "4d48a4195b7292aadf26dfa159aa06a9e08453816acd5c90e3d997151a0c5cac",
+      "words": 774,
+      "member_ids": [
+        "m009",
+        "m010",
+        "m019",
+        "m021",
+        "m032",
+        "m045"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-05-03-social-thread",
+      "title": "Kitchen tools and visiting rotas: a shared thread on making services work",
+      "theme": "Making ordinary services welcoming",
+      "format": "social_thread",
+      "text_file": "sources/ozx-05-03-social-thread.txt",
+      "text_sha256": "fdb3a6c12bf2db355ebd22f5c86a30394059b3629c343eea7072af4786551427",
+      "canonical_blocks_file": "sources/ozx-05-03-social-thread.json",
+      "content_sha256": "3e53adc5e56f28a6014ecc332146772dee9fde835f22cd27836d94cea57504b9",
+      "words": 389,
+      "member_ids": [
+        "m009",
+        "m010"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-05-04-email-thread",
+      "title": "Kitchen Notes and Call Windows",
+      "theme": "Making ordinary services welcoming",
+      "format": "email_thread",
+      "text_file": "sources/ozx-05-04-email-thread.txt",
+      "text_sha256": "d153cdf1013ce954eb61a1daf0ae73d252d3dd8d4e394bb883780b9b9a8b25fa",
+      "canonical_blocks_file": "sources/ozx-05-04-email-thread.json",
+      "content_sha256": "91aa97c006642068152b86d8abad6a8bcad6abd4eafa24f613707e99d993bf4f",
+      "words": 435,
+      "member_ids": [
+        "m019",
+        "m021"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-05-05-manager-conversation",
+      "title": "Notes on Welcoming Services: Caleb and Mara",
+      "theme": "Making ordinary services welcoming",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-05-05-manager-conversation.txt",
+      "text_sha256": "f5c177cc94bfa34b7af6ec917e62b0edf2af7f69a3e73909dd6750fb9a0b5dc7",
+      "canonical_blocks_file": "sources/ozx-05-05-manager-conversation.json",
+      "content_sha256": "d6f4a0ac097086bade850e3150e24088f564e471449617f817a72e5d6ae3e015",
+      "words": 494,
+      "member_ids": [
+        "m032",
+        "m045"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-06-01-news-article",
+      "title": "Six Small Fixes, No Green Spectacles Required",
+      "theme": "Good craft without a certificate of magic",
+      "format": "news_article",
+      "text_file": "sources/ozx-06-01-news-article.txt",
+      "text_sha256": "14f5357b646e3145999a8c710d0b3fa46c39774bff0777e407b56089ddd9af27",
+      "canonical_blocks_file": "sources/ozx-06-01-news-article.json",
+      "content_sha256": "2b73296989d6e5e5f1b63157c64d6afb7b2379e452fa85c3b95f56a2fcc4432d",
+      "words": 896,
+      "member_ids": [
+        "m011",
+        "m013",
+        "m022",
+        "m026",
+        "m037",
+        "m048"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-06-02-conversation-transcript",
+      "title": "Transcript: Workshop Debrief — Practical Skills and Second Attempts",
+      "theme": "Good craft without a certificate of magic",
+      "format": "conversation_transcript",
+      "text_file": "sources/ozx-06-02-conversation-transcript.txt",
+      "text_sha256": "628a32755d91b2df2846cc7420c23e456b8e54a567cfd9df582fe2594c1f8dc5",
+      "canonical_blocks_file": "sources/ozx-06-02-conversation-transcript.json",
+      "content_sha256": "0d3e69cb812c0229d0f747de8e4b6df6471d83e73957e9cd97767f691ffdcc58",
+      "words": 1056,
+      "member_ids": [
+        "m011",
+        "m013",
+        "m022",
+        "m026",
+        "m037",
+        "m048"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-06-03-social-thread",
+      "title": "Display setup and craft sorting",
+      "theme": "Good craft without a certificate of magic",
+      "format": "social_thread",
+      "text_file": "sources/ozx-06-03-social-thread.txt",
+      "text_sha256": "1a7a6c2778da709c3e7ca286c1e49e1c5c50ef09728a94ccae8d60c45b98ab51",
+      "canonical_blocks_file": "sources/ozx-06-03-social-thread.json",
+      "content_sha256": "45de35d356ac55d8e6985c1a5566ba5bb532b78581d3c91a552f9b56d423ecbb",
+      "words": 505,
+      "member_ids": [
+        "m011",
+        "m013"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-06-04-email-thread",
+      "title": "Slideshow notes and clay batches",
+      "theme": "Good craft without a certificate of magic",
+      "format": "email_thread",
+      "text_file": "sources/ozx-06-04-email-thread.txt",
+      "text_sha256": "ea951f9c9398be434cde2a1a6d96949a3c038b48e2443dd2461dac8ea4bbd4aa",
+      "canonical_blocks_file": "sources/ozx-06-04-email-thread.json",
+      "content_sha256": "398598a5a7818e6c191d497580a666b2dff7008d6e921c604b8cb0297a99ce88",
+      "words": 400,
+      "member_ids": [
+        "m022",
+        "m026"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-06-05-manager-conversation",
+      "title": "Notes: Local motifs and exhibition labeling",
+      "theme": "Good craft without a certificate of magic",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-06-05-manager-conversation.txt",
+      "text_sha256": "8c687748204ffa0965cb745fd5f0067d5c290a8561445966a4f92bfa8a7c6e27",
+      "canonical_blocks_file": "sources/ozx-06-05-manager-conversation.json",
+      "content_sha256": "0dfb17561567a54f87dfadc7cbbafeca43b5753d5d3a77756a913d4f3d87f571",
+      "words": 278,
+      "member_ids": [
+        "m037",
+        "m048"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-07-01-news-article",
+      "title": "Reading the Land: Notices, Notes, and Practical Certainty",
+      "theme": "What the land tells us, and what it does not",
+      "format": "news_article",
+      "text_file": "sources/ozx-07-01-news-article.txt",
+      "text_sha256": "2fe0fc47646e0e6c80e0830f0f403630bf57739657204c1ea756fab9a149887e",
+      "canonical_blocks_file": "sources/ozx-07-01-news-article.json",
+      "content_sha256": "7282bf0827d8b06b3a619851ddf1d486640a9f6fd3e51e29fb4f6f8fa94fff73",
+      "words": 881,
+      "member_ids": [
+        "m006",
+        "m028",
+        "m033",
+        "m039",
+        "m043",
+        "m046"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-07-02-webinar",
+      "title": "The Land Tells Us, and What It Does Not: A Munchkin Association Webinar",
+      "theme": "What the land tells us, and what it does not",
+      "format": "webinar",
+      "text_file": "sources/ozx-07-02-webinar.txt",
+      "text_sha256": "dcd1c1dd8bdcc7e508c9ab8d3e95598409f0c17c23c96313080713e36c9fc5ee",
+      "canonical_blocks_file": "sources/ozx-07-02-webinar.json",
+      "content_sha256": "6a68557679dde25513ac6782f6d0b076ede91f706e4ac6233a6e81a4d4a9cd4d",
+      "words": 746,
+      "member_ids": [
+        "m006",
+        "m028",
+        "m033",
+        "m039",
+        "m043",
+        "m046"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-07-03-social-thread",
+      "title": "Blue Gateposts and Wet Lanes: What the Land Tells Us",
+      "theme": "What the land tells us, and what it does not",
+      "format": "social_thread",
+      "text_file": "sources/ozx-07-03-social-thread.txt",
+      "text_sha256": "a74526c2ff9fa774ff0485ce2ada37e2f3881e338ea85ce812c22cee94cbe990",
+      "canonical_blocks_file": "sources/ozx-07-03-social-thread.json",
+      "content_sha256": "d637f9ae79f301c353477b4729afe14cfb44f0b265cefa2309f81445e16f1824",
+      "words": 474,
+      "member_ids": [
+        "m006",
+        "m028"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-07-04-email-thread",
+      "title": "Notes from the Copse and the Kitchen",
+      "theme": "What the land tells us, and what it does not",
+      "format": "email_thread",
+      "text_file": "sources/ozx-07-04-email-thread.txt",
+      "text_sha256": "0717243cb191bff9b2a267ec74afbe7a93619d757a5d777b98b4270cbd0ef7e3",
+      "canonical_blocks_file": "sources/ozx-07-04-email-thread.json",
+      "content_sha256": "3b1713657aaefdd117ab7f2a1752ab06693e7411ce68c88ba650555ecf685613",
+      "words": 387,
+      "member_ids": [
+        "m033",
+        "m039"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-07-05-manager-conversation",
+      "title": "Manager Notes: Field Displays and Observation Handovers",
+      "theme": "What the land tells us, and what it does not",
+      "format": "manager_conversation",
+      "text_file": "sources/ozx-07-05-manager-conversation.txt",
+      "text_sha256": "48d6ce7c3c21ba03b1ee097fe0dbb69a01f05005e7bfee81f2e00d8d82d50862",
+      "canonical_blocks_file": "sources/ozx-07-05-manager-conversation.json",
+      "content_sha256": "6aaa7d2e4b4d61768885256a41a48007924bd93846404038366b8aa8b23191a6",
+      "words": 230,
+      "member_ids": [
+        "m043",
+        "m046"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "ozx-08-oscar-listening-corner",
+      "title": "The listening corner, settled",
+      "theme": "Local memory and accessible exhibitions",
+      "format": "email_thread",
+      "text_file": "sources/ozx-08-oscar-listening-corner.txt",
+      "text_sha256": "8999da291c4d42a229d05f005775370b73c941707e663bf1ed548a9c6169cd16",
+      "canonical_blocks_file": "sources/ozx-08-oscar-listening-corner.json",
+      "content_sha256": "6dc21577cd9ba81a085e60c69e0073dd8056abf928dced6b6bb0e7d999357c01",
+      "words": 376,
+      "member_ids": [
+        "m011"
+      ],
+      "collection_id": "community-life"
+    },
+    {
+      "id": "oz-13-dorothy-intake-arrival",
+      "title": "Intake Notes: A Traveler from Kansas Arrives in Munchkinland",
+      "theme": "Welcoming services and privacy",
+      "format": "manager_conversation",
+      "text_file": "sources/oz-13-dorothy-intake-arrival.txt",
+      "text_sha256": "42607605d24317314c991f8df07c29a3631340923ced56e602680c6fab4c5d5f",
+      "canonical_blocks_file": "sources/oz-13-dorothy-intake-arrival.json",
+      "content_sha256": "333b22bc1d012efaf80a85dad3d2961e364d8ef36fd53f21634f8af90681511d",
+      "words": 123,
+      "member_ids": [
+        "m007"
+      ],
+      "collection_id": "book-adventures"
+    },
+    {
+      "id": "oz-14-woodman-trail-clearing",
+      "title": "Trail Clearing and Emergency Maintenance on the Western Route",
+      "theme": "Transport and getting around",
+      "format": "email_exchange",
+      "text_file": "sources/oz-14-woodman-trail-clearing.txt",
+      "text_sha256": "71e7b099368406c633dceb3f1000f451541a9de5d13e9f9dfa3a53848356df72",
+      "canonical_blocks_file": "sources/oz-14-woodman-trail-clearing.json",
+      "content_sha256": "7a323e5402f3d56c2b851e9f83c2d6e8528bfa87d7dfe15e50cef53e18a8fc9d",
+      "words": 111,
+      "member_ids": [
+        "m002"
+      ],
+      "collection_id": "book-adventures"
+    },
+    {
+      "id": "oz-15-lion-ravine-crossing",
+      "title": "Road Obstruction Report: Ravine Crossing at Mile 14",
+      "theme": "Transport and getting around",
+      "format": "manager_conversation",
+      "text_file": "sources/oz-15-lion-ravine-crossing.txt",
+      "text_sha256": "0901fefa572b78a661dc2ec1244e0e1af62d15355e620bc916be7a5c09f97c26",
+      "canonical_blocks_file": "sources/oz-15-lion-ravine-crossing.json",
+      "content_sha256": "9a096509d2adcb50df029b1e3ad834b990ed680af567edef6957543bbe53ee54",
+      "words": 98,
+      "member_ids": [
+        "m006"
+      ],
+      "collection_id": "book-adventures"
+    },
+    {
+      "id": "oz-16-micefield-poppy-rescue",
+      "title": "Special Meeting Minutes: Emergency Evacuation in the South Poppy Meadow",
+      "theme": "Welcoming services and privacy",
+      "format": "manager_conversation",
+      "text_file": "sources/oz-16-micefield-poppy-rescue.txt",
+      "text_sha256": "5d8fb2eaebf3c6506010e96bbad6dcdaffe88a19f081b136e048d24e592f2263",
+      "canonical_blocks_file": "sources/oz-16-micefield-poppy-rescue.json",
+      "content_sha256": "d868cc02ba062c6cbeccd2a9414f8dcd9e0f24ab616fd623beb92aeaf8d07c33",
+      "words": 107,
+      "member_ids": [
+        "m003"
+      ],
+      "collection_id": "book-adventures"
+    },
+    {
+      "id": "oz-17-strawbridge-river-pole",
+      "title": "River Ferry Log and Waterway Incidents",
+      "theme": "Transport and getting around",
+      "format": "manager_conversation",
+      "text_file": "sources/oz-17-strawbridge-river-pole.txt",
+      "text_sha256": "c0b5ceeba83c546b28ba31cae6b0c79743d1908b6f0827bed18104b74121655f",
+      "canonical_blocks_file": "sources/oz-17-strawbridge-river-pole.json",
+      "content_sha256": "2a4e898cba0a06526a99ba01fdf6ae34fad40ea8ce66474da5a9d19116d2aa26",
+      "words": 120,
+      "member_ids": [
+        "m005"
+      ],
+      "collection_id": "book-adventures"
+    }
+  ],
+  "total_documents": 53,
+  "total_words": 26300,
+  "name": "Life in Oz",
+  "license": "CC0-1.0",
+  "word_count_method": "Sum of Python str.split() tokens in canonical block text; excludes titles, banners and speaker labels."
+}

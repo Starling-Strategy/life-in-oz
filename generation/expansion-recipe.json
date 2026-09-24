@@ -1,0 +1,1343 @@
+{
+  "name": "Life in Oz — remaining-member source expansion",
+  "purpose": "Reusable synthetic source material, not application records.",
+  "member_ids": [
+    "m003",
+    "m004",
+    "m005",
+    "m006",
+    "m007",
+    "m008",
+    "m009",
+    "m010",
+    "m011",
+    "m012",
+    "m013",
+    "m015",
+    "m016",
+    "m018",
+    "m019",
+    "m020",
+    "m021",
+    "m022",
+    "m023",
+    "m024",
+    "m026",
+    "m027",
+    "m028",
+    "m029",
+    "m031",
+    "m032",
+    "m033",
+    "m034",
+    "m035",
+    "m036",
+    "m037",
+    "m039",
+    "m040",
+    "m041",
+    "m042",
+    "m043",
+    "m044",
+    "m045",
+    "m046",
+    "m048",
+    "m049",
+    "m050"
+  ],
+  "world_notes": [
+    "All people are adult human adaptations or original residents of modern Oz. They belong to the fictional Munchkin Association Alumni, whose shared history is attending local practical-learning workshops.",
+    "The Emerald City and Munchkin Country have ordinary shops, civic administration, buses, newspapers, phones and video calls. A few fanciful visual details are welcome. No complicated invented magic system is needed.",
+    "The Wizard's Office is a fictional governing institution, not a roster member. Residents disagree reasonably about its role: public works and shared standards versus cumbersome paperwork and showy announcements. Do not turn every official into a villain or introduce real-world politicians.",
+    "Book motifs are inspiration only: imposed green spectacles and the city's green commerce; Munchkin blue as a local preference; the gap between the Wizard's spectacle and practical ability; useful skills already present before receiving credentials; companions helping each other. Do not quote invented passages or imply that modern institutions/events occur in Baum.",
+    "Use fictional community manager Rowan Bell as needed, outside the member count. Unnamed customers and public officials are allowed. Do not create additional named private people.",
+    "Use relative time or no dates. A document's reference to a future action must remain a future action. Avoid creating a rigid shared timeline except where an explicit dependency is provided. No real URLs, social accounts, email addresses, telephone numbers or claims of actual recordings.",
+    "These are alternative original-fiction artifacts, not a continuation of pilot-01. Do not reuse that pilot's apple crates, raking mistakes, seed mix-ups, handout mistakes, flat tires or kitchen-capacity stories.",
+    "This is a new source tranche. The first eight members have a separate preserved edition; do not rewrite their records.",
+    "Preserve successes, ordinary useful work and reasonable uncertainty. Not every person or document needs a mistake or a moral.",
+    "A source may be short if complete and natural. Do not pad to an exact word count. No fabricated author reputation, real press title, URL or media recording is needed."
+  ],
+  "documents": [
+    {
+      "id": "ozx-01-01-news-article",
+      "format": "news_article",
+      "theme": "Local power without the big green seal",
+      "topic": "Local power without the big green seal",
+      "member_ids": [
+        "m003",
+        "m008",
+        "m018",
+        "m012",
+        "m042",
+        "m044"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m003",
+          "theme": "Mutual help",
+          "fictional_premise": "Clara split a Meadowbank errand rota into short collection and delivery shifts after asking volunteers about their paid work. Neighbors completed the week's agreed errands without anyone needing to surrender an entire afternoon, although the outlying lane still lacked regular cover."
+        },
+        {
+          "member_id": "m008",
+          "theme": "Mutual help",
+          "fictional_premise": "Glinda helped neighbors agree separate hours for quiet use and music practice in a shared South Meadow room. Both groups tried the arrangement and completed their booked sessions, while weekend use remained explicitly outside the agreement rather than silently settled."
+        },
+        {
+          "member_id": "m018",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Elias separated the housing cooperative's confirmed civic grant from a pending request in the budget he presented to South Meadow residents. Members approved an affordable common-room purchase using the confirmed amount, while the Wizard's Office had not answered the second request."
+        },
+        {
+          "member_id": "m012",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Greta checked whether the reading room actually needed a second registration slip bearing the Wizard's crest before issuing ordinary loans. The administering office confirmed the existing register was sufficient, and she removed the duplicate step for subsequent borrowers without discarding required records."
+        },
+        {
+          "member_id": "m042",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Arthur used a spare cabinet sample to learn an unfamiliar drawer fitting before tackling a small agreed furniture repair. The repaired drawer opened and closed during the owner's check, and he kept the sample for practice rather than presenting himself as newly certified."
+        },
+        {
+          "member_id": "m044",
+          "theme": "Mutual help",
+          "fictional_premise": "Henry welcomed new adult compost volunteers with a short walk through the established sorting signs and invited questions before assigning routine duties. They completed the agreed session and asked about an unfamiliar item, which he set aside for checking rather than treating the question as carelessness."
+        }
+      ],
+      "group": 1
+    },
+    {
+      "id": "ozx-01-02-webinar",
+      "format": "webinar",
+      "theme": "Local power without the big green seal",
+      "topic": "Local power without the big green seal",
+      "member_ids": [
+        "m003",
+        "m008",
+        "m018",
+        "m012",
+        "m042",
+        "m044"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m003",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Clara brought anonymized examples of missed evening access to a local office administering the Wizard's community rooms. The office trialed a later key collection window, and her volunteers collected their key after work rather than asking someone to leave a shift."
+        },
+        {
+          "member_id": "m008",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Glinda asked a local civic clerk to distinguish the Wizard's room-booking requirements from optional meeting customs on a public checklist. The revised checklist removed a ceremonial introduction from the required steps, and a neighborhood group submitted its booking without arranging one."
+        },
+        {
+          "member_id": "m018",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Elias replaced an unexplained total for shared supplies with a plain summary linking each category to its receipts, leaving private household accounts out. Residents could trace the proposed stationery purchase during the meeting, and the cooperative adopted the summary for its next accounts discussion."
+        },
+        {
+          "member_id": "m012",
+          "theme": "Arts",
+          "fictional_premise": "Greta arranged a listening-free poetry display where visitors could read short locally contributed verses quietly and leave an optional response. Readers used it during the normal evening opening, and the response cards included requests for another selection without requiring a public performance."
+        },
+        {
+          "member_id": "m042",
+          "theme": "Arts",
+          "fictional_premise": "Arthur turned small wood offcuts into tabletop label blocks for a South Meadow craft display, working within the organizers' existing layout. The labels remained readable beside the exhibits throughout the open afternoon, and the blocks were collected for reuse rather than discarded with the cards."
+        },
+        {
+          "member_id": "m044",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Henry assembled the dates and public reference numbers for missed grounds-service collections affecting the community compost area. The local office confirmed a revised collection appointment and the material was collected, although it offered no guarantee that the wider schedule would remain unchanged."
+        }
+      ],
+      "group": 1
+    },
+    {
+      "id": "ozx-01-03-social-thread",
+      "format": "social_thread",
+      "theme": "Local power without the big green seal",
+      "topic": "Local power without the big green seal",
+      "member_ids": [
+        "m003",
+        "m008"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m003",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Clara introduced separate pockets for offered and confirmed help on a volunteer board, using removable cards without household details. A substitute organizer used the board to complete a weekend handover and could identify the remaining gap without calling Clara for an explanation."
+        },
+        {
+          "member_id": "m008",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Glinda tried a closing routine in which each participant restated only the task they had personally accepted, with permission to leave an item open. The resulting agreement assigned the confirmed jobs clearly and retained an unclaimed job instead of recording imaginary consensus."
+        }
+      ],
+      "group": 1
+    },
+    {
+      "id": "ozx-01-04-email-thread",
+      "format": "email_thread",
+      "theme": "Local power without the big green seal",
+      "topic": "Local power without the big green seal",
+      "member_ids": [
+        "m018",
+        "m012"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m018",
+          "theme": "Mutual help",
+          "fictional_premise": "Elias showed a new volunteer how to record community-room contributions using a fictional practice ledger before handing over the real receipt book privately. The volunteer completed the next collection record and reconciled its total, without presenting neighbors' individual payments to the whole room."
+        },
+        {
+          "member_id": "m012",
+          "theme": "Mutual help",
+          "fictional_premise": "Greta reserved a clearly marked table for readers who wanted help finding materials, while keeping the quiet corner free of consultations. During the trial evening, newcomers received assistance and regular readers kept their usual space; the arrangement still needed testing on busier nights."
+        }
+      ],
+      "group": 1
+    },
+    {
+      "id": "ozx-01-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "Local power without the big green seal",
+      "topic": "Local power without the big green seal",
+      "member_ids": [
+        "m042",
+        "m044"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m042",
+          "theme": "Mutual help",
+          "fictional_premise": "Arthur sorted a neighbors' volunteer repair list into small furniture jobs he accepted and requests he referred beyond his remit. He completed a loose drawer-handle job and returned the updated list, leaving a building-related request explicitly pending with the appropriate service."
+        },
+        {
+          "member_id": "m044",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Henry separated daily volunteer checks from occasional caretaker jobs on the compost rota before a busy stretch of paid grounds work. His cover volunteer completed the listed daily tasks and handed back a clear record, without assuming responsibility for jobs outside the agreed cover."
+        }
+      ],
+      "group": 1
+    },
+    {
+      "id": "ozx-02-01-news-article",
+      "format": "news_article",
+      "theme": "A town that makes its own entertainment",
+      "topic": "A town that makes its own entertainment",
+      "member_ids": [
+        "m005",
+        "m031",
+        "m035",
+        "m020",
+        "m049",
+        "m050"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m005",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Samuel used an ordinary public stall-fee notice from the Wizard's Office in an Eastfield reading lesson, separating the charge from the application deadline. Adult learners located both details themselves, while a vague exemption prompted a question rather than an invented answer."
+        },
+        {
+          "member_id": "m031",
+          "theme": "Arts",
+          "fictional_premise": "Tessa divided a village play's rehearsals by scene so adult performers could attend around retail and farm shifts. The cast completed a run-through with the necessary scene partners present, while she kept an optional extra rehearsal separate from the agreed commitment."
+        },
+        {
+          "member_id": "m035",
+          "theme": "Mutual help",
+          "fictional_premise": "Esther asked evening learners which seating arrangement let them join discussions comfortably and prepared the classroom accordingly before the next session. Participants used the requested spaces without having to negotiate chairs on arrival, and she retained an easy way to request later changes."
+        },
+        {
+          "member_id": "m020",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Felix compared the Wizard's announcement of extended public-counter hours with the actual opening notice and asked the local office about the difference. His radio item gave listeners the confirmed hours and kept the proposed extension distinct; the office later clarified its announcement."
+        },
+        {
+          "member_id": "m049",
+          "theme": "Arts",
+          "fictional_premise": "Florence chose a short locally written story for the Bell Market reading group and offered silent reading before discussion rather than assigning preparation. New participants joined the conversation using passages everyone had just seen, while disagreement about the ending remained part of the evening."
+        },
+        {
+          "member_id": "m050",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Bennett sorted the festival's faded blue bunting by usable length and offered organizers a deliberate mix of shades rather than pretending every piece still matched. They used the selected decorations at a Bell Market gathering, keeping the familiar local color without ordering a complete replacement."
+        }
+      ],
+      "group": 2
+    },
+    {
+      "id": "ozx-02-02-conversation-transcript",
+      "format": "conversation_transcript",
+      "theme": "A town that makes its own entertainment",
+      "topic": "A town that makes its own entertainment",
+      "member_ids": [
+        "m005",
+        "m031",
+        "m035",
+        "m020",
+        "m049",
+        "m050"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m005",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Samuel replaced a long explanation of receipt totals with movable paper strips showing purchases, payment and change. Adult learners rearranged the strips and checked a fresh practice receipt without his demonstration, giving him a reusable activity that fitted the short evening session."
+        },
+        {
+          "member_id": "m031",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Tessa replaced a cumbersome scene-change plan with numbered baskets for small hand props and a written return order. Volunteers completed the changes during rehearsal without hunting through one mixed box, and a new helper ran the final sequence without Tessa standing beside them."
+        },
+        {
+          "member_id": "m035",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Esther made a room-reset card showing the agreed positions of ordinary classroom supplies and divided closing duties with the tutors. After the next evening session, the room was ready for its morning users without her repeating the entire cleanup after everyone left."
+        },
+        {
+          "member_id": "m020",
+          "theme": "Arts",
+          "fictional_premise": "Felix recorded a short local sound portrait using consenting adult traders' calls and ordinary market ambience, keeping intelligible private conversations out. The community station aired the finished piece, and listeners recognized the market through its everyday sounds rather than a ceremonial introduction."
+        },
+        {
+          "member_id": "m049",
+          "theme": "Small-business wins",
+          "fictional_premise": "Florence tested a modest grocery order list for customers seeking ordinary pantry items she could not keep continuously on the shelves. She placed only confirmed requests with her supplier, and customers collected the delivered items without her tying up cash in a speculative full range."
+        },
+        {
+          "member_id": "m050",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Bennett attached a contents card to each box of nonpowered table decorations and recorded loans by box as well as individual item. After a community gathering, the returning volunteers reconciled their borrowed set at the store without unpacking every unrelated shelf."
+        }
+      ],
+      "group": 2
+    },
+    {
+      "id": "ozx-02-03-social-thread",
+      "format": "social_thread",
+      "theme": "A town that makes its own entertainment",
+      "topic": "A town that makes its own entertainment",
+      "member_ids": [
+        "m005",
+        "m031"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m005",
+          "theme": "Arts",
+          "fictional_premise": "Samuel ran a reading session around a short locally written comic scene, letting adult learners choose speaking or following along silently. The group finished the scene and discussed its ending, and a usually quiet participant volunteered to read a small part again."
+        },
+        {
+          "member_id": "m031",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Tessa coordinated borrowed blue scarves and everyday jackets for a local production instead of requesting newly made matching costumes. The adult cast completed its dress rehearsal with the intended village look, and each borrowed item had an agreed owner and return arrangement."
+        }
+      ],
+      "group": 2
+    },
+    {
+      "id": "ozx-02-04-email-thread",
+      "format": "email_thread",
+      "theme": "A town that makes its own entertainment",
+      "topic": "A town that makes its own entertainment",
+      "member_ids": [
+        "m035",
+        "m020"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m035",
+          "theme": "Arts",
+          "fictional_premise": "Esther arranged a temporary display area for adult learners' drawings using existing tabletop holders and asked contributors how they wanted their work credited. The display opened during normal classroom hours, including unsigned pieces, and all contributions were returned at the agreed collection session."
+        },
+        {
+          "member_id": "m020",
+          "theme": "Small-business wins",
+          "fictional_premise": "Felix produced a brief interview about a trader's completed packaging change and checked the business description with the speaker before broadcast. The finished segment explained the practical choice without turning it into a paid advertisement or claiming that the broadcast increased sales."
+        }
+      ],
+      "group": 2
+    },
+    {
+      "id": "ozx-02-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "A town that makes its own entertainment",
+      "topic": "A town that makes its own entertainment",
+      "member_ids": [
+        "m049",
+        "m050"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m049",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Florence hosted a reading-group comparison of a Wizard's Office public notice and the longer explanation available beside it, marking statements actually present in each. Participants identified a missing practical detail and submitted a shared question, without claiming their discussion had changed the policy."
+        },
+        {
+          "member_id": "m050",
+          "theme": "Mutual help",
+          "fictional_premise": "Bennett negotiated separate collection and return windows when two community groups requested the same reusable tablecloths on different days. Both groups completed their gatherings with the agreed loan, and he kept a later overlapping request unconfirmed instead of promising the cloths twice."
+        }
+      ],
+      "group": 2
+    },
+    {
+      "id": "ozx-03-01-news-article",
+      "format": "news_article",
+      "theme": "Getting across Oz without a grand procession",
+      "topic": "Getting across Oz without a grand procession",
+      "member_ids": [
+        "m007",
+        "m015",
+        "m024",
+        "m023",
+        "m041",
+        "m036"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m007",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Dorothy arranged a depot reference sheet by passengers' destination villages instead of internal route codes, checking each entry against the current timetable. At the Brickway Junction counter she used it to explain onward connections without sending travelers between separate noticeboards."
+        },
+        {
+          "member_id": "m015",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Mina recorded where passengers actually asked to alight during an authorized orchard-loop stop trial and passed the observations to the transport office. Its final public notice used the familiar stop name alongside the official label, making the change recognizable to regular riders."
+        },
+        {
+          "member_id": "m024",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Victor matched a Wizard's Office roadwork announcement to his crew's confirmed schedule and requested a correction where the ceremonial reopening date came too early. The office published the actual access dates, allowing market organizers to plan without treating the ceremony as a maintenance deadline."
+        },
+        {
+          "member_id": "m023",
+          "theme": "Small-business wins",
+          "fictional_premise": "Hannah grouped consenting customers' nonurgent parcel collections into a regular Timber Verge round rather than offering a separate trip for every request. She completed the agreed round within her working day, and the customers received clear collection windows without a promise of instant delivery."
+        },
+        {
+          "member_id": "m041",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Elena added a revision date and a check against the master timetable to her bus-board update routine. She replaced the relevant Brickway Junction notices during a scheduled change, and a colleague verified that the boards agreed without relying on the familiar layout."
+        },
+        {
+          "member_id": "m036",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Quentin tested parcel shelf markers that combined a large letter with a plain location word rather than relying on color alone. A temporary depot worker found the assigned collection shelf on the first attempt, while customer names remained off the public-facing markers."
+        }
+      ],
+      "group": 3
+    },
+    {
+      "id": "ozx-03-02-webinar",
+      "format": "webinar",
+      "theme": "Getting across Oz without a grand procession",
+      "topic": "Getting across Oz without a grand procession",
+      "member_ids": [
+        "m007",
+        "m015",
+        "m024",
+        "m023",
+        "m041",
+        "m036"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m007",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Dorothy asked regular travelers which everyday objects helped them recognize the orchard-loop stops and assembled a small illustrated orientation display. A blue shop awning proved more useful than a ceremonial green arch, and newcomers correctly matched the pictures to their intended stops."
+        },
+        {
+          "member_id": "m015",
+          "theme": "Mutual help",
+          "fictional_premise": "Mina asked passengers whether her usual destination announcements were audible and useful rather than assuming familiarity meant they needed none. She tried the requested wording on a later run, and a traveler identified the right stop without waiting for another passenger's cue."
+        },
+        {
+          "member_id": "m024",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Victor introduced a handover sheet separating completed tasks, work still underway and questions awaiting an office decision. During a shift change, the incoming crew identified the remaining assigned work from the sheet without treating a penciled proposal as an instruction to begin."
+        },
+        {
+          "member_id": "m023",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Hannah submitted examples of delivery instructions that conflicted with a posted brick-road closure, omitting customer identities and parcel contents. The local works office clarified the approved public route on its notice, and she could plan the next round without relying on rumor."
+        },
+        {
+          "member_id": "m041",
+          "theme": "Mutual help",
+          "fictional_premise": "Elena coordinated an available relief driver after a disruption by confirming the assignment and handover point before updating waiting staff. The relief driver took the agreed service, while Elena kept a later unresolved gap visible instead of implying that every departure was covered."
+        },
+        {
+          "member_id": "m036",
+          "theme": "Small-business wins",
+          "fictional_premise": "Quentin agreed a quieter collection window with a local trader who regularly arrived during the depot's busiest queue. The trader collected a prepared order within that window, and Quentin completed the handover without interrupting the main counter's existing line of customers."
+        }
+      ],
+      "group": 3
+    },
+    {
+      "id": "ozx-03-03-social-thread",
+      "format": "social_thread",
+      "theme": "Getting across Oz without a grand procession",
+      "topic": "Getting across Oz without a grand procession",
+      "member_ids": [
+        "m007",
+        "m015"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m007",
+          "theme": "Mutual help",
+          "fictional_premise": "Dorothy helped an unnamed traveler compare the remaining services after a missed connection and checked where the onward bus would actually depart. The traveler boarded the confirmed alternative; Dorothy did not promise reimbursement or claim to have changed the timetable."
+        },
+        {
+          "member_id": "m015",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Mina contributed a handwritten account of the different blue market-day clothes she noticed from her stationary bus during breaks, with no passenger descriptions that identified individuals. A depot display included her observations alongside local fabric samples, prompting travelers to compare village preferences."
+        }
+      ],
+      "group": 3
+    },
+    {
+      "id": "ozx-03-04-email-thread",
+      "format": "email_thread",
+      "theme": "Getting across Oz without a grand procession",
+      "topic": "Getting across Oz without a grand procession",
+      "member_ids": [
+        "m024",
+        "m023"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m024",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Victor arranged a small ground-level display of retired yellow road bricks beside approved modern paving samples at a public information session. Residents could compare their appearance and ask about preserving local character, while he kept the display separate from any engineering approval."
+        },
+        {
+          "member_id": "m023",
+          "theme": "Mutual help",
+          "fictional_premise": "Hannah delivered a bundle of borrowed reading-room books for neighbors during an already agreed community errand round and recorded the handover with staff. The books reached the return desk before closing, while she declined to add an unconfirmed extra trip that evening."
+        }
+      ],
+      "group": 3
+    },
+    {
+      "id": "ozx-03-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "Getting across Oz without a grand procession",
+      "topic": "Getting across Oz without a grand procession",
+      "member_ids": [
+        "m041",
+        "m036"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m041",
+          "theme": "Arts",
+          "fictional_premise": "Elena checked the final bus departures against the advertised finish of an adult community performance and supplied the organizers with confirmed travel information. They adjusted their audience notice before opening, so attendees could compare the actual options rather than assume a special late service existed."
+        },
+        {
+          "member_id": "m036",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Quentin compared a proposed civic parcel notice with the depot's actual collection requirements and flagged a decorative seal described as mandatory. The issuing office removed that wording before distribution, while a separate question about collections by representatives remained with the policy staff."
+        }
+      ],
+      "group": 3
+    },
+    {
+      "id": "ozx-04-01-news-article",
+      "format": "news_article",
+      "theme": "Blue country, growing things",
+      "topic": "Blue country, growing things",
+      "member_ids": [
+        "m004",
+        "m016",
+        "m027",
+        "m029",
+        "m034",
+        "m040"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m004",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Ada assembled a small display pairing local bean names with blue paper patterns contributed by adult gardeners in Blue Orchard village. Visitors supplied additional recollections on separate cards, and she kept those memories visibly distinct from the seed library's growing records."
+        },
+        {
+          "member_id": "m016",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Jonas compared a proposed orchard water rota with the existing allocation notice and marked the difference between a local suggestion and an adopted rule. At the public review, growers discussed the actual proposal rather than treating its green heading as the Wizard's final order."
+        },
+        {
+          "member_id": "m027",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Lydia compared a small pear-picking tally with the empty baskets available for the next shift and made a simple planning sheet. Her supervisor used the sheet to request the remaining baskets before work began, rather than treating her first estimate as exact."
+        },
+        {
+          "member_id": "m029",
+          "theme": "Mutual help",
+          "fictional_premise": "Celia paired willing new allotment holders with experienced gardeners for a single orientation visit rather than assigning indefinite mentoring duties. The newcomers found their plots and shared facilities, and both sides knew the introduction was complete without creating an unspoken continuing obligation."
+        },
+        {
+          "member_id": "m034",
+          "theme": "Small-business wins",
+          "fictional_premise": "Peter offered clearly priced smaller bags of pears alongside his usual larger portions after customers asked for purchases they could carry home easily. The smaller bags sold during the next market, and his end-of-day tally distinguished those sales from fruit taken for household use."
+        },
+        {
+          "member_id": "m040",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Simon introduced separate collection tickets for returned vegetable crates and crates ready to leave, while retaining the established cleaning routine. At the next handover, stallholders could identify their ready allocation without moving containers between work areas or asking him to interrupt a wash."
+        }
+      ],
+      "group": 4
+    },
+    {
+      "id": "ozx-04-02-conversation-transcript",
+      "format": "conversation_transcript",
+      "theme": "Blue country, growing things",
+      "topic": "Blue country, growing things",
+      "member_ids": [
+        "m004",
+        "m016",
+        "m027",
+        "m029",
+        "m034",
+        "m040"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m004",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Ada tested a borrowing register with separate spaces for seed taken and seed later returned, rather than treating every exchange as a completed loan. At the next opening she could reconcile the packets on hand without mistaking an intended return for stock."
+        },
+        {
+          "member_id": "m016",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Jonas reorganized his channel inspection notebook by familiar orchard landmarks and added a separate space for matters awaiting a decision. His relief caretaker located the recorded observations during a handover without mistaking an unconfirmed concern for a completed maintenance job."
+        },
+        {
+          "member_id": "m027",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Lydia added a removable blue fabric marker to her own ordinary work bag after comparing the similar bags left in the orchard break room. She found it immediately at shift's end, and coworkers adapted the idea with their preferred colors rather than buying matching equipment."
+        },
+        {
+          "member_id": "m029",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Celia displayed the actual plot-allocation rules beside a plain account of how the waiting list worked, keeping applicant names private. At an Eastfield meeting residents could distinguish the council's requirements from local preferences, although they did not agree on a proposed priority change."
+        },
+        {
+          "member_id": "m034",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Peter replaced generic green market cards with readable blue cards naming the local growing areas represented on his stall. Customers asked about the different orchards, and he could answer from his delivery records without pretending that color alone guaranteed quality or origin."
+        },
+        {
+          "member_id": "m040",
+          "theme": "Small-business wins",
+          "fictional_premise": "Simon agreed a regular return window with market herb sellers whose late arrivals had complicated his finishing time. They brought their empty containers during the window on the next market day, and he completed the booked cleaning work within the shift he had quoted."
+        }
+      ],
+      "group": 4
+    },
+    {
+      "id": "ozx-04-03-social-thread",
+      "format": "social_thread",
+      "theme": "Blue country, growing things",
+      "topic": "Blue country, growing things",
+      "member_ids": [
+        "m004",
+        "m016"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m004",
+          "theme": "Mutual help",
+          "fictional_premise": "Ada held a quiet browsing hour for first-time seed borrowers who wanted to ask basic questions away from the busy exchange table. The visitors chose packets and left with the library's existing growing notes; a question about an unfamiliar variety remained unanswered."
+        },
+        {
+          "member_id": "m016",
+          "theme": "Mutual help",
+          "fictional_premise": "Jonas ran a short question session for new orchard plot users about where to find the current shared water schedule and whom to contact about conflicts. Participants identified their listed turns, while he referred a disputed allocation instead of making a private exception."
+        }
+      ],
+      "group": 4
+    },
+    {
+      "id": "ozx-04-04-email-thread",
+      "format": "email_thread",
+      "theme": "Blue country, growing things",
+      "topic": "Blue country, growing things",
+      "member_ids": [
+        "m027",
+        "m029"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m027",
+          "theme": "Mutual help",
+          "fictional_premise": "Lydia showed a newer adult apprentice the harvest tally method she had recently learned, using spare counters before they recorded actual work. The apprentice completed a practice total and then checked a real tally with her, while unfamiliar orchard tasks stayed with their supervisor."
+        },
+        {
+          "member_id": "m029",
+          "theme": "Arts",
+          "fictional_premise": "Celia organized an adult gardeners' sketch session using harvested vegetables as subjects and the ordinary allotment table as a workspace. Participants completed small drawings that later decorated the shared noticeboard, including contributions from gardeners who had declined to give a growing demonstration."
+        }
+      ],
+      "group": 4
+    },
+    {
+      "id": "ozx-04-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "Blue country, growing things",
+      "topic": "Blue country, growing things",
+      "member_ids": [
+        "m034",
+        "m040"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m034",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Peter tried a small tally card with separate marks for sales, samples and damaged fruit during a plum market. At closing he reconciled the remaining stock with those categories, although the trial was too short to establish whether his overall losses had changed."
+        },
+        {
+          "member_id": "m040",
+          "theme": "Mutual help",
+          "fictional_premise": "Simon prepared a simple count sheet for a relief worker covering his collection desk, with unresolved discrepancies kept separate from confirmed returns. The worker completed the afternoon handover and passed on one missing-container query without blaming a stallholder or quietly changing the count."
+        }
+      ],
+      "group": 4
+    },
+    {
+      "id": "ozx-05-01-news-article",
+      "format": "news_article",
+      "theme": "Making ordinary services welcoming",
+      "topic": "Making ordinary services welcoming",
+      "member_ids": [
+        "m009",
+        "m010",
+        "m019",
+        "m021",
+        "m032",
+        "m045"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m009",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Nora compared her North Orchard travel schedule with the clinics' public opening windows and proposed a different order for administrative stops. The revised route let her deliver routine paperwork while reception desks were staffed, without changing any clinical decisions or sharing household information."
+        },
+        {
+          "member_id": "m010",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Tobias paired the community kitchen's written duty names with simple drawings of the relevant work areas, checking their meaning with other porters. A relief worker followed the closing rota without repeatedly interrupting the cook, while the full written instructions remained available."
+        },
+        {
+          "member_id": "m019",
+          "theme": "Small-business wins",
+          "fictional_premise": "Beatrice offered a short canteen lunch menu built around produce already available from her suppliers instead of advertising dishes dependent on uncertain deliveries. Customers bought the listed lunches, and the kitchen finished service without needing to cross out half the menu."
+        },
+        {
+          "member_id": "m021",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Iris separated requested visits from confirmed assignments in her scheduling view and tested the change with a colleague using dummy entries. The colleague correctly identified the unstaffed slots, and Iris used the distinction in the next private handover without exposing household information."
+        },
+        {
+          "member_id": "m032",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Caleb asked the civic directory desk to distinguish the clinic's reception opening time from its appointment hours. The corrected public listing stopped implying that an open door guaranteed an appointment, and his counter notice matched it without disclosing anything about individual visitors."
+        },
+        {
+          "member_id": "m045",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Mara separated returned equipment awaiting the established check from stock recorded as available in her loan ledger. At the next desk handover, a colleague accurately described availability without promising an unchecked item, and no borrower details appeared on the public stock notice."
+        }
+      ],
+      "group": 5
+    },
+    {
+      "id": "ozx-05-02-webinar",
+      "format": "webinar",
+      "theme": "Making ordinary services welcoming",
+      "topic": "Making ordinary services welcoming",
+      "member_ids": [
+        "m009",
+        "m010",
+        "m019",
+        "m021",
+        "m032",
+        "m045"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m009",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Nora pointed out that a civic directory listed a clinic's public entrance under an old building name and supplied the current reception wording. The Wizard's local information desk corrected its directory, making the clinic entry consistent with the sign outside."
+        },
+        {
+          "member_id": "m010",
+          "theme": "Mutual help",
+          "fictional_premise": "Tobias offered a short orientation for new kitchen volunteers, showing where ordinary supplies belonged and who could answer questions outside his role. The volunteers put away the delivery in the agreed places, and the next shift found what it needed without searching."
+        },
+        {
+          "member_id": "m019",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Beatrice gathered memories of ordinary Munchkin market lunches and paired her existing canteen dishes with small cards explaining the local names. Diners compared the names used in their own villages, while she kept the ingredient information separate from the affectionate folklore."
+        },
+        {
+          "member_id": "m021",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Iris asked a civic service desk to correct a public leaflet that implied every home-help request received an immediate appointment. The replacement explained the confirmation step, and staff could give applicants consistent information while the actual availability of visits remained limited."
+        },
+        {
+          "member_id": "m032",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Caleb tested a revised blank booking slip with larger spacing between the appointment day, arrival time and reception contact instructions. Colleagues interpreting dummy examples identified the intended time consistently, and the clinic adopted the administrative layout without changing any clinical wording."
+        },
+        {
+          "member_id": "m045",
+          "theme": "Mutual help",
+          "fictional_premise": "Mara coordinated an ordinary loan-extension request through the service's existing process and confirmed the revised return arrangement privately. The borrower received a clear answer without repeating personal circumstances at the counter, while Mara left another unconfirmed request pending rather than linking the two households."
+        }
+      ],
+      "group": 5
+    },
+    {
+      "id": "ozx-05-03-social-thread",
+      "format": "social_thread",
+      "theme": "Making ordinary services welcoming",
+      "topic": "Making ordinary services welcoming",
+      "member_ids": [
+        "m009",
+        "m010"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m009",
+          "theme": "Mutual help",
+          "fictional_premise": "Nora walked a temporary colleague through the nonclinical parts of her visiting rota, including reception contact windows and where blank administrative forms were kept. The colleague completed the office handover without a public list of households; a remote stop still needed scheduling."
+        },
+        {
+          "member_id": "m010",
+          "theme": "Arts",
+          "fictional_premise": "Tobias lent clean, unused kitchen utensils to an adult theater group for a comic sound-effects rehearsal and kept a simple return list. The performers found the sounds they wanted, and he received the complete set back before the next kitchen shift."
+        }
+      ],
+      "group": 5
+    },
+    {
+      "id": "ozx-05-04-email-thread",
+      "format": "email_thread",
+      "theme": "Making ordinary services welcoming",
+      "topic": "Making ordinary services welcoming",
+      "member_ids": [
+        "m019",
+        "m021"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m019",
+          "theme": "Mutual help",
+          "fictional_premise": "Beatrice wrote down the sequence and quantities for an ordinary dish a relief cook already knew how to prepare, then observed a trial service. The cook reproduced the usual batch without calling her away from purchasing; a second seasonal dish remained undocumented."
+        },
+        {
+          "member_id": "m021",
+          "theme": "Mutual help",
+          "fictional_premise": "Iris arranged agreed callback windows for helpers whose paid shifts made repeated daytime calls difficult, recording only the availability needed for scheduling. She completed the next week's confirmations during those windows and left an unmatched request visibly pending rather than promising a visit."
+        }
+      ],
+      "group": 5
+    },
+    {
+      "id": "ozx-05-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "Making ordinary services welcoming",
+      "topic": "Making ordinary services welcoming",
+      "member_ids": [
+        "m032",
+        "m045"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m032",
+          "theme": "Mutual help",
+          "fictional_premise": "Caleb kept a delayed reception queue informed with general status updates and offered private conversations for individual booking questions. Visitors could choose whether to wait or discuss another arrangement, while nobody's appointment reason was announced and the finishing time remained uncertain."
+        },
+        {
+          "member_id": "m045",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Mara asked the civic information desk to remove an outdated statement that equipment could always be collected immediately from North Orchard. The corrected notice directed people to check availability first, and her counter staff could explain the same process without offering clinical advice."
+        }
+      ],
+      "group": 5
+    },
+    {
+      "id": "ozx-06-01-news-article",
+      "format": "news_article",
+      "theme": "Good craft without a certificate of magic",
+      "topic": "Good craft without a certificate of magic",
+      "member_ids": [
+        "m011",
+        "m013",
+        "m022",
+        "m026",
+        "m037",
+        "m048"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m011",
+          "theme": "Arts",
+          "fictional_premise": "Oscar made a tabletop exhibition of changing orchard seasons using painted folding panels rather than a powered spectacle. Visitors could move around the display in the Junction Quarter hall and follow the sequence, and the panels packed into the available carrying cases."
+        },
+        {
+          "member_id": "m013",
+          "theme": "Small-business wins",
+          "fictional_premise": "Vera prepared a written estimate for restoring a chipped decorative wall plaque, separating the visible repair from optional color matching. The customer chose the modest version and paid the agreed price after collection, without either of them claiming the join had disappeared."
+        },
+        {
+          "member_id": "m022",
+          "theme": "Small-business wins",
+          "fictional_premise": "Daniel offered potters a modest shared collection window for separately labeled clay orders instead of holding stock for an uncertain bulk purchase. The participating customers collected their agreed quantities, and he kept enough cash uncommitted for his next ordinary supplier payment."
+        },
+        {
+          "member_id": "m026",
+          "theme": "Mutual help",
+          "fictional_premise": "Amir guided a reading-room visitor through finding their own saved document, asking them to operate the tablet rather than taking it from them. The visitor reopened the file and repeated the navigation unaided, without Amir reading or retaining its private contents."
+        },
+        {
+          "member_id": "m037",
+          "theme": "Arts",
+          "fictional_premise": "Rosa shortened an adult ceramics course to a small set of decorative tiles so participants could finish within the studio's available schedule. The group completed a shared display of individually chosen marks, and the more ambitious vessel project remained an option rather than a promised result."
+        },
+        {
+          "member_id": "m048",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Julian made interchangeable blue lettering panels for a Clay Hollow stallholder who wanted a local look without replacing the whole sign. The trader used the panels at the next market and changed the product wording afterward, retaining the original display frame."
+        }
+      ],
+      "group": 6
+    },
+    {
+      "id": "ozx-06-02-conversation-transcript",
+      "format": "conversation_transcript",
+      "theme": "Good craft without a certificate of magic",
+      "topic": "Good craft without a certificate of magic",
+      "member_ids": [
+        "m011",
+        "m013",
+        "m022",
+        "m026",
+        "m037",
+        "m048"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m011",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Oscar separated a borrowed Wizard's Office emblem from the credits on a community exhibition so visitors would not mistake a venue loan for official endorsement. The hall accepted the revised display, which still acknowledged the loan and named the volunteers' contribution collectively."
+        },
+        {
+          "member_id": "m013",
+          "theme": "Arts",
+          "fictional_premise": "Vera assembled a small Clay Hollow display of decorative fragments and practice joins, showing repairs as part of an object's history rather than disguising every line. Visitors compared the examples closely, and an adult beginner selected an imperfect practice piece without embarrassment."
+        },
+        {
+          "member_id": "m022",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Daniel paired his clay stock list with removable batch cards that stayed with reserved orders until collection. During the next busy opening he distinguished reserved material from available stock without unpacking every order, though a late customer's reservation still required a decision."
+        },
+        {
+          "member_id": "m026",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Amir made a reusable troubleshooting card for the repair counter that separated what a customer saw from what staff had actually reproduced. On the next intermittent fault, the card preserved the useful observations and left the cause unresolved instead of implying a completed repair."
+        },
+        {
+          "member_id": "m037",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Rosa arranged practice examples by the stage of work they illustrated rather than by how polished they looked. During class, adult learners selected the relevant example themselves and resumed their own pieces, giving her more time for questions that actually required individual attention."
+        },
+        {
+          "member_id": "m048",
+          "theme": "Small-business wins",
+          "fictional_premise": "Julian recorded the finishing time on a small tabletop sign order and included that work explicitly in his next quotation. The customer accepted the stated scope, and he delivered the finished signs for the agreed price without adding unpaid decorative flourishes."
+        }
+      ],
+      "group": 6
+    },
+    {
+      "id": "ozx-06-03-social-thread",
+      "format": "social_thread",
+      "theme": "Good craft without a certificate of magic",
+      "topic": "Good craft without a certificate of magic",
+      "member_ids": [
+        "m011",
+        "m013"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m011",
+          "theme": "Small-business wins",
+          "fictional_premise": "Oscar quoted a small traveling display in separate parts for design, preparation and transport, then delivered the version a hall could afford. The organizer paid the agreed invoice without expecting the optional backdrop, while demand for a second booking remained uncertain."
+        },
+        {
+          "member_id": "m013",
+          "theme": "Mutual help",
+          "fictional_premise": "Vera sorted donated ornamental pieces for a community craft session, separating those suitable for display from fragments she would not offer for handling. Volunteers completed a small arrangement with the selected pieces; she made no promise about restoring the remaining objects."
+        }
+      ],
+      "group": 6
+    },
+    {
+      "id": "ozx-06-04-email-thread",
+      "format": "email_thread",
+      "theme": "Good craft without a certificate of magic",
+      "topic": "Good craft without a certificate of magic",
+      "member_ids": [
+        "m022",
+        "m026"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m022",
+          "theme": "Arts",
+          "fictional_premise": "Daniel supplied clearly identified small clay samples for an adult ceramics class exploring surface marks, using material already allocated for demonstrations. The class completed a set of practice textures, and its instructor could connect each sample to the relevant batch description."
+        },
+        {
+          "member_id": "m026",
+          "theme": "Arts",
+          "fictional_premise": "Amir helped adult exhibition volunteers arrange their own photographs into a simple offline slideshow on an existing reading-room tablet. They tested the sequence successfully before the local display opened, and he left them a brief navigation note rather than becoming the permanent operator."
+        }
+      ],
+      "group": 6
+    },
+    {
+      "id": "ozx-06-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "Good craft without a certificate of magic",
+      "topic": "Good craft without a certificate of magic",
+      "member_ids": [
+        "m037",
+        "m048"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m037",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Rosa invited adult learners to develop blue decorative motifs from ordinary Clay Hollow doorways, fabrics and market signs rather than copy a single official emblem. Their finished sample display showed distinct local references, including a participant's choice to leave part of a tile uncolored."
+        },
+        {
+          "member_id": "m048",
+          "theme": "Arts",
+          "fictional_premise": "Julian arranged reusable title cards for an adult ceramics exhibition, checking their readability beside actual pieces before producing the set. Visitors could match each title to its object during the opening, while an oversized piece remained outside the planned display rather than being squeezed in."
+        }
+      ],
+      "group": 6
+    },
+    {
+      "id": "ozx-07-01-news-article",
+      "format": "news_article",
+      "theme": "What the land tells us, and what it does not",
+      "topic": "What the land tells us, and what it does not",
+      "member_ids": [
+        "m006",
+        "m028",
+        "m033",
+        "m039",
+        "m043",
+        "m046"
+      ],
+      "target_words": 1100,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A local-news roundup with six short reported items under a common theme. Give each item a specific headline and an actual reported episode. This is a digest, not one implausible event involving everybody.",
+      "experience_slot": 1,
+      "authoring_seeds": [
+        {
+          "member_id": "m006",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Leona submitted a marked walking map when a public path notice used an unfamiliar administrative boundary instead of the South Copse entrance name. The local office issued a clarified notice, and walkers could match its wording to the sign they actually encountered."
+        },
+        {
+          "member_id": "m028",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Owen summarized repeated standing-water observations for the local works office, separating where water was seen from his unconfirmed explanation. The office acknowledged the report and added the location to its inspection list; he did not describe that acknowledgment as a completed repair."
+        },
+        {
+          "member_id": "m033",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Nadia presented a preliminary path survey with measured sections shaded differently from stretches not yet checked. A public-works meeting used the drawing to choose where further information was needed, rather than treating the Wizard's printed heading as proof that the entire route was assessed."
+        },
+        {
+          "member_id": "m039",
+          "theme": "Small-business wins",
+          "fictional_premise": "Daphne compared vegetable offers with kitchen staff's preparation estimates before placing a routine school-meal order. She chose a modestly priced option the cooks could use within their working time, and the delivered order matched the agreed quantities without requiring an extra preparation shift."
+        },
+        {
+          "member_id": "m043",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Priya divided her bird notebook into seen, heard and uncertain observations and tested the layout during a familiar South Copse survey. She submitted a usable record of common birds with the uncertain entry clearly marked, rather than dropping the whole outing or inventing certainty."
+        },
+        {
+          "member_id": "m046",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Noel supplied his local rainfall log to a public-works consultation with missing readings visibly marked instead of filled by guesswork. The office included the log as a limited observation record, while leaving the cause of lane flooding to its separate investigation."
+        }
+      ],
+      "group": 7
+    },
+    {
+      "id": "ozx-07-02-webinar",
+      "format": "webinar",
+      "theme": "What the land tells us, and what it does not",
+      "topic": "What the land tells us, and what it does not",
+      "member_ids": [
+        "m006",
+        "m028",
+        "m033",
+        "m039",
+        "m043",
+        "m046"
+      ],
+      "target_words": 1300,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A warm group conversation in which all six members describe their second, distinct experience. Let them ask one another questions, react and disagree. Vary turn lengths; no identical confession monologues or compulsory lesson for each person.",
+      "experience_slot": 2,
+      "authoring_seeds": [
+        {
+          "member_id": "m006",
+          "theme": "Mutual help",
+          "fictional_premise": "Leona led a short familiar-path walk with pauses agreed beforehand, asking participants whether the stopping places worked for them. Everyone returned together and several stayed to compare route preferences, though she left an unvisited extension out of her recommendations."
+        },
+        {
+          "member_id": "m028",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Owen tested a field-note template with spaces for location, observation and unanswered question, using familiar Reed Flats landmarks alongside official labels. A colleague located the recorded inspection points from the notes, and the office could distinguish the observed conditions from possible causes."
+        },
+        {
+          "member_id": "m033",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Nadia added a small landmark sketch beside each entry in a public-space measurement notebook and asked a colleague to retrace the sequence. The colleague found the intended points without clarification, making the record easier to reuse while its measurement limitations stayed explicit."
+        },
+        {
+          "member_id": "m039",
+          "theme": "Government and the Wizard",
+          "fictional_premise": "Daphne asked the local purchasing office whether a Wizard-branded supplier list was compulsory or simply a directory. Its written clarification allowed her to compare an eligible nearby seller on the same terms, and she completed the comparison without claiming an exemption from procurement rules."
+        },
+        {
+          "member_id": "m043",
+          "theme": "Small-business wins",
+          "fictional_premise": "Priya grouped the shop's common produce codes beside the till in the order she actually needed them, with her supervisor's agreement. During a busy shift she completed the usual entries without searching several separate sheets, while unfamiliar items still went through the normal check."
+        },
+        {
+          "member_id": "m046",
+          "theme": "Innovation in Oz",
+          "fictional_premise": "Noel tested a pocket tally card that let him transfer rain-gauge observations to his notebook after farm shifts without relying on memory. The week's entries retained their observation times and one explicit gap, making the record usable without pretending it was continuous."
+        }
+      ],
+      "group": 7
+    },
+    {
+      "id": "ozx-07-03-social-thread",
+      "format": "social_thread",
+      "theme": "What the land tells us, and what it does not",
+      "topic": "What the land tells us, and what it does not",
+      "member_ids": [
+        "m006",
+        "m028"
+      ],
+      "target_words": 450,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "A social post and natural uneven replies between these members. Both reveal their own distinct recent work in the course of the exchange; no invented handles or popularity metrics.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m006",
+          "theme": "Fashion and local identity",
+          "fictional_premise": "Leona gathered walkers' descriptions of the blue gateposts used as informal South Copse landmarks and added those descriptions to an existing route leaflet. Newcomers found the intended meeting entrance during a trial walk without treating every blue gate as a public path."
+        },
+        {
+          "member_id": "m028",
+          "theme": "Mutual help",
+          "fictional_premise": "Owen helped residents turn vague reports about a wet lane into location descriptions the village desk could use, without asking anyone to inspect drains themselves. The desk accepted the grouped reports and linked duplicates, while the source of the recurring water remained undetermined."
+        }
+      ],
+      "group": 7
+    },
+    {
+      "id": "ozx-07-04-email-thread",
+      "format": "email_thread",
+      "theme": "What the land tells us, and what it does not",
+      "topic": "What the land tells us, and what it does not",
+      "member_ids": [
+        "m033",
+        "m039"
+      ],
+      "target_words": 550,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "An actual email exchange between these members about their different recent experiences and useful observations. Keep messages unequal in length; no customer names, contact addresses or fake attachments.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m033",
+          "theme": "Arts",
+          "fictional_premise": "Nadia measured the usable tabletop lengths for a South Copse community drawing display and translated them into a simple paper layout. Organizers arranged the submitted work within the available space before opening, without treating her layout as a structural assessment of the room."
+        },
+        {
+          "member_id": "m039",
+          "theme": "Mutual help",
+          "fictional_premise": "Daphne gathered cooks' preferences for ordinary ingredient substitutions into a short purchasing reference, distinguishing acceptable alternatives from items requiring another conversation. During a disrupted delivery she placed an agreed replacement order, while leaving an unapproved substitute out rather than making the cooks absorb it."
+        }
+      ],
+      "group": 7
+    },
+    {
+      "id": "ozx-07-05-manager-conversation",
+      "format": "manager_conversation",
+      "theme": "What the land tells us, and what it does not",
+      "topic": "What the land tells us, and what it does not",
+      "member_ids": [
+        "m043",
+        "m046"
+      ],
+      "target_words": 600,
+      "premise": "Create ORIGINAL FICTION from these authoring premises. They are not real evidence or text to cite. Establish the member role/context naturally, describe the concrete completed action and modest result in this document, and keep the exact major facts internally consistent. The writer may invent natural dialogue, incidental details and opinions, but must not turn an action into mere intention or replace it with a retelling of an earlier episode. Each member should have a distinct contribution; a related discussion is not proof someone else did their work. Do not expose member IDs, seed slots, evaluation instructions or quotas in the prose. Only the supplied named members and Rowan Bell may be personal names. For care/health roles, use service administration and access experiences, never medical treatment details or patient information.",
+      "genre_notes": "Community-manager Rowan Bell notes from separate conversations with these two members, naming the information path. Paraphrase naturally rather than inventing verbatim dialogue. Preserve completed action versus possible next steps.",
+      "experience_slot": 3,
+      "authoring_seeds": [
+        {
+          "member_id": "m043",
+          "theme": "Arts",
+          "fictional_premise": "Priya contributed small drawings of familiar birds to a neighborhood nature display, labeling them as her illustrations rather than identification evidence. Visitors used the drawings to discuss ordinary woodland sightings, and she kept an uncertain field observation out of the display's factual captions."
+        },
+        {
+          "member_id": "m046",
+          "theme": "Mutual help",
+          "fictional_premise": "Noel arranged a clearly bounded observation handover with another willing adult during a busy farm period, explaining the existing record format rather than asking for conclusions. The volunteer returned completed entries for the agreed days, and Noel credited those observations separately from his own."
+        }
+      ],
+      "group": 7
+    }
+  ]
+}

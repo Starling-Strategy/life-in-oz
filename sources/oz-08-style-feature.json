@@ -1,0 +1,44 @@
+{
+  "id": "oz-08-style-feature",
+  "title": "The Geometry of a Good Pocket",
+  "format": "magazine_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m038",
+    "m025"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Isaac Holt has a coat on the Timber Verge worktable with an ordinary exterior and a less ordinary lining. The owner wanted to keep wearing it on the bus to the Emerald City. What she wanted changed was inside: a place for the small notebook and phone she was forever moving between her hands and a bag. Holt, who does clothing alterations, calls this a better request than simply asking for 'a bigger pocket'."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m025",
+      "text": "I visited before the lining was closed. Isaac had pinned a cloth pocket in place and asked the owner to try the coat with her own notebook inside. I watched her sit, stand and reach for it. They moved it once. I couldn't have told them where it should go by looking at the coat on the table."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m038",
+      "text": "I ask what the person will actually carry, then we try the position. A deep pocket isn't useful if you can't reach the bottom when you're sitting. We also check whether the weight pulls the lining. There isn't one right place I can read from somebody's sleeve."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The finished pocket was wider than the coat's narrow original one and had a small inner division to keep the phone from sliding under the notebook. Holt kept the Munchkin-blue exterior unchanged. The owner tried the coat again before taking it home and said she could reach both items without putting her bag on the floor. That was the result checked at the counter; the alteration has not been followed through a winter of bus journeys."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m025",
+      "text": "I had gone in expecting to write about the color. The useful detail turned out to be the owner sitting down in the half-finished coat. It changed the placement. I'd have missed that if I'd only asked Isaac for a photograph of the finished work."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m038",
+      "text": "The best compliment is when somebody stops having to think about the alteration. But I still want them to tell me if a seam bothers them. 'Nearly right' isn't what they brought the coat in for."
+    }
+  ],
+  "content_sha256": "447d74ebbf346584c55946dae941231b5978db45c98cd33ec3ca9f9fc9b99223"
+}

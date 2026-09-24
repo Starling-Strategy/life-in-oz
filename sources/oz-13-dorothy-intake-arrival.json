@@ -1,0 +1,28 @@
+{
+  "id": "oz-13-dorothy-intake-arrival",
+  "title": "Intake Notes: A Traveler from Kansas Arrives in Munchkinland",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m007"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Boq at the Munchkinland township hall. He reported that a young girl named Dorothy Gale arrived unexpectedly this morning after a severe cyclone carried her family's farmhouse into the district."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Boq said Dorothy was traveling with her small dog Toto and was eager to get home to her family in Kansas. When local residents gathered to see what happened, she told them plainly: \"I am not a sorceress. My house blew down in the cyclone, and I could not help where it landed.\""
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Boq and the northern regional liaison advised her to follow the yellow brick road to the central district to consult the administration. Dorothy thanked the council, put on a pair of silver walking shoes, and set out immediately."
+    }
+  ],
+  "content_sha256": "333b22bc1d012efaf80a85dad3d2961e364d8ef36fd53f21634f8af90681511d"
+}

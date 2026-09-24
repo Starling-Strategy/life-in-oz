@@ -1,0 +1,271 @@
+{
+  "edition": "1.0.0",
+  "source_text_policy": "All 53 source text files and all canonical block arrays are unchanged from the curated input. JSON fixture-only metadata was removed. Evidence quotations and offsets are unchanged. Two reference summaries were corrected as documented in evaluation/release-corrections.md.",
+  "sources": [
+    {
+      "id": "oz-01-civic-news",
+      "text_sha256": "43fa31cdbe388cee98a80c940c9bb8bdef69e3419c05ee76a3c57f1dd2b00156",
+      "content_sha256": "8ffe7f4f76c4a4e384a89dc3df1acc3ace422c6765a0b6e609735d889e80a515"
+    },
+    {
+      "id": "oz-02-civic-social",
+      "text_sha256": "85a5b8d131311f84b40bbe132544150b7b70454b8374ad283f88178290f08357",
+      "content_sha256": "43f1b941f56f1b77b9d85c8f4c5d797b868d8d093c711a554856fd8f3a015581"
+    },
+    {
+      "id": "oz-03-civic-panel",
+      "text_sha256": "026feeb0eb4479be0b80d9662eeba823ee6de1ccec01807733e00b17edc7e8ff",
+      "content_sha256": "69d7ce2fa8628de640b8480ccb48070718b4f24a58a35793ac286aaa818fb3cf"
+    },
+    {
+      "id": "oz-04-invention-report",
+      "text_sha256": "d050e6b9915bb8bb4f1c8d056f33ead2c49abd4139539e38dfa7d7b479e116bd",
+      "content_sha256": "45ecf207606f64e9b1a9cad82236e80cbecb8720a6084f868a16b9da90b14a86"
+    },
+    {
+      "id": "oz-05-invention-email",
+      "text_sha256": "c9c9b2d4a8aa11bd1d14caf60dd814892c5ca85e5db3e74d2eecc0ef77c9acb8",
+      "content_sha256": "14dfad8cd897542ad39428286c8a152f08b76ab87002931a7637ff8447d4226f"
+    },
+    {
+      "id": "oz-06-maker-conversation",
+      "text_sha256": "6129c547a9210ad6a7f09f5a41789f3a7b1f43b0c038b8f7b4cbc14cc8254394",
+      "content_sha256": "f9a769085f13fa50b8ddac0a799e46bfc25e41b69fc80db77c26391c219cc2ed"
+    },
+    {
+      "id": "oz-07-style-social",
+      "text_sha256": "0725c35cd44c60afce97d60f9f09597643029c2f2d555edcceae6511ac109882",
+      "content_sha256": "6f7f634a14ff63f89ac9132ebee3b923faa25230521e3937a5d8e660c50e2779"
+    },
+    {
+      "id": "oz-08-style-feature",
+      "text_sha256": "54583dd4e27bfdfb8aa7f280f66e19a29aab70b7fa2c912ae67b21f2c73b6eec",
+      "content_sha256": "447d74ebbf346584c55946dae941231b5978db45c98cd33ec3ca9f9fc9b99223"
+    },
+    {
+      "id": "oz-09-style-phone-notes",
+      "text_sha256": "dd540ab50c417fe7e3e7d1b0b6b4f488107c062f68cefc593a97231e9ce9068e",
+      "content_sha256": "1758d44111b137518a7d6facee128f2e66cb31b1557a62bf9ddaf5106b859a91"
+    },
+    {
+      "id": "oz-10-business-news",
+      "text_sha256": "218b4a6f2fb3f5028d33e3eba476b6dd2e225a47699f4cc0522f011fca02a40b",
+      "content_sha256": "df2ddccfa89d9f87a4bfc3ea64db830055ab247110b51e6b4642e1ae392a2507"
+    },
+    {
+      "id": "oz-11-business-messages",
+      "text_sha256": "af8b988ce41dfe68ad8343a115a30ed63bfca6a1c0150477b98c25b5a5fc1573",
+      "content_sha256": "e34870d6b27fd681570465aa935d77d14a8bd8ca6ca38fb80173d9d82127598c"
+    },
+    {
+      "id": "oz-12-alumni-open-house",
+      "text_sha256": "3d3ce7b2693ead65f5656581520cf4b39e8bb74e37a385f169ce9168e6e802ab",
+      "content_sha256": "6870c4528f6df95c73bdceeca572e82409987e49e01736fec85909db68a302e5"
+    },
+    {
+      "id": "ozx-01-01-news-article",
+      "text_sha256": "915e7ba7d8c0c2d940bd9b3e37c6a4bca7bf48835a88b364d22f58b2dd46f8bc",
+      "content_sha256": "8b24cdd903419c0d2f034721420413f3a7eaa335f44b3eaffdf42d71920d6a7e"
+    },
+    {
+      "id": "ozx-01-02-webinar",
+      "text_sha256": "b969263945d2f6b04c6ce51cfb6c38233e8008c61fac590a482e14b269c6c5a9",
+      "content_sha256": "3c0c2eb5e536f33d2120ebac19af2a880b5c060175300f56ad964aed574a7fb0"
+    },
+    {
+      "id": "ozx-01-03-social-thread",
+      "text_sha256": "dda233e132b5cdd5e5c59d1653e18b26d38b1596755dbe0a953aa8309594c410",
+      "content_sha256": "3e02f98e45d95c811e7faed8daffa92af75ece338550290a012bd64e5390aa87"
+    },
+    {
+      "id": "ozx-01-04-email-thread",
+      "text_sha256": "94dc2a7d0ec366711126ba12485c7ff9b1037eb41242f56d6bad9e4af2763529",
+      "content_sha256": "ddcf862e14bf5cdc66d813451f25c8b3dbbf10dc2d6983feedcd3afee823388c"
+    },
+    {
+      "id": "ozx-01-05-manager-conversation",
+      "text_sha256": "5173c4fa85b8ff28c71c30347fc50afeb5dcfbf63fc0115436b9cb5846fcad5f",
+      "content_sha256": "48979a9907788984655db9575c1f67d905e65552a5def4b243752c67eb9a430b"
+    },
+    {
+      "id": "ozx-02-01-news-article",
+      "text_sha256": "7ed942e76310f61733ff76cd91abcfe2505d79ac34d15ce5d5865457ca157d0c",
+      "content_sha256": "89f5ff798583184c4788a2e0caaa08a37bdb9f83ff6c576e34c51e87ea391ea1"
+    },
+    {
+      "id": "ozx-02-02-conversation-transcript",
+      "text_sha256": "63554955ac96ad3d7cd58d029dc3675d3d3711c798b03c684a01871c08b582a2",
+      "content_sha256": "0af843eb74f2439193729f9b9dd1f6a68d55d05396771453e81a7f3bf3d1580a"
+    },
+    {
+      "id": "ozx-02-03-social-thread",
+      "text_sha256": "a9f6502d2a5bc4fea2dd86e6802da2519d5b10e349f2b56ff59e2e4f4bbd7acb",
+      "content_sha256": "b166c60db7a8a1e4c000dbb212393896ebc88f4de58342054710a9243bd60ee3"
+    },
+    {
+      "id": "ozx-02-04-email-thread",
+      "text_sha256": "d57a5307113315f2627039f21d4a0f54e107fe305963628250edaa9b7d9a3adc",
+      "content_sha256": "c33c76a8e60b5704bdf382c53ec0e6d2e2479d183b55deb1e2848da487851675"
+    },
+    {
+      "id": "ozx-02-05-manager-conversation",
+      "text_sha256": "fec2980ea79103a4b0889314160bde11e380886fc544abd13a9763db53559f8f",
+      "content_sha256": "efb5a8e91c58cb8d8237baf5f5fc46feae25e759b9788c2a42316c2369f1e1f9"
+    },
+    {
+      "id": "ozx-03-01-news-article",
+      "text_sha256": "c1379e8cfb38eb5debfa75691a449ed94ec4a66fb5e8ce3ae52ed83ee9df384b",
+      "content_sha256": "0f2dc7bb595d310edcd95d6e7a655c308d80221ee880e358f331baf46a4bb222"
+    },
+    {
+      "id": "ozx-03-02-webinar",
+      "text_sha256": "6558902e26322f71d231110a9ce43e46a539502a78888009052595f610e306f7",
+      "content_sha256": "23de64dfefa8cbc4547ca45d0d99c2749031436b42570c52755eff1d20dde2c1"
+    },
+    {
+      "id": "ozx-03-03-social-thread",
+      "text_sha256": "f42a236e7fb1ef7eea7223dca7badaaf1ba66f2f7ab49b4b2e4d62b0ce14c68f",
+      "content_sha256": "8eba46c68c3253a112a4343bce2a78e96b0dd63469a5ef39c9e3311b0d6c37d6"
+    },
+    {
+      "id": "ozx-03-04-email-thread",
+      "text_sha256": "730cb688a3880d40754b36bb4d2ccc6d696bba1146ae95d66447d135b1cb4095",
+      "content_sha256": "9276b5d0153c3cd7dd86d424ff31e4b0e658a5624a79c180019b1d7bc7493d69"
+    },
+    {
+      "id": "ozx-03-05-manager-conversation",
+      "text_sha256": "4a3925e5da79faf9eda2516318b92ac72e7c44c3a7fb872e747576fcccdbe976",
+      "content_sha256": "eb9eb5a01ccb65404db24f07573edd45cd7b37e1bf2d048af0986b9a322a22ca"
+    },
+    {
+      "id": "ozx-04-01-news-article",
+      "text_sha256": "583425484dfb3295397c3fb6665f8dae9c98d83ec4cad56e564436bc1e38e95c",
+      "content_sha256": "80dba18dd90067cbba187c08df8696c7ff675d3bde3ca0d104a47e6f1ddf722a"
+    },
+    {
+      "id": "ozx-04-02-conversation-transcript",
+      "text_sha256": "f8c258e73c6e2e3d9113654930888df51fe0bd92a500e851a6824ed8f0064621",
+      "content_sha256": "5db96d3757787ef8ea91a718e5b21643c368135937a0237cc04a3cadf4193fc0"
+    },
+    {
+      "id": "ozx-04-03-social-thread",
+      "text_sha256": "0332c125051da4e2dff59ff7b4b21c1c199ca5f7e59d030b3483e1ff3288d9dc",
+      "content_sha256": "623eb8d62a02cea19a52be1a93745f7f9ec5e13c55960bf22c9245fda5e7771e"
+    },
+    {
+      "id": "ozx-04-04-email-thread",
+      "text_sha256": "77a4aba465a54bb3f7cd72f0f82372b8294e04e579ee212332fe37409d016147",
+      "content_sha256": "75bfbb3ca361e231b0c0ed8e1afb762f0108554a3027c3ede5c832b9e5e1645b"
+    },
+    {
+      "id": "ozx-04-05-manager-conversation",
+      "text_sha256": "91a01ebd5c0d0a3f91d59c353b926fb4f26a1287a1bb59b1c471186120129915",
+      "content_sha256": "cb5ee72d9ba1a34489428249b2093f12310a2283c8b769e79a0ba9754b25b6bf"
+    },
+    {
+      "id": "ozx-05-01-news-article",
+      "text_sha256": "8aa0bb56c6d0e83c36fc99fd351a1ae3ee0a15775c6171b8c453454cc67fa452",
+      "content_sha256": "3cb622781c1575b5c6c0847cb2df9a60465500a6458a8397275aa61d09d000b7"
+    },
+    {
+      "id": "ozx-05-02-webinar",
+      "text_sha256": "f7914bc37a8feebd987cb97509963f34ba20f0dc2dd3a85f4e6398460603d8d5",
+      "content_sha256": "4d48a4195b7292aadf26dfa159aa06a9e08453816acd5c90e3d997151a0c5cac"
+    },
+    {
+      "id": "ozx-05-03-social-thread",
+      "text_sha256": "fdb3a6c12bf2db355ebd22f5c86a30394059b3629c343eea7072af4786551427",
+      "content_sha256": "3e53adc5e56f28a6014ecc332146772dee9fde835f22cd27836d94cea57504b9"
+    },
+    {
+      "id": "ozx-05-04-email-thread",
+      "text_sha256": "d153cdf1013ce954eb61a1daf0ae73d252d3dd8d4e394bb883780b9b9a8b25fa",
+      "content_sha256": "91aa97c006642068152b86d8abad6a8bcad6abd4eafa24f613707e99d993bf4f"
+    },
+    {
+      "id": "ozx-05-05-manager-conversation",
+      "text_sha256": "f5c177cc94bfa34b7af6ec917e62b0edf2af7f69a3e73909dd6750fb9a0b5dc7",
+      "content_sha256": "d6f4a0ac097086bade850e3150e24088f564e471449617f817a72e5d6ae3e015"
+    },
+    {
+      "id": "ozx-06-01-news-article",
+      "text_sha256": "14f5357b646e3145999a8c710d0b3fa46c39774bff0777e407b56089ddd9af27",
+      "content_sha256": "2b73296989d6e5e5f1b63157c64d6afb7b2379e452fa85c3b95f56a2fcc4432d"
+    },
+    {
+      "id": "ozx-06-02-conversation-transcript",
+      "text_sha256": "628a32755d91b2df2846cc7420c23e456b8e54a567cfd9df582fe2594c1f8dc5",
+      "content_sha256": "0d3e69cb812c0229d0f747de8e4b6df6471d83e73957e9cd97767f691ffdcc58"
+    },
+    {
+      "id": "ozx-06-03-social-thread",
+      "text_sha256": "1a7a6c2778da709c3e7ca286c1e49e1c5c50ef09728a94ccae8d60c45b98ab51",
+      "content_sha256": "45de35d356ac55d8e6985c1a5566ba5bb532b78581d3c91a552f9b56d423ecbb"
+    },
+    {
+      "id": "ozx-06-04-email-thread",
+      "text_sha256": "ea951f9c9398be434cde2a1a6d96949a3c038b48e2443dd2461dac8ea4bbd4aa",
+      "content_sha256": "398598a5a7818e6c191d497580a666b2dff7008d6e921c604b8cb0297a99ce88"
+    },
+    {
+      "id": "ozx-06-05-manager-conversation",
+      "text_sha256": "8c687748204ffa0965cb745fd5f0067d5c290a8561445966a4f92bfa8a7c6e27",
+      "content_sha256": "0dfb17561567a54f87dfadc7cbbafeca43b5753d5d3a77756a913d4f3d87f571"
+    },
+    {
+      "id": "ozx-07-01-news-article",
+      "text_sha256": "2fe0fc47646e0e6c80e0830f0f403630bf57739657204c1ea756fab9a149887e",
+      "content_sha256": "7282bf0827d8b06b3a619851ddf1d486640a9f6fd3e51e29fb4f6f8fa94fff73"
+    },
+    {
+      "id": "ozx-07-02-webinar",
+      "text_sha256": "dcd1c1dd8bdcc7e508c9ab8d3e95598409f0c17c23c96313080713e36c9fc5ee",
+      "content_sha256": "6a68557679dde25513ac6782f6d0b076ede91f706e4ac6233a6e81a4d4a9cd4d"
+    },
+    {
+      "id": "ozx-07-03-social-thread",
+      "text_sha256": "a74526c2ff9fa774ff0485ce2ada37e2f3881e338ea85ce812c22cee94cbe990",
+      "content_sha256": "d637f9ae79f301c353477b4729afe14cfb44f0b265cefa2309f81445e16f1824"
+    },
+    {
+      "id": "ozx-07-04-email-thread",
+      "text_sha256": "0717243cb191bff9b2a267ec74afbe7a93619d757a5d777b98b4270cbd0ef7e3",
+      "content_sha256": "3b1713657aaefdd117ab7f2a1752ab06693e7411ce68c88ba650555ecf685613"
+    },
+    {
+      "id": "ozx-07-05-manager-conversation",
+      "text_sha256": "48d6ce7c3c21ba03b1ee097fe0dbb69a01f05005e7bfee81f2e00d8d82d50862",
+      "content_sha256": "6aaa7d2e4b4d61768885256a41a48007924bd93846404038366b8aa8b23191a6"
+    },
+    {
+      "id": "ozx-08-oscar-listening-corner",
+      "text_sha256": "8999da291c4d42a229d05f005775370b73c941707e663bf1ed548a9c6169cd16",
+      "content_sha256": "6dc21577cd9ba81a085e60c69e0073dd8056abf928dced6b6bb0e7d999357c01"
+    },
+    {
+      "id": "oz-13-dorothy-intake-arrival",
+      "text_sha256": "42607605d24317314c991f8df07c29a3631340923ced56e602680c6fab4c5d5f",
+      "content_sha256": "333b22bc1d012efaf80a85dad3d2961e364d8ef36fd53f21634f8af90681511d"
+    },
+    {
+      "id": "oz-14-woodman-trail-clearing",
+      "text_sha256": "71e7b099368406c633dceb3f1000f451541a9de5d13e9f9dfa3a53848356df72",
+      "content_sha256": "7a323e5402f3d56c2b851e9f83c2d6e8528bfa87d7dfe15e50cef53e18a8fc9d"
+    },
+    {
+      "id": "oz-15-lion-ravine-crossing",
+      "text_sha256": "0901fefa572b78a661dc2ec1244e0e1af62d15355e620bc916be7a5c09f97c26",
+      "content_sha256": "9a096509d2adcb50df029b1e3ad834b990ed680af567edef6957543bbe53ee54"
+    },
+    {
+      "id": "oz-16-micefield-poppy-rescue",
+      "text_sha256": "5d8fb2eaebf3c6506010e96bbad6dcdaffe88a19f081b136e048d24e592f2263",
+      "content_sha256": "d868cc02ba062c6cbeccd2a9414f8dcd9e0f24ab616fd623beb92aeaf8d07c33"
+    },
+    {
+      "id": "oz-17-strawbridge-river-pole",
+      "text_sha256": "c0b5ceeba83c546b28ba31cae6b0c79743d1908b6f0827bed18104b74121655f",
+      "content_sha256": "2a4e898cba0a06526a99ba01fdf6ae34fad40ea8ce66474da5a9d19116d2aa26"
+    }
+  ]
+}

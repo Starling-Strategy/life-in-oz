@@ -1,0 +1,88 @@
+{
+  "id": "ozx-07-01-news-article",
+  "title": "Reading the Land: Notices, Notes, and Practical Certainty",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m006",
+    "m028",
+    "m033",
+    "m039",
+    "m043",
+    "m046"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Local authorities and residents often speak of 'reading the land,' a phrase that can mean anything from checking a drain to logging rainfall. This week, that phrase took on a sharper focus across South Copse, Reed Flats, and North Orchard. From walking paths to school kitchens, residents are finding that what the environment actually shows is frequently more useful—and sometimes less definitive—than the paperwork suggesting it should be."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In South Copse, a recent public path notice caused a minor stir among regular walkers. The announcement referenced an administrative boundary code that did not appear on any of the physical markers at the South Copse entrance. Leona Bracken, a walking-route steward, spent the weekend marking a map with the actual entrance names people use daily. She submitted the marked map to the local office, noting that the official wording made it difficult for visitors to match the paper notice to the sign they actually saw."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m006",
+      "text": "I just wanted the notice to say what the sign says. When you’re standing at a fork in the path, you don’t want to decode a bureaucratic grid reference. I sent in the map with the real names, and the office has since issued a clarified version. Now the paper matches the post."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Over in Reed Flats, the relationship between observation and official action took a different turn. Owen Flint, a drainage inspector, has been noting standing water at the edge of the main lane for several weeks. He recently sent a summary to the local works office, carefully separating his observations—where the water pooled and when it appeared—from his unconfirmed theories about why it was there."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m028",
+      "text": "I made sure to write down exactly what I saw, without saying I knew the cause. I suspected a blocked outlet, but I hadn't checked it. The office acknowledged the report and added the spot to their inspection list. I haven't seen a repair crew yet, so I'm not claiming the problem is solved, just that it's now on their list."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The Wizard's Office often provides broad headings for public works, but local surveyors are increasingly filling in the details. Nadia Stone, a survey assistant, presented a preliminary path survey at a public-works meeting. Her drawing used different shading for sections she had physically measured and stretches that had not yet been checked. This allowed the meeting to focus on where further information was needed, rather than assuming the entire route was assessed simply because a printed heading existed."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m033",
+      "text": "The old practice was to look at the official map and assume it was complete. I just wanted to show where my boots had actually been. We used the drawing to pick two gaps where we need more data. It’s a smaller step than finishing the whole route, but it’s a step based on what’s actually there."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "In North Orchard, the lesson of 'what the land tells us' applied to the supply chain. Daphne Lark, a school meal buyer, was preparing a routine vegetable order. Instead of choosing the cheapest option on the list, she compared the available offers with the preparation estimates provided by the kitchen staff."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m039",
+      "text": "The lowest bid was for a mix of carrots and parsnips that would have taken the cooks an extra hour to prep. I chose a modestly priced option that they could handle within their working time. The delivered order matched the agreed quantities perfectly, and the kitchen didn’t have to stay late. It’s about matching the ingredient to the reality of the kitchen, not just the price tag."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Back in the South Copse, the question of certainty is also appearing in nature. Priya Dell, a bird survey volunteer and shop cashier, has been refining her notebook layout. She divided her entries into three columns: seen, heard, and uncertain. During a recent survey, she encountered a bird that matched several possible species. Rather than guessing or discarding the outing, she marked the entry as uncertain."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m043",
+      "text": "I used to feel like if I wasn't sure, I hadn't really seen it. But I was there, and I heard it. I put it in the 'uncertain' column. It’s a usable record. I didn't invent a certainty I didn't have, but I didn't waste the data either. The layout is working well for me."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Finally, in Reed Flats, the issue of data gaps is being handled with a bit of visual honesty. Noel Banks, a rain gauge volunteer and farmhand, provided his local rainfall log to a public-works consultation. His log included several days where readings were missing. Instead of filling those gaps with estimates, he left them visibly marked as absent."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m046",
+      "text": "I couldn't read the gauge on a few days because of the weather. I didn't want to make up numbers just to make the chart look smooth. I marked the missing spots clearly. The office included the log as a limited observation record. They’re still investigating the cause of the lane flooding separately, but at least my data doesn't pretend to be more complete than it is."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "From marked maps to missing rainfall readings, the common thread in these local reports is a move toward practical clarity. Residents are finding that distinguishing between what is known, what is suspected, and what is simply absent is often the most valuable step in local governance and daily life."
+    }
+  ],
+  "content_sha256": "7282bf0827d8b06b3a619851ddf1d486640a9f6fd3e51e29fb4f6f8fa94fff73"
+}

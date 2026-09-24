@@ -1,0 +1,24 @@
+{
+  "id": "ozx-07-05-manager-conversation",
+  "title": "Manager Notes: Field Displays and Observation Handovers",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m043",
+    "m046"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Priya Dell about the recent neighborhood nature display in South Copse. She contributed several small drawings of local birds, specifically noting that these were her own illustrations, not identification evidence. She was careful to label the cards as 'artist’s interpretation' rather than field guides. This distinction seems to have been well-received; visitors used the drawings as a springboard to discuss their own ordinary woodland sightings rather than asking for expert confirmation. Priya mentioned she had one specific observation in her field notebook that she felt was too uncertain to include in the display’s factual captions, so she left it out entirely. It’s a good example of her keeping creative contribution separate from data recording."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Also talked with Noel Banks regarding his rain gauge records during the recent busy period at Reed Flats. He arranged a handover with a neighbor, whom I have not spoken to directly, to cover the readings for a few days when he was tied up with farm work. Noel explained that he walked the volunteer through the existing record format, focusing on how to mark missing readings rather than asking for specific conclusions or interpretations. The volunteer returned the entries for those agreed days, and Noel has credited those observations separately from his own in the log. He noted that the handover kept the data consistent without adding to his workload during peak season."
+    }
+  ],
+  "content_sha256": "6aaa7d2e4b4d61768885256a41a48007924bd93846404038366b8aa8b23191a6"
+}

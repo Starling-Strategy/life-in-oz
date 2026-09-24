@@ -1,0 +1,188 @@
+{
+  "name": "Life in Oz: civic power, useful inventions, personal style and small-business wins",
+  "purpose": "A reusable synthetic source collection for evaluating later ingestion. This is creative original fiction, not extraction of the novel and not application data.",
+  "member_ids": [
+    "m001",
+    "m002",
+    "m014",
+    "m017",
+    "m025",
+    "m030",
+    "m038",
+    "m047"
+  ],
+  "world_notes": [
+    "All people are adult human adaptations or original residents of modern Oz. They belong to the fictional Munchkin Association Alumni, whose shared history is attending local practical-learning workshops.",
+    "The Emerald City and Munchkin Country have ordinary shops, civic administration, buses, newspapers, phones and video calls. A few fanciful visual details are welcome. No complicated invented magic system is needed.",
+    "The Wizard's Office is a fictional governing institution, not a roster member. Residents disagree reasonably about its role: public works and shared standards versus cumbersome paperwork and showy announcements. Do not turn every official into a villain or introduce real-world politicians.",
+    "Book motifs are inspiration only: imposed green spectacles and the city's green commerce; Munchkin blue as a local preference; the gap between the Wizard's spectacle and practical ability; useful skills already present before receiving credentials; companions helping each other. Do not quote invented passages or imply that modern institutions/events occur in Baum.",
+    "Use fictional community manager Rowan Bell as needed, outside the member count. Unnamed customers and public officials are allowed. Do not create additional named private people.",
+    "Use relative time or no dates. A document's reference to a future action must remain a future action. Avoid creating a rigid shared timeline except where an explicit dependency is provided. No real URLs, social accounts, email addresses, telephone numbers or claims of actual recordings.",
+    "These are alternative original-fiction artifacts, not a continuation of pilot-01. Do not reuse that pilot's apple crates, raking mistakes, seed mix-ups, handout mistakes, flat tires or kitchen-capacity stories."
+  ],
+  "documents": [
+    {
+      "id": "oz-01-civic-news",
+      "format": "news_article",
+      "theme": "Government and the Wizard",
+      "member_ids": [
+        "m025",
+        "m030"
+      ],
+      "target_words": 600,
+      "topic": "A useful answer from the Wizard's Office, without a palace invitation",
+      "premise": "June Arden reports on a small civic-information win. Marcus Wren helped residents assemble ordinary tenancy questions into a readable request, and June asked the city office to answer them publicly rather than announce another ceremonial listening session. Invent a concrete modest response that happened. Give a fair reason why some official review exists. Leave one question genuinely unanswered.",
+      "genre_notes": "Write an actual local news article with a clear lead, reported facts and attributed quotations, not a lecture about transparency. June is the reporter; do not cast her as the official. No invented statistics required."
+    },
+    {
+      "id": "oz-02-civic-social",
+      "format": "social_thread",
+      "theme": "Government and the Wizard",
+      "member_ids": [
+        "m030",
+        "m001"
+      ],
+      "target_words": 320,
+      "topic": "The little yellow receipt is more useful than the big green seal",
+      "premise": "Marcus shares a short practical tip from helping a resident trace a repair request. Eleanor replies with a distinct firsthand experience of getting a street-direction sign corrected near her guesthouse. People can disagree about whether tracking requests solves delays. Neither episode is the tenancy Q&A from the news article.",
+      "genre_notes": "Natural community feed post and replies, brief and uneven. No user handles or fabricated engagement counts. It should be useful and mildly funny, not a manufactured viral thread."
+    },
+    {
+      "id": "oz-03-civic-panel",
+      "format": "webinar",
+      "theme": "Government and the Wizard",
+      "member_ids": [
+        "m025",
+        "m030",
+        "m047"
+      ],
+      "target_words": 1050,
+      "topic": "Does everything need a Wizard-approved stamp?",
+      "premise": "A live fictional alumni discussion about which public standards help and which merely look impressive. Marcus discusses a distinct completed effort making an office form easier to use, June describes testing the accuracy of a public notice rather than judging its design, and Imogen describes a neighborhood connectivity demonstration that worked without an official innovation badge. They have different opinions. Nobody proposes eliminating all oversight.",
+      "genre_notes": "A real conversation: participants ask one another questions, clarify and sometimes disagree. Rowan moderates lightly. No rotation of three confession monologues and no forced moral summary. Let one future idea remain unagreed."
+    },
+    {
+      "id": "oz-04-invention-report",
+      "format": "news_article",
+      "theme": "Innovation in Oz",
+      "member_ids": [
+        "m002",
+        "m047"
+      ],
+      "target_words": 550,
+      "topic": "The cleverest thing at the demonstration did not glow",
+      "premise": "Report a neighborhood demonstration of useful low-cost ingenuity. Martin tested a simple physical improvement to shared handcarts; Imogen showed a separate practical network or device fix using existing equipment. Focus on observable changes and modest benefits, not magical efficiency numbers or venture-capital pitches. Both efforts worked but have specific limits.",
+      "genre_notes": "Warm local reporting with tangible objects and a little visual wit. Do not falsely claim formal safety certification or a citywide rollout."
+    },
+    {
+      "id": "oz-05-invention-email",
+      "format": "email_thread",
+      "theme": "Innovation in Oz",
+      "member_ids": [
+        "m047",
+        "m038"
+      ],
+      "target_words": 450,
+      "topic": "Re: The booking board does not need an app",
+      "premise": "An email exchange after Isaac and Imogen tried a simple appointment-board arrangement at the alteration counter. Invent distinct completed contributions: Isaac changed how he groups fitting slots based on his work, and Imogen adapted a low-tech/easily maintained way to show availability. They like the result and discuss one optional next experiment. Make the sequence physically clear and avoid personal customer data.",
+      "genre_notes": "Actual messages with short greetings and signoffs, two to four messages. No repetitive subject line before every paragraph. Friends solving an ordinary problem, not writing a project retrospective."
+    },
+    {
+      "id": "oz-06-maker-conversation",
+      "format": "conversation_transcript",
+      "theme": "Innovation in Oz",
+      "member_ids": [
+        "m002",
+        "m014"
+      ],
+      "target_words": 650,
+      "topic": "A baker and a mechanic argue about the best handle",
+      "premise": "Martin and Pavel discuss a completed collaboration on moving empty baking trays around Pavel's work area. Pavel supplied the daily-use insight; Martin made and tested a small practical modification. Their preferences differ and they tease each other. Include a separate specific contribution from each. Avoid food-contact machinery, unsafe modifications or miraculous labor savings. This is distinct from the shared handcart demonstration.",
+      "genre_notes": "A conversational workshop recording transcript with interruptions and short turns, not every response a paragraph. The recording is fictional, no timestamps or actual video link."
+    },
+    {
+      "id": "oz-07-style-social",
+      "format": "social_thread",
+      "theme": "Fashion and local identity",
+      "member_ids": [
+        "m038",
+        "m017"
+      ],
+      "target_words": 350,
+      "topic": "You can wear Munchkin blue in the Emerald City",
+      "premise": "Isaac posts a lively style tip about adapting an existing blue garment for a visit to the famously green city instead of buying a new outfit. Ruth replies with a footwear tip grounded in a specific completed boot repair or fitting. They can joke about how green-tinted spectacles change an outfit's appearance, without making tint use compulsory in this modern setting. Include useful details and distinct recent work, not body judgments or elite fashion snobbery.",
+      "genre_notes": "Posts should sound social, not a newspaper. No list of ten lessons, no hashtags demanded, no real platforms or handles."
+    },
+    {
+      "id": "oz-08-style-feature",
+      "format": "magazine_feature",
+      "theme": "Fashion and local identity",
+      "member_ids": [
+        "m038",
+        "m025"
+      ],
+      "target_words": 650,
+      "topic": "A good pocket is a fashion statement",
+      "premise": "June writes an affectionate local style feature about Isaac's completed alteration work making an ordinary garment more usable while retaining its owner's preferred look. Let an original, concrete pocket/lining/detail anchor the story. June contributes one firsthand reporting observation or clearly attributed fact-check, not an invented skill she lacks. This is not the blue-outfit social post or appointment-board email.",
+      "genre_notes": "Feature voice with sensory detail and quotable conversation, not business jargon or self-improvement advice. Avoid inventing a named customer."
+    },
+    {
+      "id": "oz-09-style-phone-notes",
+      "format": "manager_conversation",
+      "theme": "Fashion and local identity",
+      "member_ids": [
+        "m017",
+        "m001"
+      ],
+      "target_words": 450,
+      "topic": "Phone notes: boots, borrowed bags and being ready to go out",
+      "premise": "Rowan's notes after speaking separately with Ruth and Eleanor. Ruth describes a completed repair that let a customer keep favorite boots; Eleanor describes starting a small borrowed-bag/small-accessory arrangement for guesthouse visitors attending local events. These are separate low-stakes accomplishments, not the blue-outfit advice. Include one secondhand observation that Rowan explicitly has not checked, and a future possibility without calling it completed.",
+      "genre_notes": "Natural manager notes with names, concise paragraphs and honest attribution. No invented exact speech in paraphrased call notes; no blanket caveat appended to every sentence."
+    },
+    {
+      "id": "oz-10-business-news",
+      "format": "news_article",
+      "theme": "Small-business wins",
+      "member_ids": [
+        "m014",
+        "m001"
+      ],
+      "target_words": 600,
+      "topic": "A breakfast order that worked for both sides",
+      "premise": "Report a completed arrangement between Pavel's bakery and Eleanor's guesthouse. Each made a distinct operational decision: Pavel made his preparation/order timing manageable; Eleanor adjusted how she gathered guest preferences without collecting sensitive details. It produced a modest concrete win for both. No unsupported profit percentages. No dramatic failure required, and this is not a space-capacity problem.",
+      "genre_notes": "Positive but not advertorial. State what participants actually report and what the reporter observed or did not measure. Give readers a sense of small businesses working well."
+    },
+    {
+      "id": "oz-11-business-messages",
+      "format": "email_thread",
+      "theme": "Small-business wins",
+      "member_ids": [
+        "m014",
+        "m017"
+      ],
+      "target_words": 400,
+      "topic": "Re: Your window card sent someone round",
+      "premise": "Ruth and Pavel exchange appreciative emails about a completed cross-referral experiment between the boot-repair counter and bakery. Make each person's contribution concrete. They note a small observed result, not a measured revenue uplift. The exchange contains a joke and a possible second trial. Different from the breakfast-order deal and from tray handling.",
+      "genre_notes": "Short messages between neighboring traders; warm and specific, not an abstract lesson in partnership. No customer names or invented email addresses."
+    },
+    {
+      "id": "oz-12-alumni-open-house",
+      "format": "webinar",
+      "theme": "Across Oz: useful work and good company",
+      "member_ids": [
+        "m001",
+        "m002",
+        "m014",
+        "m017",
+        "m025",
+        "m030",
+        "m038",
+        "m047"
+      ],
+      "target_words": 1250,
+      "topic": "What have you made easier for someone lately?",
+      "premise": "An informal alumni open-house call. Not everyone needs a showcase monologue. Let Martin describe a fresh completed tool-sharing or teaching contribution unrelated to carts/trays; let Imogen describe a distinct home/community connectivity fix unrelated to the demonstration or booking board. Other members ask questions, offer practical observations or briefly mention new activities. Callbacks to previous sources are allowed but do not rewrite them or count as new episodes. End naturally with someone needing to leave, not a facilitator's lesson summary.",
+      "genre_notes": "Mixed-length turns, actual back-and-forth, some humor and one small clarification. No round-robin admissions of failure. It should sound like people who enjoy knowing each other."
+    }
+  ]
+}

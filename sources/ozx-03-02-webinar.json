@@ -1,0 +1,68 @@
+{
+  "id": "ozx-03-02-webinar",
+  "title": "Getting Across Oz Without a Grand Procession: A Dispatch from the Brickway Junction Depot",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m007",
+    "m015",
+    "m024",
+    "m023",
+    "m041",
+    "m036"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The rain has finally stopped over Brickway Junction, leaving the cobblestones slick and the bus depot smells of wet wool and diesel. Inside, the atmosphere is noticeably lighter than usual. Six members of the Munchkin Association Alumni are gathered around a long table, not for a formal workshop session, but for a candid discussion on a theme proposed by the community: getting across Oz without relying on grand processions. The conversation is grounded in recent, specific operational adjustments rather than abstract philosophy. Rowan Bell, the community manager, sits at the head of the table, taking light notes on a tablet, but the floor is clearly open."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m007",
+      "text": "I spent the last few days talking to regular travelers on the orchard loop. I wanted to know what actually helped them keep their bearings. It wasn't the green archway at the main plaza. It was a blue shop awning. A specific, blue awning. I put together a small illustrated display using photos of these everyday landmarks. Newcomers looking at the pictures could correctly match them to their intended stops without asking for directions. It’s less about ceremony and more about what’s actually visible from the bus window."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m015",
+      "text": "That sounds useful, Dorothy. I’ve been wrestling with my own announcements. I used to assume that because I’ve driven the loop for years, my standard stop calls were clear enough. But I started asking passengers directly if they found my announcements audible and useful. I wasn’t looking for flattery; I wanted to know if they were actually getting the information they needed. I tried a slightly different wording on my last run. A traveler who was looking for the Orchard Gate stop identified it correctly on my first call, without waiting for the person in front of them to stand up and point."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m041",
+      "text": "Mina, did you get any pushback on the wording? I ask because I was dealing with a disruption on the dispatch side this week. A bus broke down on the northern route. Instead of scrambling, I coordinated a relief driver. The key was confirming the assignment and the exact handover point before I updated the waiting staff. I didn’t want to create a vacuum of information. The relief driver took the service, but I made sure to keep the later, unresolved gap visible on the board. I didn’t want to imply that every single departure was covered when one was still pending. It’s better to be honest about the gap than to hide it with a grand announcement."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m024",
+      "text": "Elena, that’s a good approach to visibility. I’ve been trying to do something similar with the road maintenance crew. We introduced a handover sheet for shift changes. It has three columns: completed tasks, work still underway, and questions awaiting an office decision. During the last shift change, the incoming crew looked at the sheet and immediately identified the remaining assigned work. Crucially, they didn’t treat a penciled proposal I’d left in the margin as an instruction to begin work. They knew it was just a thought. It stopped the confusion of whether we were supposed to start digging or not."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m023",
+      "text": "Victor, that sounds like it saves a lot of head-scratching. I had a similar issue with conflicting information, but from the government side. I submitted examples of delivery instructions that I’d received which conflicted with a posted brick-road closure. I didn’t include any customer names or parcel contents, just the conflicting instructions. The local works office clarified the approved public route on their official notice. Now I can plan my next round without relying on rumor or guessing which instruction was the most recent. It’s just a matter of getting the written word to match the physical reality of the road."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m036",
+      "text": "Hannah, I can relate to the confusion of competing instructions. At the parcel depot, a local trader used to arrive during our busiest queue, which caused a bottleneck. We agreed on a quieter collection window for him. He came in during that window, collected his prepared order, and I completed the handover without interrupting the main counter’s line of customers. It wasn’t a huge policy change, just a shift in timing. But it made the morning flow much smoother for everyone at the counter. I didn’t have to shout over the noise, and he didn’t have to wait an hour."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m015",
+      "text": "Quentin, that’s a smart adjustment. It’s all about recognizing that the system doesn’t need a parade to function. It just needs clear signals. Whether it’s a blue awning, a specific announcement, a handover sheet, or a quiet time slot, the goal is the same: letting people know where they are and what’s next without the noise of a spectacle."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m007",
+      "text": "Exactly. The Wizard’s Office might send a grand announcement about a new road, but if the road isn’t there yet, or if the sign is green and everything else is blue, people get lost. We’re just trying to map the actual terrain."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Thank you all. I’m going to wrap this up here. I’ll share the notes from this conversation with the wider alumni group. The common thread is that practical, local adjustments—like Dorothy’s display, Mina’s announcements, Elena’s dispatch clarity, Victor’s handover sheet, Hannah’s route confirmation, and Quentin’s timing adjustment—are more effective for navigation and workflow than broad, ceremonial gestures. We will look into whether the illustrated display can be posted at the depot entrance, and I will check with the transport office about Mina’s announcement wording to see if it can be adopted more widely. For now, let’s just keep the cobblestones dry and the information clear."
+    }
+  ],
+  "content_sha256": "23de64dfefa8cbc4547ca45d0d99c2749031436b42570c52755eff1d20dde2c1"
+}

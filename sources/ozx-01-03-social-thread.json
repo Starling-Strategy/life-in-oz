@@ -1,0 +1,44 @@
+{
+  "id": "ozx-01-03-social-thread",
+  "title": "Closing without the green ribbon",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m003",
+    "m008"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "m008",
+      "text": "I tried something different in the mediation session yesterday. No big summary statement at the end. Just asked each person to say exactly what they were taking home. If it wasn't their job, they were allowed to leave it on the table. We ended up with one task unclaimed instead of pretending everyone agreed to do it. It felt safer than the usual nod-along."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m003",
+      "text": "That sounds less exhausting than the Wizard's Office standard close, where the seal on the letter matters more than the list of items. I did something similar this week on the volunteer board. I made two separate pockets: one for 'offered' and one for 'confirmed.' Just small cards, no names, no addresses. The new organizer used it for the weekend handover and figured out what was missing without calling me at 6 a.m."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m008",
+      "text": "The 'offered' pocket is key. People say yes to be polite, then vanish. If the card stays in the first pocket, it’s not a breach of contract, it’s just... pending. How did the new organizer handle the gap?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m003",
+      "text": "She just left it empty. Didn't treat the space like an insult. She wrote 'needs fill' on a spare card and left it beside the pockets for the next shift. No drama, no assumption that I had to know why it was empty. It’s just a visual state."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m008",
+      "text": "Visual states. I like that. The paperwork the Office sends always assumes a binary: done or not done. There’s no room for 'still talking about it.' Maybe I’ll try leaving the open items in a visible spot next time instead of burying them in the minutes."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "m003",
+      "text": "Do it. The minutes are for the archive, not for the people actually holding the tools. If the card is visible, the gap is real. If it’s buried, people assume someone else is handling it."
+    }
+  ],
+  "content_sha256": "3e02f98e45d95c811e7faed8daffa92af75ece338550290a012bd64e5390aa87"
+}

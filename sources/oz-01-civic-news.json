@@ -1,0 +1,49 @@
+{
+  "id": "oz-01-civic-news",
+  "title": "City Office Answers Tenant Questions Directly, Skipping the Ceremonial Stage",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m025",
+    "m030"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Reporting by June Arden, Bell Market newsletter.\n\nMarcus Wren brought the newsletter a list of tenancy and shared-infrastructure questions collected from his neighbors in South Meadow. Arden sent the list to the Wizard's Office and asked for written answers residents could keep, rather than another invitation to a listening session. When the reply arrived, she checked it against the questions before publishing this report. The office had answered the practical questions plainly, but one question about repair funding remained open."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m030",
+      "text": "I didn't want a speech. I work the desk, I see the same ten questions every week, and I thought if I just wrote them down plainly, maybe someone would just answer them. We didn't frame it as a campaign. We just sent the list to the clerk's office and asked for a written reply to be posted on the community board. The fact that they actually did it, in plain language, was a surprise. It wasn't perfect, but it was an answer."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Marcus Wren, a tenant support clerk who lives in South Meadow, worked with neighbors over the past month to compile the list. The questions ranged from the timeline for replacing cracked paving slabs to the correct procedure for registering a pet in a multi-unit residence. Wren said the goal was to remove the ambiguity that often leaves residents waiting for an official who might not arrive. \"People just want to know if they should fix it themselves or wait for the city,\" Wren said. \"It’s not about power. It’s about knowing where the responsibility sits so you can plan your day.\""
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m025",
+      "text": "What struck me was the restraint. The office could have easily turned this into a moment. They could have held a press event to show how 'responsive' they are. Instead, they just sent the answers. It’s a small thing, but it feels like they are trying to treat residents like adults who have jobs and bills to pay, rather than an audience for a civic performance. I’m still waiting to see if this becomes a habit or just a one-off kindness."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The response from the Wizard’s Office was printed on ordinary paper. It addressed the practical questions about repair requests, pet registration and paving. For the bus shelter handrail, the office said an inspection had taken place and a repair crew was scheduled for the following week. It did not answer the residents’ accompanying question about where the repair funding came from. Instead, it directed anyone seeking fiscal documents to the central archive."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Officials in the Wizard’s Office defended the existing review process. A spokesperson said that the official review channel exists to ensure that all repairs are verified against safety standards before work begins. \"Without that check, we risk cutting corners on public safety,\" the spokesperson said. \"The goal is to be thorough, not just fast.\""
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m025",
+      "text": "I don't disagree with checking a handrail before someone works on it. What I wanted was an answer people could keep, instead of another invitation to listen. Now they have one. The handrail isn't fixed yet, and the funding question is still open. I'll check both before we call this finished."
+    }
+  ],
+  "content_sha256": "8ffe7f4f76c4a4e384a89dc3df1acc3ace422c6765a0b6e609735d889e80a515"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "oz-03-civic-panel",
+  "title": "Webinar: Does Everything Need a Stamp?",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m025",
+    "m030",
+    "m047"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening. I’m Rowan Bell. Marcus Wren works in tenant support, June Arden edits the local newsletter, and Imogen Shaw looks after community networks. Our question is whether everything useful needs a Wizard-approved stamp. Marcus, the office answered your neighbors’ questions. You also tried a change to one of its forms, didn't you?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "m030",
+      "text": "A separate job, yes. The repair-request form asked for a property reference most people didn't have to hand. We tried putting an example beside the box and moving the explanation above it. I sat with two neighbors while they filled it in. Both found where to copy the reference without asking me. That isn't a grand trial, but it was enough to take the marked-up page back to the clerk."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "So the official answer wasn’t the problem; the format was."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "m030",
+      "text": "The clerk has kept the example on the counter copy. I’m not asking to abolish the Wizard’s Office. I’m asking it to notice the bit of the page where everyone stops. A seal doesn't tell you what to put in a box."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m025",
+      "text": "I can agree with the plain text part. I’ve been dealing with a similar issue with the new public notice system. The city put up digital boards on the main streets to replace the paper flyers. They look great. Bright green text on a dark background. Very sleek. But I’ve been testing the accuracy of the notices. I picked three different days and cross-referenced the digital ads with the actual events at the Bell Market."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "And how accurate were they?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m025",
+      "text": "One out of three. The first one was a typo; it said the market closed at 2 PM instead of 4 PM. The second one listed a jazz band that had cancelled the week before. The third one was actually correct. So the system works, but it’s not being maintained. The ‘stamp’ here is the digital update. It looks like the city is on top of things because the board is glowing, but it’s not. I don’t care how the board looks. I care if the time is right."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "m047",
+      "text": "I’m in Junction Quarter. We set up a small shared network in the community room using equipment the center already owned. At the open afternoon, people at several tables could get online. We didn't apply for the city's 'Innovative Community' badge. We'd rather find out what breaks during ordinary use before posing beside a certificate."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "And would you have waited for the badge?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "m047",
+      "text": "The application had a long review queue. I didn't see why a publicity badge needed to come before a supervised demonstration. We still asked the center's manager before connecting anything, and kept to the building's ordinary equipment rules. The badge isn't the permission to use somebody else's room."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m030",
+      "text": "I hear you, Imogen. But I worry about the liability. If my tenancy document is wrong, I have a paper trail. If your Wi-Fi goes down and someone misses a meeting, is there a paper trail? I don’t think so. That’s why I hold on to the official forms. They’re clumsy, but they’re a shield."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "m047",
+      "text": "Then let's keep a maintenance note. I don't object to writing down what we changed and who to ask if it stops working. I object to calling the publicity application a safety check when it isn't one."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m025",
+      "text": "I think there’s a middle ground. The digital boards at the market need a ‘verified’ tag. Not a Wizard stamp, just a human one. Someone checks it every morning. If I saw a checkmark next to the market hours, I’d trust it more. The stamp isn’t the problem; the lack of accountability behind the stamp is."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "m030",
+      "text": "A checkmark. I can live with a checkmark. That’s not bureaucracy. That’s just care."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "Two separate ideas there: checking public notices, and Imogen's network work. Before we finish, Imogen, is there another part you're considering but haven't agreed yet?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "m047",
+      "text": "Yes. But I’ll add one thing. I’m thinking of extending the mesh to the library. I haven’t talked to the library yet. I don’t know if they want it. So I’m leaving that on the back burner until I find out. I’m not waiting for a stamp, but I’m also not forcing it on anyone."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "m030",
+      "text": "Good. That’s what I like to hear. Ask first. Then build. And maybe send me the form when you’re ready, so I can help you fill it out. It’s got a lot of small font, but I’m good with small font."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "manager",
+      "text": "That's a useful place to leave it: an idea for checking notices, not an agreement that June has acquired another daily job. Thanks for coming, everyone."
+    }
+  ],
+  "content_sha256": "69d7ce2fa8628de640b8480ccb48070718b4f24a58a35793ac286aaa818fb3cf"
+}

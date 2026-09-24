@@ -1,0 +1,28 @@
+{
+  "id": "oz-15-lion-ravine-crossing",
+  "title": "Road Obstruction Report: Ravine Crossing at Mile 14",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m006"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Field notes from the southern road inspection. At Mile 14, the paved road breaks off into a deep canyon with steep drop-offs. Leona Bracken stopped to inspect the gap."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Although visibly nervous about the height, Leona volunteered to jump the span to help her party across. She told her companions: \"I am terribly afraid of falling, but there is no other way. Hop on my back, one at a time, and I will try to jump it.\""
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "She successfully made three round-trip leaps across the gorge carrying passengers and baggage, allowing the entire party to continue without detour."
+    }
+  ],
+  "content_sha256": "9a096509d2adcb50df029b1e3ad834b990ed680af567edef6957543bbe53ee54"
+}

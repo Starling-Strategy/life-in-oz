@@ -1,0 +1,1021 @@
+{
+  "community": {
+    "name": "Munchkin Association Alumni",
+    "setting": "A light modern fictional Oz, centered on Munchkin Country: orchard villages, blue-painted community rooms, the maintained yellow brick road, ordinary buses, phones, kitchens, workshops, and seasonal gatherings. Settlement names are invented local labels, not real locations or canonical geography.",
+    "fictional_notice": "Entirely fictional authoring facts for a source-only generation lab. These are provisional planning premises, not extracted evidence, verified biographies, or scripted episodes. Any resemblance to real people is unintended.",
+    "assumptions": [
+      "The association is an invented network of alumni from local shared learning workshops, not a real institution or a degree-granting school.",
+      "All 50 members are adult human residents of this version of Munchkin Country. Human adaptations of nonhuman Baum characters are provisional and do not assert book canon.",
+      "Twelve entries draw loosely on characters encountered in Baum's first Oz book; thirty-eight entries are original Munchkin residents. Each inspiration field identifies its category. Borrowed names and motifs do not imply canonical biographies.",
+      "Home values are fictional neighborhoods or settlements only; there are no real addresses, contact details, or personal identifiers.",
+      "Relationships list reciprocal acquaintance links only. They authorize no specific interaction, family tie, shared incident, or testimony.",
+      "Each experience_domains item is an open personal-activity prompt, not an event asserted to have happened. Each can support multiple later source accounts, targeting 3–8 later stories per member only after source material exists.",
+      "Backgrounds describe ordinary strengths, constraints, and learning interests. Do not convert them directly into evidence or preapproved stories.",
+      "The separate manual examples are author-authored style demonstrations outside roster canon; Rowan Bell is a fictional moderator in the examples and community-life source documents, outside the 50-member roster."
+    ]
+  },
+  "members": [
+    {
+      "id": "m001",
+      "first_name": "Eleanor",
+      "last_name": "Bougham",
+      "role": "Guesthouse host",
+      "home": "Blue Orchard village",
+      "background": "Runs a small guesthouse beside the eastern brick road; generous with space but inclined to agree before checking capacity. Workshop interest: household budgeting.",
+      "voice": "Warm, practical; remembers what people ate and corrects numbers without fuss.",
+      "inspiration": "Boq, the hospitable Munchkin host in Baum's first book; provisional human adaptation with a different gender.",
+      "relationships": [
+        "m003",
+        "m004",
+        "m014"
+      ],
+      "experience_domains": [
+        "Preparing guest rooms during harvest travel",
+        "Negotiating shared kitchen duties",
+        "Learning to refuse an unaffordable hosting request"
+      ]
+    },
+    {
+      "id": "m002",
+      "first_name": "Martin",
+      "last_name": "Woodward",
+      "role": "Repair cooperative mechanic",
+      "home": "Timber Verge",
+      "background": "Repairs handcarts and household equipment; patient with damaged objects, less patient with paperwork. Workshop interest: cooperative accounts.",
+      "voice": "Short explanations, concrete measurements; reluctant to call anything finished before testing it.",
+      "inspiration": "Tin Woodman in Baum's first book; provisional human adaptation, not a metal body or canonical biography.",
+      "relationships": [
+        "m003",
+        "m005",
+        "m023"
+      ],
+      "experience_domains": [
+        "Diagnosing an intermittent handcart fault",
+        "Teaching safe tool handling to an impatient learner",
+        "Estimating repair costs when parts are scarce"
+      ]
+    },
+    {
+      "id": "m003",
+      "first_name": "Clara",
+      "last_name": "Micefield",
+      "role": "Neighborhood mutual-aid organizer",
+      "home": "Meadowbank",
+      "background": "Coordinates volunteers across scattered Munchkin settlements; notices overlooked households but sometimes keeps too much work herself. Workshop interest: meeting facilitation.",
+      "voice": "Asks who is missing; separates an offer from a confirmed commitment.",
+      "inspiration": "Queen of the Field Mice in Baum's first book; provisional human adaptation, not an animal monarchy.",
+      "relationships": [
+        "m001",
+        "m002",
+        "m010",
+        "m021"
+      ],
+      "experience_domains": [
+        "Planning volunteer shifts around paid work",
+        "Checking whether an access arrangement actually helps",
+        "Handing over responsibility without hovering"
+      ]
+    },
+    {
+      "id": "m004",
+      "first_name": "Ada",
+      "last_name": "Reed",
+      "role": "Seed librarian",
+      "home": "Blue Orchard village",
+      "background": "Keeps seed records in the shared reading room; knowledgeable about local beans, nervous about discarding mislabeled packets. Workshop interest: record keeping.",
+      "voice": "Careful qualifiers; names varieties before giving opinions.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m001",
+        "m016",
+        "m029"
+      ],
+      "experience_domains": [
+        "Sorting conflicting seed labels",
+        "Hosting a seed exchange with new gardeners",
+        "Comparing a failed planting with household notes"
+      ]
+    },
+    {
+      "id": "m005",
+      "first_name": "Samuel",
+      "last_name": "Strawbridge",
+      "role": "Adult learning tutor",
+      "home": "Eastfield",
+      "background": "Teaches practical reading and sums after farm shifts; quick to ask questions, prone to overprepare. Workshop interest: peer teaching.",
+      "voice": "Thinks aloud and admits when he needs a diagram.",
+      "inspiration": "Scarecrow in Baum's first book; provisional human adaptation emphasizing learning rather than a literal missing brain.",
+      "relationships": [
+        "m002",
+        "m027",
+        "m035"
+      ],
+      "experience_domains": [
+        "Explaining a confusing market receipt",
+        "Asking a learner to teach back a method",
+        "Revising a lesson that overwhelms the class"
+      ]
+    },
+    {
+      "id": "m006",
+      "first_name": "Leona",
+      "last_name": "Bracken",
+      "role": "Walking-route steward",
+      "home": "South Copse",
+      "background": "Maintains public woodland paths; confident on familiar ground but uneasy speaking at meetings. Workshop interest: public speaking.",
+      "voice": "Quiet at first, precise about terrain; humor arrives late.",
+      "inspiration": "Cowardly Lion in Baum's first book; provisional human adaptation, not an animal character.",
+      "relationships": [
+        "m017",
+        "m033",
+        "m043"
+      ],
+      "experience_domains": [
+        "Inspecting a path after rain",
+        "Raising an unpopular safety concern",
+        "Leading a group while admitting uncertainty"
+      ]
+    },
+    {
+      "id": "m007",
+      "first_name": "Dorothy",
+      "last_name": "Gale",
+      "role": "Bus depot assistant",
+      "home": "Brickway Junction",
+      "background": "A newcomer who now lives in Munchkin Country; helps passengers make connections while learning local customs. Workshop interest: local geography.",
+      "voice": "Direct questions and plain descriptions; dislikes unexplained rules.",
+      "inspiration": "Dorothy Gale in Baum's first book; provisional adult human adaptation, not a continuation of canon.",
+      "relationships": [
+        "m015",
+        "m025",
+        "m036"
+      ],
+      "experience_domains": [
+        "Helping a traveler through a missed connection",
+        "Finding a routine after moving to Oz",
+        "Challenging a confusing depot notice"
+      ]
+    },
+    {
+      "id": "m008",
+      "first_name": "Glinda",
+      "last_name": "Southwell",
+      "role": "Community mediator",
+      "home": "South Meadow",
+      "background": "Handles small neighbor disputes; steady under pressure but sometimes mistakes silence for agreement. Workshop interest: accessible meetings.",
+      "voice": "Measured, invites separate accounts, avoids declaring a winner.",
+      "inspiration": "Glinda in Baum's first book; provisional human adaptation without magical authority.",
+      "relationships": [
+        "m018",
+        "m030",
+        "m044"
+      ],
+      "experience_domains": [
+        "Mediating shared fence maintenance",
+        "Revisiting an agreement one neighbor misunderstood",
+        "Setting limits on unpaid mediation"
+      ]
+    },
+    {
+      "id": "m009",
+      "first_name": "Nora",
+      "last_name": "Northcott",
+      "role": "Visiting nurse",
+      "home": "North Orchard",
+      "background": "Travels between rural clinics; good at explanations, reluctant to admit her route is overfull. Workshop interest: scheduling.",
+      "voice": "Gentle and specific; distinguishes what she saw from what she was told.",
+      "inspiration": "Good Witch of the North in Baum's first book; provisional human adaptation without magical powers.",
+      "relationships": [
+        "m021",
+        "m032",
+        "m045"
+      ],
+      "experience_domains": [
+        "Explaining a clinic preparation sheet",
+        "Reorganizing a weather-disrupted route",
+        "Asking for help before a schedule becomes unsafe"
+      ]
+    },
+    {
+      "id": "m010",
+      "first_name": "Tobias",
+      "last_name": "Hale",
+      "role": "Community kitchen porter",
+      "home": "Meadowbank",
+      "background": "Moves supplies and washes equipment; dependable in a rush, finds written rotas difficult to interpret. Workshop interest: everyday literacy.",
+      "voice": "Brief, observant about physical work; asks for an example.",
+      "inspiration": "Toto in Baum's first book; provisional human adaptation emphasizing companionship, not canine traits.",
+      "relationships": [
+        "m003",
+        "m019",
+        "m040"
+      ],
+      "experience_domains": [
+        "Learning a new kitchen closing routine",
+        "Speaking up about an impractical lifting task",
+        "Reading and querying a changed rota"
+      ]
+    },
+    {
+      "id": "m011",
+      "first_name": "Oscar",
+      "last_name": "Diggs",
+      "role": "Traveling exhibition technician",
+      "home": "Junction Quarter",
+      "background": "Builds modest displays for regional halls; persuasive and inventive, sometimes promises effects he cannot deliver. Workshop interest: estimating.",
+      "voice": "Lively pitches, then technical detail when pressed.",
+      "inspiration": "The Wizard of Oz in Baum's first book; provisional human adaptation using the later-associated name Oscar Diggs; no claim that name appears in the first book.",
+      "relationships": [
+        "m012",
+        "m031",
+        "m047"
+      ],
+      "experience_domains": [
+        "Preparing a display with a small power allowance",
+        "Admitting a promised feature is not ready",
+        "Sharing credit with an unseen assistant"
+      ]
+    },
+    {
+      "id": "m012",
+      "first_name": "Greta",
+      "last_name": "Vane",
+      "role": "Reading-room attendant",
+      "home": "Junction Quarter",
+      "background": "Checks lending slips and welcomes evening readers; orderly habits can make exceptions difficult. Workshop interest: service design.",
+      "voice": "Polite, procedural, gradually more candid in conversation.",
+      "inspiration": "Guardian of the Gates in Baum's first book; provisional human adaptation of a gatekeeping role.",
+      "relationships": [
+        "m011",
+        "m026",
+        "m035"
+      ],
+      "experience_domains": [
+        "Explaining a borrowing rule to a newcomer",
+        "Making a quiet corner usable for different readers",
+        "Questioning an unnecessary registration step"
+      ]
+    },
+    {
+      "id": "m013",
+      "first_name": "Vera",
+      "last_name": "Porcelain",
+      "role": "Pottery mender",
+      "home": "Clay Hollow",
+      "background": "Mends everyday crockery and teaches care of fragile wares; skilled hands, hesitant pricing. Workshop interest: small-business costs.",
+      "voice": "Patient descriptions of surfaces and joins; dislikes grand claims.",
+      "inspiration": "China Princess in Baum's first book; provisional human adaptation, not a porcelain body or royal status.",
+      "relationships": [
+        "m022",
+        "m037",
+        "m048"
+      ],
+      "experience_domains": [
+        "Assessing whether a bowl can be repaired safely",
+        "Pricing delicate work honestly",
+        "Letting a beginner handle imperfect practice pieces"
+      ]
+    },
+    {
+      "id": "m014",
+      "first_name": "Pavel",
+      "last_name": "Dunn",
+      "role": "Bread baker",
+      "home": "Blue Orchard village",
+      "background": "Runs an early bakery shift and shares surplus through neighbors; reliable with dough, forgetful about messages. Workshop interest: simple digital tools.",
+      "voice": "Time and temperature comparisons; dry humor.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m001",
+        "m019",
+        "m034"
+      ],
+      "experience_domains": [
+        "Adjusting production for a changing market day",
+        "Recording a special order accurately",
+        "Deciding what surplus can be shared responsibly"
+      ]
+    },
+    {
+      "id": "m015",
+      "first_name": "Mina",
+      "last_name": "Vale",
+      "role": "Local bus driver",
+      "home": "Brickway Junction",
+      "background": "Drives the orchard loop; knows regular passengers well, sometimes assumes their needs have not changed. Workshop interest: access awareness.",
+      "voice": "Matter-of-fact with small observations from the route.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m007",
+        "m024",
+        "m041"
+      ],
+      "experience_domains": [
+        "Testing a revised stop location",
+        "Dealing with a delayed accessible boarding",
+        "Asking a longtime passenger rather than assuming"
+      ]
+    },
+    {
+      "id": "m016",
+      "first_name": "Jonas",
+      "last_name": "Pike",
+      "role": "Irrigation caretaker",
+      "home": "Eastfield",
+      "background": "Maintains shared orchard channels; good at preventative work, defensive when neighbors dispute water allocations. Workshop interest: conflict resolution.",
+      "voice": "Uses sequences and landmarks; repeats an important condition.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m004",
+        "m028",
+        "m046"
+      ],
+      "experience_domains": [
+        "Checking a suspected channel blockage",
+        "Explaining a dry-season water rota",
+        "Revising a repair priority after farmer feedback"
+      ]
+    },
+    {
+      "id": "m017",
+      "first_name": "Ruth",
+      "last_name": "Fenwick",
+      "role": "Boot repairer",
+      "home": "South Copse",
+      "background": "Repairs work boots and makes simple alterations; strong diagnosis, slow to ask customers about comfort. Workshop interest: interviewing.",
+      "voice": "Plain questions, tactile descriptions, little small talk.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m006",
+        "m023",
+        "m038"
+      ],
+      "experience_domains": [
+        "Tracing recurring wear on a pair of boots",
+        "Discussing repair versus replacement costs",
+        "Adapting an alteration after a fitting fails"
+      ]
+    },
+    {
+      "id": "m018",
+      "first_name": "Elias",
+      "last_name": "Moss",
+      "role": "Housing cooperative treasurer",
+      "home": "South Meadow",
+      "background": "Works as a bookkeeper and keeps cooperative accounts; accurate but uneasy discussing neighbors' arrears. Workshop interest: difficult conversations.",
+      "voice": "Explains the ledger first, then tries to translate it.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m008",
+        "m030",
+        "m042"
+      ],
+      "experience_domains": [
+        "Presenting a maintenance budget plainly",
+        "Handling a disputed shared expense",
+        "Correcting a bookkeeping mistake in public"
+      ]
+    },
+    {
+      "id": "m019",
+      "first_name": "Beatrice",
+      "last_name": "Kettle",
+      "role": "Canteen cook",
+      "home": "Meadowbank",
+      "background": "Cooks affordable lunches near the workshop rooms; improvises well but dislikes recording recipes. Workshop interest: food planning.",
+      "voice": "Sensory details, frank about time and labor.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m010",
+        "m014",
+        "m039"
+      ],
+      "experience_domains": [
+        "Planning a menu around available produce",
+        "Teaching a repeatable recipe rather than cooking by instinct",
+        "Responding to an unclear dietary request"
+      ]
+    },
+    {
+      "id": "m020",
+      "first_name": "Felix",
+      "last_name": "Rowe",
+      "role": "Community radio producer",
+      "home": "Bell Market",
+      "background": "Makes practical local audio programs; curious interviewer, tempted to trim away uncertainty. Workshop interest: responsible interviewing.",
+      "voice": "Conversational follow-ups; checks the wording of a quote.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m025",
+        "m031",
+        "m049"
+      ],
+      "experience_domains": [
+        "Preparing questions for a local trade interview",
+        "Correcting a misleading program summary",
+        "Recording useful audio in a noisy market"
+      ]
+    },
+    {
+      "id": "m021",
+      "first_name": "Iris",
+      "last_name": "Marsh",
+      "role": "Home-care scheduler",
+      "home": "Meadowbank",
+      "background": "Matches visiting helpers to household requests; good at logistics, reluctant to leave a request unfilled. Workshop interest: workload boundaries.",
+      "voice": "Names dependencies and asks for confirmation.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m003",
+        "m009",
+        "m045"
+      ],
+      "experience_domains": [
+        "Reconciling two incompatible visit requests",
+        "Protecting a household's private information",
+        "Telling a requester a slot is not yet staffed"
+      ]
+    },
+    {
+      "id": "m022",
+      "first_name": "Daniel",
+      "last_name": "Cress",
+      "role": "Clay supplier",
+      "home": "Clay Hollow",
+      "background": "Prepares clay for potters and small construction repairs; careful about materials, impatient with seasonal uncertainty. Workshop interest: inventory.",
+      "voice": "Terse, practical, gives weight and drying conditions.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m013",
+        "m028",
+        "m037"
+      ],
+      "experience_domains": [
+        "Keeping stock dry through wet weather",
+        "Investigating a batch quality complaint",
+        "Choosing between bulk buying and cash reserves"
+      ]
+    },
+    {
+      "id": "m023",
+      "first_name": "Hannah",
+      "last_name": "Bellamy",
+      "role": "Cycle courier",
+      "home": "Timber Verge",
+      "background": "Carries parcels between villages by bicycle; resourceful on side lanes, inclined to minimize fatigue. Workshop interest: route planning.",
+      "voice": "Fast, concrete, self-corrects distances.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m002",
+        "m017",
+        "m036"
+      ],
+      "experience_domains": [
+        "Planning deliveries around brick-road repairs",
+        "Reporting a near miss without blaming a stranger",
+        "Deciding when a damaged cycle must stop work"
+      ]
+    },
+    {
+      "id": "m024",
+      "first_name": "Victor",
+      "last_name": "Sedge",
+      "role": "Road maintenance lead",
+      "home": "Brickway Junction",
+      "background": "Coordinates repairs where old yellow bricks meet newer paving; experienced crew trainer, weak at advance public notices. Workshop interest: public communication.",
+      "voice": "Describes constraints before options; blunt but not hostile.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m015",
+        "m033",
+        "m046"
+      ],
+      "experience_domains": [
+        "Scheduling a repair around market traffic",
+        "Explaining why a temporary surface is needed",
+        "Revising a closure notice after complaints"
+      ]
+    },
+    {
+      "id": "m025",
+      "first_name": "June",
+      "last_name": "Arden",
+      "role": "Local newsletter editor",
+      "home": "Bell Market",
+      "background": "Edits a small community bulletin; good at checking names, sometimes rushes headline wording. Workshop interest: source checking.",
+      "voice": "Compact sentences and explicit attribution.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m007",
+        "m020",
+        "m049"
+      ],
+      "experience_domains": [
+        "Verifying a service-change notice",
+        "Separating a resident's complaint from an established fact",
+        "Printing a correction that readers can find"
+      ]
+    },
+    {
+      "id": "m026",
+      "first_name": "Amir",
+      "last_name": "Brook",
+      "role": "Device repair clerk",
+      "home": "Junction Quarter",
+      "background": "Helps neighbors with basic phones and reading-room tablets; patient teacher, sometimes fixes things without explaining. Workshop interest: peer support.",
+      "voice": "Asks what appeared on screen; avoids jargon when reminded.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m012",
+        "m035",
+        "m047"
+      ],
+      "experience_domains": [
+        "Helping someone recover their own saved work",
+        "Explaining a privacy setting without taking over",
+        "Diagnosing a fault that cannot be reproduced"
+      ]
+    },
+    {
+      "id": "m027",
+      "first_name": "Lydia",
+      "last_name": "Hart",
+      "role": "Orchard apprentice",
+      "home": "Eastfield",
+      "background": "Changing trades after shop work; observant about fruit quality, embarrassed to ask elementary questions. Workshop interest: practical numeracy.",
+      "voice": "Specific sensory notes, admits uncertainty after a pause.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m005",
+        "m029",
+        "m034"
+      ],
+      "experience_domains": [
+        "Estimating harvest containers",
+        "Asking for a demonstration of unfamiliar pruning work",
+        "Balancing study with seasonal shifts"
+      ]
+    },
+    {
+      "id": "m028",
+      "first_name": "Owen",
+      "last_name": "Flint",
+      "role": "Drainage inspector",
+      "home": "Reed Flats",
+      "background": "Checks village drains and culverts; methodical outdoors, prone to unreadable reports. Workshop interest: plain writing.",
+      "voice": "Detailed chronology, needs prompting to state the main issue.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m016",
+        "m022",
+        "m046"
+      ],
+      "experience_domains": [
+        "Investigating repeat standing water",
+        "Turning field notes into a useful notice",
+        "Distinguishing an observed blockage from a suspected cause"
+      ]
+    },
+    {
+      "id": "m029",
+      "first_name": "Celia",
+      "last_name": "Dove",
+      "role": "Garden allotment coordinator",
+      "home": "Eastfield",
+      "background": "Allocates shared growing plots; generous with advice, sometimes gives it unasked. Workshop interest: facilitation.",
+      "voice": "Friendly questions followed by long practical explanations.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m004",
+        "m027",
+        "m044"
+      ],
+      "experience_domains": [
+        "Welcoming a first-time plot holder",
+        "Negotiating tool storage with other gardeners",
+        "Responding to a poor harvest without assigning blame"
+      ]
+    },
+    {
+      "id": "m030",
+      "first_name": "Marcus",
+      "last_name": "Wren",
+      "role": "Tenant support clerk",
+      "home": "South Meadow",
+      "background": "Helps residents understand ordinary housing paperwork; persistent, sometimes takes on disputes beyond his role. Workshop interest: referral skills.",
+      "voice": "Reads exact wording aloud, then paraphrases cautiously.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m008",
+        "m018",
+        "m042"
+      ],
+      "experience_domains": [
+        "Explaining a maintenance request form",
+        "Referring a problem beyond his competence",
+        "Keeping an appointment log without exposing private details"
+      ]
+    },
+    {
+      "id": "m031",
+      "first_name": "Tessa",
+      "last_name": "Finch",
+      "role": "Amateur theater stage manager",
+      "home": "Bell Market",
+      "background": "Earns a living in retail and coordinates village productions; excellent cue sheets, difficult delegation. Workshop interest: team planning.",
+      "voice": "Brisk lists, affectionate but candid about rehearsal problems.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m011",
+        "m020",
+        "m050"
+      ],
+      "experience_domains": [
+        "Planning rehearsal around shift work",
+        "Replacing an overcomplicated stage effect",
+        "Letting a new volunteer run part of a performance"
+      ]
+    },
+    {
+      "id": "m032",
+      "first_name": "Caleb",
+      "last_name": "Alder",
+      "role": "Clinic reception clerk",
+      "home": "North Orchard",
+      "background": "Manages arrivals and notices at a small clinic; calm with queues, uncomfortable challenging illegible instructions. Workshop interest: accessible forms.",
+      "voice": "Even tone; distinguishes a booking from a guarantee.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m009",
+        "m039",
+        "m045"
+      ],
+      "experience_domains": [
+        "Clarifying a confusing appointment notice",
+        "Managing a delayed clinic without sharing patient details",
+        "Asking clinicians to rewrite an unclear instruction"
+      ]
+    },
+    {
+      "id": "m033",
+      "first_name": "Nadia",
+      "last_name": "Stone",
+      "role": "Survey assistant",
+      "home": "South Copse",
+      "background": "Measures paths and public spaces; confident with equipment, hesitant about presenting estimates. Workshop interest: data communication.",
+      "voice": "States units and limitations; occasionally too technical.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m006",
+        "m024",
+        "m043"
+      ],
+      "experience_domains": [
+        "Measuring a sloping path for maintenance",
+        "Explaining the limits of a quick survey",
+        "Rechecking a measurement after a colleague questions it"
+      ]
+    },
+    {
+      "id": "m034",
+      "first_name": "Peter",
+      "last_name": "Ash",
+      "role": "Market produce seller",
+      "home": "Blue Orchard village",
+      "background": "Sells fruit from several growers; knows customers' preferences, poor at tracking small losses. Workshop interest: stock accounting.",
+      "voice": "Plain bargaining language and examples by the basket.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m014",
+        "m027",
+        "m040"
+      ],
+      "experience_domains": [
+        "Separating household use from market stock",
+        "Handling a quality complaint at a busy stall",
+        "Planning prices when a crop is short"
+      ]
+    },
+    {
+      "id": "m035",
+      "first_name": "Esther",
+      "last_name": "Lane",
+      "role": "Evening classroom caretaker",
+      "home": "Junction Quarter",
+      "background": "Opens workshop rooms after a daytime cleaning job; anticipates practical needs but rarely asks for recognition. Workshop interest: workplace communication.",
+      "voice": "Notices chairs, light, doors, and cleanup; understated.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m005",
+        "m012",
+        "m026"
+      ],
+      "experience_domains": [
+        "Setting up a room for different access needs",
+        "Negotiating cleanup duties with tutors",
+        "Reporting equipment damage without guessing who caused it"
+      ]
+    },
+    {
+      "id": "m036",
+      "first_name": "Quentin",
+      "last_name": "Birch",
+      "role": "Parcel depot clerk",
+      "home": "Brickway Junction",
+      "background": "Sorts regional parcels and handles collection queries; quick at patterns, impatient with incomplete labels. Workshop interest: customer service.",
+      "voice": "Short factual sequences; softens after hearing context.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m007",
+        "m023",
+        "m041"
+      ],
+      "experience_domains": [
+        "Tracing a parcel through incomplete paperwork",
+        "Explaining a collection rule kindly",
+        "Redesigning a confusing shelf label"
+      ]
+    },
+    {
+      "id": "m037",
+      "first_name": "Rosa",
+      "last_name": "Clay",
+      "role": "Ceramics instructor",
+      "home": "Clay Hollow",
+      "background": "Teaches adults to make useful kitchenware; supportive critic, overly ambitious course plans. Workshop interest: lesson pacing.",
+      "voice": "Describes what hands are doing; praises specific choices.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m013",
+        "m022",
+        "m048"
+      ],
+      "experience_domains": [
+        "Teaching a basic join to mixed-experience learners",
+        "Reducing a course plan to fit available kiln time",
+        "Giving feedback on a piece that cracked"
+      ]
+    },
+    {
+      "id": "m038",
+      "first_name": "Isaac",
+      "last_name": "Holt",
+      "role": "Clothing alteration worker",
+      "home": "Timber Verge",
+      "background": "Alters everyday clothes and blue festival garments; attentive fitter, uncomfortable chasing overdue payments. Workshop interest: business boundaries.",
+      "voice": "Measured, respectful about bodies, practical about fabric.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m017",
+        "m048",
+        "m050"
+      ],
+      "experience_domains": [
+        "Agreeing what an alteration can realistically change",
+        "Scheduling festival orders without overbooking",
+        "Following up on an unpaid invoice"
+      ]
+    },
+    {
+      "id": "m039",
+      "first_name": "Daphne",
+      "last_name": "Lark",
+      "role": "School meal buyer",
+      "home": "North Orchard",
+      "background": "Buys ingredients for small village kitchens; strong comparison shopping, sometimes assumes the cheapest option saves work. Workshop interest: whole-cost budgeting.",
+      "voice": "Uses quantities and preparation needs; asks cooks to correct her.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m019",
+        "m032",
+        "m040"
+      ],
+      "experience_domains": [
+        "Comparing ingredient price with preparation labor",
+        "Adapting an order to a disrupted delivery",
+        "Asking kitchen staff which substitutions actually work"
+      ]
+    },
+    {
+      "id": "m040",
+      "first_name": "Simon",
+      "last_name": "Fern",
+      "role": "Reusable crate washer",
+      "home": "Blue Orchard village",
+      "background": "Cleans and returns market crates; reliable routine keeper, annoyed by last-minute requests. Workshop interest: cooperative scheduling.",
+      "voice": "Direct descriptions of dirty, clean, ready, and missing.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m010",
+        "m034",
+        "m039"
+      ],
+      "experience_domains": [
+        "Separating damaged crates from reusable ones",
+        "Negotiating return times with stallholders",
+        "Improving a routine without rushing cleaning"
+      ]
+    },
+    {
+      "id": "m041",
+      "first_name": "Elena",
+      "last_name": "Cross",
+      "role": "Bus dispatch assistant",
+      "home": "Brickway Junction",
+      "background": "Updates village bus boards and coordinates relief drivers; calm by phone, vulnerable to copying old information. Workshop interest: checking routines.",
+      "voice": "Repeats names and route directions for confirmation.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m015",
+        "m036",
+        "m047"
+      ],
+      "experience_domains": [
+        "Checking a timetable revision before posting it",
+        "Coordinating a relief driver during a delay",
+        "Correcting an outdated notice across different boards"
+      ]
+    },
+    {
+      "id": "m042",
+      "first_name": "Arthur",
+      "last_name": "Keene",
+      "role": "Retired joiner",
+      "home": "South Meadow",
+      "background": "Helps with small housing repairs and tends balcony plants; skilled with wood, resistant to unfamiliar fittings. Workshop interest: learning new tools.",
+      "voice": "Unhurried, concrete comparisons to older methods.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m018",
+        "m030",
+        "m044"
+      ],
+      "experience_domains": [
+        "Learning an unfamiliar cabinet fitting",
+        "Deciding which volunteer repair needs a professional",
+        "Making shared balcony space easier to use"
+      ]
+    },
+    {
+      "id": "m043",
+      "first_name": "Priya",
+      "last_name": "Dell",
+      "role": "Bird survey volunteer and shop cashier",
+      "home": "South Copse",
+      "background": "Counts common woodland birds on days off; patient observer, nervous about submitting uncertain identifications. Workshop interest: evidence notes.",
+      "voice": "Distinguishes heard from seen; enjoys ordinary details.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m006",
+        "m033",
+        "m049"
+      ],
+      "experience_domains": [
+        "Keeping a field notebook in poor weather",
+        "Marking an uncertain identification honestly",
+        "Fitting repeat surveys around shop shifts"
+      ]
+    },
+    {
+      "id": "m044",
+      "first_name": "Henry",
+      "last_name": "Dale",
+      "role": "Community compost caretaker",
+      "home": "South Meadow",
+      "background": "Manages shared compost bays alongside paid grounds work; good at routine maintenance, blunt with newcomers. Workshop interest: welcoming volunteers.",
+      "voice": "Earthy but not punning; explains processes step by step.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m008",
+        "m029",
+        "m042"
+      ],
+      "experience_domains": [
+        "Teaching sorting without embarrassing a newcomer",
+        "Investigating a neglected compost bay",
+        "Arranging cover during paid-work peaks"
+      ]
+    },
+    {
+      "id": "m045",
+      "first_name": "Mara",
+      "last_name": "Wells",
+      "role": "Care equipment loan clerk",
+      "home": "North Orchard",
+      "background": "Checks out walking aids and other basic equipment; careful inventory, inclined to treat return dates as inflexible. Workshop interest: service access.",
+      "voice": "Precise about condition and responsibility; listens before revising a rule.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m009",
+        "m021",
+        "m032"
+      ],
+      "experience_domains": [
+        "Checking returned equipment before lending it again",
+        "Handling a requested loan extension",
+        "Explaining a shortage without promising unavailable stock"
+      ]
+    },
+    {
+      "id": "m046",
+      "first_name": "Noel",
+      "last_name": "Banks",
+      "role": "Rain gauge volunteer and farmhand",
+      "home": "Reed Flats",
+      "background": "Keeps local rainfall notes around farm shifts; diligent measurements, sometimes draws conclusions too quickly. Workshop interest: interpreting data.",
+      "voice": "Numbers first, then a caveat when prompted.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m016",
+        "m024",
+        "m028"
+      ],
+      "experience_domains": [
+        "Keeping a gauge record during busy weeks",
+        "Comparing observations from differently placed gauges",
+        "Revising a claim about why a lane flooded"
+      ]
+    },
+    {
+      "id": "m047",
+      "first_name": "Imogen",
+      "last_name": "Shaw",
+      "role": "Community network technician",
+      "home": "Junction Quarter",
+      "background": "Maintains modest internet links for shared rooms and shops; good troubleshooting, tends to skip handover notes. Workshop interest: documentation.",
+      "voice": "Separates symptoms from guesses; uses plain analogies sparingly.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m011",
+        "m026",
+        "m041"
+      ],
+      "experience_domains": [
+        "Tracing an unreliable workshop connection",
+        "Writing a useful handover after a repair",
+        "Explaining why a quick workaround is temporary"
+      ]
+    },
+    {
+      "id": "m048",
+      "first_name": "Julian",
+      "last_name": "Park",
+      "role": "Market display maker",
+      "home": "Clay Hollow",
+      "background": "Builds reusable stall signs and simple display stands; inventive with offcuts, underestimates finishing time. Workshop interest: project estimates.",
+      "voice": "Talks through sketches; admits when a measurement is provisional.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m013",
+        "m037",
+        "m038",
+        "m050"
+      ],
+      "experience_domains": [
+        "Designing a sign readable from the brick road",
+        "Revising a stand after a stability check",
+        "Estimating finishing labor before quoting"
+      ]
+    },
+    {
+      "id": "m049",
+      "first_name": "Florence",
+      "last_name": "Gray",
+      "role": "Reading group convener and grocer",
+      "home": "Bell Market",
+      "background": "Hosts discussion above a small grocery; good at drawing quiet people in, sometimes lets familiar voices dominate. Workshop interest: group facilitation.",
+      "voice": "Reflective, asks what in the text supports a view.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m020",
+        "m025",
+        "m043"
+      ],
+      "experience_domains": [
+        "Choosing a reading that fits mixed confidence levels",
+        "Redirecting a discussion dominated by regulars",
+        "Distinguishing personal memory from a passage's wording"
+      ]
+    },
+    {
+      "id": "m050",
+      "first_name": "Bennett",
+      "last_name": "Cole",
+      "role": "Festival equipment custodian",
+      "home": "Bell Market",
+      "background": "Stores benches, lanterns, and blue bunting for ordinary village gatherings; organized shelves, reluctant to retire worn supplies. Workshop interest: asset planning.",
+      "voice": "Inventory-minded and dryly funny about missing fasteners.",
+      "inspiration": "Original Munchkin resident; provisional human authoring premise.",
+      "relationships": [
+        "m031",
+        "m038",
+        "m048"
+      ],
+      "experience_domains": [
+        "Checking stored benches before a gathering",
+        "Negotiating equipment loans between groups",
+        "Explaining why familiar decorations need replacement"
+      ]
+    }
+  ]
+}

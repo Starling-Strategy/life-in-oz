@@ -1,0 +1,88 @@
+{
+  "id": "ozx-05-01-news-article",
+  "title": "Local Services Adjust Schedules, Signage, and Menus for Clarity",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m009",
+    "m010",
+    "m019",
+    "m021",
+    "m032",
+    "m045"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Across North Orchard and Meadowbank, several local service providers have recently tweaked their daily operations to make access clearer for the public. The changes are small, involving scheduling, signage, and menu planning, but they aim to reduce confusion and ensure that staff and visitors have a smoother experience."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "### Route Planning Aligns with Clinic Hours\n\nNora Northcott, a visiting nurse based in North Orchard, has adjusted her administrative travel schedule to better fit the public opening windows of local clinics. By comparing her travel times with reception hours, she proposed a different order for her paperwork stops. This allowed her to deliver routine documents while desks were staffed, avoiding the need to leave items unattended or wait for staff to return."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "m009",
+      "text": "It wasn’t about doing the visits faster. It was about not being the person standing in the hallway at closing time with a folder in hand. Once I timed the bus route against the desk hours, the paperwork just fit in."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "### Visual Aids for Kitchen Porters\n\nAt the community kitchen in Meadowbank, porter Tobias Hale has introduced a set of simple drawings alongside the written duty names on the closing rota. He tested these visuals with other porters to ensure they clearly represented the work areas. The result has been a smoother handover for relief workers, who can now follow the cleaning and storage sequence without repeatedly interrupting the cook for clarification."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "m010",
+      "text": "The words were there, but a picture of the drying rack next to the name helped the new starter know exactly where to go. The cook didn’t have to look up from the stove every time someone asked which shelf was which."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "### Canteen Menu Reflects Current Stock\n\nBeatrice Kettle, cook at the local canteen, has shifted her lunch menu strategy to focus on produce already available from her established suppliers. Instead of advertising dishes that depend on uncertain deliveries, she now lists lunches built around confirmed ingredients. Customers have been buying the listed items, and the kitchen has finished service without needing to cross out half the board."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "m019",
+      "text": "If I can’t guarantee the carrots are in the soup, I don’t put the carrots in the name. It’s a shorter list, but everyone knows exactly what they’re getting. No surprises, no apologies."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "### Distinguishing Visits from Assignments\n\nIris Marsh, a home-care scheduler, has updated her scheduling view to visually separate requested visits from confirmed assignments. She tested the change with a colleague using dummy entries, and the colleague correctly identified which slots were unstaffed. Iris has since used this distinction in private handovers, ensuring that incoming staff know exactly which visits are firm and which are still pending."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "m021",
+      "text": "It sounds simple, but mixing up a request with a confirmed slot leads to wasted trips. The color coding keeps the promise separate from the possibility. It’s a small thing in the software, but it stops the uncertainty from leaking into the shift plan."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "### Civic Directory Clarifies Clinic Hours\n\nCaleb Alder, a clinic reception clerk, approached the civic directory desk to request a distinction between the clinic’s reception opening time and its appointment hours. The previous listing implied that an open door guaranteed an appointment. The corrected public listing now makes this clear, and Caleb’s counter notice at the clinic matches the updated directory, preventing visitor confusion without disclosing details about individual schedules."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "m032",
+      "text": "People were coming in thinking they could just walk in and see someone because the door was open. We’re open for administration, but appointments are booked. The sign now says what the door actually does."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "### Loan Ledger Separates Returned from Available Stock\n\nMara Wells, the care equipment loan clerk, has revised her loan ledger to separate returned equipment awaiting inspection from stock recorded as available. At the next desk handover, a colleague accurately described availability based on the updated records, without promising out items that were still undergoing the established check. No borrower details appear on the public stock notice, maintaining privacy while improving accuracy."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "m045",
+      "text": "A returned walker isn’t a usable walker until it passes the check. Keeping them in separate columns means I’m not guessing. My colleague looked at the list and knew exactly what I could hand over immediately. That’s all I wanted."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "These adjustments reflect a broader trend in the area’s service sector toward reducing ambiguity. By aligning internal processes with external communication, these providers are making their services more accessible and predictable for the residents they serve."
+    }
+  ],
+  "content_sha256": "3cb622781c1575b5c6c0847cb2df9a60465500a6458a8397275aa61d09d000b7"
+}

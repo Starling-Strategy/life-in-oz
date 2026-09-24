@@ -1,0 +1,28 @@
+{
+  "id": "oz-17-strawbridge-river-pole",
+  "title": "River Ferry Log and Waterway Incidents",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "m005"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Notes from the upper river bend. A small party attempted to cross the swift current on a wooden raft yesterday. Samuel Strawbridge took charge of the steering pole to keep the raft out of the rapids."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "When the current caught the timber, Samuel planted the pole deep into the mud to hold the craft steady. The raft slipped past, leaving Samuel clinging calmly to the top of the tall pole in midstream until a friendly stork flew over and gave him a ride back to dry ground."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Ferry watchers noted: \"The pole stuck fast in the mud, and before the Scarecrow could let go, the raft swept away without him, leaving him perched high above the water until help arrived.\""
+    }
+  ],
+  "content_sha256": "2a4e898cba0a06526a99ba01fdf6ae34fad40ea8ce66474da5a9d19116d2aa26"
+}
