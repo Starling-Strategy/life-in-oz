@@ -1,0 +1,53 @@
+{
+  "id": "ln-028-survey-response",
+  "title": "Emerald City Leadership Network Member Survey: Freelance Work Insights",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln254"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Members' Survey – April 2024\n\nThank you for your participation. This survey seeks to understand the unique challenges and contributions of freelance members. Your insights help shape future network support and resource sharing.\n\n1. Briefly describe a recent project where your specialized skills had a clear, positive impact on a client or community need."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln254",
+      "text": "Last month, the Gillikin Growers circle forwarded an export certificate for a berry preserve shipment. They needed a verified translation into the customs format. I reviewed the official translation. The original had rendered the jar size specification incorrectly—it was labeled as a bulk measurement instead of the individual unit size. I caught it, provided the correct term, and the Growers submitted the corrected document. The shipment cleared customs without delay. It was a small line in a long document, but those are often the ones that cause the biggest holdups."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "2. Are you currently engaged in any independent research, skill-building, or resource creation that you believe would benefit other members or your wider professional community?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln254",
+      "text": "Yes. I'm compiling a personal reference glossary. It focuses on Winkie milling and forging terminology—the specific words for gear ratios, tempering processes, alloy grades. I've been pulling terms from old guild manuals and cross-referencing them with modern technical sheets. It's tedious, but when the next industrial-document project comes in from the Winkie Works Guild or a similar circle, I won't have to start from scratch each time. It should cut my turnaround down significantly."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "3. What is the most significant challenge you face in your freelance work that could potentially be addressed through network connections or shared resources?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln254",
+      "text": "Isolation of terminology. Every region and trade has its own dialect. A 'becket' in Gillikin rope-making is not the same as a 'becket' in Quadling net-mending, but they get translated with the same common word, which loses meaning. A centralized, searchable repository of specialized term banks, even just pointers to who knows what, would be invaluable. I end up calling clerks and retired guildspeople directly, which is time-consuming."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "4. On a scale of 1 to 5, how valuable do you find the network's circles for generating client referrals or collaborative project opportunities? (Please elaborate.)"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln254",
+      "text": "3. The referrals are infrequent but high-quality. The Gillikin Growers job came through the network. Most of my work is still from direct client relationships or agencies. The value is less in constant leads and more in knowing that when a circle does need translation, they think of me because I'm in the directory. The trust is already there, which streamines the initial conversation."
+    }
+  ],
+  "content_sha256": "c9d3c9c4c09f178bbef0fded816efa77054c61b1503a94ac41243971b5d6fb31"
+}

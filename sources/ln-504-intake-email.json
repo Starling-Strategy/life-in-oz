@@ -1,0 +1,33 @@
+{
+  "id": "ln-504-intake-email",
+  "title": "Fwd: Quick note on van use and roadside assist",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln187"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln187",
+      "text": "Rowan, hello. Forwarding a note from the depot supervisor below, and wanted to add my own bit. Thought the network should know about these sorts of day-to-day bits that add up.\n\nBest,\nJago"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: A depot supervisor\nTo: Jago Winkleholt\nDate: August 24, 2026\nSubject: Supplies delivered"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Jago,\n\nConfirming the testing supplies shipment you coordinated arrived at the riverlands clinic this afternoon. The driver said your call came in just as his van was turning around empty after a drop-off at the hospital, and he was glad not to run back with an empty cabin. The clinic nurse said they were down to their last few boxes, so the timing was crucial. Thanks for thinking of it.\n\nRegards,"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln187",
+      "text": "And on a separate note, yesterday afternoon, I was heading back from Clay Hollow when I saw one of our transport vans pulled over on the Brickway spur, steam pouring out from under the hood. It was returning from a long dialysis run to the city. I pulled over. The driver was looking a bit frantic, trying to let it cool. We spent about an hour there, me fetching water from the ditch to help cool the radiator while he called dispatch. Just stayed until the mechanic from the nearest hamlet arrived. It’s all part of the job, but it’s the sort of thing that reminds you how long these routes are, and how hot the roads get this time of year. Everyone got home safe, van’s in the shop.\n\nThat’s all.\nJago"
+    }
+  ],
+  "content_sha256": "c3b8d6e3541ec1364fdb573ec2a10ce24213cc886f65230ac2f34e557736540f"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ln-278-membership-intake-form",
+  "title": "Emerald City Leadership Network — Membership Intake Form",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln299"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Application for: Jasper Brookwood, Brookwood's Cafe, Reed Flats"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Date submitted: July 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Circle(s) of interest (check all that apply): Small Business Circle, Meadow Mutual Aid"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Please share a recent example of your work in the community or a challenge you're currently facing."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln299",
+      "text": "Well, I run the cafe here in Reed Flats. A little while back, I got my hands on some of that sharp, crumbly cheese from the Winkie Country dairy co-op—you know the one? I started making a toasted sandwich with it, a bit of chutney, and some of our house-baked rye. It caught on fast. It’s a weekly special now; folks come in on Tuesdays just for it."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln299",
+      "text": "The other thing is, we always used to have soup left at the end of the day, sealed up in the pots but no one to serve it to. Felt wrong to pour it out. So we started taking the whole sealed pots over to the community fridge by the old mill. It’s just part of closing up now. Means a few folks getting a hot meal who might not have one, and we’re not wasting good food."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "What do you hope to gain from or contribute to the Network?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln299",
+      "text": "Honestly, I’m hoping to connect with other small business owners. Running a cafe can feel a bit like you’re on an island sometimes. I’d love to hear how others handle supply issues, or maybe find a better source for flour. And if our experience with the community fridge is useful to anyone else, I’m happy to share it."
+    }
+  ],
+  "content_sha256": "30781488b129378f87fbdfe9b2c5a5ede3ade8861a6badc9d6e4d00ee9001e6b"
+}

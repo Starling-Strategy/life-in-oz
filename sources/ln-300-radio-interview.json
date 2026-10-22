@@ -1,0 +1,103 @@
+{
+  "id": "ln-300-radio-interview",
+  "title": "Keeping Bees and Making Wraps in Gillikin Falls",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln233"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Welcome back to Community Buzz on Emerald City Radio. I’m your host, and today we’re heading north to Gillikin Falls to talk about a different kind of buzz. Ambrose Brookstead of Brookstead Apiaries is with us. Thanks for joining, Ambrose."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln233",
+      "text": "Thank you for having me."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Now, I hear you’ve been busy beyond the hives. You recently held a workshop in your shed?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln233",
+      "text": "That’s right. Just a small thing. Four folks from the area came by, all new to any of this. We spent an afternoon making beeswax wraps. You know, the cloth wraps for covering a bowl or wrapping up bread."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "Using your own wax?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln233",
+      "text": "Yes. We melted down some clean cappings wax I’d harvested last season. It’s a good use for it. We had the cloth cut, warmed the wax in a double boiler, brushed it on, and then used a warm iron to even it out. Simple. One of the participants, she was a bit nervous about burning the cloth, but we went slow. By the end, everyone had a couple of wraps they’d made themselves to take home."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "That’s a lovely, practical skill to share. What got you started offering something like that?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln233",
+      "text": "Well, people ask what else you can do with wax besides candles. This is a useful answer. And it’s good to see the material go straight from the hive to someone’s kitchen. Makes the connection plain."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "Speaking of hives, how has the season been for you? I understand the spring had some challenges."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln233",
+      "text": "It did. Early spring was colder and wetter than usual. The bees stay clustered tight when it’s like that, and opening a hive in the cold rain is hard on them. So I had to postpone several inspections I had scheduled. Just pushed everything back about a week."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "A whole week’s delay? That must have reshuffled your calendar quite a bit."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln233",
+      "text": "It did. You plan your spring work—checking food stores, looking for early signs of swarming, seeing how they came through winter. When you can’t look, you have to wait. I spent the time in the shed getting ready, cleaning equipment, things like that. The bees know their own business better than I do, anyway. They were fine once the sun came back."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "So the workshop happened after that cold spell?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln233",
+      "text": "Yes, it was later, when things had warmed up and dried out. Better for people to travel, too. Nobody wants to drive to a shed workshop in a downpour."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "A very practical point. Looking ahead, any plans for more workshops?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln233",
+      "text": "I’ve had a couple of people ask. Maybe another one in the fall, if there’s interest. It’s a good autumn project, when the harvesting is mostly done."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "host",
+      "text": "We’ll keep our listeners posted. Ambrose Brookstead of Brookstead Apiaries, thank you for the conversation and for the work you do."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln233",
+      "text": "My pleasure. Thank you."
+    }
+  ],
+  "content_sha256": "6ecdd5c77814fa24ae93956910e5ca9858e08652b7a69229c08a28bee8c50618"
+}

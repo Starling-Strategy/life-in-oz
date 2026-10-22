@@ -1,0 +1,76 @@
+{
+  "id": "ln-054-news-article",
+  "title": "Brickway Transit Union Roundup: Detours, Deliveries, and a Weekend Blitz",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln241",
+    "ln142",
+    "ln145",
+    "ln015"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Gazette\nJune 2024\n\nWhile the Brickway is the backbone of Oz, it’s the people who maintain it, drive on it, and reroute around it who keep the country moving. This month saw a flurry of activity from Brickway Transit Union members, from quiet acts of assistance to coordinated logistical shifts and major road repairs."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The Detour Planner\nWhen Spectacle Lane in Munchkin Country needed emergency sewer repairs, the #11 bus line, a vital link for dozens of daily commuters, was set to be cut off for three days. Adele Barleyton, a timetable planner with Brickway Transit, didn’t just reroute the buses. She spent an evening walking the proposed detour with a stopwatch, adjusting the temporary stops and timings to shave minutes off the walk for regulars heading to the market and the mill."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln145",
+      "text": "It’s not just moving the bus stop sign down the block. You have to think about where people are actually going. If the new stop adds a seven-minute walk up a hill for someone who usually has a flat two-minute stroll, you’ve failed. We got it down to an extra three minutes, max, for most people."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The adjusted schedule ran without a major complaint, and service on Spectacle Lane resumed as planned."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The Forest Road Delivery\nHeavy spring rains washed out a section of the main gravel road into the Spool Mill community, leaving the small settlement potentially cut off from fresh supplies. Freight driver Enid Poppydale was scheduled to deliver a half-load of flour and yeast from a Munchkin Country mill."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln241",
+      "text": "The dispatcher said the road was gone and to turn back. But I’d taken that old forestry track once years ago, hauling lumber out. It’s narrow, and you have to go slow for the ruts, but it’s solid. Called the mill foreman, he said if I thought I could make it, they really needed the yeast for the week’s baking. So, I went the long way around. Took an extra hour and a half, but the bread got made."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Poppydale’s knowledge of the back routes ensured the delivery was only delayed, not canceled."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The Generator Loan (Reported)\nDuring a localized power failure that hit several homes along the Brickway near Violet Hills, neighbors report that Oren Cinderley, steward of the Violet Hills tool library, was instrumental. According to one family, Cinderley arranged an after-hours emergency loan of the library’s portable generator, getting it to their home so they could keep a medical device running through the night. Cinderley, when asked, simply confirmed the library’s policy allows for such emergencies."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln142",
+      "text": "The procedure is in the binder. If there’s a verified medical need and a member is in good standing, we can authorize an after-hours release. I checked the ledger, verified the need with the family’s clinic, and met them with the unit and the fuel can. It’s what the library is for."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "The Pothole Blitz\nWith summer festival traffic poised to swell on the main Brickway approach, Victor Sedge, a road maintenance lead with Brickway Works, coordinated a preemptive strike. He scheduled two crews for a weekend blitz, targeting over thirty potholes that had been reported through the union’s log."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln015",
+      "text": "We mapped them all—from the shallow washouts near the junction to the deeper ones by the old bridge. Used a pre-mixed cold patch material so we could work fast without waiting for a hot mix truck. Crew A started at the eastern marker, Crew B at the western, and we met in the middle by Sunday afternoon. It’s not a permanent fix for all of them, but it’ll smooth the ride for the festival wagons and the extra coaches."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "The work was completed before the Monday commute, leaving the road noticeably smoother for the influx of visitors."
+    }
+  ],
+  "content_sha256": "da6ed79dea9e58887065d305f554c077e21dbf9000876e9f9538e298e63b27c3"
+}

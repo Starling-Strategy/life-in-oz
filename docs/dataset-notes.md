@@ -2,9 +2,11 @@
 
 ## Purpose and contents
 
-Life in Oz v1.0.0 is English-language fictional practice material for document search, extraction, summaries and prototype applications. It has 53 preserved documents in eight original format labels, grouped into two explicitly separate collections. It is not a representative sample of real civic life.
+Life in Oz v1.1.0 is English-language fictional practice material for document search, extraction, summaries and prototype applications. It has 576 documents in 20 format labels, grouped into three explicitly separate collections. The 53 version 1.0.0 documents are preserved unchanged. It is not a representative sample of real civic life.
 
 `community-life` contains 48 documents and the 50-member modern-human roster. `book-adventures` contains five short supplemental documents, `oz-13` through `oz-17`, which borrow more directly from the fantasy setting. Shared cast IDs do not make their histories compatible. Rowan Bell is a fictional moderator outside the roster. Names of incidental people in prose should not automatically become roster members.
+
+`leadership-network` contains 523 documents and its own 300-member roster (`world/leadership-network-people.json`), with reference annotations and 62 target questions. It shares many names with community-life, but it has different IDs (`ln001` onward), roles and histories.
 
 ## What was generated and reviewed
 
@@ -23,6 +25,16 @@ The generation recipes explain the original community-life authoring workflow. T
 - Speaker labels mix roster IDs, display names, `manager` and `narrator`. They are source labels, not a uniformly normalized identity field.
 - The public annotations, roster and authoring briefs can contaminate a test. Keep them out of the evaluated system's context and index. Once material is public, prior model exposure cannot be ruled out.
 - Synthetic examples may contain stereotypes, omissions or implausible details. No fairness, privacy or production-readiness certification is claimed.
+
+## The leadership-network collection
+
+The collection was briefed backwards from 62 target questions, so its answers exist by design. Expected members are the planted answers, not an exhaustive list: with 300 members and 523 documents, other members can reasonably answer a question. Check a system's evidence rather than scoring every extra name as wrong.
+
+Members were grouped into documents by circle, not by shared history. Most multi-member documents are therefore roundups, panels, threads or minutes in which each person describes their own episode, rather than one event involving everyone. Episodes are small and practical by design. Dates are month-level and give each document a place in 2024 to 2026; they do not form a complete timeline.
+
+Documents, seeds and audit used one model family, `deepseek/deepseek-v3.2`. The 1,223 reference experiences are model-proposed and mechanically anchored. Agent review covered the fixed documents, the correction, disagreement and identity cases, and a sample; it did not cover every lead. Plans never produce a reference experience. A few briefed plans were drafted as partly done (for example, a first batch of letters already sent); those documents remain self-consistent, and no lead claims the plan. Free models were tried first and were unavailable on the authoring account (see [generation notes](../generation/leadership-network-notes.md)).
+
+Planted cases to look for: a disagreement over a lantern count, two later corrections (handrails delivered but not installed; the wrong driver credited in minutes), a nickname (Billie), a shared surname (two unrelated Wrens) and a non-member namesake (a visiting Peter Ash).
 
 ## Privacy and use
 

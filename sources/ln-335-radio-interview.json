@@ -1,0 +1,129 @@
+{
+  "id": "ln-335-radio-interview",
+  "title": "Emerald City Community Radio: 'Between the Lines' with Edmund Tinworth",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln172",
+    "ln112"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good afternoon, listeners. Welcome back to 'Between the Lines,' where we talk to the people who make our city's systems tick. I'm your host, and today I'm joined from our studio by Edmund Tinworth, a records clerk at the Wizard's Office. Edmund, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln172",
+      "text": "Thank you for having me. It's a pleasure. The studio is very... acoustically sound. I can hear my own breathing quite clearly."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Well, we'll try not to amplify that. You work in Spectacle Lane, is that right?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln172",
+      "text": "Yes, I do. I live and work there. It's convenient. The walk from my front door to the office door is exactly one hundred and twenty-seven paces, depending on whether I take the side path or the main one. The side path has a slightly uneven cobble."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "I see. Now, you're a records clerk. What does a typical day involve for you?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln172",
+      "text": "Primarily, it's about ensuring forms are complete and correctly filed. The, ah, the lifecycle of a document. From intake, to verification, to indexing, to final archival placement. For instance, market stall applications. They come in from all the countries, you see. Munchkinland, Winkie, Quadling, Gillikin. Each has its own... idiosyncrasies in how they fill out the forms."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "And you noticed something about those forms recently?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln172",
+      "text": "I did. There was a persistent error. Applicants were consistently leaving Section 4B blank—that's the projected weekly waste disposal plan—thinking it only applied to food vendors. But it applies to all stalls, you see, because even a craft stall generates paper scraps, packing material. Every week we'd have to send a clarification request, which added, on average, five working days to the process."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "Five days just for that one question?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln172",
+      "text": "Well, the postal service isn't instantaneous, and then the applicant has to find the time to reply. It adds up. So I drafted a supplementary guidance sheet. It's a single page. It explains, in very plain language, what each section requires, with specific examples for different stall types. We now staple it to every application packet. The number of incomplete forms has dropped significantly. Processing delays for that particular stage have been reduced by nearly a week."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "That's a concrete improvement. Let's bring in our other guest now. Also joining us from the Wizard's Office is Ivy Coppermore, a permits clerk. Ivy, hello."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln112",
+      "text": "Hello."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "You work in the same building as Edmund?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln112",
+      "text": "I do. Different corridor. The permits corridor. It's... busier. More people coming to the window."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "I imagine. Tell us about a recent permit you handled that was a bit out of the ordinary."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln112",
+      "text": "It was for a traveling puppet show. They wanted to bring their horse-drawn wagon into Founders' Square—that's the small one by the old library—and occupy two parking spaces for a three-day run. It's not a standard request. You have to consider the wagon's dimensions, the ground pressure, the horse's welfare, the handler's license."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "host",
+      "text": "And did it all check out?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln112",
+      "text": "It did. The wagon measurements were provided, and they were within the bounds of two standard parking spaces. The handler had a valid Quadling County equine license, which we have reciprocity for. So I approved it. They sent a very nice note afterwards. The children enjoyed the show, apparently."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "host",
+      "text": "That's lovely. Edmund, what goes through your mind when you hear about a permit like that? Does it eventually become a record for you?"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln172",
+      "text": "Oh, absolutely. The approved permit form, the supporting documentation—the license, the dimension sketch—it all comes to us for final filing. We'll create a cross-reference under 'Public Entertainment,' 'Mobile Displays,' and 'Animal-Assisted.' It's quite a satisfying file to assemble. It tells a complete story."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "host",
+      "text": "And Ivy, does a clearer guidance sheet, like Edmund's, make your job easier?"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln112",
+      "text": "If it means fewer people show up at my window with half-finished forms, yes. It absolutely does. It gives them the right information before they even get in line. That's the goal, really."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "host",
+      "text": "Well, we've run out of time. My thanks to both Edmund Tinworth and Ivy Coppermore from the Wizard's Office for giving us a glimpse 'Between the Lines.' This is your host, signing off."
+    }
+  ],
+  "content_sha256": "f2575c710b37af0b87df71f287d2d7f55cb9ce9a3592c75cc8a3dbdc4b125454"
+}

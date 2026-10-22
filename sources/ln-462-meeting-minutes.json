@@ -1,0 +1,75 @@
+{
+  "id": "ln-462-meeting-minutes",
+  "title": "Emerald City Chamber Monthly Committee Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln159",
+    "ln255",
+    "ln099"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Chamber – Member Services Committee\nMeeting Date: 16 April 2026\nLocation: Chamber Offices, Commerce Hall\nPresent: Zeb Lanternham (Membership Officer), Ren Hazelham (Hazelham Hardware), Ezra Winkleley (Winkleley & Co. Accountants), Rowan Bell (Community Manager, Emerald City Leadership Network)"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Welcome and Approval of March Minutes\n   The minutes from the March meeting were reviewed and approved without amendment."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln099",
+      "text": "2. Report from the Membership Officer\n   Zeb Lanternham reported on recent operational adjustments. He noted that the regular monthly member lunch meetings have seen a change in catering. 'After reviewing the quarterly budgets,' he said, 'I sourced a cooperative of Quadling home bakers to provide the pastries and savories. The fare is similar—arguably better—but the cost is about fifteen percent lower per head, and the funds go directly to those local producers.'"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The committee acknowledged the change. Ezra Winkleley noted the positive budget impact, and Ren Hazelham commented that the raspberry tarts from the last meeting were excellent."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln159",
+      "text": "3. Member-Led Initiatives Update\n   Ren Hazelham provided a brief update from the retail sector. 'A practical note,' she began. 'After the shovel-blade shortage last winter—we had a line out the door and couldn't help half of them—I made a point of stocking up on the city-issue replacement blades. Ordered a double batch in early autumn. They’re on the shelf now, next to the salt bins. Hardly headline news, but it means when the next big snow hits, my customers won’t be left scraping with a splintered handle.'"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Rowan Bell asked if other hardware vendors in the network had been informed. Ren indicated she had mentioned it casually to a few, but no formal coordination had been attempted."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln255",
+      "text": "Ezra Winkleley shared an example from his practice. 'This is in the spirit of the small, practical help we discuss,' he said. 'I was doing the quarterly books for that little bakery in Reed Flats—the one with the honey-glazed buns. Noticed the same payroll-tax discrepancy cropping up each period. A misapplied exemption. Filed an amended return for them last month and recovered a modest overpayment. It wasn't a fortune, but for them, it'll cover a month of flour.'"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "4. Budget Review for Q2\n   Ezra Winkleley presented the preliminary Q2 budget, incorporating the savings from the catering change. The projections show a slight surplus, which the committee agreed should be earmarked for the upcoming 'Young Founders' pitch event refreshments."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln099",
+      "text": "5. Agenda for May All-Member Meeting\n   Zeb Lanternham proposed a panel discussion on 'Supply Chains After the Floods: Sourcing Locally.' He will invite speakers from the Gillikin Growers circle and the Brickway Transit Union. Ren Hazelham agreed to participate from a retail perspective. The panel will be moderated by Rowan Bell."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "6. New Business\n   A member inquired about group rates for glass coverage insurance following several incidents of broken shopfront windows. Zeb Lanternham will gather information from three providers for discussion in May."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "7. Actions and Decisions\n   - ACTION: Zeb Lanternham to finalize invitations for the May panel speakers by 30 April.\n   - ACTION: Ezra Winkleley to circulate the finalized Q2 budget document to the full Chamber board by 23 April.\n   - DECISION: The Q2 budget surplus is allocated to the Young Founders event.\n   - DECISION: The committee format is working well and will continue monthly.\nMeeting adjourned at 4:15 p.m."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Submitted by: Zeb Lanternham, Membership Officer\nNext meeting: 21 May 2026, 3:00 p.m."
+    }
+  ],
+  "content_sha256": "c5d39e16ebc0ccb9f6a6d69dea5cec3868fa0d04d0a3fccd41ae66571cc8875a"
+}

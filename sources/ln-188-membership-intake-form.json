@@ -1,0 +1,93 @@
+{
+  "id": "ln-188-membership-intake-form",
+  "title": "Holt Alterations - Membership Application",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln041"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network - Membership Intake Form"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Date: March 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Applicant Information"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Full Name:"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln041",
+      "text": "Isaac Holt"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Business/Organization:"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln041",
+      "text": "Holt Alterations"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Location:"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln041",
+      "text": "Timber Verge, Winkie Country"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Primary trade or role:"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln041",
+      "text": "Owner, tailor, mender. Structural repairs on workwear and gear."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Please describe two recent projects that reflect the skills and community focus you'd bring to the network."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln041",
+      "text": "The first was for the mobile library. Their drivers' canvas backpacks were fraying at the shoulder straps, which is a predictable failure point if you don't build them right. I cut a reinforcement from heavy denim, shaped to spread the load, and used a double row of stitching. It's not a visible fix, but it'll outlast the rest of the bag now."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln041",
+      "text": "The second was a bulk job for a local dairy. They brought in twelve coveralls where the knees and cuffs had practically dissolved—something in their wash solution ate through the original fabric. I replaced the degraded sections with an acid-resistant cloth that can handle the environment. A proper patch isn't just a cover; it's an upgrade."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "What circles or areas of the network interest you most?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln041",
+      "text": "The Brickway Transit Union and the Winkie Works Guild. I do a lot of work for people who wear out their clothes on the job, and I have opinions about how pockets should be constructed. It seems like a place where that knowledge might be useful."
+    }
+  ],
+  "content_sha256": "db2797e7dff4cbecaac203b59a74e9c2bd7a607994f524cdb708c4519b561ad3"
+}

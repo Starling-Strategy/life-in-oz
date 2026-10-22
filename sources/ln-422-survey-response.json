@@ -1,0 +1,34 @@
+{
+  "id": "ln-422-survey-response",
+  "title": "Network Skills Survey: Responses from Doris Emerycombe and Kit Amberworth",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln286",
+    "ln277"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Network Skills Survey, January 2026.\nQuestion: Please list any skills or experiences you might be willing to share with others in the network or with the wider community (e.g., workshops, talks, mentoring)."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln286",
+      "text": "Doris Emerycombe, Welder, Emerycombe Fabrication.\nWelding. Forty years of it. I can talk about what it is. What it isn't. The sparks, the gloves, the focus it takes. I can tell a kid why a good weld holds a bridge up and a bad one doesn't. If a school wants someone to come in and show what the work looks like, I'll do it. Bring my helmet. Show them the difference between a clean seam and a bird's nest. No sugar-coating. It's hot, it's loud, it's a good living. That's the offer."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Question: Are there any community outreach or education activities you'd be interested in participating in?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln277",
+      "text": "Kit Amberworth, Driver, Brickway Transit.\nOh, I'd love to talk to a classroom full of youngsters about driving the bus! Tell them the stories—not the near-misses, the good ones. The regulars you get to know, the lost tourist you help find the right stop, the quiet of the early morning run down the Brickway when the city's still asleep. I could bring a route map, let them pretend to be the driver for a day. Explain how you learn the rhythm of a neighborhood, who gets on where, and why being on time matters so much to people's days. Haven't done one yet, but I'm putting my name in the hat. It'd be a pleasure."
+    }
+  ],
+  "content_sha256": "a744924951df28ae83bfc53ec4284ad28e8c5cd23b15ba106548ee836e6a9209"
+}

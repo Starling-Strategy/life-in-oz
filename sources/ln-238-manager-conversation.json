@@ -1,0 +1,33 @@
+{
+  "id": "ln-238-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Celia Dove · May 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln033"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Celia Dove about recent projects at the Eastfield allotments. She reported two items."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "First, the seed swap bench. Celia set up a bench under the main shelter with donated envelopes, all labeled by crop and variety. She says it's become a regular weekend feature; people leave packets and take what they need. She keeps an eye on the stock but doesn't have to manage it closely."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Second, the rotation schedule. For the larger communal vegetable plots, Celia drew up a simple three-year planting rotation on a large sheet of brown paper. It's posted by the tool shed. She says several of the more established growers have started following it this season to help with soil health."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Both items are done and in use. No new requests or issues raised. Celia mentioned the waiting list for plots is steady; she's still managing it in her ledger."
+    }
+  ],
+  "content_sha256": "a9f20b7fec4e1e69249eff8bc2ca8a40d732644e7f5a30b637a66c2c74f6975e"
+}

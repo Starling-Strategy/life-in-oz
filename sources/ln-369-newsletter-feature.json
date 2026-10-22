@@ -1,0 +1,59 @@
+{
+  "id": "ln-369-newsletter-feature",
+  "title": "Drying Racks and Digital Backups: Young Founders Spotlight",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln043",
+    "ln194"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "In the Young Founders circle, innovation isn't just about starting something new; it's about seeing a persistent problem and crafting a simple, elegant solution. This month, we look at two members applying that principle in very different fields—one in a Munchkin crate wash, the other in a Gillikin archive."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Simon Fern of Fern Crate Wash in Blue Orchard was tired of waiting. His business, which cleans and sanitizes reusable crates for local growers, was bottlenecked by the drying process. Stacks of crates air-drying in the yard were at the mercy of the weather, and even indoors, flat drying took too much time and floor space. 'You’d walk by and just see puddles,' Simon says, his cheerful tone turning briefly exasperated. 'It was the least efficient part of the whole operation.'"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln043",
+      "text": "I got obsessed with drainage angles. Every crate has those little feet, right? So I sketched out a rack where the shelves aren't flat—they're on a slight tilt. Water runs right off into a central gutter instead of pooling. I welded up the prototype myself from some scrap channel iron."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The result? A custom slanted rack system that has cut crate drying time in half. Simon can now run more loads through his wash facility each day, a modest but crucial boost for his turnover and for the growers who rely on him for clean containers. He’s already planning a second, larger rack for the busier seasons."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Heatherford, Hazel Violetbourne is thinking about preservation. As a volunteer with the Reading Room Network’s oral history project, she spends hours recording conversations with older residents, capturing stories on tapes and digital files. But she’s grown concerned about the fragility of these archives."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln194",
+      "text": "We've had a few scares. An old tape spool got sticky, and a volunteer's hard drive just failed without warning. These stories, once lost, are gone forever. We do good work collecting them, but we need to be just as diligent about keeping them safe."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Hazel, who describes her approach as 'curious and attentive,' is proposing a workshop for fellow volunteers. She wants to share a straightforward method for creating multiple digital backups—storing copies in different physical locations and on different types of media—to guard against both tape degradation and hard drive failures."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln194",
+      "text": "It's not glamorous tech. It's about routine. Labeling files clearly, setting a calendar reminder to check the backups, maybe using those durable archival discs. I want to show everyone it's manageable, and that it’s part of the responsibility of holding someone's story."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "From Simon’s angled iron to Hazel’s backup protocols, these founders remind us that good systems are the quiet foundation of any lasting work. They see the drip, the decay, the risk—and they build a rack, draft a checklist, and share the knowledge. That’s the Young Founders spirit, one practical fix at a time."
+    }
+  ],
+  "content_sha256": "f8b897e4879ca6e67f48447163a8734aeacb30056feed3e6bdc44b48c8ed3434"
+}

@@ -1,0 +1,227 @@
+{
+  "id": "ln-104-webinar",
+  "title": "The Timber Verge Repair Co-op: A Webinar on Keeping Things Running",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln190",
+    "ln273",
+    "ln298",
+    "ln158",
+    "ln094"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone. I’m Rowan Bell, community manager for the Emerald City Leadership Network. Tonight, we’re talking with members of the Timber Verge Repair Co-op and friends about the work of maintenance and repair. We’ll hear a few stories of things fixed, and one plan for helping more people learn. Let’s start with introductions. Ansel, would you like to begin?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln190",
+      "text": "Thank you, Rowan. I’m Ansel Wickby. I work on appliances in Timber Verge, Winkie Country. A lot of what I see is about catching things before they fail. It’s like listening to the motor. You hear a new hum, or a rattle that wasn’t there before. That’s the conversation starting."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln298",
+      "text": "Kezia Quadbourne, Clay Hollow, Quadling Country. Also appliances. Ansel’s right about listening. But sometimes you have to look past the noise to the mechanism. The truth is in the parts."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln094",
+      "text": "Faye Wickcombe, electrician in Timber Verge. I find things."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln273",
+      "text": "Ulric Stoneshaw. Stage carpenter, Emerald City. I replace things."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln158",
+      "text": "And I’m Noor Greenton, a librarian from Heatherford in Gillikin. I suppose I… lubricate things. It’s a pleasure to be here."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Thank you all. Let’s start with a recent repair. Ulric, you led the work on a riverfront stage after a flood. Can you tell us about that?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln273",
+      "text": "The Lantern Festival stage. River rose, decking warped. Badly. We had two weeks. Tore out the old planks. Found reclaimed warehouse flooring—oak, thick. Harder to work with, but it’s done. Finished two days before the festival. Crew of four. No injuries. The stage held."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "And the reclaimed wood, was that a choice for cost or…?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln273",
+      "text": "Durability. That river will rise again. New pine would just warp again next year. This oak has already settled. It’s a repair meant to last."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "manager",
+      "text": "A different scale of repair, Kezia. You worked on an heirloom coffee grinder?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln298",
+      "text": "Yes. A family piece, manual. The grind was inconsistent—fine powder mixed with coarse chunks. The owner thought it was worn out, ready for the shelf. I took it apart. The central burr was caked with years of oil and ground coffee, which altered the spacing. Cleaned everything. Recalibrated the adjustment ring. It wasn’t wear; it was residue. It grinds evenly now."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "So the fix was about seeing what was actually there, not the assumed failure."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln298",
+      "text": "Exactly. People see the symptom—bad coffee—and blame the whole machine. But the machine was sound. It just needed its teeth cleaned."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln190",
+      "text": "That’s a good one. It’s the same with dryer vents or refrigerator coils. The machine isn’t broken; it’s choked."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "manager",
+      "text": "Noor, your repair also involved something being choked, in a way. A stubborn drawer?"
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln158",
+      "text": "Yes, the periodicals cabinet. A beautiful old thing, but the bottom drawer for the gardening magazines wouldn’t open more than a few inches. The head librarian and several students had wrestled with it. I watched it for a day. It wasn’t jammed with paper; it was a dry, metal-on-wood shriek. I applied a graphite lubricant to the metal runners. Just a little. Now it slides out smoothly, and the students can get to the back issues on companion planting without a struggle. Hardly headline news, but it restored access. That’s what a library is for."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln094",
+      "text": "Access. I like that. My job last week was about restoring access to electricity. Historic lodge in the hills, attic circuit kept tripping. Owner said it was ghosts. I traced the fault. Wiring chewed. Nesting squirrel. Repaired the section. But the fix isn’t just the splice. I installed a protective conduit around the new run. So the next squirrel finds metal, not rubber. The ghost is gone."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "You found the source and then protected against it happening again."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln094",
+      "text": "That’s the job. Find the thing. Fix the thing. Then fix the condition that broke the thing."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln273",
+      "text": "Same with the stage. We didn’t just swap the boards. We used a material that can handle the condition. Floods."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "manager",
+      "text": "Ansel, you have a plan that seems to be about giving people the tools to do that first step—identifying the simple thing before it becomes a big fault."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln190",
+      "text": "That’s the idea. I’m planning to host a free clinic at the Timber Verge community center. Basic home appliance maintenance. How to safely clean a dryer lint vent. How to check the filters on an air conditioner or a range hood. How to listen for a washing machine bearing that’s starting to go. Simple things. If someone can catch a clogged filter early, they avoid a burnt-out motor later. It’s not about making everyone a repairer. It’s about understanding the conversation your machines are trying to have."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln298",
+      "text": "That’s valuable. Most calls I get are for machines that just need a good cleaning. If people knew how to do that themselves, it would free up time for the complex jobs."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln158",
+      "text": "It’s like literacy, in a way. Teaching someone to care for a book—not to bend the spine, to keep it dry—means the book lasts longer and is available for more readers. Your clinic teaches appliance literacy."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln190",
+      "text": "I hadn’t thought of it like that, but yes. It’s preventative care."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "manager",
+      "text": "We have a question from the audience. They ask, ‘For someone who isn’t handy, what’s the first thing you should learn to check?’"
+    },
+    {
+      "id": "b028",
+      "speaker_id": "ln094",
+      "text": "Check for heat. If an outlet or an appliance is warmer than it should be, that’s a conversation starter. Turn it off and ask for help."
+    },
+    {
+      "id": "b029",
+      "speaker_id": "ln298",
+      "text": "Or noise. A new noise is a symptom. Describe it to your repairer. Grinding, humming, clicking. It tells a story."
+    },
+    {
+      "id": "b030",
+      "speaker_id": "ln273",
+      "text": "Look for water where it shouldn’t be. On a floor, under a sink, on a ceiling. Water finds the weak spot."
+    },
+    {
+      "id": "b031",
+      "speaker_id": "ln158",
+      "text": "And if something is stiff—a drawer, a hinge, a latch—a little appropriate lubricant might be all it needs. Don’t force it. Investigate the resistance."
+    },
+    {
+      "id": "b032",
+      "speaker_id": "manager",
+      "text": "Another question: ‘How do you know when something is truly beyond repair and needs replacing?’"
+    },
+    {
+      "id": "b033",
+      "speaker_id": "ln190",
+      "text": "It’s a cost-benefit calculation, but not just money. An heirloom grinder has sentimental value, so you invest the time. A mass-produced kettle that costs less than an hour of labor? Maybe not. But also, safety. Some things, especially electrical, shouldn’t be fixed if the core is compromised."
+    },
+    {
+      "id": "b034",
+      "speaker_id": "ln094",
+      "text": "If fixing it creates a new, worse hazard, it’s done. My rule."
+    },
+    {
+      "id": "b035",
+      "speaker_id": "ln273",
+      "text": "When the repair costs more than three times the replacement, in materials and labor. Then it’s a choice about love, not economics."
+    },
+    {
+      "id": "b036",
+      "speaker_id": "manager",
+      "text": "We’re nearly out of time. Final thoughts on the value of this kind of work?"
+    },
+    {
+      "id": "b037",
+      "speaker_id": "ln298",
+      "text": "It keeps things in use. That’s less waste, and it honors the material and the craft that made the object."
+    },
+    {
+      "id": "b038",
+      "speaker_id": "ln158",
+      "text": "It maintains continuity. That coffee grinder, that stage, that library drawer—they link people to their past and to each other. Repair is a thread in the fabric of a community."
+    },
+    {
+      "id": "b039",
+      "speaker_id": "ln094",
+      "text": "It solves puzzles. I like puzzles."
+    },
+    {
+      "id": "b040",
+      "speaker_id": "ln273",
+      "text": "It leaves something stronger than you found it."
+    },
+    {
+      "id": "b041",
+      "speaker_id": "ln190",
+      "text": "And it starts with paying attention. That’s what I hope the clinic will teach people to do. Just pay attention."
+    },
+    {
+      "id": "b042",
+      "speaker_id": "manager",
+      "text": "Thank you all, Ansel, Kezia, Faye, Ulric, and Noor. For those interested in Ansel’s clinic or the work of the Timber Verge Repair Co-op, links will be in the follow-up email. Goodnight, and keep things running."
+    }
+  ],
+  "content_sha256": "a0e222040e0bafec3ddb6a4ffac20afb78a8cc30d33cd05497a0aaf5f393d3a6"
+}

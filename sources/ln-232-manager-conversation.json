@@ -1,0 +1,43 @@
+{
+  "id": "ln-232-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Dinah Violetworth · May 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln262"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell checking in with Dinah Violetworth. Dinah reported on two recent jobs."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln262",
+      "text": "I was over at the Yellow Kiln tavern last week. The owner was worried about the lights flickering behind the bar, especially at night when the place is full. Said it was giving people headaches."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln262",
+      "text": "Found the old junction box tucked right behind the keg lines. Corroded pretty bad from all the damp air and spills over the years. I cleaned all the connections, replaced a couple of terminals, and sealed the whole thing up with a proper gasket. Lights are steady now. Told him to keep a towel over that area when they're cleaning."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Rowan asked about the Meadow Mutual Aid work."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln262",
+      "text": "That was a different kind of puzzle. Their big community freezer was cycling on and off, not holding temperature. They had a whole week's worth of donated meals in there starting to thaw."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln262",
+      "text": "Turns out the thermostat was faulty, reading the temp all wrong. I didn't have a brand new one on the truck, but I had a refurbished unit from an old cooler I serviced last month. Swapped it out, got the freezer humming and cooling down properly within the hour. Saved all that food."
+    }
+  ],
+  "content_sha256": "aa93c88b62a4ccbb4bdf612509fdc8d53bdb60b84a09c1bbb674b257fef6d45d"
+}

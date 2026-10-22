@@ -8,13 +8,14 @@ The full release includes reference annotations and authoring materials. The col
 
 ## Choose a scenario
 
-Start with community-life for ordinary businesses, community services and conversations. Use book-adventures for short, recognizable fantasy scenes. Their shared cast is not one shared biography.
+Start with community-life for ordinary businesses, community services and conversations. Use leadership-network for a larger set with 300 members, many document forms and target questions. Use book-adventures for short, recognizable fantasy scenes. Shared names across collections are not one shared biography.
 
 To list the selected text files from a local copy:
 
 ```sh
 python3 scripts/select.py community-life
 python3 scripts/select.py book-adventures
+python3 scripts/select.py leadership-network
 ```
 
 The paths are relative to the repository root. The selector does not copy files, create a database or contact a service.
@@ -33,13 +34,15 @@ For a search experiment, index the selected `.txt` files and ask a question abou
 
 Withhold `world/`, `generation/`, `evaluation/`, source JSON, and manifest membership metadata from the tested system. The evaluator can use the annotations after the run. Public release means a model may already have seen the material; do not claim a guaranteed unseen benchmark.
 
-The annotations cover community-life only and are not exhaustive. Check unsupported claims and correct extractions outside the reference set, rather than scoring every difference as an error. A reference summary can itself need correction.
+For leadership-network, index its `.txt` files and ask the questions in `evaluation/leadership-network-queries.json`, then compare the returned members and passages with each question's `support`. Negative questions should return nobody.
+
+The annotations cover community-life and leadership-network, not book-adventures, and are not exhaustive. Check unsupported claims and correct extractions outside the reference set, rather than scoring every difference as an error. A reference summary can itself need correction.
 
 ## Extend the material
 
 Reuse the existing documents or create a new collection. The prompts are available for adaptation, but no paid generation runner is included. Use clearly fictional inputs and preserve a separate scenario boundary when changing roles, physical rules or time periods.
 
-An advocacy database, for example, would need newly authored organizations, issues, positions and activities, plus documents supporting those records. Those tables do not exist in v1.0.0. Do not reinterpret incidental mentions as a complete campaign dataset.
+An advocacy database, for example, would need newly authored organizations, issues, positions and activities, plus documents supporting those records. Those tables do not exist in this release. Do not reinterpret incidental mentions as a complete campaign dataset.
 
 ## Check a local copy
 

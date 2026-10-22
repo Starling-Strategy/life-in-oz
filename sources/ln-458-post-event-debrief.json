@@ -1,0 +1,51 @@
+{
+  "id": "ln-458-post-event-debrief",
+  "title": "Post-Gathering Notes: Young Founders Lunch & Share, April 2026",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln114",
+    "ln080",
+    "ln246",
+    "ln094"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell – Community Manager\nApril 2026\n\nHosted at Lanternwick Design Studio, Hammerhead Rise. Attendance: 12. Lunch from the local hot pie window. Topic was 'Starting Small, Building Locally.'"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "What happened:\n\nUlric Poppymore shared a practical win. He said he spent an evening after co-op hours cross-referencing park district maps and his own notes. He compiled a simple paper map of Blue Orchard and the surrounding area marking free, child-friendly spots—specific duck ponds with benches, public shelters with picnic tables, even a particular stretch of the Brickway with wide, smooth paving. He printed a few dozen copies. He said families in the co-op have been using them for weekend outings, and a parent told him it saved them a small fortune in cafe visits last month."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Selwyn Larkworth told a good cargo-bike-as-emergency-vehicle story. Last week, an engraver in the downtown district called him in a panic—their courier van had a flat tire and a set of heavy metal printing plates needed to get to a print shop across the Emerald City before closing. Selwyn loaded the plates onto his biggest cargo trike, strapped them down, and pedaled the route. He said it took him about forty minutes, the print shop got their plates, and the engraver bought him lunch the next day. He made the point that 'redundancy' doesn't have to be expensive tech; it can be a bike and a strong back."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Faye Wickcombe was characteristically brief. The Timber Verge community kitchen's wall oven stopped heating properly. She diagnosed a faulty heating element, called around, and found a compatible part at a supplier in Redfern Hill. She had it picked up by the midday Redfern Hill bus, installed it that afternoon, and the oven was baking again by evening. She shrugged and said, 'It's just tracing wires and knowing who answers their phone.' The group appreciated the straightforward competence."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Plans/Offers:\n\nEmber Lanternwick was her usual energetic self. She mentioned a local potter whose business cards are, in her words, 'a tragedy of smudged ink and tiny, unreadable type.' She plans to offer the potter a free redesign—clean layout, better paper stock, the works. She's hoping it will lead to more studio work, either from the potter or from people who see the new cards. She asked the group if anyone had a good contact for affordable, quality card printing; Selwyn suggested his printer from the plate-delivery story."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "What to change for next time:\n- The studio space was great, but a bit tight for 12 people plus food. Fine for a lunch, but if we grow, we'll need more room or to cap attendance.\n- Bring a physical map for show-and-tell? Ulric's paper map was a great prop; maybe we ask future speakers to bring a tangible example of their work.\n- More time for open networking after the formal shares. People were just getting into side conversations when we had to wrap up."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Open actions:\n- Rowan to connect Ember with the Brickway Transit Union member who knows the potter.\n- Add Ulric's map-making to the 'Resources' section of the next network newsletter (with his permission).\n- Schedule next Young Founders for July; check availability of the Meadow Mutual Aid hall."
+    }
+  ],
+  "content_sha256": "ffa86eeaabaed5da5e999d236434cd7126e0ece43dbe0fea208b650e8ea23d45"
+}

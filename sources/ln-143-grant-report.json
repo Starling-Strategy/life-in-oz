@@ -1,0 +1,53 @@
+{
+  "id": "ln-143-grant-report",
+  "title": "Fernshaw Costumes: Winter Project Report for the Emerald City Leadership Network Small Business Advancement Grant",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln069"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "BLUE ORCHARD, MUNCHKIN COUNTRY — January 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "This report outlines the use of funds received from the Emerald City Leadership Network's Small Business Advancement Grant in the fourth quarter of 2024. The grant of 400 silver pieces was allocated for materials and labor to develop a new product line and to undertake a significant preservation project, both aimed at supporting local performing arts and community festivals."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln069",
+      "text": "The modular vest project was something I'd been sketching for ages. Street performers—jugglers, musicians, the folks who do living statues along the Brickway—they need something durable, but they also want to change their look quickly between sets, or for different events. The grant let me buy the right fabrics in bulk: a sturdy canvas base, and then panels of silk, printed cotton, and even some flannel for cooler days. Each panel attaches with hidden magnets sewn into the seams, so a performer can swap from a red diamond pattern to a plain green in about thirty seconds. I made six prototype vests, each with five different panel sets. They’re with a troupe in the Emerald City right now, getting tested."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The second project was a commission from the Winterlight Festival committee, which had a set of twelve vintage wool cloaks in desperate need of care. The cloaks are used by the procession heralds and are considered heirlooms by the festival. The grant covered the cost of specialized matching wool for darning, heavy-duty thread, and the acquisition of salvaged antique pewter clasps."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln069",
+      "text": "Those cloaks were a labor of love. The hems were frayed to nothing in places, and half the original clasps were gone. I spent days carefully turning up each hem, reinforcing it with a hidden bias tape, and stitching it back down so it’s stronger than the original but invisible from the outside. Finding clasps that matched the style was the real challenge—I had to sort through two buckets of old findings from a retiring tailor up in Gillikin. But we found enough. They’re not perfectly identical, which I think adds to the character. The festival director was thrilled; she said they haven’t looked this good in twenty years."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Funds were spent exclusively on materials: fabrics, threads, clasps, and findings. All design and labor was contributed by Fernshaw Costumes. The grant has enabled the completion of the preservation project for the Winterlight Festival and the creation of a new, market-ready product line. Next steps for Fernshaw Costumes involve gathering feedback from the performing troupe on the modular vests and preparing a small production run for sale in the spring."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln069",
+      "text": "My sincere thanks to the Network. This support let me tackle work that’s important to our community’s culture, not just what was next in the repair queue. It feels good to be putting beautiful, practical things back into circulation."
+    }
+  ],
+  "content_sha256": "8da3938e28f833c84c684d50b563656116ca009426c948a2e7cfc3ef52c87dce"
+}

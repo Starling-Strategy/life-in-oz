@@ -19,7 +19,7 @@ def select(collection_id, root=ROOT):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("collection", choices=["community-life", "book-adventures"])
+    parser.add_argument("collection", choices=sorted(p.stem for p in (ROOT / "collections").glob("*.json")))
     args = parser.parse_args()
     for path in select(args.collection):
         print(path)

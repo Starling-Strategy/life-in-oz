@@ -1,0 +1,35 @@
+{
+  "id": "ln-145-email-thread",
+  "title": "Two small fixes and one clear view",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln300",
+    "ln056",
+    "ln243"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln300",
+      "text": "From: Fennel Heatherbourne\nTo: Meadow Mutual Aid Circle\nSubject: Light at the end of the lathe\nDate: 15 January 2025\n\nAll,\n\nFinally got that adjustable arm lamp mounted above the lathe. Had to weld a custom bracket to the ceiling joist. Light's exactly where you need it for those thousandth-of-an-inch moments. Visibility is no longer a guessing game.\n\nIf anyone else is squinting at their workbench, I've got the bracket design drawn up.\n\nFennel"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln056",
+      "text": "From: Ezra Hedgebourne\nTo: Meadow Mutual Aid Circle\nSubject: Re: Light at the end of the lathe\nDate: 16 January 2025\n\nHey Fennel, that's fantastic! Clarity is everything.\n\nWe had a good win over in Blue Orchard too. The floorboards on our community hall stage had gotten so loose it was a hazard for anyone performing or speaking. I connected with a volunteer from the Timber Verge Repair Co-op who had a Saturday free. He pulled up the worst of it and we sourced some nice, solid reclaimed oak from a workshop over in Saffron Flats that was renovating. The stage is solid and quiet now, just in time for our winter planning meeting. Big thanks to everyone who helped make that connection happen.\n\nEzra"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln243",
+      "text": "From: Saffi Orchardmere\nTo: Meadow Mutual Aid Circle\nSubject: Re: Light at the end of the lathe\nDate: 16 January 2025\n\nHello both,\n\nFennel, I know exactly what you mean – proper light changes everything. Ezra, a solid floor is a gift.\n\nMy small contribution this week: a musician performing at the Bell Market bandstand came into the shop in a real panic yesterday afternoon. His glasses had taken a knock in transit – arms bent out of shape, lenses badly scratched. He had a soundcheck first thing today. Managed to realign the frames and replace the lenses with our last set of that prescription in stock. He picked them up at 8 this morning, relieved and ready. Sometimes mutual aid is just making sure someone can see the music stand.\n\nBest,\nSaffi"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln300",
+      "text": "From: Fennel Heatherbourne\nTo: Meadow Mutual Aid Circle\nSubject: Re: Light at the end of the lathe\nDate: 17 January 2025\n\nSaffi,\n\nThat’s the kind of overnight turnaround that saves a show. Good work.\n\nEzra, if your co-op volunteer ever needs metal brackets for a future project, send him my way.\n\nFennel"
+    }
+  ],
+  "content_sha256": "087b42c09c6d8de3803f35e00634bf875016b15f6d098d4e1481f95667df9d00"
+}

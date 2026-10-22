@@ -1,0 +1,75 @@
+{
+  "id": "ln-052-news-article",
+  "title": "Small Business Circle Roundup: Bikes, Beans, and Back-to-School Cuts",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln263",
+    "ln119",
+    "ln251"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "While the Small Business Circle's members rarely share a single industry, their recent projects show a common thread: anticipating community needs and meeting them with quiet efficiency. From Meadowbank to Reed Flats to South Meadow, here's a look at what some of the circle's members have been up to this season."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "When a group of tourists from Gillikin Country booked a farm-to-table cycling tour through the Meadowbank hills, they needed bikes. The tour organizer, familiar with Noor Brookmere's reputation for reliability, reached out to Meadowbank Bicycle Shop."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln263",
+      "text": "They gave me the heights for eight riders, from the tallest farmhand to the youngest apprentice. It wasn't just about handing over bikes; it was about making sure everyone was comfortable and safe for a full day of riding. I spent a morning adjusting every seat post and checking every brake pad."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The group returned the bikes without a single mechanical complaint. Brookmere noted that the upfront work meant she didn't have to field calls from stranded riders halfway up a hill."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Over in South Meadow, Ambrose Bramblefield of Bramblefield's Cafe is looking ahead. He's planning an excursion for the Small Business Circle, hoping to blend education with potential savings."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln119",
+      "text": "I thought, why not turn a chore into a field trip? I want to visit a roastery a few towns over. I'm curious about their sourcing, and I think a few of us going together might help us ask better questions—maybe even get a better price on beans if we order as a group. It's just a plan for now, but I've floated the idea in the circle."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The response, Bramblefield says, has been positive, with several other cafe owners and a tea merchant expressing interest. He aims to organize the visit for later this summer."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "In Reed Flats, Cosmo Heatherfield saw the calendar turning toward the end of summer and acted. Facing the annual rush of parents seeking last-minute haircuts for their children, he decided to get ahead of the chaos."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln251",
+      "text": "You can only fit so many people in the waiting chairs. I put a paper schedule on the shop window with slots for the whole weekend, marked a 'back-to-school' discount right on it, and told folks to just sign up. No phone calls, no guessing. Booked up over thirty kids before the weekend even started."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "The simple system, Heatherfield reports, made the weekend run smoothly for his clients and for him, eliminating the usual scramble and double-booking."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "These three efforts—adapting a service for visitors, organizing a collective learning trip, and streamlining a seasonal demand—highlight the proactive, ground-level thinking that defines the Small Business Circle. As Rowan Bell, the Emerald City Leadership Network's community manager, observes, the commonality isn't in what they sell, but in how they see their community."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "It's about looking at a calendar, or a group of people arriving, and asking 'What do they need that I can provide?' It's a practical kind of hospitality."
+    }
+  ],
+  "content_sha256": "62930d2fd446f33bec11c42ee6b40d91f2a96b1f9ee4e134209e7757f1f3214f"
+}

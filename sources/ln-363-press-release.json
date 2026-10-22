@@ -1,0 +1,59 @@
+{
+  "id": "ln-363-press-release",
+  "title": "Quadling Craftsmanship Keeps Clay Spinning, Proposes Safety for Hives",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln137",
+    "ln264"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE: October 2025\nQuadling Country – A quiet but vital type of mutual aid is thriving in the southern communities of Oz, supported by members of the Emerald City Leadership Network's Wizard's Office Liaisons circle. While the name might suggest bureaucratic work, the Liaisons focus on the practical connections that keep local trades and crafts running smoothly."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "This month, their efforts are highlighted by two distinct contributions: one a precise repair that saved a time-sensitive commission, the other a forward-looking proposal for beekeeping safety."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Jory Saffronwood, a lathe operator at Westgate Foundry in Hammerhead Rise, was approached by a local ceramicist whose pottery wheel had suffered a critical failure. The drive shaft collar, a specialized component, had cracked, halting work on a commissioned dinnerware set."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln264",
+      "text": "They brought the broken piece to me on a Tuesday. By Wednesday evening, I'd machined a new collar from a spare bar of the proper alloy. It wasn't a standard part, so I had to match the original dimensions exactly—the inner bore, the set-screw threads, everything. The wheel was turning again by Thursday morning."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, from the blooms of Redfern Hill, beekeeper Otis Orchardholt is looking to prevent small emergencies before they start. He has proposed a standard list of contents for a simple apiary first-aid kit, designed for beekeepers to keep near their hives."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln137",
+      "text": "The idea is to have the basics on hand—a clean cloth, a specific salve for stings, tweezers for stray bits of stingers. Something you can grab without thinking when you're suited up and your hands aren't free to rummage through a cabinet. It's about being prepared, so a small irritation doesn't spoil a good day's work among the hives."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The proposal is now circulating among the Liaisons and the broader network for feedback, with the aim of creating a simple, reproducible kit list that can be adopted widely."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "This is exactly the sort of practical, ground-up leadership we see in the Liaisons circle. Jory's skill restored a craftsman's livelihood without delay, and Otis's thoughtful planning could help beekeepers across the countries manage routine risks more safely. It's connection in action."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Network connects adult members across Oz's five countries through practical circles focused on transit, trade, health, craft, and community support. The Wizard's Office Liaisons circle facilitates direct communication and resource-sharing between civic administration and local tradespeople."
+    }
+  ],
+  "content_sha256": "93bfbd0e5fb55230eadf794176d319f850353b53a04bb48b0a2a441ba0194a65"
+}

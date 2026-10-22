@@ -1,0 +1,192 @@
+{
+  "id": "ln-020-panel-transcript",
+  "title": "Small Business Circle Panel: Holding the Line on Reliability",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln029",
+    "ln013",
+    "ln004",
+    "ln005",
+    "ln023"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone. I'm Rowan Bell, the community manager for the Emerald City Leadership Network. Thank you for joining us. Tonight, we're hearing from five members of our Small Business Circle. They run operations that many of us rely on—freight, food, crafts, repairs. We'll talk about the small, concrete things that keep a business running reliably when the road shifts. Let's start with introductions. Daniel, would you begin?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln029",
+      "text": "Daniel Cress, Cress Clay Works, out in Clay Hollow. I make functional pottery—mugs, bowls, serving dishes. My big worry is the kiln. If a firing's off, a whole batch is lost. It's deliveries, too, getting things out without breakage, but the kiln is the heart of it."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln013",
+      "text": "Vera Porcelain. I run Porcelain Mends, also in Clay Hollow. I repair pottery, china, ceramics. The work is… quiet. Making a repair you can't see afterward."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln004",
+      "text": "Leona Bracken, Bracken Freight, South Copse. We do local hauling and some passenger contracts. I'm… I'll be honest, I'm nervous talking to a group. But the work is plain: you have a route, you run it. When you can't, you find another way."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln005",
+      "text": "Ruth Fenwick. Cobbler. Fenwick's on Lantern Row."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln023",
+      "text": "Pavel Dunn, Dunn's Bakery in Blue Orchard. Bread, pastries, the usual. My day starts when most of yours is ending. Reliability is the oven being hot when you need it to be."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Thank you. Let's dig into that idea—the small adjustments. Daniel, you mentioned the kiln being the heart. Have you made any adjustments there recently?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln029",
+      "text": "I did. Stacking shelves in the kiln—it's an old test kiln I still use for small runs—it was always guesswork. An inch off and the heat doesn't circulate right. So I took a metal scribe and etched inch marks right on the interior wall. Now when I'm loading, I can line up the shelf supports perfectly. It sounds trivial, but it's cut down on uneven firings. Less waste."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Vera, your work is about precision of a different kind. Invisible repairs."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln013",
+      "text": "Yes. Recently, the Quadling Country festival committee loaned a hand-painted heritage plate for a display. It had a hairline crack. They needed it mended for the display, then transported safely back after. I used a food-safe adhesive—it had to be, in case it was ever used again—and built a temporary brace around it just for the transport. The plate sat in the display case, and no one knew it had been cracked. The brace came off after it was returned. It held."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln005",
+      "text": "Food-safe. Good."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln013",
+      "text": "It has to be."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "Leona, you spoke about routes. Has Bracken Freight faced a route problem lately?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln004",
+      "text": "We did. We just took on a school transport contract. Second day, a landslip—minor, but it blocked the usual road. I was nervous. We had a schedule. So for three mornings, I personally drove one of the passenger vans through the back lanes, plotting a detour. Found one that was reliable, wide enough, safe. By the end of the week, I had a revised map drawn up and submitted to the school district. They approved it. The drivers use it now."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln023",
+      "text": "Three mornings. Did the kids miss school?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln004",
+      "text": "No. We were on time. That was the point."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "Ruth, your shop is on Lantern Row. Does reliability look like repairing what's already worn?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln005",
+      "text": "Sometimes. The Lantern Row Amateur Dance Troupe had their recital. Afterward, they brought me twenty pairs of satin slippers. Worn ribbons, thin toes. I reinforced the toes, replaced the ribbons. They're volunteers, so I only charged for the materials. Now they're ready for next year. You can judge a lot by the heels, but sometimes you just fix them."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln029",
+      "text": "Twenty pairs. That's a lot of ribbon."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln005",
+      "text": "It was."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "manager",
+      "text": "Pavel, you're up before dawn. Where have you found a small adjustment?"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln023",
+      "text": "The honey syrup for glazing. We were buying it prepared. Cost was climbing. So I started ordering honey in bulk from a local apiary and mixing the syrup myself. It's not complicated—honey, water, a little heat. Cut the cost by a third. The ovens still misbehave when they want to, but the glaze is sorted."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "manager",
+      "text": "These are all internal fixes—a scribed line, a new supplier, a detour mapped. Do you talk about these kinds of solutions with each other?"
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln004",
+      "text": "Not enough. I wouldn't have thought to ask a potter about routes. But hearing Daniel talk about consistent heights… it's the same idea. You make a guide so you don't have to guess every time."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln013",
+      "text": "A temporary brace for transport… a freight company might have better ideas for that than I do."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln029",
+      "text": "Maybe. But you knew it had to be food-safe. That's the critical bit."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "ln023",
+      "text": "The honey thing… it's just arithmetic. But hearing about the school route—that's arithmetic with consequences. If my glaze is wrong, a pastry is dry. If a bus route is wrong, kids are late. Changes the scale."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "ln005",
+      "text": "Heels have consequences, too. Blister ruins a day."
+    },
+    {
+      "id": "b029",
+      "speaker_id": "manager",
+      "text": "That seems to be the thread. The adjustment itself might be small—etching, mixing, bracing—but the reason isn't trivial. It's about the batch, the display, the school day, the recital, the pastry. Final thoughts?"
+    },
+    {
+      "id": "b030",
+      "speaker_id": "ln004",
+      "text": "Saying it out loud makes it real. The detour is on a map now. It's not just in my head."
+    },
+    {
+      "id": "b031",
+      "speaker_id": "ln013",
+      "text": "The repair held. That's all."
+    },
+    {
+      "id": "b032",
+      "speaker_id": "ln029",
+      "text": "The kiln is more predictable. That's a relief."
+    },
+    {
+      "id": "b033",
+      "speaker_id": "ln005",
+      "text": "Slippers are ready."
+    },
+    {
+      "id": "b034",
+      "speaker_id": "ln023",
+      "text": "And the syrup is cheaper. On to the next oven that won't hold temperature."
+    },
+    {
+      "id": "b035",
+      "speaker_id": "manager",
+      "text": "Thank you, all five of you, for the concrete talk. And thank you to everyone listening. Goodnight."
+    }
+  ],
+  "content_sha256": "fe287d923dce82577e4089afcc38bf8607d1f50d37b92551c5104cc2394b6834"
+}

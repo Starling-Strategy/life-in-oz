@@ -1,0 +1,23 @@
+{
+  "id": "ln-057-intake-email",
+  "title": "Fwd: A couple of network-related clinic items",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln127"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln127",
+      "text": "Rowan—forwarding this clinic newsletter item about the video check-in work. Thought the network might want to know, and I’ve also noted the offer to the Young Founders below. Best, Ines"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Begin forwarded message ---\nFrom: Meadowbank Clinic\nSubject: Clinic Notes – July 2024\n\nThis month, physiotherapist Ines Spindleton has established a simple system of brief video check-ins for patients in remote parts of Quadling Country. The initiative allows her to monitor patient progress and provide guidance on exercises without requiring the long, often difficult travel from the southern marshes. The check-ins are short, focused, and scheduled between regular in-person appointments, helping to maintain continuity of care.\n\nSeparately, Ines has offered to run an informal session on workspace ergonomics for the Emerald City Leadership Network's Young Founders group. The session would cover basic posture, stretches, and desk setup to help address the aches that can come with long hours at a workbench or ledger. A specific date for the session has not yet been settled."
+    }
+  ],
+  "content_sha256": "61d1e017aec23a694860aefd93c0cae241a86d1926751a26241361f065f0ad86"
+}

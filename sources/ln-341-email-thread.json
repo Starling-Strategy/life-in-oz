@@ -1,0 +1,30 @@
+{
+  "id": "ln-341-email-thread",
+  "title": "Crate returns, bartered repairs, and a frost-watch list",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln209",
+    "ln173",
+    "ln053"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln209",
+      "text": "From: Oren Tinshaw, Cooperative Buyer, Gillikin Growers Cooperative\nTo: Rowan Bell, Community Manager, Emerald City Leadership Network\nSubject: September Update\nDate: 22 September 2025\n\nRowan,\n\nA quick update from Purplemoor. The reusable crate system with the Emerald City grocers is now active. We identified three main distributors who receive our apples in bulk and were amenable to returning the empty crates on their backhaul trips. I drafted a simple manifest for them to tick off, and we provided a dedicated pallet spot at our receiving dock. It took a few weeks to iron out the schedule, but last week we received our first full return load from the Green Dragon Market. The orchardists on the north ridge estimate it will cut their seasonal packaging costs by about 15%, which isn't nothing. It's a straightforward logistical loop, but one that needed someone to make the initial calls and draw the map.\n\nAll the best,\nOren"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln173",
+      "text": "From: Posy Oakdale, Market Gardener, Oakdale Gardens\nTo: Oren Tinshaw, Cooperative Buyer, Gillikin Growers Cooperative\nCc: Rowan Bell, Community Manager, Emerald City Leadership Network\nSubject: Re: September Update\nDate: 24 September 2025\n\nOren, Rowan,\n\nThat crate system sounds wonderfully efficient—like a perennial coming back stronger each year. It reminded me of a different kind of trade here in Heatherford. I had a glut of late-season tomatoes, more than the preserves jars could handle, just sitting there like ripe promises. My garden cart's axle had snapped, and a storm last month bent part of the greenhouse frame. I mentioned it to a neighbor who does odd jobs, and we struck a deal: a bushel of tomatoes a week for the rest of the season in exchange for the repairs. He's not a member, just a local handyman. He had the cart rolling in an afternoon, and spent a whole day carefully straightening and reinforcing the greenhouse ribs. It felt like a proper exchange—my surplus for his skill, no money changing hands. The structure is sound again, and I didn't have to watch good fruit go to compost.\n\nWarmly,\nPosy"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln053",
+      "text": "From: Nimmie Meadowbright, Farmer & Treasurer, Munchkin Growers Cooperative\nTo: Posy Oakdale, Market Gardener, Oakdale Gardens\nCc: Oren Tinshaw, Rowan Bell\nSubject: Re: September Update\nDate: 25 September 2025\n\nPosy, Oren,\n\nYour trades are the bedrock of things. It puts me in mind of our frost-watch effort here in Bluebell Crossing. Last spring, a late frost took some of our early blossoms by surprise. This year, I took a sheet of paper and wrote down the names and telephone numbers of the seven cooperative farms in the low-lying valley. I listed them in an order, so each person calls the next two. It's a handwritten call list, nothing more. We tested it once in August. Two nights ago, the forecast shifted, and the tree at the top—a neighbor's place—called it in. It gave three of the farms, mine included, about four hours' warning. We managed to get the row covers over the new lettuce and the remaining bean vines. It's not a complicated system, but it worked. The cost was the paper and the time to write it clearly.\n\nRegards,\nNimmie"
+    }
+  ],
+  "content_sha256": "1fdc192a5d4e196567c35f3f315c284bf26e684b32c8b31395b9e8b0476462c2"
+}

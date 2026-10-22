@@ -1,0 +1,21 @@
+{
+  "id": "ln-045-meeting-minutes",
+  "title": "Winkie Works Guild – Monthly Meeting Minutes – May 2024",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln269",
+    "ln161",
+    "ln139",
+    "ln084"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "WINKIE WORKS GUILD MONTHLY MEETING\nDate: May 14, 2024\nLocation: Tinsmith Row Workshop\nPresent: Honor Reedmere, Kai Kilnby, Silas Plumley, Tilda Poppyley, Rowan Bell (Community Manager).\n\n1. Welcome and Introductions\nRowan Bell opened the meeting and welcomed members. The focus of this meeting was on sharing recent work and identifying any opportunities for collaboration or support within the guild.\n\n2. Updates from Members\nMembers shared recent projects and activities.\n\n2.1. Honor Reedmere reported on hosting a tour of the Gillikin Falls Grain Mill for a group from the Gillikin Growers circle. She walked them through the entire process from grain intake to bagging. The detailed explanation of the machinery and quality controls led to two new contracts for custom milling of specialty grains for the Growers. Honor noted the visitors were particularly interested in the sifting and cooling stages.\n\n2.2. Kai Kilnby reported on apiary maintenance. He sorted through two crates of old, dark comb from his hives. He traded the harvested wax to a candle maker in the Gillikin Growers circle in exchange for a dozen new, unassembled wooden frames for his hives. Kai described the wax as being a deep amber color, good for molding.\n\n2.3. Silas Plumley reported on community outreach. He held a drop-in denture care clinic at the South Copse community hall. He demonstrated cleaning techniques and checked for minor abrasions on about fifteen sets of dentures brought in by residents. He used simple analogies, comparing gentle brushing to polishing a favorite wooden bowl.\n\n2.4. Tilda Poppyley reported on a fabrication job. She was approached by the caretaker of a historic water mill in southern Winkie Country. Using a hand-drawn sketch provided by the caretaker, she fabricated a replacement mounting flange for the mill's water wheel. The part was delivered last week.\n\n3. Discussion of Guild Resources\nFollowing the updates, discussion turned to the guild's shared tool catalog. Tilda noted the need for a clearer check-out system for the portable band saw. Kai suggested a simple sign-out sheet. All agreed. Silas offered to draft a sheet template.\n\n4. Skills Exchange\nHonor asked if anyone had experience with sealing exterior metal joints against moisture, relevant to some older mill equipment. Tilda offered to share her preferred method and materials. They agreed to connect after the meeting.\n\nKai mentioned a need for very fine mesh screening for a new honey-processing room he is planning. Honor said the mill uses several grades of mesh for sifting and would provide a sample of the finest grade.\n\n5. Upcoming Events\nRowan Bell reminded the group of the Emerald City Leadership Network's quarterly gathering in June. Guild members are encouraged to attend.\n\n6. Action Items\n- Silas Plumley to draft and circulate a tool sign-out sheet for the portable band saw by May 21.\n- Tilda Poppyley and Honor Reedmere to connect regarding metal joint sealing techniques.\n- Honor Reedmere to provide a sample of fine mesh screening to Kai Kilnby.\n- All members to confirm attendance for the June quarterly gathering with Rowan Bell by May 31.\n\n7. Next Meeting\nThe next guild meeting is scheduled for June 11, 2024, at the South Copse Dental Practice community room.\n\nMeeting adjourned at 8:45 PM."
+    }
+  ],
+  "content_sha256": "6f35229fadf5d05c921ebfa2acd058e32b8945432c72c6bf452c7fb717ad5c8b"
+}

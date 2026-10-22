@@ -1,0 +1,54 @@
+{
+  "id": "ln-388-press-release",
+  "title": "Young Founders Build Community Through Wheels and Wayfinding",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln246",
+    "ln114"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\n\nEmerald City, November 2025 – The Emerald City Leadership Network today highlighted the work of two members of its Young Founders Circle, whose recent projects demonstrate how entrepreneurial spirit strengthens local communities."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Selwyn Larkworth, founder of Larkworth Cargo Bikes in the Emerald City's Gate Quarter, spent a recent Saturday afternoon repairing his own fleet. He replaced broken spokes on two cargo bike wheels, using the task as an opportunity to teach a new rider how to true a wheel. 'A wobbly wheel slows you down,' said Larkworth. 'But showing someone how to fix it? That speeds everyone up. It’s just practical.'"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln246",
+      "text": "It’s about keeping things moving. If one of our riders sees a loose spoke tomorrow, they won’t have to wait for me. They can handle it, and the deliveries keep rolling."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In Quadling Country's Hammerhead Rise, Ember Lanternwick of Lanternwick Design Studio turned her attention to the local market. She volunteered to redesign the market’s signage and stall numbering system. The new, clear designs have already been installed, helping vendors set up more efficiently and guiding visitors through the weekly event."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln114",
+      "text": "A market should feel welcoming from the moment you see it. Good signs are the first hello. We wanted the growers and the shoppers to both feel that clarity—to know exactly where to go and what’s there."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Rowan Bell, Community Manager for the Emerald City Leadership Network, noted the shared theme. 'Selwyn and Ember are solving immediate, tangible problems,' Bell said. 'One keeps goods moving on two wheels; the other helps a community find its way on foot. Both are building a more connected Oz.'"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "The Young Founders Circle is about more than business plans. It’s about applying that energy and skill to the brick-and-mortar work of community, right now."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Network connects adult members across Oz's four countries and the Emerald City through circles focused on transit, trade, health, arts, and community repair. Its Young Founders Circle supports emerging entrepreneurs committed to local impact."
+    }
+  ],
+  "content_sha256": "4c7fb2241e6b56dcfaa5291255442c947c4d9ac128588448d2bc5a8b1341f3ec"
+}

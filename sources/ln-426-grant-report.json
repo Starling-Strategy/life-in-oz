@@ -1,0 +1,44 @@
+{
+  "id": "ln-426-grant-report",
+  "title": "Timber Verge Repair Co-op: Year-End Report on the Small Tools & Storage Fund",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln273",
+    "ln207"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nEmerald City, February 2026 – The Timber Verge Repair Co-op, with support from the Emerald City Leadership Network’s Small Tools & Storage Fund, has completed two projects demonstrating efficient, low-cost improvements to workspace organization and event infrastructure."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln273",
+      "text": "The trestles for the harvest fair were a hazard. Wobbled if you looked at 'em wrong. Had a pile of leftover plywood from a stage flat we’d scrapped. Cut a bunch of triangles, glued and screwed 'em into the leg joints. Took an afternoon. Tables didn’t shake once, even with a full day of crafters banging on 'em."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Ulric Stoneshaw’s reinforcement of the festival tables used existing scrap material, incurring no new costs, and extended the usable life of the equipment for future community events."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln207",
+      "text": "We were always tripping over rolls of screen wire. You’d need a certain mesh and have to unstack five others to find it. I built a simple floor-to-ceiling rack with notched arms. Each roll has its own slot now, labeled at the end. It cleared about thirty square feet of floor space, and my clerk can find the right material in seconds."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Teo Brickholt’s storage rack project required a modest purchase of lumber and hardware, funded by the grant. The resulting organization has improved workflow and safety in the stockroom, a benefit shared with co-op members who source materials from Brickholt Hardware."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The allocated funds for the 2025 cycle have been fully expended on these two projects. The co-op has identified a need for a portable, collapsible workbench for on-site repairs, but construction remains in the planning phase pending a new funding round. The Timber Verge Repair Co-op extends its thanks to the network for its support in making workspaces safer and more efficient."
+    }
+  ],
+  "content_sha256": "89dbc3098d29defea2278473bd4e93e11b627338a29a7024c528751c40f3a832"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "ln-459-radio-interview",
+  "title": "Gillikin Growers: Managing Resources and Making Do",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln053",
+    "ln025"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good morning, and welcome back to the Community Plot. I’m your host. Today, we’re talking about keeping things flowing—whether that’s produce to market or water to the fields. My guest is Jonas Pike, irrigation caretaker with the Eastfield Water Users. Jonas, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln025",
+      "text": "Thanks for having me."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "And we’re also joined by Nimmie Meadowbright, farmer and treasurer with the Munchkin Growers Cooperative. Nimmie, welcome."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln053",
+      "text": "Thank you. It’s a pleasure."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "Jonas, let’s start with you. I understand the Eastfield system has seen some wear and tear this spring. Any interesting challenges lately?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln025",
+      "text": "Mm. Junction valve at the old north spur started a real drip. Right where the pressure’s highest. Replacement fitting was a special order—three weeks out."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "Three weeks is a long time to lose water. What did you do?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln025",
+      "text": "Went to the shed. Had an old inner tube from a wheelbarrow tire. Cut a strip, wrapped it tight over the leak, cinched it down with a hose clamp. Not pretty, but it held. Stopped the drip cold. Just took it off yesterday when the brass piece finally came in."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "A three-week fix with a scrap of rubber. That’s the kind of ingenuity that keeps a community running. Nimmie, you’re managing a different kind of shared resource—the cooperative’s truck. I hear there was a bit of a traffic jam, so to speak."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln053",
+      "text": "Yes, indeed. Two of our members—both excellent growers—had their major market days land on the same Thursday. The refrigerated truck is vital for them, and the calendar had gotten crossed. Rather than have one miss their deliveries, I sat down with both of them after the monthly meeting."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "How did you resolve it?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln053",
+      "text": "We looked at the actual timelines. One needs the truck from pre-dawn until about ten in the morning to get to the city market. The other doesn’t need to load until after noon for an evening market run. There was a two-hour window where the truck would just be sitting, empty. So we devised a simple rotation chart. It’s on a clipboard, pinned to the farm office wall. Shows who has the truck by the hour, for every market day of the month. It’s clear, it’s fair, and both of them made their deliveries last week without a hitch."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "A simple chart. Sometimes the best tools are the simplest. Jonas, does that kind of planning—scheduling scarce resources—resonate with your work on the water lines?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln025",
+      "text": "Sure. Same idea. You’ve got a fixed amount of water, a lot of fields that need it. My job’s managing the valves and the clock. If you don’t have a plan, someone’s poppies don’t get a drink. Or you get a leak."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln053",
+      "text": "And the cost of a leak, or a missed delivery, adds up. That’s why we keep the receipts. For the truck, it’s diesel and maintenance. For Jonas, it’s water and time. The chart, the clamp—they’re just ways of keeping the costs down for everyone."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "host",
+      "text": "Practical wisdom from the Gillikin Growers. Jonas Pike and Nimmie Meadowbright, thank you both for sharing your time."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln025",
+      "text": "You’re welcome."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln053",
+      "text": "Thank you."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "host",
+      "text": "That’s our show for today. The Community Plot is produced in partnership with the Emerald City Leadership Network. For our listeners in Munchkin Country, the Growers Cooperative is always looking for new members. You can find more information at your local reading room. Until next time, keep growing."
+    }
+  ],
+  "content_sha256": "fd09a3614c1ced36dde8a2ec049efbd1816dc01b3c7597a6900c7c8b90f78423"
+}

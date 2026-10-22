@@ -1,0 +1,24 @@
+{
+  "id": "ln-416-intake-email",
+  "title": "Fwd: Two small projects from Gillikin this week",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln158",
+    "ln142"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln158",
+      "text": "Rowan—thought you’d like to hear about two quiet bits of good work from here in Gillikin. I’m attaching the little flyer Oren made for his hammers, which is just lovely. All best, Noor"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Noor Greenton\nTo: Network Intake Desk\nSubject: Two small projects from Gillikin this week\nDate: 15 Jan 2026\n\nAt Heatherford School, we now have a listening corner in the library’s front alcove. It’s just two old players and four donated headphones on a small table, but I loaded each player with recordings of local volunteers—parents, a retired postmaster, even one of our lunch servers—reading short stories. The children have been taking turns quietly, especially on rainy afternoons.\n\nMeanwhile, at the Violet Hills tool library, Oren Cinderley just finished working on a donation of twelve antique carpenters’ hammers. He spent weeks cleaning each one, replacing worn handles with new wood he shaped himself, and labeling them with little cards that note the maker and the likely decade. They’re now hung on the display wall above the main counter, and he says the older members who come in have started sharing stories about tools they remember from their own workshops."
+    }
+  ],
+  "content_sha256": "735c3b8dc90c368ad8f793b5f01de83745dfacea7f0e2f2c793504abb426dffe"
+}

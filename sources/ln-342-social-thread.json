@@ -1,0 +1,52 @@
+{
+  "id": "ln-342-social-thread",
+  "title": "Meadow Mutual Aid: What's been working for you?",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln260",
+    "ln092",
+    "ln176",
+    "ln265",
+    "ln033"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln260",
+      "text": "Morning all. Been thinking about tenant safety in Meadowbank. Our buildings are full, and I'm proposing we organize an annual, building-wide fire-drill for our whole block, coordinated with the local fire station. It's not about scaring anyone, it's about making sure every single person, from the top floor to the basement, knows exactly which stairwell to use and where to gather outside. It's a simple, coordinated practice that could make all the difference. Who's with me on getting this started?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln092",
+      "text": "Percy, that's a solid plan. Simple preparation is everything. Speaking of which, our Bluebell Crossing community fridge light went out last week. Couldn't see the milk dates! Instead of calling an electrician, I took the front off an old lamp someone had left out for the scrap cart. The switch and wiring were still good. Took me an hour to fit it in, but now the fridge is lit up again and it cost us nothing but a bit of time. Always worth a look in the discard pile first."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln176",
+      "text": "Lena, that's the spirit. We've been trying something new with the Eastfield childcare co-op. With Celia Dove's kind permission, we started holding our Tuesday and Thursday mornings at her allotment patch. The children get to see things growing, they help water the seedlings, and they have so much more room to run than in our little yard. It's been wonderful for everyone. We're learning about patience and care right alongside the lettuces."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln265",
+      "text": "That sounds lovely, Sable. Fresh air and purpose. It reminds me that a little guidance goes a long way. Yesterday on my tram run, a tourist looked completely lost, holding a slip of paper with an address in the Junction Quarter. On my break, I drew him a simple map on the back of a schedule—showed him which green line tram to stay on, where to transfer to the yellow line, and which stop was closest to the budget hotels. He was so relieved. It took five minutes, but he won't spend the next hour going in circles."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "neighbor",
+      "text": "Briony, that's the sort of thing that makes the city feel like home. Thank you."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln260",
+      "text": "Exactly! Briony's map, Lena's fix, Sable's outdoor mornings—it's all the same muscle. Seeing a need and using what you have to meet it. That's what we're building. I'll start knocking on doors about the fire-drill idea next week. If anyone in Meadowbank wants to join me, let me know."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln092",
+      "text": "Good on you, Percy. And if anyone needs a hand looking at a finicky appliance, you know where to find me. The lamp parts are waiting."
+    }
+  ],
+  "content_sha256": "2d54dfa9ea877cc81d6a6f99e2925733d1a368d5c6d85910861ccf3df1e0f4b6"
+}

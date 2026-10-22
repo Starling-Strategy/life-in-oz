@@ -1,0 +1,40 @@
+{
+  "id": "ln-404-manager-conversation",
+  "title": "Meadow Mutual Aid Check-in · December 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln200",
+    "ln153",
+    "ln080"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Juniper Ashfield, Emrys Wickbourne, Ulric Poppymore · December 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Juniper Ashfield says the Blue Orchard fridge is running well. She's planning to reach out to growers in the Meadow Mutual Aid network this month to see if anyone would be willing to donate hardy root vegetables like turnips and parsnips over the winter. Fresh produce is scarce in the cold months, and she thinks root crops would hold up well in the fridge and be a good supplement."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Emrys Wickbourne reports that the mouse puppet used at the Lantern Row children's story hour had its felt ears nearly worn through. He took it home, carefully picked out matching grey felt from his scraps, and stitched on new ears. He says the puppet looks 'as good as new' and he refused any payment from the story hour organizer, saying it was his contribution."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Ulric Poppymore says the Blue Orchard Childcare Co-op held a swap meet in the community hall last weekend. Families brought outgrown outdoor play equipment—tricycles, sandbox toys, small wagons—and traded. He says it was chaotic but good, and at least five big items found new homes without anyone spending a penny. He notes that a parent volunteered to store the leftover items for a future swap."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "All three members asked about the network's annual gathering date for next year. I told them it's tentatively set for late March, and I'll circulate details in January."
+    }
+  ],
+  "content_sha256": "ef495dfcfb14e19e90a308f7ec34b0b9f256470de9809abebc09d7677b73799d"
+}

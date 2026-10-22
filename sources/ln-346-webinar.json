@@ -1,0 +1,110 @@
+{
+  "id": "ln-346-webinar",
+  "title": "Wizard's Office Liaisons: Connecting Civic Resources with Community Projects",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln064",
+    "ln116",
+    "ln210"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Hello everyone, and welcome to the September 2025 Emerald City Leadership Network webinar. I’m Rowan Bell, the network’s community manager. Today’s theme is our Wizard’s Office Liaisons circle, and we’re talking about how civic resources and community projects meet. I’m joined by Roland Spindlemere, a community grants officer at the Wizard’s Office; Heath Pepperworth, pantry manager at Brickway Junction Community Pantry; and Dilys Cinderham, founder of Cinderham Cargo Bikes. Thanks for being here. Let’s start with you, Roland. You help people navigate grant applications. Can you share an example of that work?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln064",
+      "text": "Yes, thank you, Rowan. It’s often about helping people translate their good idea into the language the application form is asking for. Recently, a neighborhood group wanted a grant for a park bench. Their application was full of lovely sentiments about community spirit, which is important, but the form really wanted data on usage and durability. So we sat down and I helped them simplify it. We focused on the foot traffic count they’d done—about two hundred people pass that spot on a market day—and on specifying the bench would have a steel frame, which lasts longer in our climate than wood. That got the application through."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "A concrete adjustment that made the difference. Heath, you’re on the other side of that equation, running a community resource. What’s on your mind right now?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln116",
+      "text": "Well, the pantry’s running well, but we’re at capacity. We get a lot of fresh produce from the Gillikin Growers, more than we can store safely. I’m proposing a bake sale fundraiser through the Meadow Mutual Aid network. Nothing fancy, just neighbors baking pies and breads to sell. The hope is to raise enough for a second industrial-grade refrigerator. That would let us accept more donations and reduce waste. It’s a plan right now—we’re still figuring out the date and who can bake what—but the need is clear."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "So that’s a community-driven plan in the works. Dilys, your work with cargo bikes is a bit of both—a business supporting community logistics. What’s a recent change you’ve made?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln210",
+      "text": "Absolutely! It’s all about keeping things moving. We had a couple of deliveries delayed last month because of flat tires. The riders had kits, but they were all different—some missing a pump, some missing the right patches. So I standardized. Every Cinderham cargo bike now has the same repair kit: a specific hand pump that fits our valve stems, a roll of patch material, the little scraper tool, everything. It doesn’t sound like much, but it’s cut our average roadside delay from nearly an hour to about fifteen minutes. The riders feel more confident, and the packages get where they’re going."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Practical efficiency. Roland, when you hear about a project like Heath’s bake sale plan, what’s your first thought as a grants officer? Is there a Wizard’ Office path for that?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln064",
+      "text": "My first thought is that it’s a strong community effort, which is valuable in itself. For a piece of equipment like a refrigerator, there might be a small capital grant available, but the application would need specifics: model numbers, square footage of the pantry, demonstrated increase in service capacity. The bake sale funds could be excellent matching contribution. Heath, if you decide to go that route, I’d be happy to look over a draft with you. The key is showing the need, like you did just now, and the community buy-in, which the bake sale proves."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln116",
+      "text": "I appreciate that, Roland. I hadn’t thought of combining the approaches. We might do the bake sale first to show we’re serious, then apply for a grant to cover the rest. Having the specifics you mentioned ready would be a big help."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Dilys, your standardized kits—was that a cost you absorbed, or did you find support?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln210",
+      "text": "We covered it. It was an operational cost, plain and simple. But talking about support, Roland’s point about data is key for us too. When we talk to the Brickway Transit Union about bike lane access, we don’t just say ‘it’s good.’ We track how many motorized cart trips one cargo bike replaces, how that reduces congestion on Lantern Row. That’s the language that gets heard."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln064",
+      "text": "Exactly. It’s the same principle. The steel frame, the trip count, the valve stem specs. It’s not less human; it’s how you build a case that others can understand and support."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "We’ve got a question from the audience for Heath. They ask, ‘How can people outside Brickway Junction help with the bake sale plan?’"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln116",
+      "text": "That’s kind. Right now, it’s just a proposal in the Meadow Mutual Aid network. Once we settle on a date, we’ll need bakers, of course, but also people to help spread the word, maybe someone with a cart to help move the goods on the day. If you’re in the network, keep an eye on the meeting notes. If you’re not, well, check in with your own local pantry—they might have a similar need. It often starts with just asking the person who stocks the shelves what would help."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "A good reminder that these projects are everywhere. We’re near time. Final thoughts from each of you? Roland?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln064",
+      "text": "Don’t be afraid of the forms. They’re just a way to tell your story so the person reviewing fifty applications can see why yours matters. Focus on the what and the how many."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln116",
+      "text": "And sometimes the ‘how many’ starts with a pie. Small steps are still steps."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln210",
+      "text": "And test your hand pump before you need it! Seriously, look at the friction points in your work—like a flat tire—and see if a simple, standard fix exists. It usually does."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "Thank you all. This has been a great look at the connection between civic process and on-the-ground work. Thanks to Roland, Heath, and Dilys for sharing their time and experience. The recording and notes will be in the network digest. Goodnight, everyone."
+    }
+  ],
+  "content_sha256": "98c299289e0aab96aab5521b6f20b42def68c6abb3b9db59890557f8345ebb28"
+}

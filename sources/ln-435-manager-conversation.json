@@ -1,0 +1,33 @@
+{
+  "id": "ln-435-manager-conversation",
+  "title": "Call notes: Glinda Southwell on the South Meadow room",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln008"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Glinda Southwell · February 4, 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Glinda closed out the South Meadow room dispute between the study group and the music society."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "She says she didn't propose anything. “I asked each side what they'd be willing to do themselves, and the schedule they wrote is better than anything I'd have offered.”"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "The agreement has held since the autumn. She'd be glad to talk about mediation at a members' evening. Not scheduled yet; I said I'd look for a date in the spring."
+    }
+  ],
+  "content_sha256": "05592574db0dfd5935cd37f0a2b8f3ade633f32e0d0c3e8a99c61e552c1dce5b"
+}

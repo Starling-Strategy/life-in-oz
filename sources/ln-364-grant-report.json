@@ -1,0 +1,20 @@
+{
+  "id": "ln-364-grant-report",
+  "title": "Wizard's Office Liaisons: Grant Report, October 2025",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln232",
+    "ln244",
+    "ln036"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nEmerald City Leadership Network\nWizard's Office Liaisons Circle\nOctober 2025\n\nThis report outlines the activities supported by the October 2025 grant for the Wizard's Office Liaisons circle of the Emerald City Leadership Network. The funds were used to facilitate direct member engagement with civic infrastructure concerns, translating local observation into actionable administrative records.\n\nIn Bell Market ward, Councillor Abel Larkwood applied his portion of the grant to address a persistent community complaint. \"The bench outside the post office had become unsafe,\" Larkwood reports. \"The slats were cracked, and it was no longer a place where one could sit comfortably.\" After receiving a letter campaign organized by an elderly resident, Larkwood expedited the procurement process for a replacement. The new bench, constructed of durable treated timber, was installed within the month. He notes, \"The administrative follow-through was streamlined by having a dedicated line item for such responsive, small-scale improvements.\"\n\nWilla Rushwick, a council aide, focused on pedestrian safety near a school in her Spectacle Lane neighborhood. \"Parents had been logging concerns with the precinct office for weeks,\" says Rushwick. \"The intersection at the top of the lane sees a surge of carriages and bicycles right as children are arriving.\" Using the grant to cover the temporary assignment costs, Rushwick arranged for a crossing guard to be posted for one week during the morning rush. The presence not only ensured safety but also collected data on traffic patterns, which has been submitted to the city's traffic planning committee. \"It was a short-term intervention,\" Rushwick explains, \"but it created the evidentiary basis for discussing a more permanent solution.\"\n\nIn Quadling Country, survey assistant Nadia Stone utilized her allocation for fieldwork documentation. A footpath boundary in the South Copse area had been gradually eroded by seasonal runoff, washing away the original marker stones and creating confusion over the right-of-way. \"I spent an afternoon there with a measuring line and a camera,\" Stone says. Her work was deliberately meticulous. \"I distrust round numbers in survey work,\" she adds. \"The record shows the precise degree of encroachment, the angle of the wash, and the locations of the remaining stone fragments.\" This clear, photographically supported record has been added to the parish maintenance file, providing the specific data required for any future repair or boundary restoration work.\n\nThe grant enabled these three Liaisons to act with a degree of administrative agility not always available through standard channels. Each project converted community input into a formal, documented civic request, demonstrating the value of bridging local observation with municipal process. The work remains unfinished in the sense that the data and precedents established are now part of ongoing civic discussions regarding maintenance, safety, and public space."
+    }
+  ],
+  "content_sha256": "c69b0bc2639cdb2df40497562ea6a846f7a552026980aa605a61b861218f88fa"
+}

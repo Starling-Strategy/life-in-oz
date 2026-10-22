@@ -1,0 +1,34 @@
+{
+  "id": "ln-200-email-thread",
+  "title": "Re: Winkie Works Guild - Member Updates",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln276",
+    "ln168"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Magnus Emeryham, Minna Winkleworth\nSubject: Winkie Works Guild - Member Updates\nDate: March 19, 2025\n\nHello Magnus and Minna,\n\nHope you’re both well. I’m gathering a few updates on what members have been doing for next month’s network newsletter. Would you mind confirming or adding any details to the items I’ve heard about below?\n\nThanks,\nRowan"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln276",
+      "text": "From: Magnus Emeryham, Owner, Emeryham Machine Shop\nTo: Rowan Bell, Minna Winkleworth\nSubject: Re: Winkie Works Guild - Member Updates\nDate: March 20, 2025\n\nRowan,\n\nItem one is correct. Violet Hills grain mill had a sack hoist gear fail. Original maker is out of business. We reverse-engineered the part from the broken gear, cut a new one on the mill. Material is a medium-carbon steel, hardened and tempered. The hoist is back in service.\n\nMagnus"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln168",
+      "text": "From: Minna Winkleworth, Foundry Supervisor, Westgate Foundry\nTo: Rowan Bell, Magnus Emeryham\nSubject: Re: Winkie Works Guild - Member Updates\nDate: March 21, 2025\n\nRowan, Magnus,\n\nConfirmed on my end too. Forklift was reversing with a load, didn’t see a caster coming out of the core room. No contact, but it was too close. I pulled the shift together right after the near-miss. Went over the painted pedestrian lanes, right-of-way rules, and the new blind-spot zones by the drying racks. Took about twenty minutes. Everyone was paying attention.\n\nMinna"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Magnus Emeryham, Minna Winkleworth\nSubject: Re: Winkie Works Guild - Member Updates\nDate: March 21, 2025\n\nMagnus, Minna,\n\nPerfect, thank you both. That gives me exactly what I need. I’ll make sure the write-up gets your details right.\n\nAll best,\nRowan"
+    }
+  ],
+  "content_sha256": "708af4a0e9ec76997e519ccc7f0b22492d0c4b361d57f06044a55d20b0f840e4"
+}

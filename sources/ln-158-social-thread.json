@@ -1,0 +1,45 @@
+{
+  "id": "ln-158-social-thread",
+  "title": "Festival Committee Chat: Behind-the-Scenes Heroes",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln190",
+    "ln261",
+    "ln297"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln261",
+      "text": "Hello all. A quick note of gratitude: the aprons for the Munchkin harvest festival kitchen volunteers were delivered on schedule, three days before the event. Two dozen, canvas, with the pumpkin motif printed as discussed. The volunteers looked quite cohesive."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln297",
+      "text": "Oh, that's a lovely percussive accent to the whole operation, Pim! Coordination like that sets the rhythm. Speaking of stages—literally—we had a quiet prelude before our summer series. The old bandstand in Hammerhead Rise park had wiring that was... let's call it a dissonant chord waiting to resolve. An electrician friend of mine came through, reran everything to current code, and now it’s safe and sound. No more worrying about a sudden fermata mid-performance."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln190",
+      "text": "Good work on the bandstand. Solid. Heard something similar about the Lantern Festival. A popcorn machine behind a food stall went down. Vendor was facing a long, quiet night. Story I got is that someone fixed it using parts from a broken hot plate that was just sitting there. Cannibalized the right pieces, got the machine humming again. Saved the stall."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "a_food_vendor",
+      "text": "That was me! The popcorn machine’s main heating coil gave out. I was ready to pack it in. This repairer—didn’t catch his name—just looked at it, then at the old hot plate I use for backup, and ten minutes later he’s swapped parts. Machine ran perfectly the rest of the night. Whoever that was, thank you."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln190",
+      "text": "Sounds like a clean diagnostic. Identify the faulty component, find a donor with a compatible one. No need for a new machine, just a little resourcefulness."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln297",
+      "text": "A beautiful improvisation! Taking the melody from one instrument to save another. That’s the spirit."
+    }
+  ],
+  "content_sha256": "dac23227069ac7ce65f9f19eb569bdcbfd0aaad70fad9c209e005c14b44e5b09"
+}

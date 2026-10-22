@@ -1,0 +1,49 @@
+{
+  "id": "ln-409-press-release",
+  "title": "Local Upholsterers Patch Up Public Spaces, One Stitch at a Time",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln227",
+    "ln275"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nDecember 2025\nEMERALD CITY, Oz – As communities prepare for winter, two small business owners from the Emerald City Leadership Network’s Small Business Circle have quietly reinforced the public fabric—quite literally—by donating their skills to repair well-used community seating."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Blue Orchard, Munchkin Country, Golda Hedgestead of Hedgestead Upholstery noticed the main bus shelter bench had seen better days. The vinyl seat was cracked and worn through in places. Using a donated roll of heavy, weather-resistant fabric, she carefully removed the old cover, cut a new piece, and secured it with a tight, durable stitch. The bench is now ready for another season of waiting passengers."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln227",
+      "text": "It’s just a small thing, really. You see folks using that bench every day—people heading to work, parents waiting with their children. The fabric was donated, so it was just a matter of an afternoon’s work to make it a bit more comfortable and a lot more presentable."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in South Meadow, Quadling Country, Yves Brambleholt of Brambleholt Upholstery addressed a similar need at the weekly market. The vinyl seating on three of the vendor booths had torn from years of use, exposing the padding underneath. Yves patched the holes and secured the frayed edges with a sturdy blind stitch, ensuring the repairs would hold."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln275",
+      "text": "The market is a hub for so many. The vendors are on their feet all day, and they deserve a proper place to sit for a moment. It’s a simple repair, but it extends the life of the booths and shows a bit of care for the people who make our market what it is."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Golda and Yves exemplify what our Small Business Circle is about: applying your craft not just for commerce, but for community. They saw a need they were uniquely equipped to fill and did so without fanfare. It’s a powerful reminder that small businesses are the backbone of our neighborhoods."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The Emerald City Leadership Network connects members across Oz for collaboration and community projects. Its Small Business Circle focuses on peer support, shared resources, and local impact."
+    }
+  ],
+  "content_sha256": "c04266560a52f04d22918ffdc2c93926888c3213badadc8ab8b6420d62b9e293"
+}

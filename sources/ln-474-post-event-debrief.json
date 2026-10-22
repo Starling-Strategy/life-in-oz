@@ -1,0 +1,40 @@
+{
+  "id": "ln-474-post-event-debrief",
+  "title": "Mediation members' evening debrief – May 2026",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln008",
+    "ln260",
+    "ln034"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell, Community Manager. Debrief for the Mediation Members' Evening held May 2026. Hosted by Glinda Southwell. Presenters/contributors: Percy Pepperwick, Marcus Wren.\n\nAttendance: Roughly thirty members from across the network, with a mix from tenant associations, mutual aid circles, and small business owners. Good energy, stayed for the full two hours."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "What happened:\n- Glinda Southwell opened with a brief overview of structured conversation as a tool for disputes within a building or a workspace. She emphasized asking 'What would a good outcome look like for you?' rather than 'What's the problem?'\n- She facilitated a role-play scenario: a dispute over shared room use between two housemates (one who works nights, one who hosts a morning study group). A few volunteers acted it out, then the room discussed what worked and what didn't in the dialogue.\n- After the role-play, Glinda had everyone pair up and draft their own simple shared-space schedule, using the framework from the exercise. Most pairs produced a clear, one-week timetable for something—a kitchen, a workshop bench, a community noticeboard.\n- Percy Pepperwick shared a concrete example from Meadowbank. He described how two adjacent stairwells in a tenement had been in a long-standing tiff over the bin-store area and drying lines. Each stairwell drafted their own ideal half of a rota, then met with a tenant association member (not Percy, but someone he'd trained) to merge them. The written rota has been posted for three months now, and Percy says compliance is high because 'everyone could see their own handwriting in it.' He got a round of applause.\n- Marcus Wren spoke last, offering the perspective of a tenant advice desk. He noted how often disputes come to him as clerical or legal issues when a simple mediated conversation could clear the air first. He proposed organizing a follow-up session specifically for tenant advisers and support clerks, to practice the role-play scenarios and share templates for simple agreements. This is a plan, not yet arranged."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "What worked:\n- The role-play made things tangible. People laughed, which helped.\n- Percy's real-world example gave the technique immediate credibility.\n- Having people create something (the schedule) meant they left with a tool, not just an idea.\n- Good mix of circles represented; the Brickway Transit Union folks were particularly engaged, talking about driver break-room tensions."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "What to change for next time:\n- Need more nametags. We ran out.\n- The room got a bit warm; open a window earlier.\n- Consider having a second facilitator to help groups that get stuck during the writing exercise. Glinda was stretched thin."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Open actions:\n- Rowan to connect with Marcus Wren about his proposed follow-up session for tenant advisers. Discuss potential dates and format.\n- Send a thank-you note to Glinda Southwell and include the schedules people drafted as an attachment.\n- Share Percy Pepperwick's bin-store rota example in the next network newsletter, with his permission."
+    }
+  ],
+  "content_sha256": "589489f30023c6056e7ebb8575ed2f761d521bdbfc9594eef0019627fbce5f2e"
+}

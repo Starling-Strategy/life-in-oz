@@ -1,0 +1,39 @@
+{
+  "id": "ln-500-social-thread",
+  "title": "Sturdy desks and colourful waxes: two small ways our reading spaces got a little better this week",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln218",
+    "ln291"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln218",
+      "text": "A quick note to the Reading Room crowd—the Gate Quarter Learning Rooms just got a little upgrade. The accountancy firm down the lane, a local business, was refitting their offices and had a dozen of their old folding desks to clear out. I asked if they might consider a donation, and they were happy to. They’re the sturdy, solid-top kind, perfect for calligraphy or sketching without wobbling. We’ve already got them set up in the back room. If your circle has a need for a proper writing surface for a workshop, do let me know; we can likely spare a few."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln291",
+      "text": "Edith, that’s wonderful. A good desk makes all the difference. It puts me in mind of our own little clearance effort over here at the shop. We had two full storage crates of discontinued sealing waxes—beautiful colours, but the older style. Rather than let them gather dust, we ran a clearance sale last weekend. They’re all gone now, which means we’ve made the space for the new line of watercolour notebooks from that binder in the Quadling Quarter. The paper is lovely. It feels good to clear the old to make way for the new."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "neighbor",
+      "text": "My daughter picked up three of those waxes, Yara. She’s been sealing letters to her cousin in Winkie Country with a vibrant green one. Says it makes the post feel more special. And Edith, I’ve been meaning to try a calligraphy class; knowing there’s a proper desk waiting might just be the nudge I need."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln218",
+      "text": "Please do come! The desks are there every Tuesday evening. And that’s a lovely use for the wax, Yara—connecting people across the countries."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "clerk",
+      "text": "Saw the notebooks come in today. The cover cloth is a really nice weight. Well done on the swap."
+    }
+  ],
+  "content_sha256": "cc8715ef0006652b38497efe4bb319a8aac4f9fa6f89ea227b71aec058d92600"
+}

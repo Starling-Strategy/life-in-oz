@@ -1,0 +1,59 @@
+{
+  "id": "ln-066-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Yara Wheatley and Ursa Saffronridge · July 2024",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln147",
+    "ln122"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Joint check-in with Yara and Ursa. Both described recent projects."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln147",
+      "text": "Rowan, I’ve been wanting to tell you about this new artist I found in Violet Hills. She makes these incredible pressed botanical prints on handmade paper—ferns, poppy field wildflowers, things like that. The paper has this wonderful texture. I started carrying a small line last month, and it’s been a steady seller with the summer tourists. They like having a piece of the countryside to take home. I’m thinking of expanding the selection if she can keep up with the pressing."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Ursa, how are things at the library?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln122",
+      "text": "Quite well. I noticed a particular group of students who seemed to dread the free period because the cafeteria is so loud. So, I set up a 'silent reading afternoon' in a corner of the library. I arranged some comfortable floor cushions, and I managed to get a set of booklights from the supply closet. It’s not a large group, maybe six or seven, but they come every week now. It’s lovely to see them find a quiet spot."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln147",
+      "text": "Oh, that’s wonderful. A quiet corner is a precious thing. Maybe I should send some bookmarks your way."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln122",
+      "text": "That would be very kind, Yara. The students would appreciate that."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Thanks, both. Good to hear these are going. No immediate support needed?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln147",
+      "text": "Not at the moment, just pleased it’s working."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln122",
+      "text": "All is well here, thank you."
+    }
+  ],
+  "content_sha256": "e4e8f095a82de5202c29be96b9a5a57e73cb50c3e14b0b8ba85427a03a897301"
+}

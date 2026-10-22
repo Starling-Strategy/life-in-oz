@@ -1,0 +1,118 @@
+{
+  "id": "ln-383-meeting-minutes",
+  "title": "Gillikin Growers Cooperative Monthly Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln037",
+    "ln101",
+    "ln293",
+    "ln185",
+    "ln149",
+    "ln113"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Gillikin Growers Cooperative\nMeeting Minutes\nDate: 18 November 2025\nTime: 4:00 PM\nLocation: Violet Hills Grain Mill Community Room\n\nPresent: Beryl Brookford (Cooperative Buyer), Elspeth Stoneley (North Orchard Mill), Edith Reedstead (Violet Hills Mill), Pia Reedford (Tinsmith Row Mill), Hollis Cinderton (Cinderton Dairy), Peter Ash (Ash Family Produce), Rowan Bell (Community Manager, Emerald City Leadership Network)."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Welcome and Introductions\n   Rowan Bell called the meeting to order. Members gave brief updates from their regions."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln101",
+      "text": "Beryl Brookford opened with a report on the early berry season. She confirmed that the week of shared cold storage concluded successfully. The decommissioned dairy truck from the Reed Flats route was lined with salvaged insulation and moved between eight farms. She noted a measurable reduction in spoilage compared to last year's early yields. The truck has been returned to the dairy co-op."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "2. Member Actions and Updates\n   The group reviewed recent activities."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln037",
+      "text": "Peter Ash mentioned his trial patch of cabbages. One grew to an impractical size for market. He took it directly to the Brickway Soup Kitchen in the Emerald City last week. The kitchen staff used the whole thing in a community meal, which he was pleased about."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln113",
+      "text": "Hollis Cinderton reported a mechanical issue at the dairy. The main valve on the bulk cooler tank started leaking before the morning collection. He had a spare part on hand, ordered from a supplier in the Winkie Country some months back. He replaced the valve himself, preventing the loss of that morning's yield."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln293",
+      "text": "Pia Reedford provided an update on grain trials. She milled a 50-pound batch of the new drought-tolerant wheat from the Gillikin test plots. The sample was provided by the growers' research circle. She has documented the milling characteristics, including bran separation and flour yield, and will send her notes to the farmers this week."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln185",
+      "text": "Elspeth Stoneley reported on the North Orchard Mill open day held on the 5th. Seven local growers attended and watched their own wheat go through the full milling process. She said it was useful for everyone to see the importance of grain cleaning and tempering."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln149",
+      "text": "Edith Reedstead confirmed that the Violet Hills Mill has implemented a new procedure. After a damp load of rye spoiled a storage bin last month, all incoming grain now undergoes a handheld moisture check before being accepted. She noted it adds a few minutes per delivery but has already prevented one questionable load from being stored."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "3. Storage and Logistics Discussion\n   The success of the shared cold storage initiative prompted discussion on future resource sharing."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln101",
+      "text": "Beryl Brookford asked if there was interest in formalizing a shared equipment list, starting with the cold truck for next berry season. She will draft a simple schedule proposal for the January meeting."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln113",
+      "text": "Hollis Cinderton suggested including a list of reliable parts suppliers for farm equipment, noting the valve came from a Winkie workshop that specializes in dairy gear. He agreed to provide that contact to Beryl for the list."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "4. Quality and Standards\n   The conversation turned to grain and produce quality."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln185",
+      "text": "Elspeth Stoneley supported Edith's moisture check, saying it saves mill wear and ensures a better product. She proposed the cooperative adopt a standard acceptable moisture level for milling grains to be shared with all growers."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln149",
+      "text": "Edith Reedstead agreed to work with Elspeth and Pia on drafting that standard based on their collective experience."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln293",
+      "text": "Pia Reedford added that the trial wheat's performance data could also inform future growing recommendations for drier Gillikin seasons."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "narrator",
+      "text": "5. Community Engagement\n   Rowan Bell asked about the impact of the open day and produce donations."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln037",
+      "text": "Peter Ash said the soup kitchen was grateful, and he'd consider setting aside a small portion of his trial crops for similar donations next season, provided it doesn't conflict with his market commitments."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "narrator",
+      "text": "6. Action Items\n   - Beryl Brookford to draft a shared equipment schedule and list proposal for January meeting. (Due: 10 Jan 2026)\n   - Hollis Cinderton to provide Winkie parts supplier contact to Beryl. (Due: 1 Dec 2025)\n   - Edith Reedstead and Elspeth Stoneley to draft a cooperative grain moisture standard, consulting with Pia Reedford. (Due: 15 Jan 2026)\n   - Pia Reedford to circulate her milling feedback on the drought-tolerant wheat to the growers' research circle. (Due: 25 Nov 2025)"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "narrator",
+      "text": "7. Next Meeting\n   The next meeting is scheduled for 20 January 2026, at 4:00 PM, location to be confirmed (likely North Orchard Mill).\n\nMeeting adjourned at 5:30 PM.\nMinutes recorded by Rowan Bell, Community Manager."
+    }
+  ],
+  "content_sha256": "bdb2483e17093cbe29403b45cafc92d428ee78454776866b7d7da653b63d7476"
+}

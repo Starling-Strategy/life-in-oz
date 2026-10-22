@@ -1,0 +1,18 @@
+{
+  "id": "ln-095-speaker-bio",
+  "title": "Wilfred Spindlebourne",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln192"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Wilfred Spindlebourne is a lathe operator at the Westgate Foundry in Yellow Kiln, Winkie Country. His steady hands are as useful for fixing things around the worksite as they are for his primary duties. When the common milk crate used to store crew lunchboxes cracked at the corners, Wilfred didn't order a new one. Instead, he carefully welded the fractured plastic with a soldering iron, sealing the splits so the crate could see another season of service. On a separate occasion, when the canteen's water cooler failed and left the midday break without chilled water, he took the faulty valve apart. Using scrap brass from the foundry floor, he machined a precise replacement seat on his lathe, restoring the cooler to full operation. Wilfred brings this same practical, resourceful approach to his participation in the network's Winkie Works Guild."
+    }
+  ],
+  "content_sha256": "97b4f02ab19ff74f0a8fefc8fcaf43c0e3038985b0f41af115fe75ce0e734cfb"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ln-507-speaker-bio",
+  "title": "Speaker Biographies: Timber Verge Repair Co-op Community Meet",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln122",
+    "ln124",
+    "ln154",
+    "ln106"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Ursa Saffronridge is the school librarian at the Lantern Row school in the Emerald City. Her precise and warm approach serves her community well, as seen recently when she noticed water damage beginning on some lower shelves. Working with members of the Timber Verge Repair Co-op, she helped trace the issue to a small leak in a pipe tucked behind the biography section and assisted in patching it before any books were harmed."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Pim Rushby serves as a public notices editor within the Wizard’s Office, based in the Green Market district of the Emerald City. Known for a clipped, factual style, Pim is currently drafting an internal guide for his office on how to incorporate basic accessibility principles into all public notices. The draft is in the review stage with his colleagues, shaping a resource intended to make civic information clearer for everyone."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Cyrus Poppymere is an electrician who runs Poppymere Electrical in Yellow Kiln, Winkie Country. His terse, practical advice is highly valued locally. Last month, when a neighbor was planning a small solar panel setup, Cyrus advised on the best and most durable exterior conduit routing, sketching out several clear options for them on the back of an envelope."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Bertram Meadowham is a bicycle mechanic and a member of the Timber Verge Repair Co-op, also living in Yellow Kiln. Soft-spoken but with a talent for technical clarity, Bertram recently organized and ran a morning of free bicycle safety checks in the Works car park, focusing on helping shift workers ensure their rides to and from work were safe and reliable."
+    }
+  ],
+  "content_sha256": "ec58857393b7b4fd8f6e8479cca2d3e289dc6f7de9d5f2d951429656ae385363"
+}

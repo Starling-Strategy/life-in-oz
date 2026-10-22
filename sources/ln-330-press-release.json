@@ -1,0 +1,43 @@
+{
+  "id": "ln-330-press-release",
+  "title": "Wickbourne Puppets Partners with Local Crafters to Source Wool Felt, Announces Upcoming Care Guide",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln153"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nEmerald City, September 2025 — Wickbourne Puppets, the Lantern Row studio known for its intricate handcrafted figures, has announced a new materials partnership with neighboring artisans and plans for a community resource to help preserve its work."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Earlier this month, puppet maker Emrys Wickbourne finalized a pooled order with two other craft studios on Lantern Row to purchase wool felt directly from a mill in the Gillikin Country. By combining their needs, the group secured a meter-rate price that makes a wider spectrum of colors economically viable for small-scale production."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln153",
+      "text": "It was one of those things you talk about for ages over the fence—'if only we could get that deep violet without the per-meter cost making your eyes water'—and then you finally just do it. We coordinated our lists, sent one order, and now I've got rolls of russet, sage, and a proper slate blue I haven't been able to offer before. It's good for the mill, it's good for us, and it's certainly good for the puppets."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In a separate initiative, Wickbourne is now developing a simple, illustrated guide on basic puppet care and storage. The guide is intended for the Emerald City Festival Committee to distribute to community groups, schools, and libraries that borrow puppets for events and performances."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln153",
+      "text": "You put all this love into the stitching and the joints, and then you see a wonderful puppet come back with a crease from being stuffed in a box or dust in its seams. It aches! So I'm putting together a few pages on how to keep them happy—stuff like keeping them out of direct sun, gentle brushing, and the right way to pack them for travel. It's not a rulebook, just friendly advice to make sure these characters last for years of stories."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The care guide is currently in draft form, with completion and distribution planned for later in the season. Wickbourne Puppets operates out of a studio on Lantern Row in the Emerald City and is a member of the Emerald City Leadership Network's Small Business Circle."
+    }
+  ],
+  "content_sha256": "9b0a76868653d786694047c21ccb9723aec52f974c00aa0d1a65ac30749bc805"
+}

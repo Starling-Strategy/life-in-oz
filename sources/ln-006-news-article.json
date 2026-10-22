@@ -1,0 +1,100 @@
+{
+  "id": "ln-006-news-article",
+  "title": "Founders' Corner: Winter Projects Bring Warmth and Light",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln097",
+    "ln078",
+    "ln135"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY — While the winter months often bring a hush to business, members of the Emerald City Leadership Network’s Young Founders circle have been busy with projects designed to spark community warmth and commerce. From repurposing lost items to mending threads and planning for spring light, their recent efforts reflect a blend of practicality and creativity."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "A Second Home for Lost Things"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "In Violet Hills, tramways ticket office supervisor Leif Emeryholt looked at the growing collection of unclaimed items in the Emerald City Tramways depots and saw an opportunity, not a problem. Last month, he organized a swap meet for the lost property."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln097",
+      "text": "The policy is to hold items for ninety days. After that, they’re typically cleared for disposal. I proposed we instead sort the usable pieces—umbrellas, gloves, scarves, the occasional lunch pail—and invite the community to give them a new home."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The event was held in a leased storefront near the Violet Hills tram stop. Emeryholt and two volunteers from the Brickway Transit Union sorted and displayed the goods on simple tables. No money changed hands; people were invited to take what they needed."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln097",
+      "text": "We redistributed over two hundred items in three hours. The most common finds were single gloves, which people were happy to pair with another lonely one. A minor change, but it keeps useful goods in circulation and out of the waste stream."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The Art of the Mend"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Quadling Country’s Redfern Hill, Agnes Hazelton of the Redfern Hill Makers Space addressed a different kind of waste: worn-out clothing. She organized a community darning day, focusing on repairing socks and sweaters."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln078",
+      "text": "The idea wasn’t to make the mend invisible, but to make it a feature. We used brightly contrasting yarns. It extends the life of the garment and teaches a skill that’s become less common. You don’t need a makers space to do it—just a needle, some thread, and a little patience."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "A dozen residents spent an afternoon at the Makers Space, and Hazelton estimates they successfully repaired or patched dozens of items. One participant, a parent, left with a child’s sweater featuring a cheerful yellow patch over a worn elbow."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln078",
+      "text": "It’s about shifting the mindset from ‘this is holey, toss it’ to ‘this is holey, let’s fix it.’ And doing it together makes it less of a chore and more of a social hour."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Planning for a Brighter Market"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Looking ahead to the spring Festival of Light, Bell Market optician Gwen Violetmore is thinking about visibility in a different sense. She has proposed a shop window display competition for the business district."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln135",
+      "text": "The Festival brings so many people into the city. I thought, why not give them a reason to stroll through Bell Market and see all the wonderful small shops we have? A friendly competition for the best window display, themed around light and reflection, could encourage that foot traffic for everyone."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "The proposal is currently being circulated among the Bell Market business owners. Violetmore suggests simple criteria: creativity, use of theme, and overall appeal. She hopes to secure a small prize from the Emerald City Chamber to add incentive."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln135",
+      "text": "It’s still in the planning stages, but the initial conversations have been positive. My own window might feature some old spectacles and lenses arranged to catch the light—a nod to my trade, of course. But I’m eager to see what the bakery, the bookbinder, and the florist come up with. It should be quite a show."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "narrator",
+      "text": "Rowan Bell, community manager for the Leadership Network, observes that these projects, though distinct, share a common thread. “They’re about seeing potential—in a lost glove, a worn sock, or a quiet street. It’s that founder’s eye for opportunity, applied directly to community good.”"
+    }
+  ],
+  "content_sha256": "f41a561829733019dfa426c225ba3a8ac98cbfcd2b287e2de677e8510da74e37"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ln-367-post-event-debrief",
+  "title": "October 2025 Chamber Gathering Debrief",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln111",
+    "ln183",
+    "ln195"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Notes from the post-gathering conversation at The Greenfield Table, October 29, 2025. Present: Merritt Thistleshaw, Verity Meadowford, Otis Greenfield, Rowan Bell. The main topic was the Chamber's recent communications and upcoming seasonal plans, but a lot of the talk was about the small, practical things that keep businesses feeling connected."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln111",
+      "text": "I am finally seeing the last of the annual reports. Five hundred of them, all out the door. It’s a relief. You know, I hand-addressed about twenty envelopes for our key members in the older districts—Bell Market, Spectacle Lane, some folks out near the Munchkin border. Their mail has a habit of vanishing into some sorting office void. A little extra ink on the envelope seems to guide it home."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln183",
+      "text": "Oh, that’s so thoughtful, Merritt. It makes a difference, getting something that feels personal. It reminds me of my ledger stand project. That old wooden stand in my window? The brass hinges were completely worn through. I was about to give up and put it in the back room, but I asked around the Timber Verge Repair Co-op. They connected me with a craftsperson there who does metalwork. She fixed the hinges perfectly, didn’t try to replace the whole thing. It’s back in the window now, holding our new autumn stock lists. It feels solid again."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln195",
+      "text": "Solid is good. We had a dose of that during the Junction Quarter cleanup. All those volunteers sorting brickway litter and pulling weeds from the planter boxes… they needed something solid, too. So I set up a counter outside the restaurant. Just a big pot of spiced pumpkin soup and a basket of yesterday’s bread, toasted. Nothing fancy. But seeing people warm their hands on the bowls, taking a five-minute break together on the curb—that’s the sort of thing that makes a cleanup day feel like a neighborhood day."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln111",
+      "text": "Exactly. It’s the infrastructure of courtesy. The mailed report, the repaired hinge, the bowl of soup. They’re not the main event, but without them, the main event doesn’t hold together."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "We touched on plans for the winter market. Otis offered his covered alley for a potential hot cider station if the Chamber organizes it. Verity suggested a shared ‘winter wish list’ board where businesses could post small needs—like her hinge repair—that others might help source. Merritt will draft a one-page flyer for the idea to circulate at the next small business circle."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Open actions: Merritt to draft the wish-list flyer by mid-November. Otis to confirm alley availability dates with his landlord. Verity to bring the repaired ledger stand to the next gathering as a show-and-tell piece for the wish-list concept. Rowan to add ‘practical connections’ as a topic for the next network-wide newsletter."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "Overall feeling: A productive, grounded talk. The Chamber’s strength came through not in big announcements, but in these stories of small, tangible follow-through. The soup was excellent, by the way."
+    }
+  ],
+  "content_sha256": "6ab143096d2a477337c0322d33f6140d13e7cc2befac06606435f1fbf6b037e3"
+}

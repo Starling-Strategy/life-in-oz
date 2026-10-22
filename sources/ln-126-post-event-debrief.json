@@ -1,0 +1,22 @@
+{
+  "id": "ln-126-post-event-debrief",
+  "title": "Meadow Mutual Aid December 2024: Warm Room, Pantry, and Co-op Updates",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln248",
+    "ln243",
+    "ln224",
+    "ln068",
+    "ln175"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · Meadow Mutual Aid debrief · December 2024\n\nCall with Clem Kilnford: Clem reported installing weatherstripping around the warped front door of the Green Market warm room lobby. He said the self-adhesive kind was easiest to work with alone. The draught is noticeably reduced for people waiting inside. He noted the door itself still needs planing down when the weather's warmer, but this is a good stopgap.\n\nCall with Phoebe Greenworth: Phoebe was delighted about a last-minute donation of twelve frozen turkeys. She coordinated a roster of four pantry volunteers who had freezer space to hold them until the scheduled pickup day last week. All twelve went to clients with larger families.\n\nCall with Odile Pepperby: Odile reported that the weekly container gardening session in the Lantern Row Care Home courtyard is going well. She used donated seeds and soil. Several residents with limited mobility have enjoyed it; one resident has taken charge of watering the herb pots. It's a small, calm activity that breaks up the week.\n\nEmail from Saffi Orchardmere: Saffi wrote to say she had to turn away three repair jobs in one week because her supplier ran out of the specific small brass hinges she uses for older children's frames. She's looking for an alternative supplier but is wary of changing the hardware on vintage frames.\n\nHearsay via parents: Rafe Ashbourne at the Gillikin Falls Childcare Co-op negotiated a bulk discount with a nearby orchard for snack fruit. Parents mentioned it has reduced the co-op's weekly grocery costs significantly. I haven't spoken directly to Rafe about it yet.\n\nGeneral notes: The mutual aid check-ins are proving useful for spotting these small, concrete actions and the occasional supply snag. The weatherstripping and turkey distribution are classic Meadow Mutual Aid: practical, immediate, using what's at hand. The hinge shortage and the need for a warmer-weather door repair show where small cash grants or material connections might help. I'll follow up with Rafe to confirm the orchard deal and see if that model is shareable with other circles."
+    }
+  ],
+  "content_sha256": "d7960d51a3814f90d54e0eb72e5aac683c4acc6a0e81a3c83de05a161021f826"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ln-022-radio-interview",
+  "title": "Public Notice Precision and Private Tool Time: A Chat with Pim Rushby",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln124"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Welcome back to 'Community Tracks', your weekly look at the people who keep the wheels turning across Oz. I'm your host, and I'm pleased to be joined today by Pim Rushby, Public Notices Editor at the Wizard's Office. Pim, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln124",
+      "text": "Thanks for having me."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Now, Pim, your work at the Office involves a lot of fine print and exact dates. I understand something recently came across your desk—or rather, across your colleagues' desks—that highlights how important that work is. Can you tell us about the Gillikin River Bridge notice?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln124",
+      "text": "Right. Colleagues mentioned they'd caught an error. The initial notice for the closure had a misprinted date. They said I'd spotted it during a routine review. It allowed us to issue a correction before the physical posting went out to the county boards. Avoided any confusion for travelers."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "And what happens when a notice like that goes out wrong? What's the real-world impact?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln124",
+      "text": "A farmer plans a delivery for Tuesday, the bridge is closed Monday. A repair crew shows up a day late. It's a ripple. Dates are concrete. Get them wrong, you waste people's time, fuel, patience. The correction went out within the hour."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "Shifting gears a bit—and I do mean gears, and wrenches—I hear you also spent some recent time with the Timber Verge Repair Co-op. Not exactly drafting public notices."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln124",
+      "text": "No. That was a Saturday. Their shared tool shed, after the winter repair season... it was a state. You'd have three socket sets, none complete. Pipe wrenches with the handles in a different bin. The disorganization slows them down."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "So you volunteered?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln124",
+      "text": "They put a call out on the Brick Board. I had the afternoon. We emptied everything. Sorted by type, size. Labeled the bins and the shadow boards. Made an inventory list for the door. Took about four hours with three of us."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "What's the connection for you between the precise world of public notices and the very physical world of a tool shed?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln124",
+      "text": "It's the same principle. Misinformation, whether it's a date on a notice or a wrench in the wrong box, creates friction. It stops work. The goal is clarity. In the Office, clarity prevents a trip to a closed bridge. In the shed, it means fixing a wagon before the rain comes."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "Pim Rushby, Public Notices Editor at the Wizard's Office and occasional tool-shed organizer. Thanks for clearing things up for us today."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln124",
+      "text": "My pleasure."
+    }
+  ],
+  "content_sha256": "32ab635b74c3801294f3e09a3c6e735956eba48086c0d3d3a826d6601e59e55b"
+}

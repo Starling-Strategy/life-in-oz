@@ -1,0 +1,65 @@
+{
+  "id": "ln-063-post-event-debrief",
+  "title": "Winkie Works Guild Meet Debrief - July 2024",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln161",
+    "ln240",
+    "ln072"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Post-event notes for the Winkie Works Guild monthly meet-up, held at the Westgate Foundry social hall on July 17, 2024. Attendance was steady, about twenty-five members in and out through the afternoon. Guild chair Reuben Brookcombe kept things moving. I was there to listen and connect people where it made sense."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The first notable bit of business was a hands-on demonstration in the foundry's training bay. Reuben Brookcombe spent the better part of the afternoon with one of the new apprentices from the union intake, a young fellow who looked both eager and terrified of the lathe."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln240",
+      "text": "It was a custom bolt order for the Brickway crew. Steel rod, specific pitch. You can't just guess it. I showed him how to set the compound, how to check the thread with a gauge after every pass. Took three hours. He got it right on the fourth try. Good enough."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The main social hour in the hall had the usual buzz, but there was a quiet cluster around Rufus Winkleby for a good twenty minutes. I didn't catch the start of it, but I heard the tail end and asked a few members about it afterwards."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "a guild member",
+      "text": "Rufus had a couple of those old sample tiles from the kiln archive in his bag—you know, the ones with the chipped corners. Someone was complaining about the inconsistency of modern blue pigments, and next thing you know, Rufus is giving us the full history. Where the cobalt oxide was sourced a hundred years ago, how the firing temperature changes the shade, why the Winkie Country clay gives it that particular depth. It was... thorough."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "another member",
+      "text": "He made a five-century glaze evolution sound like a detective story. I missed the first half getting a drink, but I heard it was even better."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Kai Kilnby arrived later, smelling faintly of smoke and honey. He'd come straight from Heatherford. When Reuben asked if the summer bloom was good, Kai took a long sip of water before answering."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln161",
+      "text": "The heather... was ready. They scheduled the cut for the south slope. So. Last week, I moved twelve hives off that slope. Took the whole morning. Quietly. Then brought them back... after the cut. The bees. They don't like the disturbance. But the new growth will be good. For the late harvest."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "The conversation meandered from there—equipment trades, a debate on the best oil for preserving tool handles, a reminder about the safety inspection schedule at the Yellow Kiln. No formal proposals or votes. People left when their shift patterns called them away."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Open actions: Follow up with Reuben about whether the apprentice would benefit from an introduction to the Reading Room Network's technical manuals collection. Check with Rufus if he'd be willing to turn his glaze talk into a short illustrated piece for the network newsletter—he seemed pleased by the interest. See if Kai needs any help from the network spreading the word about his late-harvest honey, maybe through the Gillikin Growers circle. Next guild meet is scheduled for August 21."
+    }
+  ],
+  "content_sha256": "4465ba4d0b166cbe0cac001ad82c9d0654797e213de3634efb5435864cdf7ebd"
+}

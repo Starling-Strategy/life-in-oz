@@ -1,0 +1,19 @@
+{
+  "id": "ln-361-nomination-letter",
+  "title": "A Nomination for Kit Amberworth, Brickway Transit Union",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln229",
+    "ln277"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln229",
+      "text": "To the Founders' Gala Committee,\n\nI’m writing to nominate Kit Amberworth of the Brickway Transit Union for recognition this year. I’ve been a depot mechanic for a long while, and what I value in a driver is someone who sees the bus as their responsibility from the wheels up, and who sees the passengers as people, not just fares. Kit does both, every day.\n\nI saw it myself just last month. We had a Friday night where a mounting bracket sheared clean off on one of the Green Market line buses. The exhaust pipe was hanging loose, and the driver was ready to call it in and strand the folks on his last run. I didn’t have the right bracket in the shop, and ordering it would’ve taken days. So I got a heavy-duty cargo strap from the emergency kit, looped it around the frame and cinched that pipe up tight. It wasn’t pretty, but it was safe and solid for the trip back to the depot. The driver was grateful, but more importantly, the passengers got home.\n\nThat’s the kind of thinking we need, and Kit has it in spades. Just the other week, I heard from a clerk at the Central Interchange about a passenger who was near frantic. They’d left a time-sensitive parcel on a different bus. Kit was driving their route when the passenger realized it. Instead of just sympathizing, Kit got on the radio right then, called the depot, and had them locate the other bus and pull the parcel off at the interchange. The passenger was able to retrieve it within the hour. That’s not in the driver’s manual. That’s using your head and caring about the outcome.\n\nThat’s why I’m putting Kit’s name forward. In a job where it’s easy to just follow the schedule, Kit looks for ways to make the whole system work better for everyone. It’s an attitude that makes the Union stronger.\n\nSincerely,\nBertram Violetridge\nBrickway Transit Union, Meadowbank Depot"
+    }
+  ],
+  "content_sha256": "08d625d10a22551a9dde1ea3ac712ebed305d16c8932dd4f87e806d668c903b8"
+}

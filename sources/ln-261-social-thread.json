@@ -1,0 +1,40 @@
+{
+  "id": "ln-261-social-thread",
+  "title": "Wizard's Office Liaisons: Checking In",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln132",
+    "ln032",
+    "ln217"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln217",
+      "text": "Mott Peppercombe, Brickway Works. Routine check on the Bluebell footbridge last Tuesday turned up a cracked parapet stone on the north side. Could see daylight through it. Crew had the barriers up by end of shift. Got two new coping stones from the yard on Wednesday, set them in mortar on Thursday. Bridge is solid. Just a reminder to look up once in a while, not just at the deck."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln032",
+      "text": "Owen Flint, Wizard's Office public works. Inspection of the main drainage ditch behind Reed Flats on June 12. Attaching photograph of silt measurement. Marked pole shows 18 inches of buildup at the midpoint. Recommendation for a clearing crew was filed June 13. Work is scheduled for the week of July 14. The photograph shows the view looking east from marker post 7."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln132",
+      "text": "Lorna Quadshaw, Quadshaw Metalworks. Been thinking about those wind problems with the festival stage canopies. Proposing we make some modular ground anchor kits. Basic concept: interlocking plates you stake down, with a standard clevis pin receiver. You could slot in different attachment arms for different canopy leg styles. All galvanized. Would be a lot quicker and more secure than sandbags or driving individual stakes into festival turf. Would keep the show from literally taking off. Could fabricate a prototype if there's interest."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln032",
+      "text": "The photograph of the drainage ditch measurement is clear. The recommendation specified a four-person crew with a small excavator and two dump trucks for two days, based on the linear footage and observed compaction. The schedule is confirmed."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln132",
+      "text": "Owen, that's thorough. Mott, good catch on the bridge. On the anchor kits: thinking they'd stack flat for transport, maybe six plates and pins per crate. The Festival Committee folks are always scrambling when the wind kicks up. This would be a set-and-forget piece of kit."
+    }
+  ],
+  "content_sha256": "e65726d8e75552607149505e43819d4c0d21dd4404891eeda6a00476a712984a"
+}

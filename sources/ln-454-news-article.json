@@ -1,0 +1,112 @@
+{
+  "id": "ln-454-news-article",
+  "title": "Office Liaisons: A Week in the Work",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln292",
+    "ln232",
+    "ln280",
+    "ln115",
+    "ln214"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "From pavement repairs to potholes, accessibility supplies to energy efficiency, members of the Emerald City Leadership Network who serve as Wizard's Office Liaisons have been busy this month. The work is often quiet, procedural, and essential, as these five brief reports illustrate."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Lantern Row Closure Clears Way for Repair"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "When a section of pavement on Lantern Row collapsed after heavy spring rains, it created a tripping hazard and disrupted foot traffic. Jago Cloverley, a planning officer with the Wizard's Office who lives on the affected street, took the lead on coordination. He worked with the public works department to schedule a temporary closure, notified all residents on the block, and ensured contractors had clear access."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln292",
+      "text": "The key is minimizing disruption while maximizing the contractor's efficiency. By closing the full block for two days instead of a partial closure over a week, they were able to excavate the unstable sub-base, pour a new foundation, and relay the paving stones in one continuous operation. It was done by Wednesday afternoon."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "A Clear Plan for Bell Market's Board"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "In Bell Market ward, Councillor Abel Larkwood has noticed a persistent problem: the community noticeboard's paper flyers often become sodden and illegible in the city's frequent light drizzle. He is preparing a proposal for the ward's next budget meeting."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln232",
+      "text": "My intention is to propose the fabrication and installation of a simple, clear acrylic cover. It would be hinged at the top to allow easy posting and removal of notices, while protecting them from the weather. It's a small capital expense that would significantly improve the utility of a shared resource."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Pothole Blitz Follows Spring Thaw"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Across the Emerald City, the annual spring thaw reveals a crop of potholes. Colleagues in the public works department report that engineer Zinnia Cindermere was instrumental in organizing this year's response. According to their accounts, she compiled a unified map of over fifty reported locations, prioritized them based on traffic volume and severity, and coordinated the deployment of three road crews."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "The coordinated effort saw the majority of the high-priority sites filled within a single week, a noticeable acceleration from previous years' more staggered responses. Cindermere was not available for comment on the process."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Batteries Replenished at Hammerhead Rise"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "In Quadling Country, community health worker Bea Reedcombe oversees a small but vital service at the Hammerhead Rise library. The library's accessibility desk maintains a free, informal supply of hearing aid batteries for residents who use them. Reedcombe noticed the stock was running low."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln115",
+      "text": "It's one of those things that's easy to forget until someone needs it and it's not there. I ordered a new box through our health access circle's supplier and restocked the drawer. It's not a big project, but it means an older resident doesn't have to make a special trip into town if their battery dies on a Sunday."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "Motion Sensors Cut Co-op's Energy Draw"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "At the Timber Verge Repair Co-op's storage yard in Winkie Country, the security lights used to burn all night, every night. Ansel Greenbourne, an electrician and co-op member, assessed the setup and proposed a simple upgrade."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln214",
+      "text": "The existing fixtures were fine, but they were on a manual switch that someone would have to remember to turn off. I replaced that with motion-activated bulkhead lights. Now they only come on when there's activity in the yard after dark."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "narrator",
+      "text": "Greenbourne installed the sensors himself, drawing on the co-op's tool fund for the parts. Based on the reduction in operating hours, he estimates the change has cut the yard's nightly security light energy use by roughly sixty percent."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "narrator",
+      "text": "Liaison Role Spans Jurisdictions"
+    },
+    {
+      "id": "b019",
+      "speaker_id": "narrator",
+      "text": "These episodes highlight the varied nature of the Liaison role, which connects the administrative functions of the Wizard's Office with the practical needs of communities and member circles across Oz. Whether through official channels, like Cloverley's street closure or Larkwood's proposal, or through the direct application of professional skills, as with Reedcombe's restocking and Greenbourne's installation, the work shares a common thread: identifying a specific, tangible need and seeing it through to a resolution."
+    }
+  ],
+  "content_sha256": "70626d2a7dae0f718255ed95834ddb5489235abcc91fe3f7ae9d64d0cf36bad8"
+}

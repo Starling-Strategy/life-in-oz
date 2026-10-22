@@ -1,0 +1,48 @@
+{
+  "id": "ln-001-survey-response",
+  "title": "Emerald City Leadership Network Member Survey - Wizard's Office",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln148"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The following are the responses from Orla Greenwick, to the January 2024 survey on interactions with the Wizard’s Office."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Question 1: What is one thing you or your colleagues have done in the last six months to improve how the Wizard’s Office communicates with the public?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln148",
+      "text": "I developed a standardized template for announcing community grant awards. Before, each liaison crafted their own notice, which led to inconsistencies in format, required information, and submission deadlines. The new template ensures all announcements contain the grant purpose, amount, recipient, key dates, and a clear point of contact. It has been adopted by all liaisons across the four countries for uniformity."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Question 2: Can you give an example of a time you simplified a complex process or piece of information for residents?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln148",
+      "text": "Certainly. The instruction sheet for the new residential water meters was causing significant confusion. It was a dense block of text. I rewrote it into clear, step-by-step instructions and added simple diagrams showing where to find the meter, how to read the display, and which number to report. Since we distributed the revised sheet, the utilities helpline has reported a noticeable decrease in calls specifically about meter reading."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Question 3: What is a common piece of feedback you hear from the public regarding Wizard’s Office communications, and what is your view on it?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln148",
+      "text": "The most frequent comment is that notices are easy to miss or written in overly formal language. I believe this is a fair critique. My work on the grant template and the meter instructions is directly aimed at addressing this—making necessary information not only available but also clear and visually accessible. Consistency in where and how we publish also helps with the issue of notices being missed."
+    }
+  ],
+  "content_sha256": "9e265087343b4bd8eb38dccb34f6a9b72860709178bcbbb760da19b3e26fb99f"
+}

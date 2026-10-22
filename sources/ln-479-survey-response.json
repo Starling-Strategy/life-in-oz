@@ -1,0 +1,86 @@
+{
+  "id": "ln-479-survey-response",
+  "title": "Young Founders Survey Responses, June 2026",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln150",
+    "ln162",
+    "ln049",
+    "ln246"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network – Members' Survey, June 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. What's a recent project or adjustment in your work you're particularly satisfied with?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln150",
+      "text": "I channeled my inner dramatist for a student struggling with regional waterway history. The Munchkin canal system's founding and expansion is a saga of mud, sweat, and engineering ingenuity, but the textbook makes it drier than a brick in the sun. So I created a set of illustrated flashcards—my own hand-drawn lock gates, pickaxe-wielding Munchkins, the whole glorious mess. The student aced the regional exam, and more importantly, she told me she finally 'saw the story.' That's the sweet spot."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "2. What's a challenge you're actively working on or preparing for right now?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln162",
+      "text": "Flavor alchemy. The autumn menu needs a star savory tart. I'm riding the line between hearty and bright. Roasted squash for that deep, sweet base, spiced lentils for protein and warmth, maybe a flash of apple cider vinegar to cut through. Textures are key—the squash has to be creamy, not mushy. I'm doing a trial run next week at my usual Junction Quarter spot. Samples for the regulars. They'll tell me straight if it's a hit or needs to go back in the oven, metaphorically speaking."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "3. Give an example of solving a concrete, physical problem for a client or your space recently."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln049",
+      "text": "Junction Quarter library. Their main meeting room's wireless kept dropping during video calls. Frustrating. Went onsite, found the access point was tucked behind a metal cabinet—a basic signal killer. Repositioned it. Then traced the cable run and found it was routed right alongside a cluster of old water pipes. That'll cause interference all day. Added some simple shielding to the cable, rerouted it a few inches away. Connection's been solid since. Sometimes it's not the tech, it's the placement."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "4. How are you adapting your service or operations to meet a specific local demand?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln246",
+      "text": "Speed and temperature. Got a new contract with that fantastic Gate Quarter bakery. They need their fresh bagels at three different coffee shops by 7 AM, still warm. That's a tight window. Our cargo bikes are perfect for the narrow Quarter lanes in the early morning, but we had to nail the heat retention. Designed new insulated waxed-canvas panniers—sturdy, waterproof, and they keep the heat in. Did a test run last week; delivered at 6:50 AM and the bagels were still steaming. The coffee shops are happy, the bakery's happy. Efficient delivery that doesn't sacrifice quality."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "5. What's one piece of advice you'd give to someone just starting out in your field?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln150",
+      "text": "Find the narrative. Whether it's quadratic equations or canal locks, there's a human story underneath. Your job is to be the translator, turning abstract concepts into something your student can connect with. Enthusiasm is contagious; if you're bored, they're lost."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln162",
+      "text": "Taste everything, trust your regulars. Your own palate is your first guide, but the people who come back every week? They're your real critics. Listen to them. And always have a backup plan for when the market runs out of your main ingredient."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln049",
+      "text": "Look at the physical setup first. People will blame the software or the service provider, but half the time it's a cable, a power strip, or something blocking a signal. Walk the space. It saves hours of remote diagnostics."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln246",
+      "text": "Solve a real, tangible problem for your neighbors. Don't just have a cool idea. Is there a delivery gap? A traffic snarl? A need for speed? Build your service around that specific pain point. And invest in good gear from the start; it pays off in reliability."
+    }
+  ],
+  "content_sha256": "9042b92681eb60d0f70b45e0449c98e2a582bc9aa1ddfb8faefdc4904c903beb"
+}

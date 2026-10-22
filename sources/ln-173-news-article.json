@@ -1,0 +1,66 @@
+{
+  "id": "ln-173-news-article",
+  "title": "From Wobbly Wheels to Wired Walls: A Week in the Timber Verge Repair Co-op",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln082",
+    "ln142",
+    "ln158",
+    "ln107"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Heatherford, Gillikin Country – In a week where many eyes were on spring planting or festival planning, a quieter kind of growth was happening across the network. Members of the Timber Verge Repair Co-op, a loose affiliation of those who believe in fixing things rather than replacing them, were busy with projects large and small."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "At the Heatherford school library, librarian Noor Greenton had grown weary of the shimmying, squeaking protest of the main book cart. 'It had developed a pronounced limp,' she said, describing the stuck swivel wheel. 'It was like pushing a reluctant companion down every aisle.'"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln158",
+      "text": "I knew the co-op kept a scrap bin of cast-off parts at the Violet Hills tool library. It’s a wonderful jumble of 'maybe-someday' items. I found a wheel assembly from an old office chair that looked about right. It took some cleaning and a fresh bolt, but it clicked right in. The cart glides now, silently. Hardly headline news, but it makes the whole room feel calmer."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, across the city in Bell Market, electrician Mabel Cinderwood was dealing with a problem that was anything but calm. The Green Market Reading Room had asked her to look at the outlet bank behind the reference desk, where staff were plugging in laptops, desk lamps, and a small heater."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln082",
+      "text": "The old cloth-covered wiring was brittle. You could see the insulation crumbling in spots. It wasn't a question of if it would fail, but when. It was a straightforward job: pull out the old, run new grounded circuits, install a proper grounded outlet strip. Now they can plug in without holding their breath."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Cinderwood completed the upgrade in an afternoon, ensuring the popular reading nook remains both lit and safe. The co-op's ethos isn't limited to buildings or books. In South Copse, Quadling Country, Fennel Wheatstead of South Copse Bicycle Shop looked at the stream of new commuters on the Brickway and saw an opportunity for preventive maintenance."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln107",
+      "text": "A bicycle that doesn't fit the rider is uncomfortable at best and can lead to injury over time. We offered a free basic fit session last Saturday. People brought their own bicycles, and we focused on the fundamentals: seat height for proper leg extension and handlebar position for comfortable reach. We saw fifteen people. One customer said adjusting her seat felt like getting a new bike altogether."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "While these hands-on repairs were completed, another co-op member was looking ahead to prevent future mishaps. Oren Cinderley, who stewards the Violet Hills tool library, is drafting a schedule of free tool safety clinics for the co-op."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln142",
+      "text": "We lend out a lot of power tools, and we see the same hesitations come up. People are wary of circular saws and angle grinders, and they should be—they demand respect. The plan is to run short, practical clinics. Not just how to turn it on, but how to hold it, what to listen for, and how to check your work piece. Confidence comes from knowing the rules."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Cinderley's clinics are still in the planning stages, but he hopes to announce dates by the end of the month. Taken together, these episodes—a quieted wheel, a secured circuit, a fitted bike, and a planned lesson—sketch a picture of a network that values competence, shared resources, and the small, essential dignity of things working as they should."
+    }
+  ],
+  "content_sha256": "9b87ae8c14e2b0e0bcdfa88abe51a190c87d7ebaca2205b19e5d18db9fd50b39"
+}

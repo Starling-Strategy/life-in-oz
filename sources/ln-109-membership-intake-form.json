@@ -1,0 +1,68 @@
+{
+  "id": "ln-109-membership-intake-form",
+  "title": "Emerald City Leadership Network: New Member Intake Form",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln014"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Date: October 2024"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Applicant Name:"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln014",
+      "text": "Eleanor Bougham"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Organization/Role:"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln014",
+      "text": "Guesthouse host, Bougham Guesthouse, Blue Orchard"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Why do you wish to join the Network?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln014",
+      "text": "Running a guesthouse, you learn quickly that the real work isn't just inside your own four walls. It's about how your neighbors can help when the Brickway closes, or how you can make things easier for a guest rushing out at dawn. I've been doing that work—the quiet, practical kind—and I'd like to connect with others who do the same."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Please share a recent example of a project or action you led or contributed to."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln014",
+      "text": "This past season, I converted the sunroom alcove into a self-serve breakfast nook. I put out a toaster, a thermal carafe for hot water, and a small honesty box. It means the folks who need to catch the first farm cart don't have to wait for me, and they still get a bit of toast and tea. It's worked out well."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Please share another example, or describe a community challenge you helped address."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln014",
+      "text": "When that heavy rain last month washed out a section of the Brickway and stranded a bus, the driver came knocking. We got on the horn and coordinated with three other households here in Blue Orchard. Between us, we rustled up enough spare beds, cots, and blankets for everyone to have a decent place to sleep until the road crew could clear it. Nobody had to spend the night on the bus."
+    }
+  ],
+  "content_sha256": "cb3a185e6b5e9d6f4934a93fa0a647aaeca8759c1826f74e383ebaec50538fe2"
+}

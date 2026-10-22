@@ -1,0 +1,113 @@
+Young Founders Pitch Night: Four Ventures, One Hour
+
+SYNTHETIC SOURCE — original fictional text; no real event or publication.
+Format: panel_transcript
+Theme: Young Founders pitch evening
+
+Rowan Bell — community manager:
+Hello everyone, and welcome to the April Young Founders pitch evening. I’m Rowan Bell, community manager for the network. Tonight we have four founders from across the city and Munchkin Country who will each give a short pitch about their work, followed by some questions from the group. We’ll start with Sunniva Fernmere of Fernmere Food Truck.
+
+Sunniva Fernmere:
+Thanks, Rowan. Right. Fernmere Food Truck. We’ve been rolling for a year now, out of Junction Quarter. The first ingredient? A permit. That took three months of standing in lines at the Wizard’s Office, and I burned two batches of test buns waiting for the final stamp. Then the generator. My uncle’s old one died on day two, right during lunch rush. I had to sprint to a hardware shop, spend half the week’s take on a refurbished unit, and haul it back on a handcart. The real sour note was the Green Market pitch last fall. I went in with numbers, a sample menu, the whole spread. They said no. Said they wanted ‘established vendors.’ I simmered on that for a week, then went back. I asked what ‘established’ meant to them. Turns out they just wanted a safety deposit I hadn’t offered. I reworked the proposal, fronted the deposit from my first month’s slim profit, and got the spot for the winter market. Now we’re there every Thursday. The lesson wasn’t in the recipe; it was in asking for the recipe.
+
+Rowan Bell — community manager:
+Thank you, Sunniva. Questions for Sunniva?
+
+Selwyn Larkworth:
+Selwyn here. The deposit catch—was that in the original rules, or did they add it after?
+
+Sunniva Fernmere:
+It was buried. Page four of their vendor packet, in a footnote about ‘seasonal agreements.’ I’d read it, but I thought it only applied to permanent stalls. My mistake. Now I read every footnote like it’s the cooking instructions.
+
+Imogen Shaw:
+How much did that deposit set you back? Did it change your pricing?
+
+Sunniva Fernmere:
+It was eighty silver pieces. I didn’t raise prices; I just trimmed my own take for two months. Figured it was the cost of getting a better location. The winter market traffic covered it by the third week.
+
+Rowan Bell — community manager:
+Great. Next up, Selwyn Larkworth of Larkworth Cargo Bikes.
+
+Selwyn Larkworth:
+Energetic and pragmatic, that’s the cargo bike life. We started deliveries in Gate Quarter with two secondhand bikes. I found them through a notice in the Reading Room Network—one from a retired post carrier, the other from a family moving to Quadling Country. Paid in installments over three months. The bikes were solid, but the cargo boxes needed work. I spent a week patching holes and reinforcing the hinges. Our first client was a bakery that needed morning runs to a coffee shop three streets over. We did that for two weeks, proved we could be there rain or shine, and they signed a six-month contract. That contract paid for our first new brake sets and a proper lock-up shed. Now we have four bikes and two part-time riders. The key was starting with what we could afford and proving the service before we asked for a long-term commitment.
+
+Rowan Bell — community manager:
+Questions for Selwyn?
+
+Delphine Saffronmere:
+Delphine here. How did you find your riders? And do you pay them per delivery or an hourly rate?
+
+Selwyn Larkworth:
+The first rider was me. The second is a neighbor’s kid who needed after-school work. We pay an hourly rate, plus a small bonus for any delivery over a certain weight. It’s cleaner than per-drop accounting, and it means if there’s a lull, they’re still paid for their time.
+
+Imogen Shaw:
+What’s your biggest maintenance cost?
+
+Selwyn Larkworth:
+Tires. Gate Quarter’s brickways are beautiful but they eat tires. We’re switching to a thicker tread, which should help.
+
+Rowan Bell — community manager:
+Thank you. Next, Imogen Shaw of Shaw Community Networks.
+
+Imogen Shaw:
+Fast and practical, that’s the goal. Shaw Community Networks installs shared networks in community rooms. We’ve done three so far: one at a Meadow Mutual Aid meeting space, one at a Gillikin Growers’ storage barn they use for workshops, and one at a Brickway Transit Union break room. The work is straightforward—running cable, setting up a central router, configuring access points. The trick is pricing the maintenance. I don’t do ‘ongoing support contracts’ as a vague idea. It’s a flat fee per quarter for a scheduled check-up, plus a clear rate for emergency calls. For the Growers, that’s twenty silver pieces a quarter; for the Transit Union, it’s thirty-five because their room has more devices. Being clear upfront means no surprises for them, and I can plan my time. The installations themselves took about two days each, with help from a friend who knows wiring.
+
+Rowan Bell — community manager:
+Questions for Imogen?
+
+Sunniva Fernmere:
+Do you provide the hardware, or do they buy it and you install?
+
+Imogen Shaw:
+They buy it. I give them a list of what to get, where to get it, and the total cost. That way they own it, and I’m just the labor and the know-how. It keeps my startup costs at zero.
+
+Selwyn Larkworth:
+What’s an emergency call?
+
+Imogen Shaw:
+So far, it’s been twice. Once when a storm knocked out power and the router needed resetting, and once when someone accidentally unplugged the main cable. Both were quick fixes, but I charge a half-day rate if it’s outside the scheduled check-up.
+
+Rowan Bell — community manager:
+And our final pitch tonight, Delphine Saffronmere of Saffronmere Tutoring.
+
+Delphine Saffronmere:
+Thank you. Saffronmere Tutoring is based in Brickway Junction. We offer lessons in basic reading, writing, and arithmetic, mostly for younger students. The core of the model is sliding-scale fees. We have three tiers. Tier one is for families who can pay the full rate, which is twenty silver pieces per session. Tier two is half that, for families with a modest income. Tier three is five silver pieces, for families in real need. To qualify for tier three, a family just needs a note from a community leader—a teacher, a cleric, someone from the Mutual Aid group. No long forms. We make it work by having about sixty percent of our students in tiers one and two. That subsidizes the tier three spots. It’s not charity; it’s pragmatism. A community where kids can’t read isn’t a community that thrives. We started with just me tutoring four students; now we have two other tutors and twenty students across the week.
+
+Rowan Bell — community manager:
+Questions for Delphine?
+
+Imogen Shaw:
+How do you find your other tutors? And do they buy into the sliding scale?
+
+Delphine Saffronmere:
+One is a retired schoolteacher from the neighborhood. The other is a younger person who needed flexible work. They’re paid a flat rate per session, regardless of which tier the student is in. The sliding scale comes out of the firm’s revenue, not their pay. They agreed to that model before they started.
+
+Sunniva Fernmere:
+What’s your biggest challenge with the sliding scale?
+
+Delphine Saffronmere:
+Balancing the schedule. Tier three families often need the most flexible times, because parents work shifts. We try to keep some evening and weekend slots open just for them. It’s a puzzle each week, but we manage.
+
+Selwyn Larkworth:
+Do you ever get people trying to game the system, pay less when they could pay more?
+
+Delphine Saffronmere:
+Rarely. The community note helps. But honestly, if someone asks for a lower tier, we give it to them. The mental energy of doubting people isn’t worth the few extra silver pieces. We trust the system, and so far, the system works.
+
+Rowan Bell — community manager:
+We have time for one more round of quick comments. Any final thoughts from our founders on this first year of work?
+
+Sunniva Fernmere:
+Keep your receipts. And taste-test everything twice.
+
+Selwyn Larkworth:
+Start with the bike you have, not the bike you want.
+
+Imogen Shaw:
+Write the price down before you say it out loud.
+
+Delphine Saffronmere:
+Ask for help before you think you need it. Someone usually says yes.
+
+Rowan Bell — community manager:
+Thank you all. That’s a wrap. Please connect with our founders after the session if you have more questions.

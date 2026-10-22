@@ -1,0 +1,23 @@
+{
+  "id": "ln-235-intake-email",
+  "title": "Fwd: On cardstock and ledgers",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln063"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln063",
+      "text": "Rowan,\n\nPassing along two things I heard about my shop, for whatever you do with them.\n\nKit"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Kit Brickley\nTo: Network Intake\nSubject: On cardstock and ledgers\nDate: 23 May 2025\n\nFirst, regarding the school. A teacher from Bell Market stopped in yesterday for some pencils. She mentioned, while paying, that the box of heavy cardstock I’d given them last month worked out perfectly for a model-building project. It was left over from a print job for the Chamber—good stock, too heavy to just recycle. She said the students used it for building little bridges and towers. That’s all I know about that.\n\nSeparately, the Timber Verge Repair Co-op. Their clerk came by looking for account books. They’d been using loose sheets, which is no way to run a business. I gave them a set of three hardbound ledgers on credit. Told them to keep their numbers in proper books, and to pay me when they could. They seemed grateful, if a little intimidated by the columns. That was a few weeks back."
+    }
+  ],
+  "content_sha256": "b1237ffb4ea842c0a1a4a3ddfea7a204db2bd2140a2bc7690066ebb401a01acc"
+}

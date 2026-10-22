@@ -1,0 +1,24 @@
+{
+  "id": "ln-455-email-thread",
+  "title": "Re: Winkie Works Guild - April Coordination",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln276",
+    "ln060"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln276",
+      "text": "From: Magnus Emeryham, Emeryham Machine Shop\nTo: Winkie Works Guild List\nSubject: Re: Winkie Works Guild - April Coordination\nDate: 21 April 2026\n\nHattie.\n\nThe loom shuttle. It was a broken iron shuttle from a Quadling textile group. Complex. Needed three separate welds to balance the weight for their high-speed machine. Not my usual work, but they couldn't find anyone else who could handle the old-style iron. It's done and shipped back.\n\nI can't make the Guild meeting. Shop is booked solid.\n\nMagnus"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln060",
+      "text": "From: Hattie Violetholt, Westgate Foundry\nTo: Magnus Emeryham, Winkie Works Guild List\nSubject: Re: Winkie Works Guild - April Coordination\nDate: 22 April 2026\n\nMagnus, thanks for the update. That's a fine piece of work for a co-op that needed it.\n\nFor our Guild record, I completed the mandatory safety gear fit check last week. The whole crew, forty-three people. We checked every respirator seal and every pair of heat-resistant gloves, down to the stitching. Found five respirators with degraded straps and two pairs of gloves that had lost their inner lining. All replacements have been issued and logged. No one works a furnace without a proper fit now.\n\nI'll share the inspection checklist at the next meeting for anyone who wants to adapt it.\n\nHattie"
+    }
+  ],
+  "content_sha256": "e6fb26d4b2e766335186426ab487cdf267d9a5ab4d2c825bb8f4d85a2e96bbc2"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ln-058-nomination-letter",
+  "title": "Gala Nomination: Linus Hazelridge for Community Resourcefulness",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln128",
+    "ln236"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln128",
+      "text": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Linus Hazelridge of Timber Verge for the Founders’ Gala Recognition Award. I know Linus through our work together in Meadow Mutual Aid, and what he’s built with the community fridge is exactly the kind of quiet, practical magic our network exists to support.\n\nLast month, Linus finalized a daily pickup agreement with a Timber Verge bakery for their unsold loaves. This wasn’t a one-time thing—he worked out a reliable system. Now, every morning before the fridge opens, fresh bread from yesterday’s baking is already stocked and available. It’s a simple act, but it means families facing a tight week don’t have to choose between a meal and other essentials. He didn’t make a fuss about it; he just saw a need, talked to the right person, and made it happen. That’s Linus: brief, practical, and incredibly effective.\n\nAs someone who’s currently trying to finalize the material costs for a family lantern-decorating activity with the Festival Committee, I appreciate how much effort goes into lining up those reliable, behind-the-scenes resources. What Linus has done ensures a basic resource flows steadily into the community, day after day. It’s a foundation others can build on.\n\nHis work embodies the spirit of mutual aid: meeting a need directly, with dignity and consistency. He’s a quiet cornerstone of the Timber Verge community, and I believe his contribution deserves to be celebrated.\n\nSincerely,\nPhoebe Thistleholt\nWestgate Mills Childcare Co-op"
+    }
+  ],
+  "content_sha256": "d0b2802cf3c76390625a1f0180041e9fe70518032155e14f37c11bc322de6fcf"
+}

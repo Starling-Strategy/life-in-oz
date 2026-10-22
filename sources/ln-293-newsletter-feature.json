@@ -1,0 +1,51 @@
+{
+  "id": "ln-293-newsletter-feature",
+  "title": "From Salvage to Standards: Timber Verge Repair Co-op Builds a Foundation",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln105",
+    "ln166",
+    "ln063",
+    "ln106"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "In a workshop tucked behind the Timber Verge, the sound of a honing steel is as common as the chatter of the cicadas. The Timber Verge Repair Co-op, a hub for mending everything from farm carts to family heirlooms, has been quietly strengthening its own foundations this season. It’s a story told not in grand gestures, but in salvaged conduit, sharpened tools, proper ledgers, and a push for better standards."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The work often starts with material. Mott Stonebourne, the co-op’s resident appliance repairer, mentions that a member told him about freelance lighting technician Cosmo Hazelshaw’s recent salvage run. “Heard Cosmo got his hands on several lengths of electrical conduit from a defunct sign shop,” Stonebourne says, matter-of-fact. “It’s for a housing project the co-op’s consulting on. Good, solid stuff. The kind of find that makes a job possible.”"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Stonebourne himself recently turned his expertise inward, running a two-hour workshop for co-op members on sharpening hand tools. Using a batch of donated planes and chisels as demonstration models, he walked a small group through the nuances of angles, stones, and strops. “A dull tool is a dangerous tool, and a slow one,” he explained. “It’s not just about making a sharp edge; it’s about making an edge that lasts through a day’s work.” Attendees left with a clearer understanding and a few practice pieces that were considerably sharper than when they arrived."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln063",
+      "text": "You can’t run a proper business on scraps of paper fluttering about."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "That’s Kit Brickley, owner of Brickley Stationers in Lantern Row, speaking with the gruff conviction of someone who has seen a century’s worth of account books. True to his word, he provided the co-op with a set of hardbound, cloth-covered ledgers on credit. He insisted they were for keeping their accounts in ‘proper books’ instead of the loose sheets that had been migrating between toolboxes and desks. The co-op’s treasurer has reportedly embraced the system, noting the improved clarity for tracking parts inventory and labor hours."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Looking ahead, bicycle mechanic Bertram Meadowham is focusing on a different kind of clarity. He’s planning to propose a standardization of front basket mounting hardware at the co-op. “We see a dozen different designs a month,” Meadowham explains with soft-spoken precision. “A customer brings in a basket from a maker in Gillikin, the rack’s from a Winkie Works supplier, and the bolts are… well, who knows. It turns a simple swap into a fabrication project. If we could agree on two or three common bolt patterns and bracket shapes, we could cut repair time in half and keep a few common adapters in stock.” He intends to bring sketches and a cost-benefit breakdown to the co-op’s next planning meeting."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Together, these pieces—salvage, skill-sharing, solid records, and smart standardization—paint a picture of a co-op building for the long haul. It’s not flashy work, but as the newly sharpened chisel gliding through old wood proves, sometimes the most important progress is the edge you give yourself for the task ahead."
+    }
+  ],
+  "content_sha256": "c7c38e3bbcd7e38a72a98b31b7e540ad9c0eb7be5df6dd12e3ca1af708303a21"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ln-024-grant-report",
+  "title": "Wizard's Office Liaisons – Report on Public Works & Community Events Grant, March 2024",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln237",
+    "ln208"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\n\nMarch 2024 – The Emerald City Leadership Network’s Wizard’s Office Liaisons circle reports on the use of funds awarded for public works coordination and community-led events."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Tilda Stoneford of the Wizard’s Office public works department directed a portion of the grant toward convening key suppliers for a review of streetlight efficiency. The meeting, held in late February, focused on comparing the long-term costs of a proposed set of upgraded fixtures against current models. Stoneford presented a detailed analysis of maintenance, energy use, and projected durability."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln208",
+      "text": "The goal was to get everyone around the same table, looking at the same numbers. It’s not just the upfront price tag; it’s what you spend keeping them lit for ten years. The suppliers brought their own data, and we had a productive, if sometimes pointed, discussion about the trade-offs."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "No fixtures have been ordered as a result of this meeting; the evaluation is ongoing."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The remaining funds supported Marlo Kilncombe’s production of a harvest supper in Hammerhead Rise, Quadling Country. The event, held on a crisp evening in early March, featured a meal prepared by local growers and served in a community hall decorated with late-season gourds and dried reeds. Tickets were sold in advance and at the door."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln237",
+      "text": "We packed the place! It wasn’t fancy, but the food was good and the company was better. Everyone knew the point wasn’t just the supper—it was making sure the Reed Flats warm room had enough fuel to see them through the last of the cold snaps. We counted the proceeds the next morning, and I delivered the donation myself."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The ticket proceeds were donated in full to the Reed Flats warm room’s fuel fund. The grant covered the initial costs for hall rental and supplies, allowing all ticket income to be passed directly to the community cause."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "This concludes the report on the allocated grant. Funds have been fully expended. The streetlight project remains in the planning phase, while the Hammerhead Rise harvest supper has concluded with its community benefit realized."
+    }
+  ],
+  "content_sha256": "23fa93a319288dd2693fdfb112e8341b1c09bb3e082c9aa83da0917cb4c3ac52"
+}

@@ -1,0 +1,172 @@
+{
+  "id": "ln-092-webinar",
+  "title": "Green Streets & Good Plates: A Gillikin Growers Webinar",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln280",
+    "ln197",
+    "ln281",
+    "ln042",
+    "ln231"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good afternoon, everyone. I'm Rowan Bell, community manager for the Emerald City Leadership Network. Welcome to 'Green Streets & Good Plates,' a conversation with members from our Gillikin Growers circle and beyond. We'll be talking about projects from the ground up—literally—and the practical decisions that keep food moving. Our guests are Ivy Hedgeton, soil adviser with Gillikin Growers; Merritt Meadowfield, who operates the North Orchard Grain Mill; Daphne Lark, who handles school meal buying for North Orchard; Silas Hazelmere, manager of the Reed Flats Market; and Zinnia Cindermere, a public works engineer with the Wizard's Office. Let's start with you, Ivy. You recently held a workshop?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln197",
+      "text": "I did. A backyard composting workshop at the co-op. We had about twenty people, mostly from Purplemoor but a few from further out. The key is getting the balance right, so I brought samples: kitchen scraps, grass clippings, fallen leaves, even some shredded paper. We layered them in a demonstration bin and talked about turning schedules and moisture. One parent said her household waste had already dropped by half since she started a pile last spring."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "That's a tangible result. Merritt, you had a different kind of maintenance on your mind recently."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln281",
+      "text": "The old water wheel at the mill. There's a gear housing on the north side that's seen better centuries. I'd been watching a slow drip for a week—just enough to keep the wooden bearings damp, which is a fast way to ruin them. We didn't have the right commercial sealant on hand, and ordering it would take three days. So I mixed up a batch of tar and flax fiber, a recipe my grandfather used for cart axles. Packed it into the seam. It's held for two weeks now with no drip. Not pretty, but it stopped the damage."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Ingenuity on the fly. Daphne, your work involves adapting on the fly, too, but with produce."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln042",
+      "text": "Exactly. Last week's hailstorm hit the southern Gillikin leafy greens hard. My usual supplier called me Wednesday morning and said the spinach and lettuces were shredded. I had a delivery scheduled for Friday's school lunches. So I got on the wire to a farm over in the Winkie country that wasn't affected. We swapped the greens order for carrots, potatoes, and a lot of cabbage. It meant changing the menu—we did a roasted root vegetable medley and a cabbage slaw—but the kids got their vegetables, the Winkie farm moved their stock, and we stayed on budget."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "A practical pivot. Silas, you're thinking ahead to prevent a different kind of problem at the market."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln231",
+      "text": "Yes. Our central compost collection is efficient, but it's right behind the bread and pastry stalls. In summer, with all the melon rinds and peach pits, the fruit flies get intense. The bakers have been... vocal. It's a good problem—it means people are composting—but it's a real one. I'm going to propose to the market committee that we move the bins another fifty feet down, closer to the orchard sellers. It'll mean a slightly longer walk for some vendors, but the bread folks shouldn't have to swat flies away from their buns."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "That seems like a sensible adjustment. Zinnia, you're looking at green infrastructure on a civic scale. What's in the works?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln280",
+      "text": "We've designed a project for the Junction Quarter, focusing on alleyway retrofits. Many of those alleys channel rainwater straight into the Brickway's older drains, which overflow during heavy storms. The plan specifies replacing solid asphalt with permeable pavers and installing shallow rain gardens planted with native sedges and rushes to absorb and filter the water onsite. It's a sensible design."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "manager",
+      "text": "Is it approved?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln280",
+      "text": "It is not. The design is complete, but it's awaiting budget approval from the Wizard's Office. We've submitted the cost estimates. Now we wait for the allocation meeting."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "Thank you. Let's open it up to questions from the attendees. I see one has come in for Ivy."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "A question appears in the chat, read aloud by Rowan Bell."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "'For Ivy: what's the one mistake you see most often in new compost piles?'"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln197",
+      "text": "People make them too dry or too wet. A dry pile just sits there. A soggy pile smells. You want the feel of a wrung-out sponge. If it's dry, add some green materials or a bit of water. If it's wet, add more browns like dry leaves or straw and turn it to let air in."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "Another question, for Merritt. 'Was there any risk in using that tar mixture? Could it have damaged the gears?'"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln281",
+      "text": "A fair question. The risk of the drip causing rot was greater than the risk from the tar. The mixture goes on the outside of the housing, not inside the gearbox. It's a stopgap. We'll still do a proper disassembly and replace the gasket when we shut down for the winter. But for now, the gears are dry and turning."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "A question for Daphne. 'Did the kids notice the menu change?'"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln042",
+      "text": "Some did. A few asked where the salad was. But the roasted vegetables were popular—especially the carrots with a little honey glaze. You learn which preparations work. The main thing is no one went hungry, and the food was eaten."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "manager",
+      "text": "For Silas. 'Have you measured how much compost the market generates?'"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln231",
+      "text": "We have. In peak season, it's about fifteen bushel baskets a day. It all goes to a farm just outside Reed Flats. They return the favor with a discount on their stall fee. It's a good loop, flies notwithstanding."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "manager",
+      "text": "And for Zinnia. 'If the alley project is approved, what's the timeline?'"
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln280",
+      "text": "If approved this fiscal cycle, we could begin site surveys by early next year. Installation would likely be phased over two construction seasons, starting with the alleys that see the most frequent flooding."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "manager",
+      "text": "We have time for one more. This one's for the group. 'What's a small, doable thing someone not in your field could do this week that would help?'"
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln197",
+      "text": "Start a kitchen scrap bucket. Just a pail with a lid. You'll see how much organic waste you produce, and it's the first step toward composting or finding a drop-off."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "ln281",
+      "text": "Listen to the sounds your workplace makes. A new drip or squeak is often a small problem telling you it wants to be fixed before it becomes a big one."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "ln042",
+      "text": "Talk to your suppliers. Ask them what's coming in season, what's having a tough week. It builds a relationship that helps when you need to adapt."
+    },
+    {
+      "id": "b029",
+      "speaker_id": "ln231",
+      "text": "If you shop at a market, use the compost bin if they have one. It's a direct signal that the service is valued."
+    },
+    {
+      "id": "b030",
+      "speaker_id": "ln280",
+      "text": "Notice where water pools on your street after a rain. That observation is useful data, even if you're not an engineer."
+    },
+    {
+      "id": "b031",
+      "speaker_id": "manager",
+      "text": "Practical advice all around. Thank you all for your time and your thoughtful work. Thanks to everyone who attended. A recording will be available in the network library by the end of the week. Have a good afternoon."
+    }
+  ],
+  "content_sha256": "fa26e5500e98b1d90aafd5b86b316dcb6dc5fc268bac8ed8381e7d33f738ceb0"
+}

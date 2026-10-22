@@ -1,0 +1,19 @@
+Westgate Foundry Tooling Fund: Final Report, September 2025
+
+SYNTHETIC SOURCE — original fictional text; no real event or publication.
+Format: grant_report
+Theme: Westgate Foundry
+
+This report covers the use of funding awarded by the Emerald City Leadership Network for the Westgate Foundry Tooling Fund, designated for improving operational resilience through in-house fabrication of replacement parts. The funds were used to procure high-grade tool steel, brass stock, and related consumables. The project was executed by Jory Saffronwood, a lathe operator at the Westgate Foundry. The following outcomes were achieved between June and August 2025, saving significant time and expense.
+
+Item One: Annealing Furnace Door Hinge Pin. The furnace door hinge, a critical component for temperature control, failed due to repeated thermal stress. The original cast pin had a service life of approximately three months. Using the procured tool steel, Jory fabricated a replacement pin with tighter tolerances and a more durable alloy composition. The new pin was installed on July 15th and remains in perfect working order, having already surpassed the original part's expected lifespan. This prevented a four-day production halt that would have been required to source a replacement from the Gillikin manufacturers.
+
+Jory Saffronwood:
+The original spec was adequate, but it was a wear item they expected you to keep buying. I had a diagram, took my measurements off the worn part, and turned it from a solid bar. The tool steel handles the heat cycles better. It’s simple, but it’s holding.
+
+Item Two: Quadling Country Well Pump Bushing. In early August, a neighboring farm in Hammerhead Rise reported their primary well pump had seized due to a failed brass bushing. A factory order would have taken two weeks and cost nearly fifty silver pieces. Jory was asked to assist. Using brass stock purchased with the grant, he machined a new bushing to the precise dimensions needed, accounting for slight wear on the mating shaft. The part was delivered and fitted on August 10th, restoring the farm's water supply within a day.
+
+Jory Saffronwood:
+That one was more fiddly. The farmer brought the old housing, and the bore was egg-shaped from years of use. I had to match the new bushing to the worn shaft, not the blueprint. A little careful filing after the lathe work, and it pressed in smooth. The pump’s been running quiet since.
+
+Funds Summary: The full grant of 120 silver pieces was expended on materials: one bar of O1 tool steel, two lengths of C360 brass rod, cutting fluids, and abrasives. No labor costs were charged. The project demonstrates the value of localized manufacturing capability, turning potential extended outages into matters of hours. The ability to produce durable, custom-fitted parts strengthens not only the Foundry's operations but also the resilience of the immediate community. All materials have been consumed; the project is complete.

@@ -1,0 +1,1801 @@
+{
+  "collection_id": "leadership-network",
+  "purpose": "Natural-language demonstration questions written before the documents. Documents were then briefed so that the expected members' answers exist in the sources.",
+  "kinds": {
+    "vocabulary-gap": "The question's wording differs from the source's wording.",
+    "exact-term": "The question uses a distinctive term or name that appears in the source.",
+    "skill/sector/place": "The question asks for members by skill, sector or place.",
+    "speaker/convening": "The question asks who spoke at, hosted or could speak at an event.",
+    "negative-no-answer": "No member should be returned; the collection was written to avoid an answer."
+  },
+  "caution": "Expected members are the planted answers, not an exhaustive list. A system can find other well-supported members; check its evidence rather than scoring every extra member as wrong. Plans and offers stay plans.",
+  "queries": [
+    {
+      "id": "lnq-01",
+      "query": "Who has led a disaster response in their own community?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln001",
+        "ln002",
+        "ln003"
+      ],
+      "support": {
+        "ln001": {
+          "episode_keys": [
+            "storm-relief-forty-volunteers",
+            "relief-trucks-twice-daily"
+          ],
+          "source_ids": [
+            "ln-204-manager-conversation",
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln002": {
+          "episode_keys": [
+            "western-route-cleared",
+            "chainsaw-crew-safety-briefing"
+          ],
+          "source_ids": [
+            "ln-205-email-thread",
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln003": {
+          "episode_keys": [
+            "south-meadow-trucks-cleared"
+          ],
+          "source_ids": [
+            "ln-322-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-02",
+      "query": "Who could speak about bridge safety or infrastructure risk?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln004",
+        "ln032",
+        "ln217"
+      ],
+      "support": {
+        "ln004": {
+          "episode_keys": [
+            "mile-14-closure-request",
+            "mile-14-vindicated"
+          ],
+          "source_ids": [
+            "ln-201-meeting-minutes",
+            "ln-523-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln032": {
+          "episode_keys": [
+            "mile-14-inspection-report",
+            "culvert-under-eastfield-road"
+          ],
+          "source_ids": [
+            "ln-031-news-article",
+            "ln-201-meeting-minutes"
+          ],
+          "reference_lead": true
+        },
+        "ln217": {
+          "episode_keys": [
+            "mile-14-barriers-installed",
+            "cracked-parapet-bluebell"
+          ],
+          "source_ids": [
+            "ln-261-social-thread",
+            "ln-523-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-03",
+      "query": "Who has helped adults learn to read?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln006",
+        "ln098"
+      ],
+      "support": {
+        "ln006": {
+          "episode_keys": [
+            "eastfield-literacy-thirty",
+            "gala-nominee-literacy"
+          ],
+          "source_ids": [
+            "ln-464-news-article",
+            "ln-492-nomination-letter"
+          ],
+          "reference_lead": true
+        },
+        "ln098": {
+          "episode_keys": [
+            "tram-depot-reading-hour"
+          ],
+          "source_ids": [
+            "ln-464-news-article"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-04",
+      "query": "Who knows how to keep a presentation going when the technology fails?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln007",
+        "ln035"
+      ],
+      "support": {
+        "ln007": {
+          "episode_keys": [
+            "flip-chart-behind-curtain"
+          ],
+          "source_ids": [
+            "ln-476-social-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln035": {
+          "episode_keys": [
+            "generator-cut-hand-bell"
+          ],
+          "source_ids": [
+            "ln-285-social-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-05",
+      "query": "Who has experience settling disputes between neighbors?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln008",
+        "ln260"
+      ],
+      "support": {
+        "ln008": {
+          "episode_keys": [
+            "south-meadow-room-dispute",
+            "gala-nominee-mediation"
+          ],
+          "source_ids": [
+            "ln-435-manager-conversation",
+            "ln-490-nomination-letter"
+          ],
+          "reference_lead": true
+        },
+        "ln260": {
+          "episode_keys": [
+            "bin-store-rota-stairwells"
+          ],
+          "source_ids": [
+            "ln-474-post-event-debrief"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-06",
+      "query": "Who has made emergency warnings understandable to people who don't speak the main language?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln009",
+        "ln242"
+      ],
+      "support": {
+        "ln009": {
+          "episode_keys": [
+            "flood-notices-four-languages"
+          ],
+          "source_ids": [
+            "ln-325-radio-interview"
+          ],
+          "reference_lead": true
+        },
+        "ln242": {
+          "episode_keys": [
+            "clinic-signs-three-languages"
+          ],
+          "source_ids": [
+            "ln-391-speaker-bio"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-07",
+      "query": "Who kept frontline workers equipped during a crisis?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln005"
+      ],
+      "support": {
+        "ln005": {
+          "episode_keys": [
+            "forty-pairs-resoled",
+            "relief-crew-boots"
+          ],
+          "source_ids": [
+            "ln-185-social-thread",
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-08",
+      "query": "Who has pushed for more transparency in public budgets?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln011",
+        "ln026"
+      ],
+      "support": {
+        "ln011": {
+          "episode_keys": [
+            "budget-question-back-row",
+            "office-publishes-numbers"
+          ],
+          "source_ids": [
+            "ln-476-social-thread",
+            "ln-503-newsletter-feature"
+          ],
+          "reference_lead": true
+        },
+        "ln026": {
+          "episode_keys": [
+            "receipt-linked-budget-summary"
+          ],
+          "source_ids": [
+            "ln-503-newsletter-feature"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-09",
+      "query": "Who kept home visits going through severe weather?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln010",
+        "ln021"
+      ],
+      "support": {
+        "ln010": {
+          "episode_keys": [
+            "ice-week-visiting-rota"
+          ],
+          "source_ids": [
+            "ln-325-radio-interview"
+          ],
+          "reference_lead": true
+        },
+        "ln021": {
+          "episode_keys": [
+            "ice-week-visit-log"
+          ],
+          "source_ids": [
+            "ln-436-post-event-debrief"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-10",
+      "query": "Who runs a reuse or circular-economy business?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln043",
+        "ln066",
+        "ln186"
+      ],
+      "support": {
+        "ln043": {
+          "episode_keys": [
+            "crate-wash-return-loop"
+          ],
+          "source_ids": [
+            "ln-103-intake-email"
+          ],
+          "reference_lead": true
+        },
+        "ln066": {
+          "episode_keys": [
+            "refill-shop-jar-library"
+          ],
+          "source_ids": [
+            "ln-252-webinar"
+          ],
+          "reference_lead": true
+        },
+        "ln186": {
+          "episode_keys": [
+            "refill-shop-bulk-supplier"
+          ],
+          "source_ids": [
+            "ln-019-email-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-11",
+      "query": "Who has helped people get to medical appointments?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln055",
+        "ln020"
+      ],
+      "support": {
+        "ln055": {
+          "episode_keys": [
+            "clay-hollow-lift-rota"
+          ],
+          "source_ids": [
+            "ln-370-webinar"
+          ],
+          "reference_lead": true
+        },
+        "ln020": {
+          "episode_keys": [
+            "bus-timed-appointments"
+          ],
+          "source_ids": [
+            "ln-410-news-article"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-12",
+      "query": "Who has mentored apprentices or new starters?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln096",
+        "ln002"
+      ],
+      "support": {
+        "ln096": {
+          "episode_keys": [
+            "lathe-buddy-pairs"
+          ],
+          "source_ids": [
+            "ln-373-post-event-debrief"
+          ],
+          "reference_lead": true
+        },
+        "ln002": {
+          "episode_keys": [
+            "apprentice-tool-handling"
+          ],
+          "source_ids": [
+            "ln-249-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-13",
+      "query": "Who has cut energy costs for a small business?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln234",
+        "ln023"
+      ],
+      "support": {
+        "ln234": {
+          "episode_keys": [
+            "bakery-roof-panels"
+          ],
+          "source_ids": [
+            "ln-483-news-article"
+          ],
+          "reference_lead": true
+        },
+        "ln023": {
+          "episode_keys": [
+            "oven-schedule-bills"
+          ],
+          "source_ids": [
+            "ln-449-news-article"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-14",
+      "query": "Who has raised money for a community cause?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln237",
+        "ln248"
+      ],
+      "support": {
+        "ln237": {
+          "episode_keys": [
+            "harvest-supper-proceeds"
+          ],
+          "source_ids": [
+            "ln-024-grant-report"
+          ],
+          "reference_lead": true
+        },
+        "ln248": {
+          "episode_keys": [
+            "can-works-collection-jars"
+          ],
+          "source_ids": [
+            "ln-496-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-15",
+      "query": "Who has dealt with a food safety problem?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln027",
+        "ln092"
+      ],
+      "support": {
+        "ln027": {
+          "episode_keys": [
+            "canteen-fridge-failure"
+          ],
+          "source_ids": [
+            "ln-202-press-release"
+          ],
+          "reference_lead": true
+        },
+        "ln092": {
+          "episode_keys": [
+            "community-fridge-labels"
+          ],
+          "source_ids": [
+            "ln-406-nomination-letter"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-16",
+      "query": "Who has helped workers win better conditions on the job?",
+      "kind": "vocabulary-gap",
+      "expected_member_ids": [
+        "ln157",
+        "ln289"
+      ],
+      "support": {
+        "ln157": {
+          "episode_keys": [
+            "terminus-rest-room-access"
+          ],
+          "source_ids": [
+            "ln-226-social-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln289": {
+          "episode_keys": [
+            "night-shift-safe-walk"
+          ],
+          "source_ids": [
+            "ln-093-webinar"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-17",
+      "query": "Mile 14 crossing",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln004"
+      ],
+      "support": {
+        "ln004": {
+          "episode_keys": [
+            "mile-14-closure-request",
+            "mile-14-vindicated"
+          ],
+          "source_ids": [
+            "ln-201-meeting-minutes",
+            "ln-523-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-18",
+      "query": "Who built the listening corner?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln007",
+        "ln028"
+      ],
+      "support": {
+        "ln007": {
+          "episode_keys": [
+            "listening-corner-built"
+          ],
+          "source_ids": [
+            "ln-352-email-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln028": {
+          "episode_keys": [
+            "listening-corner-recordings"
+          ],
+          "source_ids": [
+            "ln-352-email-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-19",
+      "query": "loaner-glasses drawer",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln012",
+        "ln135"
+      ],
+      "support": {
+        "ln012": {
+          "episode_keys": [
+            "loaner-glasses-drawer"
+          ],
+          "source_ids": [
+            "ln-374-newsletter-feature"
+          ],
+          "reference_lead": true
+        },
+        "ln135": {
+          "episode_keys": [
+            "donated-frames-greta"
+          ],
+          "source_ids": [
+            "ln-374-newsletter-feature"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-20",
+      "query": "Who worked on reopening the Western Route?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln002",
+        "ln181"
+      ],
+      "support": {
+        "ln002": {
+          "episode_keys": [
+            "western-route-cleared"
+          ],
+          "source_ids": [
+            "ln-205-email-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln181": {
+          "episode_keys": [
+            "western-route-bank-shored"
+          ],
+          "source_ids": [
+            "ln-219-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-21",
+      "query": "Who made the getting-home sheet at the depot?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln001"
+      ],
+      "support": {
+        "ln001": {
+          "episode_keys": [
+            "getting-home-sheet"
+          ],
+          "source_ids": [
+            "ln-046-news-article"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-22",
+      "query": "Who was nominated for the Founders' Gala?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln006",
+        "ln007",
+        "ln008"
+      ],
+      "support": {
+        "ln006": {
+          "episode_keys": [
+            "gala-nominee-literacy"
+          ],
+          "source_ids": [
+            "ln-492-nomination-letter"
+          ],
+          "reference_lead": true
+        },
+        "ln007": {
+          "episode_keys": [
+            "gala-nominee-listening-corner"
+          ],
+          "source_ids": [
+            "ln-491-nomination-letter"
+          ],
+          "reference_lead": true
+        },
+        "ln008": {
+          "episode_keys": [
+            "gala-nominee-mediation"
+          ],
+          "source_ids": [
+            "ln-490-nomination-letter"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-23",
+      "query": "Kalidah Gorge path",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln045"
+      ],
+      "support": {
+        "ln045": {
+          "episode_keys": [
+            "kalidah-gorge-path-washout"
+          ],
+          "source_ids": [
+            "ln-275-survey-response"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-24",
+      "query": "What did Billie do at the Bluebell Crossing clinic?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln151"
+      ],
+      "support": {
+        "ln151": {
+          "episode_keys": [
+            "clinic-waiting-board"
+          ],
+          "source_ids": [
+            "ln-438-social-thread",
+            "ln-450-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      },
+      "note": "Identity case: Wilhelmina Thistlewaite is called Billie in informal sources."
+    },
+    {
+      "id": "lnq-25",
+      "query": "Which Wren made the puppets for the harvest parade?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln201"
+      ],
+      "support": {
+        "ln201": {
+          "episode_keys": [
+            "harvest-parade-puppets"
+          ],
+          "source_ids": [
+            "ln-324-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      },
+      "note": "Identity case: Lottie Wren and Marcus Wren share a surname and are unrelated."
+    },
+    {
+      "id": "lnq-26",
+      "query": "Who wrote the shift handover sheet for the Brickway repaving?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln015"
+      ],
+      "support": {
+        "ln015": {
+          "episode_keys": [
+            "brickway-handover-sheet"
+          ],
+          "source_ids": [
+            "ln-349-news-article"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-27",
+      "query": "Who started the Timber Verge Repair Co-op?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln002"
+      ],
+      "support": {
+        "ln002": {
+          "episode_keys": [
+            "repair-coop-founded"
+          ],
+          "source_ids": [
+            "ln-041-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-28",
+      "query": "Who translated the flood notices?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln009"
+      ],
+      "support": {
+        "ln009": {
+          "episode_keys": [
+            "flood-notices-four-languages"
+          ],
+          "source_ids": [
+            "ln-325-radio-interview"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-29",
+      "query": "Who redesigned the tenant repair request form?",
+      "kind": "exact-term",
+      "expected_member_ids": [
+        "ln034"
+      ],
+      "support": {
+        "ln034": {
+          "episode_keys": [
+            "tenant-repair-form-example"
+          ],
+          "source_ids": [
+            "ln-272-webinar"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-30",
+      "query": "Who in Winkie Country does metal fabrication work?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln084",
+        "ln288",
+        "ln276"
+      ],
+      "support": {
+        "ln084": {
+          "episode_keys": [
+            "kitchen-ramp-handrails"
+          ],
+          "source_ids": [
+            "ln-250-news-article",
+            "ln-273-newsletter-feature"
+          ],
+          "reference_lead": true
+        },
+        "ln288": {
+          "episode_keys": [
+            "festival-lantern-frames",
+            "lantern-frames-dispute"
+          ],
+          "source_ids": [
+            "ln-324-meeting-minutes",
+            "ln-351-email-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln276": {
+          "episode_keys": [
+            "mill-replacement-gear"
+          ],
+          "source_ids": [
+            "ln-200-email-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-31",
+      "query": "Who has experience with grant applications?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln026",
+        "ln064",
+        "ln160"
+      ],
+      "support": {
+        "ln026": {
+          "episode_keys": [
+            "receipt-linked-budget-summary"
+          ],
+          "source_ids": [
+            "ln-503-newsletter-feature"
+          ],
+          "reference_lead": true
+        },
+        "ln064": {
+          "episode_keys": [
+            "small-grants-drop-in",
+            "monthly-grant-form-drop-in"
+          ],
+          "source_ids": [
+            "ln-467-survey-response"
+          ],
+          "reference_lead": true
+        },
+        "ln160": {
+          "episode_keys": [
+            "grant-reporting-template"
+          ],
+          "source_ids": [
+            "ln-034-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-32",
+      "query": "Who fits or sells glasses in the Emerald City?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln075",
+        "ln135",
+        "ln243"
+      ],
+      "support": {
+        "ln075": {
+          "episode_keys": [
+            "market-day-eye-checks"
+          ],
+          "source_ids": [
+            "ln-318-social-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln135": {
+          "episode_keys": [
+            "donated-frames-greta"
+          ],
+          "source_ids": [
+            "ln-374-newsletter-feature"
+          ],
+          "reference_lead": true
+        },
+        "ln243": {
+          "episode_keys": [
+            "spectacle-repair-kits"
+          ],
+          "source_ids": [
+            "ln-091-newsletter-feature"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-33",
+      "query": "Who could advise on running a grain mill?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln125",
+        "ln149",
+        "ln185"
+      ],
+      "support": {
+        "ln125": {
+          "episode_keys": [
+            "millstone-dressing"
+          ],
+          "source_ids": [
+            "ln-473-post-event-debrief"
+          ],
+          "reference_lead": true
+        },
+        "ln149": {
+          "episode_keys": [
+            "mill-moisture-checks"
+          ],
+          "source_ids": [
+            "ln-383-meeting-minutes"
+          ],
+          "reference_lead": true
+        },
+        "ln185": {
+          "episode_keys": [
+            "mill-open-day"
+          ],
+          "source_ids": [
+            "ln-383-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-34",
+      "query": "Who has run childcare in Munchkin Country?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln080",
+        "ln140",
+        "ln176"
+      ],
+      "support": {
+        "ln080": {
+          "episode_keys": [
+            "childcare-pickup-cover"
+          ],
+          "source_ids": [
+            "ln-112-speaker-bio"
+          ],
+          "reference_lead": true
+        },
+        "ln140": {
+          "episode_keys": [
+            "childcare-co-op-waitlist"
+          ],
+          "source_ids": [
+            "ln-359-news-article"
+          ],
+          "reference_lead": true
+        },
+        "ln176": {
+          "episode_keys": [
+            "childcare-outdoor-mornings"
+          ],
+          "source_ids": [
+            "ln-342-social-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-35",
+      "query": "Who keeps bees in Gillikin Country?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln161",
+        "ln233"
+      ],
+      "support": {
+        "ln161": {
+          "episode_keys": [
+            "heatherford-hive-move"
+          ],
+          "source_ids": [
+            "ln-063-post-event-debrief"
+          ],
+          "reference_lead": true
+        },
+        "ln233": {
+          "episode_keys": [
+            "honey-extraction-share"
+          ],
+          "source_ids": [
+            "ln-076-newsletter-feature"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-36",
+      "query": "Who has hospitality experience running a hotel or guesthouse?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln014",
+        "ln267",
+        "ln279"
+      ],
+      "support": {
+        "ln014": {
+          "episode_keys": [
+            "harvest-travellers-overflow"
+          ],
+          "source_ids": [
+            "ln-135-email-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln267": {
+          "episode_keys": [
+            "hotel-staff-bus-passes"
+          ],
+          "source_ids": [
+            "ln-379-press-release"
+          ],
+          "reference_lead": true
+        },
+        "ln279": {
+          "episode_keys": [
+            "hotel-local-suppliers"
+          ],
+          "source_ids": [
+            "ln-197-news-article"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-37",
+      "query": "Who fixes bicycles for the community?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln106",
+        "ln226",
+        "ln263"
+      ],
+      "support": {
+        "ln106": {
+          "episode_keys": [
+            "free-bike-checks-yellow-kiln"
+          ],
+          "source_ids": [
+            "ln-507-speaker-bio"
+          ],
+          "reference_lead": true
+        },
+        "ln226": {
+          "episode_keys": [
+            "bike-repair-class"
+          ],
+          "source_ids": [
+            "ln-220-manager-conversation"
+          ],
+          "reference_lead": true
+        },
+        "ln263": {
+          "episode_keys": [
+            "refurbished-bikes-students"
+          ],
+          "source_ids": [
+            "ln-471-email-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-38",
+      "query": "Who works in dental care in Quadling Country?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln139",
+        "ln199"
+      ],
+      "support": {
+        "ln139": {
+          "episode_keys": [
+            "dental-school-visits"
+          ],
+          "source_ids": [
+            "ln-308-grant-report"
+          ],
+          "reference_lead": true
+        },
+        "ln199": {
+          "episode_keys": [
+            "dental-evening-hours"
+          ],
+          "source_ids": [
+            "ln-518-webinar"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-39",
+      "query": "Who knows freight and haulage?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln004",
+        "ln169",
+        "ln241"
+      ],
+      "support": {
+        "ln004": {
+          "episode_keys": [
+            "bracken-freight-school-contract"
+          ],
+          "source_ids": [
+            "ln-135-email-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln169": {
+          "episode_keys": [
+            "haulage-shared-backhaul",
+            "mile-14-reroute-cost"
+          ],
+          "source_ids": [
+            "ln-264-social-thread",
+            "ln-523-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln241": {
+          "episode_keys": [
+            "relief-convoy-driver"
+          ],
+          "source_ids": [
+            "ln-206-meeting-minutes",
+            "ln-230-email-thread"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-40",
+      "query": "Who has catered a large event?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln083",
+        "ln239",
+        "ln027"
+      ],
+      "support": {
+        "ln083": {
+          "episode_keys": [
+            "wedding-for-three-hundred"
+          ],
+          "source_ids": [
+            "ln-290-news-article"
+          ],
+          "reference_lead": true
+        },
+        "ln239": {
+          "episode_keys": [
+            "festival-volunteer-meals"
+          ],
+          "source_ids": [
+            "ln-445-radio-interview"
+          ],
+          "reference_lead": true
+        },
+        "ln027": {
+          "episode_keys": [
+            "canteen-fridge-failure"
+          ],
+          "source_ids": [
+            "ln-202-press-release"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-41",
+      "query": "Who repairs furniture or upholstery?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln227",
+        "ln275",
+        "ln044"
+      ],
+      "support": {
+        "ln227": {
+          "episode_keys": [
+            "reupholstered-hall-chairs"
+          ],
+          "source_ids": [
+            "ln-088-grant-report"
+          ],
+          "reference_lead": true
+        },
+        "ln275": {
+          "episode_keys": [
+            "care-home-armchairs"
+          ],
+          "source_ids": [
+            "ln-336-nomination-letter"
+          ],
+          "reference_lead": true
+        },
+        "ln044": {
+          "episode_keys": [
+            "drawer-runner-repair"
+          ],
+          "source_ids": [
+            "ln-102-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-42",
+      "query": "Who works with public records or archives?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln182",
+        "ln268"
+      ],
+      "support": {
+        "ln182": {
+          "episode_keys": [
+            "flood-damaged-records"
+          ],
+          "source_ids": [
+            "ln-039-intake-email"
+          ],
+          "reference_lead": true
+        },
+        "ln268": {
+          "episode_keys": [
+            "records-request-backlog"
+          ],
+          "source_ids": [
+            "ln-050-manager-conversation"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-43",
+      "query": "Which young founders do branding or graphic design?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln114",
+        "ln126",
+        "ln138"
+      ],
+      "support": {
+        "ln114": {
+          "episode_keys": [
+            "market-signage-redesign"
+          ],
+          "source_ids": [
+            "ln-388-press-release"
+          ],
+          "reference_lead": true
+        },
+        "ln126": {
+          "episode_keys": [
+            "cafe-menu-branding"
+          ],
+          "source_ids": [
+            "ln-266-manager-conversation"
+          ],
+          "reference_lead": true
+        },
+        "ln138": {
+          "episode_keys": [
+            "grower-label-design"
+          ],
+          "source_ids": [
+            "ln-280-speaker-bio"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-44",
+      "query": "Who has organized volunteers in Meadowbank?",
+      "kind": "skill/sector/place",
+      "expected_member_ids": [
+        "ln003",
+        "ln260"
+      ],
+      "support": {
+        "ln003": {
+          "episode_keys": [
+            "meadowbank-errand-shifts",
+            "south-meadow-trucks-cleared"
+          ],
+          "source_ids": [
+            "ln-322-meeting-minutes",
+            "ln-396-email-thread"
+          ],
+          "reference_lead": true
+        },
+        "ln260": {
+          "episode_keys": [
+            "bin-store-rota-stairwells"
+          ],
+          "source_ids": [
+            "ln-474-post-event-debrief"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-45",
+      "query": "Who spoke on the resilience panel?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln001",
+        "ln002",
+        "ln003",
+        "ln018",
+        "ln005"
+      ],
+      "support": {
+        "ln001": {
+          "episode_keys": [
+            "relief-trucks-twice-daily"
+          ],
+          "source_ids": [
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln002": {
+          "episode_keys": [
+            "chainsaw-crew-safety-briefing"
+          ],
+          "source_ids": [
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln003": {
+          "episode_keys": [
+            "tow-rope-inventory"
+          ],
+          "source_ids": [
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln018": {
+          "episode_keys": [
+            "storm-dispatch-reroutes"
+          ],
+          "source_ids": [
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln005": {
+          "episode_keys": [
+            "relief-crew-boots"
+          ],
+          "source_ids": [
+            "ln-372-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-46",
+      "query": "Who could talk about starting a business at a Young Founders evening?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln162",
+        "ln246",
+        "ln049",
+        "ln294"
+      ],
+      "support": {
+        "ln162": {
+          "episode_keys": [
+            "food-truck-first-year"
+          ],
+          "source_ids": [
+            "ln-463-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln246": {
+          "episode_keys": [
+            "cargo-bike-deliveries"
+          ],
+          "source_ids": [
+            "ln-463-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln049": {
+          "episode_keys": [
+            "community-network-installs"
+          ],
+          "source_ids": [
+            "ln-463-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln294": {
+          "episode_keys": [
+            "tutoring-sliding-scale"
+          ],
+          "source_ids": [
+            "ln-463-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-47",
+      "query": "Who has been interviewed on community radio?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln010",
+        "ln016"
+      ],
+      "support": {
+        "ln010": {
+          "episode_keys": [
+            "ice-week-visiting-rota"
+          ],
+          "source_ids": [
+            "ln-325-radio-interview"
+          ],
+          "reference_lead": true
+        },
+        "ln016": {
+          "episode_keys": [
+            "community-centre-courier-lanes"
+          ],
+          "source_ids": [
+            "ln-437-radio-interview"
+          ],
+          "reference_lead": true
+        }
+      },
+      "note": "Interviewees only; hosts are not expected answers."
+    },
+    {
+      "id": "lnq-48",
+      "query": "Who has given a session on Wizard's Office permits?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln112",
+        "ln034",
+        "ln292"
+      ],
+      "support": {
+        "ln112": {
+          "episode_keys": [
+            "permits-checklist"
+          ],
+          "source_ids": [
+            "ln-272-webinar"
+          ],
+          "reference_lead": true
+        },
+        "ln034": {
+          "episode_keys": [
+            "tenant-repair-form-example"
+          ],
+          "source_ids": [
+            "ln-272-webinar"
+          ],
+          "reference_lead": true
+        },
+        "ln292": {
+          "episode_keys": [
+            "planning-pre-application-chats"
+          ],
+          "source_ids": [
+            "ln-272-webinar"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-49",
+      "query": "Who would be a good speaker on rural health access?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln091",
+        "ln223",
+        "ln047"
+      ],
+      "support": {
+        "ln091": {
+          "episode_keys": [
+            "hammerhead-outreach-days"
+          ],
+          "source_ids": [
+            "ln-423-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln223": {
+          "episode_keys": [
+            "north-orchard-navigator"
+          ],
+          "source_ids": [
+            "ln-423-panel-transcript"
+          ],
+          "reference_lead": true
+        },
+        "ln047": {
+          "episode_keys": [
+            "loan-desk-stock-check"
+          ],
+          "source_ids": [
+            "ln-423-panel-transcript"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-50",
+      "query": "Who presented at the Winkie Works Guild apprentice showcase?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln096",
+        "ln156",
+        "ln216"
+      ],
+      "support": {
+        "ln096": {
+          "episode_keys": [
+            "lathe-buddy-pairs"
+          ],
+          "source_ids": [
+            "ln-373-post-event-debrief"
+          ],
+          "reference_lead": true
+        },
+        "ln156": {
+          "episode_keys": [
+            "showcase-display-tables"
+          ],
+          "source_ids": [
+            "ln-373-post-event-debrief"
+          ],
+          "reference_lead": true
+        },
+        "ln216": {
+          "episode_keys": [
+            "can-line-changeover"
+          ],
+          "source_ids": [
+            "ln-373-post-event-debrief"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-51",
+      "query": "Who chaired or took minutes at a Festival Committee meeting?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln081",
+        "ln035"
+      ],
+      "support": {
+        "ln081": {
+          "episode_keys": [
+            "festival-committee-chair"
+          ],
+          "source_ids": [
+            "ln-324-meeting-minutes"
+          ],
+          "reference_lead": true
+        },
+        "ln035": {
+          "episode_keys": [
+            "festival-minutes-taker"
+          ],
+          "source_ids": [
+            "ln-324-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-52",
+      "query": "Who has led a members' evening on mediation?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln008"
+      ],
+      "support": {
+        "ln008": {
+          "episode_keys": [
+            "mediation-members-evening"
+          ],
+          "source_ids": [
+            "ln-474-post-event-debrief"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-53",
+      "query": "Who spoke about crop prices at the Gillikin Growers harvest meeting?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln101",
+        "ln209",
+        "ln053"
+      ],
+      "support": {
+        "ln101": {
+          "episode_keys": [
+            "apple-price-floor"
+          ],
+          "source_ids": [
+            "ln-350-meeting-minutes"
+          ],
+          "reference_lead": true
+        },
+        "ln209": {
+          "episode_keys": [
+            "grain-price-forward"
+          ],
+          "source_ids": [
+            "ln-350-meeting-minutes"
+          ],
+          "reference_lead": true
+        },
+        "ln053": {
+          "episode_keys": [
+            "growers-coop-accounts"
+          ],
+          "source_ids": [
+            "ln-350-meeting-minutes"
+          ],
+          "reference_lead": true
+        }
+      }
+    },
+    {
+      "id": "lnq-54",
+      "query": "Who has offered to talk to school classes about their trade?",
+      "kind": "speaker/convening",
+      "expected_member_ids": [
+        "ln286",
+        "ln277"
+      ],
+      "support": {
+        "ln286": {
+          "episode_keys": [
+            "school-talk-offer-welding"
+          ],
+          "source_ids": [
+            "ln-422-survey-response"
+          ],
+          "reference_lead": false
+        },
+        "ln277": {
+          "episode_keys": [
+            "school-talk-offer-driving"
+          ],
+          "source_ids": [
+            "ln-422-survey-response"
+          ],
+          "reference_lead": false
+        }
+      },
+      "note": "Offers are plans, not completed talks."
+    },
+    {
+      "id": "lnq-55",
+      "query": "Who has worked as an airline pilot?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    },
+    {
+      "id": "lnq-56",
+      "query": "Who has run a marathon?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    },
+    {
+      "id": "lnq-57",
+      "query": "Who has been elected mayor of the Emerald City?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    },
+    {
+      "id": "lnq-58",
+      "query": "Who has written a published novel?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    },
+    {
+      "id": "lnq-59",
+      "query": "Who has experience with cryptocurrency?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    },
+    {
+      "id": "lnq-60",
+      "query": "Who is Peter Ash from the Ev seed exchange?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {},
+      "note": "Identity case: a non-member namesake of Peter Ash (ln037) appears in a source; he must not be merged with the member."
+    },
+    {
+      "id": "lnq-61",
+      "query": "Who has performed surgery?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    },
+    {
+      "id": "lnq-62",
+      "query": "Who has negotiated a television broadcasting contract?",
+      "kind": "negative-no-answer",
+      "expected_member_ids": [],
+      "support": {}
+    }
+  ]
+}

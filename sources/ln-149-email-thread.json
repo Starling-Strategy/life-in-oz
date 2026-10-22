@@ -1,0 +1,30 @@
+{
+  "id": "ln-149-email-thread",
+  "title": "Bell Market to Lantern Row: updates on the work",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln082",
+    "ln063",
+    "ln226"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln082",
+      "text": "From: Mabel Cinderwood, Cinderwood Electrical\nTo: Timber Verge Repair Co-op\nSubject: Re: Register fix\nDate: 16 January 2025\n\nEmber, Kit,\n\nFinished the florist's cash register. The old wiring was brittle and the original plug housing had cracked. Made a new junction plate out of a scrap of brass, filed it to match the old machine's curves, and installed a grounded socket. You can't see it unless you're looking underneath the counter. Plugged it in, the drawer popped open, and the bell rang just fine. She's back in business.\n\nMabel"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln063",
+      "text": "From: Kit Brickley, Brickley Stationers\nTo: Mabel Cinderwood, Ember Thistlewood\nSubject: Re: Register fix\nDate: 16 January 2025\n\nMabel, Ember,\n\nGood work. Practical solution. That old brass will outlast the rest of the stall.\n\nSpeaking of hosting, the Chamber meeting went off yesterday. Had to shift three boxes of envelopes and a crate of ledger books out of the backroom. Borrowed the big urn from the teashop down the row. Set out chairs, made the coffee strong. They talked for two hours about paving brick shortages. No complaints about the space, and they left it tidy. I'll host again next quarter if needed.\n\nKit"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln226",
+      "text": "From: Ember Thistlewood, Timber Verge Repair Co-op\nTo: Mabel Cinderwood, Kit Brickley\nSubject: Re: Register fix\nDate: 17 January 2025\n\nMabel, Kit,\n\nNice job on the plate. Fabrication like that saves a whole machine.\n\nMy week: the Lantern Row messenger trike. It was grinding like it had gravel in its joints. Bottom bracket was shot, chain was stretched, pedals were worn to nubs. Replaced all three. Adjusted the rear hub while I was in there. Took it for a test spin up to the fountain and back—silent as can be. The rider picked it up this morning and said it feels new. That's one less vehicle down for them.\n\nEmber"
+    }
+  ],
+  "content_sha256": "b2e2d184bc9f186547bb96f9d83f495f29939f03aa90efd037b4eb9e5b33d35b"
+}

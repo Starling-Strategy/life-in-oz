@@ -1,0 +1,28 @@
+{
+  "id": "ln-168-manager-conversation",
+  "title": "Green Market Reading Room Update Call",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln086"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Vida Barleystead · February 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Vida says the grant table project for Quadling Country applications is complete. She set up a dedicated table near the west windows for the best natural light, supplemented by two adjustable lamps. She pulled the relevant reference collection—guides to successful applications, regional directories, the Quadling policy binders—and kept them there for the six-week filing period. She estimates about two dozen people used the space specifically for that purpose. One person told her it was the first time they'd managed to fill out the whole form in one sitting without a headache."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Her next idea is a workshop. She plans to host a beginner's book-rebinding session, using discarded hardcovers from the library's own withdrawals collection. She'll teach basic stitching and glue techniques. She's gathering materials now and is looking at a late March date, pending the network's calendar. She thinks it will appeal to people from the Reading Room Network circle and maybe some from the Small Business Circle looking to repair ledgers."
+    }
+  ],
+  "content_sha256": "14a93389329c2c3a7a8215b038e5c441cccdf006a4aa588eed731d45106d3b5d"
+}

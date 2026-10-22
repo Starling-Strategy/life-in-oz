@@ -1,0 +1,92 @@
+{
+  "id": "ln-151-post-event-debrief",
+  "title": "Post-Event Debrief: Meadow Mutual Aid Coordination Check-in, January 2025",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln188",
+    "ln176",
+    "ln045",
+    "ln300",
+    "ln052"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Check-in call on January 17, 2025, to review recent activity and discuss support for the upcoming Gillikin harvest. Present: Rowan Bell (facilitating), Saffi Wheatmore (Heatherford Childcare Co-op), Sable Orchardfield (Eastfield Childcare Co-op), Priya Dell (South Copse general store), Fennel Heatherbourne (Heatherbourne Machine Shop), Omby Amby (Emerald City food pantry)."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln176",
+      "text": "Our main update from Eastfield is the costume bin. It’s officially a hit. We collected donated scarves, old hats, fabric remnants—nothing fancy—and put them in a big trunk. On the rainy afternoons we’ve had this month, it’s been the center of the room. The children use them for capes, forts, pretend markets. It’s reduced the scramble for indoor activities significantly."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln300",
+      "text": "Sharpened twenty-four sickles for Gillikin Growers. They dropped them off, I put an edge back on every one. They’re ready for their harvest."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Fennel, was that a standard service or a network favor?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln300",
+      "text": "Favor. Took an afternoon. They’ll return it somehow."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln052",
+      "text": "Our holiday box distribution is complete. We assembled two hundred meal boxes. The Meadow Mutual Aid connection was crucial—we sourced an extra fifty pounds of turnips and parsnips through the network when our usual supplier fell short. The distribution itself ran over a four-hour window at the pantry, and we had enough volunteers to keep the line moving. No one was turned away."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln045",
+      "text": "On a different note, my bird survey work had a result. Last week, during the dawn count in South Copse, I recorded some owl calls I didn’t recognize. I sent the audio to the regional naturalist group. They confirmed it’s a species they usually document farther west—a range shift, they said. I’ve logged the coordinates."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln188",
+      "text": "That’s fascinating, Priya. Things are a bit more mundane over here. We had a mild stomach flu go through the co-op last week. Nothing serious, but we wanted to be thorough. Someone mentioned seeing me leaving late one night after I stayed to deep-clean the kitchen. It’s true, I did. Just bleach and elbow grease. Everyone’s healthy now."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Saffi, thank you for that. It’s a good reminder of the unseen maintenance that keeps these spaces running. Now, looking ahead: the Gillikin harvest is the main mutual aid ask for next month. Fennel’s work on the sickles is a direct contribution. Omby, your pantry network may be asked for surplus storage or volunteer hands for gleaning days. Sable and Saffi, if harvest volunteers need emergency childcare coverage, could your co-ops be a point of contact?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln176",
+      "text": "We can be a contact. We’d need to know dates and numbers in advance to see if we have capacity, but yes, we can discuss it."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln188",
+      "text": "Same here. Just tell us when."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "Action items: 1) Rowan to connect Gillikin Growers coordinators with Omby and the childcare co-ops regarding harvest support needs. 2) Fennel—thank you, consider that task closed. 3) Priya, if the naturalist group publishes anything on the owl shift, please share it with the network; it’s a useful data point for everyone. Anything else?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln052",
+      "text": "We have a surplus of clean, empty cardboard boxes from the holiday distribution. If anyone needs them for moving, storage, or crafts, they’re available at the pantry."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln300",
+      "text": "I’ll take a few. For parts sorting."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "Noted. Meeting adjourned. Thanks, everyone."
+    }
+  ],
+  "content_sha256": "2b959ad269bd711cfe4a5dc28da4c4bb8b082e0911a4adfe73f36b858da2aa53"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "ln-177-webinar",
+  "title": "Brickway Transit Union Webinar: On the Ground",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln229",
+    "ln278",
+    "ln085",
+    "ln157"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone. I'm Rowan Bell, community manager for the Emerald City Leadership Network. Tonight's conversation is with members of the Brickway Transit Union. We'll be hearing from Bertram Violetridge, a depot mechanic; Tamsin Stoneham, a school librarian who relies on the transit system; Joss Clovercombe, a bus driver; and Albin Gatemere, a union steward. I'll be moderating. The format is simple: I'll ask a few questions, and then we'll open it up for discussion from the community board. Let's start with a basic one. What's a part of your day that most people riding or waiting for a bus never see? Bertram, maybe we can start with you."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln229",
+      "text": "Sure. For me, it's the quiet hour before the morning pull-out. You've got the buses lined up, and you're walking the line, literally. Checking fluids, lights, tires. Last week, on Bus 42—that's the one that does the long Meadowbank run—I spotted a brake line that had gone a bit soft. Not leaking yet, but you could feel the difference. It's the kind of thing that, left alone, could have meant a real problem halfway up the Brickway. So I flagged it, replaced the section right there. It's not glamorous, but that's the job. Making sure the thing stops when it's supposed to."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Thank you. Joss, you're the one driving Bus 42 sometimes. What's the view from the driver's seat on a day when things don't go as planned?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln085",
+      "text": "Well, last Tuesday was a classic. I'm coming down Spectacle Lane for my turn, and there's a city crew and a big hole where the road should be. Emergency water main, they said. My route was completely blocked. So I got on the radio, got the okay, and swung us onto those backstreets behind the old mill—you know, the ones that run parallel. Took us three blocks around. Had to go slow, those streets aren't wide, but we kept moving. Got back on my route and was only about five minutes behind schedule by the time I hit the terminus. The passengers were fine, a couple of them even knew a shortcut or two."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Impressive navigation. Albin, from the union side, how do you collect those kinds of experiences—the daily hurdles—to advocate for changes?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln157",
+      "text": "That's the ongoing work. We have meetings, of course, but not everyone can speak up in a room. We've been talking about a more... permanent, anonymous option. My proposal is for a physical suggestion box at the main terminus. A driver who hits the same traffic snag every day, or notices a stop that's become unsafe because of overgrown hedges or poor lighting, they can just drop a note. It gives us something concrete to bring to the depot managers and the city's traffic office. It's just a proposal right now, but I think it's a simple fix that could catch a lot of the small stuff before it becomes big stuff."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "And Tamsin, you're on the other side of this, as someone whose community depends on the buses running. How does reliability affect your work?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln278",
+      "text": "Oh, enormously. My students come from all over Hammerhead Rise. If the buses are late or rerouted, they're late to school, or they miss after-school programs. My work is about building routines for them, too. Just this past month, I was putting together summer reading packets for about two hundred students. I wanted them to have something tangible, so I used donated colored paper to make simple bookmarks, and I typed up a list of local parks that are good for reading—you know, with benches in the shade. I was counting on the bus schedules being accurate so those packets could get home safely in backpacks! It's all connected. A reliable bus means a kid can get to the library, or to a park with a book, without their parents having to make a special trip."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "That's a wonderful point. Let's open this up. We have a question from the community board."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "a parent",
+      "text": "This is for Joss, or maybe Albin. My kid takes the bus to the swimming lessons at the Quadling center. Sometimes the bus is so full she can't get on, and she has to wait for the next one. Is there a plan for more buses on those popular routes?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln157",
+      "text": "That's a frequent topic. The scheduling isn't as flexible as we'd like. We track overcrowding through driver reports—which is, again, where that suggestion box could help build a stronger case. If we have dated, anonymous notes from multiple drivers saying the 3:15 to Quadling Center is consistently over capacity, it carries more weight than just us saying it in a meeting. It's a slow process, but documenting it is the first step."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln085",
+      "text": "And from the seat, I can tell you, we see it. We don't like leaving people at the stop. But the rules are strict about how many standing passengers we can have. All I can do is report it when it happens, which I do."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "Another question from the board."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "a regular rider",
+      "text": "Bertram, you mentioned the brake line. How often do you find things like that? Is it common?"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln229",
+      "text": "Common? Not exactly. But it's not rare, either. Wear and tear is a fact. A bus is a machine, and machines have parts that get tired. My job is to catch them before they give up. You find a soft line, a worn belt, a seal starting to weep. Most of the time, it's during the scheduled inspections. That's why those routines matter. The uncommon thing is for something to fail out on the road, because we're supposed to catch it here first."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "manager",
+      "text": "We have time for one more. This one is for Tamsin."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "a neighbor",
+      "text": "I love the park list idea. How did you choose which parks to include?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln278",
+      "text": "By bus stop! Seriously, that was the main criteria. I picked parks that are within a five-minute walk from a frequent bus line. Some are just little green squares with a bench, but they're peaceful. I wanted the kids to know that a good reading spot isn't necessarily far away. They can just hop off the bus, walk a bit, and be under a tree."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "That's a perfect note to end on. Thank you all—Bertram, Tamsin, Joss, Albin—for your time and your detailed answers. And thank you to everyone who submitted questions. The recording and notes from this will be available on the network board in a few days. Goodnight, everyone."
+    }
+  ],
+  "content_sha256": "c587bd3f77c014102506aecd9a9a38cd2a4951439a1a77a4859dc37de2af773f"
+}

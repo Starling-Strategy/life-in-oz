@@ -1,0 +1,23 @@
+{
+  "id": "ln-355-speaker-bio",
+  "title": "Speaker Bios: Fall Craft & Repair Panel",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln178"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Alma Plumfield is a carpenter and the proprietor of Plumfield Joinery in Saffron Flats. Her work is defined by a thoughtful precision that turns persistent problems into durable, elegant solutions. This past year, she volunteered her skills to support the Winkie Works Guild's fundraising efforts, constructing a custom donation box. The design—a sturdy, lockable cabinet with a clear acrylic panel for visibility—was both secure and inviting, a practical upgrade the guild credits with a noticeable increase in contributions."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Alma's community-minded approach extends beyond formal projects. When a neighbor mentioned a garden shed door that had sagged and scraped for years, Alma stopped by with her tools. In a single afternoon, she realigned the frame, used shims to correct the angle, and installed new hinges. The door now swings smoothly, a small but lasting fix that erased a daily frustration. Alma brings this same blend of clear-eyed diagnosis and quiet craftsmanship to every discussion about repair, maintenance, and building things meant to last."
+    }
+  ],
+  "content_sha256": "2c81e1877c31c7278df6380b571b34a5347d8493ede9bc456647b8cee53e58ca"
+}

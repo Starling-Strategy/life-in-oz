@@ -1,0 +1,35 @@
+{
+  "id": "ln-135-email-thread",
+  "title": "Re: Saturday delivery share idea",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln004",
+    "ln023",
+    "ln014"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln023",
+      "text": "From: Pavel Dunn, Owner, Dunn's Bakery\nTo: Small Business Circle\nSubject: Saturday delivery share idea\nDate: December 5, 2024\n\nAll,\n\nMy oven is being reasonable this morning, which gives me a minute to think. Fuel prices are not being reasonable.\n\nI’m putting this out to the Blue Orchard food businesses: would there be interest in sharing a single refrigerated van for Saturday deliveries? One vehicle, one driver, one route. We’d split the cost. My guess is it would cut individual fuel and maintenance hits by more than half.\n\nWe’d need to coordinate pickup windows and cold storage on the van, but it’s not rocket science. It’s logistics.\n\nIf you’re interested, reply here. If you think it’s a terrible idea, reply here anyway so I know.\n\nPavel\nDunn's Bakery"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln014",
+      "text": "From: Eleanor Bougham, Host, Bougham Guesthouse\nTo: Pavel Dunn\nCc: Small Business Circle\nSubject: Re: Saturday delivery share idea\nDate: December 5, 2024\n\nPavel,\n\nWhat a sensible idea. Count me in for a discussion. We serve a full breakfast here, and I source from several of you. If a shared van could bring in the eggs, butter, and fruit, it would simplify my Saturdays considerably.\n\nIt reminds me of the harvest overflow we just managed. When the apple pickers came through last month, every bed in town was full. I simply called two neighbors, and we spread the travelers between our places. It worked because we talked it through simply, just like you're doing now.\n\nLet’s find a time to talk details.\n\nWarmly,\nEleanor"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln004",
+      "text": "From: Leona Bracken, Owner, Bracken Freight\nTo: Small Business Circle\nSubject: Re: Saturday delivery share idea\nDate: December 7, 2024\n\nPavel, Eleanor,\n\nI’ll be frank—this is the sort of thing that makes me nervous. Coordinating multiple businesses on one route sounds simple until someone’s order isn’t ready on time or the van breaks down. The risk of someone getting let down is real.\n\nBut. The math is plain. And I’ve just seen a version of this work on a bigger scale. I didn’t mention it much, but Bracken Freight won the contract for the South Copse school transport routes this fall. It’s a set schedule, multiple stops, different schools. We had to be reliable. We are.\n\nIf you move forward, I can share what we learned about route planning and buffer time. You’d need clear agreements, in writing, about windows and responsibilities. The hard thing is sticking to the plan, but saying the hard thing upfront is how you avoid the mess later.\n\nI’m not in Blue Orchard, so I won’t join, but I’m happy to talk logistics.\n\nLeona Bracken\nBracken Freight"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln023",
+      "text": "From: Pavel Dunn, Owner, Dunn's Bakery\nTo: Leona Bracken, Eleanor Bougham\nCc: Small Business Circle\nSubject: Re: Saturday delivery share idea\nDate: December 7, 2024\n\nEleanor, Leona,\n\nThank you. Eleanor, glad you’re in. Leona, thank you for the frankness and the offer. I want those clear agreements. Nervous is better than sorry.\n\nI’ll start a new thread next week to find other Blue Orchard food folks and set a time. We can keep the circle copied.\n\nPavel"
+    }
+  ],
+  "content_sha256": "1b7c93f665fb72d5681d399d8ead40ab85e091e36c7713a846153c8babcaa44d"
+}

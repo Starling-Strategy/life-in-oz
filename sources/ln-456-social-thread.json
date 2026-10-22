@@ -1,0 +1,44 @@
+{
+  "id": "ln-456-social-thread",
+  "title": "From Soil to Vase: A Winkie Works Guild Thread",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln089",
+    "ln095"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln089",
+      "text": "Over in northern Gillikin, just got back from a long day of soil consultation. There was an apple orchard up there—lovely old trees—hit by a nasty blight. They're replanting a whole section. My job was the dirt. We're skipping the quick-fix chemical salts this time. Recommended a specific green manure mix: clover, vetch, and winter rye, all tilled back in. It's about rebuilding the organic matter, letting the soil breathe and hold water again. The grower was a bit skeptical about the timeline, but healthy soil is a long game. You can't rush the foundation."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln095",
+      "text": "Barnaby, that's wonderful! It sounds like you're planting the seeds for future abundance. Speaking of longevity, I've been working on the other end of the life cycle in my own shop. My bouquets were wilting faster than a poppy in a heatwave. So, I switched to a homemade floral preservative. It's a simple trio: a bit of sugar for food, a drop of bleach to keep the water clear of bacteria, and a pinch of citric acid to balance the pH. The difference is like night and day! The blooms stay crisp and bright, like they've just been cut from the morning garden. My customers are noticing."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "a fellow florist",
+      "text": "Jory, that's a handy tip! What's your ratio for the citric acid? I've tried the sugar and bleach trick before but never added that."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln095",
+      "text": "Oh, it's quite small! For a standard vase, about a quarter-teaspoon does the trick. Too much and you risk the stems getting weak, like an overwatered stem. It's all about finding that perfect balance."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln089",
+      "text": "See, Jory? You're managing the micro-environment in the vase, I'm managing the macro-environment in the field. It's all connected. Healthy systems from the ground up."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "a road crew member",
+      "text": "Love seeing this cross-talk between the Growers and the Guild. Makes me think about the soil along the Brickway verges. Maybe we should chat, Barnaby."
+    }
+  ],
+  "content_sha256": "8e4096c54313d2ef6b4165184455d9a7efe2614f3ac95ead49dcf67659ddb11a"
+}

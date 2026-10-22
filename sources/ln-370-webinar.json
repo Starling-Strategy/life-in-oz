@@ -1,0 +1,142 @@
+{
+  "id": "ln-370-webinar",
+  "title": "Reading Rooms in Action: A Network Webinar",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln254",
+    "ln290",
+    "ln055",
+    "ln146",
+    "ln278"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Welcome, everyone. I'm Rowan Bell, Community Manager for the Emerald City Leadership Network. Our theme today is the Reading Room Network, and I'm very pleased to have five members here to share what they've been doing lately. We'll talk a bit about the connections between reading, resources, and community. Rufus, Wade, Ivo, Toby, Tamsin – thank you for joining. Rufus, shall we start with you?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln254",
+      "text": "Yes. Thank you, Rowan. My name is Rufus Brambledale. I'm a translator in the Emerald City. This is perhaps a more technical example, but relevant, I think. Recently, I was asked to cross-check the Quadling-language appendices for a technical manual – a safety guide for brick-works. The main text was fine, but the appendices contained hazard symbols. Three of them were inconsistent with the Munchkin and Winkie versions. One showed the wrong shade of yellow for a slip hazard, another had the flame symbol reversed. It's the sort of detail that, if printed, could cause a moment's confusion at a critical moment. I caught them before the print run."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "That precision matters immensely. Wade, you're working with adult learners. A different angle on practical literacy?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln290",
+      "text": "That's right. Hello, I'm Wade Emeryfield, from the Junction Quarter Learning Rooms. We talk a lot about why reading is useful, but sometimes you need to show it. So, a few weeks ago, I arranged for a group of twelve from my literacy class to tour the Junction Quarter Printing Works. They saw typesetting, read the measurement gauges on the presses, followed the safety signage. It made the classroom work feel... tangible. One learner told me afterwards, 'Now I see what those fractions on the ruler are for.' It was a good day."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Wonderful. Ivo, you’re connecting people to health resources. That’s a form of reading the community’s needs, isn’t it?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln055",
+      "text": "In a way, yes. I'm Ivo Tinton, with Quadling Health Access in Clay Hollow. Our issue was transport. The first bus to South Meadow clinic doesn't run until after ten, but some appointments are earlier. So, I set up a volunteer lift rota. I matched residents who needed a ride with neighbors who were driving that way anyway. We covered every booked morning trip for two months straight. It's about reading the schedule gaps and mapping people onto them."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "A practical network. Toby, your work is in a reading room itself – Spectacle Lane."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln146",
+      "text": "Yes. Hello. Toby Brickwick, librarian at Spectacle Lane. I wanted to create something that would spark conversation, not just be looked at. I assembled a display of reproduced historical maps showing the Emerald City's expansion – from the old canal districts out to the newer brick suburbs. We had them up for a month, and it did spark a discussion. A well-attended one, actually. People pointed out where their grandparents lived, argued about where the old orchard used to be... It was lively. It showed how a map is a text you can read together."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "And Tamsin, you’re preserving texts quite literally."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln278",
+      "text": "I am! Tamsin Stoneham, school librarian in Hammerhead Rise. We had a leaky roof corner before it was fixed, and a collection of older picture books got splashed. Not soaked through, but damp. I spent a few evenings carefully drying the pages between blotting sheets, then reinforcing the spines with linen tape. It’s meticulous, but I salvaged about thirty books for the children to keep using. Some of those stories aren’t printed anymore, so it felt important."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "manager",
+      "text": "Thank you all. These examples show such a range. Rufus, when you caught those symbols, did you work with the printing works directly, or through a client?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln254",
+      "text": "Through the client – the brick-works guild. I sent the corrections back to them, and they coordinated with the printer. It added a day to the schedule, but no one complained. They’d rather have it right."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "Wade, have your learners expressed interest in following up on the printing works visit?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln290",
+      "text": "A few have. One gentleman is now curious about how the paper is made, so we might look into that. Mostly, it solidified their commitment to the class. They saw people using these skills in a workplace, talking about margins and alignments. It gave the learning a destination."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln146",
+      "text": "That’s what I hope the maps did, in a way. Gave people a shared reference point. It wasn’t just history in a book; it was their streets."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln055",
+      "text": "The lift rota works on a similar principle of shared reference. Everyone has the same schedule posted. They know who to expect, and when. It creates a reliable text, you could say."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "Tamsin, is linen tape the standard for that kind of repair?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln278",
+      "text": "For heavier paper, like in picture books, it’s a good choice. It’s strong but flexible, and doesn’t react badly with the older inks. For pamphlets, I’d use something lighter. You have to read the book, too – see what it needs."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln254",
+      "text": "It is all a form of close reading, isn’t it? Reading a manual, a map, a schedule, a damaged spine."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "manager",
+      "text": "That’s a perfect note to end our formal discussion on. Thank you all for sharing your work. We have time for a few questions from attendees. I see one has come in: 'For someone wanting to start a local reading room or resource shelf, what’s the first step?' Who would like to take that?"
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln146",
+      "text": "I’d say start with what people are already curious about. It doesn’t have to be books. It could be maps, like I did, or local trade directories, or even a collection of instruction manuals for common tools. Find that shared interest first, then build the collection around it."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln290",
+      "text": "And partner. Talk to the learning rooms, the guilds, the health access groups. You don’t need to hold all the resources yourself; you can be the guide to where they are."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "manager",
+      "text": "Excellent advice. We have time for one more. This one is for Ivo: 'How do you recruit reliable volunteers for a rota like that?'"
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln055",
+      "text": "Patiently. I started by asking people who were already going that way for their own reasons. They’re already making the trip. I presented it as a small, scheduled favor with a clear end point – just the morning run, twice a month maybe. Clarity and a limited commitment seem to work. And of course, thanking them properly."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "manager",
+      "text": "Thank you. That's all we have time for. My thanks again to Rufus, Wade, Ivo, Toby, and Tamsin. This was a wonderful look at the practical heart of the Reading Room Network. Goodnight, everyone."
+    }
+  ],
+  "content_sha256": "1d0de58d3834250bb7e377696e6dc390a4af53d5752a59ba1edba982f485b82c"
+}

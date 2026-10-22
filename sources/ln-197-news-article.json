@@ -1,0 +1,70 @@
+{
+  "id": "ln-197-news-article",
+  "title": "From Hotel Buffets to Backyard Bins: Gillikin Growers Expand Their Reach",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln279",
+    "ln089",
+    "ln101"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY, March 2025 – The influence of the Gillikin Growers network is spreading beyond the produce aisle, touching hotel breakfasts, city compost piles, and farm balance sheets. Three recent developments, each driven by a member of the network’s circles, show how local food systems are adapting through practical collaboration."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "At the Emerald Gate Hotel, guests enjoying their morning toast are now tasting the work of a new partnership. Hotel manager Hugo Rushmere has switched the establishment’s breakfast bread and jam supply to Blue Orchard, a collective of bakeries and preserves makers sourced largely through the Gillikin Growers Cooperative."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln279",
+      "text": "Our guests appreciate quality with a story. The switch wasn’t just about flavor—though the blackberry jam is exceptional—it was about supporting a supply chain that benefits growers right here in Oz. It’s a small change on the plate, but it connects our hospitality directly to the land."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Back in the city’s Lantern Row, a different kind of local loop is being closed. Barnaby Haybourne, a soil adviser with Gillikin Growers, recently helped his neighborhood association construct a three-bay community compost bunker. Built from repurposed railway sleepers and topped with a corrugated roof to control moisture, the structure is now accepting kitchen scraps from two dozen households."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln089",
+      "text": "The key is balancing carbon and nitrogen, and keeping the pile from getting sodden. This design lets us manage three batches at once: one fresh, one active, one finished. In six months, we’ll have beautiful, dark compost to give back to the community gardens. It turns waste into a resource, right on the spot."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Gillikin Country itself, the cooperative’s work often involves navigating the financial pressures that come with farming. When a late-season frost delayed the beet harvest for several small farms near Violet Hills, cooperative buyer Beryl Brookford stepped in to renegotiate payment terms with their main buyer."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln101",
+      "text": "The beets were fine, just… later. But waiting for the full harvest to be delivered and processed meant those farms wouldn’t see income for another month. They had bills due now. So, we arranged a staggered payment schedule tied to each delivery wagon. It wasn’t more money, but it was money when they needed it. It prevented a real cash crunch for three families."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The three episodes—a hotel procurement shift, a civic compost project, and a financial adjustment for growers—are not directly coordinated. Yet, they share a common thread of applying practical knowledge to create more resilient local systems. As Rushmere puts it, the goal is building connections that make sense for everyone involved."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln279",
+      "text": "It’s not charity. It’s good business. The bread is fresher because it travels fewer miles. The jam tastes of the season. And now I can tell a guest exactly which hillside the berries came from. That has value."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "For Brookford, the value is measured in stability. She notes that the renegotiated beet payments allowed one farm to pay its seasonal workers on time and another to repair a harvester blade. Haybourne, for his part, is already planning informational signs for the compost bunker, hoping to inspire similar projects in other neighborhoods."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln089",
+      "text": "Once people see it working, they get it. It’s just soil, air, water, and scraps. But when you manage it right, it all comes back around."
+    }
+  ],
+  "content_sha256": "f6f011555dd5a50587b3638a5034d98c340a449741cc372b127735365fd7c6a4"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ln-401-social-thread",
+  "title": "Winkie Works Guild Family Day - what worked",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln252",
+    "ln140",
+    "ln266"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln266",
+      "text": "The Guild family day last week was lovely. I set up a book swap table in the community hall corner. No money, just bring a book, take a book. We had over fifty children's books find new homes. I saw a few kids clutching their new treasures all afternoon."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln140",
+      "text": "That's a great model, Lena. Efficient. We ran a gear swap at the co-op last month too—outgrown boots, raincoats, mittens. One of our parents volunteered to mend the torn linings on two little raincoats before they went out again. List for next time: 1) check fasteners, 2) sanitize before display, 3) label sizes clearly."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln252",
+      "text": "Practical. We had a different sort of swap at the foundry. The blower belt on a core-drying furnace snapped. Could have idled six mold-prep stations for a large gear-housing order. Instead of waiting for a new spec belt, we spliced in a section from a spare agricultural belt. Tolerances were close enough. No halt."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln140",
+      "text": "See? Same principle. Use what you have, keep things moving. A mended lining keeps a child dry. A spliced belt keeps an order on schedule."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln266",
+      "text": "It really is. The book swap wasn't about the books, exactly. It was about the moment a child realized they could pick something, just because they wanted it. No transaction. I think that's a kind of repair, too."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "a parent",
+      "text": "My daughter got a book about a little dog who learns to whistle. She's been trying all week. Thanks for setting that up."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln252",
+      "text": "The agricultural belt held for the full 72-hour drying cycle. We've ordered the proper replacement, but the splice was a satisfactory interim solution."
+    }
+  ],
+  "content_sha256": "1863edd0ad9efa37ec51a5a875c7353e8b6a71d9de9800316faa7479ea7405d8"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "ln-233-membership-intake-form",
+  "title": "Emerald City Leadership Network Membership Intake Form",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln191"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Date: May 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Applicant Name: Aurelia Quadwood"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Organization/Profession: Barber, Quadwood's Barbers, Yellow Kiln (Winkie Country)"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Why are you interested in joining the network?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln191",
+      "text": "Heard about it from a regular who drives for the Brickway Transit Union. Says it's good for finding out how other folks are solving problems. My shop's always been a bit of a hub, and I'd like to see how that can do more for the neighborhood."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Please describe a recent initiative or project you've been involved in."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln191",
+      "text": "Started putting ceramics from a local potter in my front window last fall. A new piece every month. It brightens the place up, gives them a little showcase. I've noticed a few more people pausing to look in, which is nice for both of us."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Are there any community-focused activities you are currently planning?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln191",
+      "text": "Yes. Planning a winter coat mending day for when the cold sets in. Folks can bring in a coat that needs a button or a seam fixed while they wait for a trim. Got the thread and extra needles. Figure if you're sitting here anyway, might as well get two things sorted."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "What do you hope to gain or contribute through network membership?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln191",
+      "text": "Hoping to hear how other small shops manage things. Maybe find a better supplier for linens. And if anyone's run a similar mending day, I'd like to know what they learned. I can offer a chair and a listening ear to anyone passing through Yellow Kiln."
+    }
+  ],
+  "content_sha256": "afaa3409dbb932fd70fe76779db41ee68799f405a8dc170ba5045c380ba20940"
+}

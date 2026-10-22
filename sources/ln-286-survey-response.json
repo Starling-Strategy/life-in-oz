@@ -1,0 +1,75 @@
+{
+  "id": "ln-286-survey-response",
+  "title": "Winkie Works Guild Member Survey Responses",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln156",
+    "ln252",
+    "ln096"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Member Survey: July 2025.\nRespondent Group: Winkie Works Guild.\nQuestion 1: In the past six months, what initiative or action within your circle are you most pleased to have contributed to?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln156",
+      "text": "I helped arrange a hands-on demonstration on table saw safety. We brought in a master woodworker to the guild hall, specifically for all our first-year apprentices. She didn't just lecture; she had them practice blade-height adjustments and kickback prevention on a stationary saw with the power disconnected. Seeing them gain that muscle memory was the goal, and they left looking far more confident than when they arrived."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln096",
+      "text": "I revised our workshop safety checklist. The old one was dense, and some of our apprentices were skipping steps because they couldn't parse the instructions quickly. I simplified the language and added clear diagrams for eye protection and dust mask use—when to use which type, how to check the seal. Apprentices have told me they find it easier to follow now, which is precisely what I'd hoped for."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln252",
+      "text": "My contribution remains a proposal at this stage. I am proposing to trial a section of anti-fatigue rubber flooring in the grinding area at Westgate. The aim is to reduce leg strain for the personnel working the longer shifts. I've sourced the material specifications and cost estimates; the next step is presenting it to the works council."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Question 2: What is one practical challenge your circle is currently facing, and what kind of support from the wider network would be most useful in addressing it?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln156",
+      "text": "A practical challenge is scheduling these specialist sessions for apprentices across different time zones and work schedules. Not every master craftsperson can travel to Tinsmith Row. Support from the network in the form of a shared calendar of visiting experts, perhaps coordinated with the Chamber or other guilds, would help us plan further ahead and share costs."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln096",
+      "text": "The challenge is consistency. A revised checklist is only as good as its use. We need a simple, reliable way to audit compliance across different guild workshops without it feeling like an inspection. Support could be a forum with other coordinators to share methods for positive reinforcement—how they make daily safety steps a matter of routine pride, not a chore."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln252",
+      "text": "The challenge is quantifying the benefit of an intervention like specialized flooring to secure funding. It's health and comfort, which are harder to measure than output. Support from the network would be connections to members in the Quadling Health Access circle or similar who have experience measuring ergonomic improvements and presenting that data to decision-makers."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Question 3: In one sentence, what does the Winkie Works Guild mean to you?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln156",
+      "text": "It is the shared commitment to ensure that the next generation learns our trades not just skillfully, but safely and sustainably."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln096",
+      "text": "It is the structure that turns individual craft into a collective standard of excellence and care."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln252",
+      "text": "It is the forum where practical improvements to our working environment are identified, debated, and—when the data supports them—implemented."
+    }
+  ],
+  "content_sha256": "ed3209c7f4736cd42cb5953192085daf05f4ecd8c015e9806db502931b83b260"
+}

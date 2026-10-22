@@ -1,0 +1,44 @@
+{
+  "id": "ln-165-social-thread",
+  "title": "Reading Room Thread: Those Forms Aren't as Scary as They Look",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln009",
+    "ln006"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln006",
+      "text": "Spent most of the afternoon with my group working on the new library card forms. I’d gotten my hands on a blank one from a friend at the Central Branch, so we made a bunch of copies. We just sat there, all of us, puzzling it out together. I asked them, ‘What’s the hardest part? Is it the address box? The tiny print?’ Turns out it was the section asking for your ‘primary reading interests.’ Felt a bit like an exam question! So we talked about what that even means. One person said ‘recipes,’ another said ‘news from back home.’ We practiced filling it in with pencil until it felt less like a test and more like… just a form. Three of them put theirs in the postbox on the way home."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln009",
+      "text": "Samuel, that is wonderful. I know exactly that feeling—the official language on these things can make your head spin. I just finished with the Spring Festival vendor permits. The original Emerald City guidelines were, let’s say, very precise. It is not easy. I worked on translations into three of our local dialects here. The tricky bit was ‘temporary food service establishment.’ Sounds so clinical! We settled on phrases that mean more ‘family cooking stall.’ I heard back from a family on the lane yesterday—their application for a fried dough stand went through. First time they’ve ever tried. Not much to look at, but it opens the gate."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln006",
+      "text": "A gate! Yes, that’s it exactly. It’s not really about the card or the permit, is it? It’s about not feeling shut out by the paperwork. ‘Family cooking stall’ is perfect. Much better than my ‘primary reading interests.’ Maybe next time I’ll just have them write ‘stories’ and be done with it."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "neighbor",
+      "text": "My aunt tried to get a library card last year and gave up because of the form. Is there a way to get one of those practice copies?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln006",
+      "text": "Absolutely. Send me a note through the Reading Room network and I can get one to you. We’ve got a stack."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln009",
+      "text": "And if anyone needs the festival materials in Gillikin dialects, they’re with the Violet Hills community radio station. We can read them through on air if that helps—hearing it sometimes makes more sense than seeing it."
+    }
+  ],
+  "content_sha256": "ebe889df7cd91876bd27af086c432f4521ed2e41690ecc25f665acd548861e9c"
+}

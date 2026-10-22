@@ -1,0 +1,30 @@
+{
+  "id": "ln-253-email-thread",
+  "title": "Re: Young Founders Circle - Sharing Projects",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln114",
+    "ln271",
+    "ln258"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln114",
+      "text": "From: Ember Lanternwick, Lanternwick Design Studio\nTo: Young Founders Circle, Emerald City Leadership Network\nSubject: Sharing Projects\nDate: June 6, 2025\n\nHi all,\n\nRowan asked us to share what we've been up to. I just finished a project I'm really excited about! A vegetable grower up in Munchkin Country was hand-painting every single wooden crate they shipped out—their farm name, location, the whole bit. It was taking forever and the paint would run if it was damp.\n\nSo, I designed a heavy-duty metal stencil for them. It's got their farm's name and town cut right out of the plate. Now they just slap it on a crate, daub on some paint, and boom—a clean, clear brand every time. It's reusable, survives the weather, and they say it's cut their crate-prep time in half. Simple, but sometimes that's what sticks.\n\nWould love to hear what others are working on.\n\nBest,\nEmber"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln271",
+      "text": "From: Ewan Stoneworth, Tinsmith Row Clinic\nTo: Ember Lanternwick, Young Founders Circle, Emerald City Leadership Network\nSubject: Re: Sharing Projects\nDate: June 8, 2025\n\nEmber,\n\nThat stencil is a great idea. Practical solutions are always the best kind.\n\nI'm not a founder in the formal sense, but I hear my name has come up in the network regarding a service we tried last autumn. The clinic was struggling with patients missing appointments to pick up their regular medications. Someone suggested we try using retired postal workers, people who know the routes and are happy for a bit of steady cycling. We set up a small delivery run.\n\nI'm told it reduced the no-show rate quite a bit for those on the route. The riders liked it, patients appreciated it. It's quiet now, but it proved a point.\n\nEwan"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln258",
+      "text": "From: Posy Haystead, Haystead Design Studio\nTo: Ewan Stoneworth, Ember Lanternwick, Young Founders Circle, Emerald City Leadership Network\nSubject: Re: Sharing Projects\nDate: June 9, 2025\n\nEmber, that's brilliant. Physical design that solves a physical problem. Love it.\n\nEwan, what a clever use of existing community knowledge. That's real infrastructure.\n\nMy recent bit was for the Meadowbank Tenants' Association. Their meeting notices were… a mess. Tiny print, paragraphs of text, photocopied until they were gray smudges. No wonder turnout was low.\n\nI redesigned it as a single-page flyer. Huge, clear type for the date, time, place. Three bullet points on the agenda. A lot of white space. We got it into every mailbox in the building. The association chair told me the next meeting had double the usual attendance. People just needed to be able to read the invitation.\n\nPosy"
+    }
+  ],
+  "content_sha256": "01af964f4c9dca8f2eb05e7f7ccdb5a26c3238a795ea9d13ea8994822dce6ec6"
+}

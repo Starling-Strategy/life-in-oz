@@ -1,0 +1,33 @@
+{
+  "id": "ln-466-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Teo Brickholt · May 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln207"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Manager called Teo for a check-in. Asked about the store."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln207",
+      "text": "The Saturday morning rush has been showing me where our floor plan pinches. Folks with a gallon of paint get stuck behind someone comparing light switch plates. My intention is to rearrange the whole paint and electrical aisle—swap their places, I think. The paint cans are a heavier, slower purchase. If we move them to the wider aisle where the electrical is now, people can take their time without blocking the main throughway. Electrical is lighter, quicker to browse. It’s just a plan for now; I need to mark it out on the floor after closing one evening and see if my idea holds up."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Rowan asked what Teo had been working on lately."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln207",
+      "text": "Had a good one yesterday. A homeowner came in, real distressed. Thought her old double-hung window was shot, was pricing a whole new unit. I asked her to describe the symptom—the sash wouldn’t stay up. Sounded like a broken balance. Took her over to the rental bench, showed her the cordless drill, a putty knife, and the specific balance weight we carry. Walked her through how to pop the interior stop, remove the sash, and swap the part. Took her about an hour, she came back beaming. Saved her the cost of a new window and the installation hassle. That’s the part of the job I like best."
+    }
+  ],
+  "content_sha256": "ac954765f43ee12047212eec3c04119fa35c82a1c87d398d189164a2b1d2eabf"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ln-041-meeting-minutes",
+  "title": "Minutes of the Timber Verge Repair Co-op Founding Meeting",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln002",
+    "ln044",
+    "ln226",
+    "ln238"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Timber Verge Repair Co-op\nFounding Meeting Minutes\n8 April 2024\nPresent: Martin Woodward, Arthur Keene, Ember Thistlewood, Gideon Pepperham. Rowan Bell, Community Manager, attended.\n\n1. Purpose & Formation\nMartin Woodward proposed forming a co-op to repair items that orchard villages cannot afford to replace, arguing that skilled repair extends the life of tools, furniture, and machines. The group agreed on the name Timber Verge Repair Co-op. Woodward was elected convener for a six-month term.\n\n2. Fee Structure\nAfter discussion, the co-op adopted a sliding-scale fee model. Fees will be based on the client's ability to pay and the complexity of the repair, with a minimum charge to cover basic materials. A fee schedule will be drafted before the next meeting.\n\n3. Tools & Equipment\nArthur Keene offered the use of his personal joinery tools for a community furniture-repair bench. The offer was accepted unanimously. Keene noted the tools are suited for mortise-and-tenon joints and drawer-slide repairs.\n\nGideon Pepperham presented two sewing machines—a treadle model and a later electric—which he had already serviced and adjusted. These will form the core of a mending table. Pepperham confirmed both machines are in working order with fresh needles and bobbins.\n\n4. Proposed Work Benches\nEmber Thistlewood proposed establishing a dedicated bicycle-repair bench, to be set up in the summer months. She outlined a plan for basic tune-ups, flat-tire fixes, and brake adjustments. The bench would operate two afternoons per week, pending identification of a suitable covered outdoor space. This proposal was noted as a planned summer initiative.\n\n5. Next Steps & Testing\nWoodward emphasized that no setup is finished until it is tested. He will coordinate the transport of Keene's tools to the shared workshop space in the old Timber Verge lumber office. Pepperham will prepare a sign-up sheet for mending-table hours. Thistlewood will scout potential locations for the bicycle bench and report back in May.\n\nThe next meeting is scheduled for 6 May 2024.\nMinutes recorded by Rowan Bell, Community Manager."
+    }
+  ],
+  "content_sha256": "ed2b553be35480f93b5c966fce4ead42bd2d36c6ae13f15f0856483477bbeb90"
+}

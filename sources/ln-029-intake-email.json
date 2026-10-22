@@ -1,0 +1,39 @@
+{
+  "id": "ln-029-intake-email",
+  "title": "Fwd: A couple small things from the Festival Committee",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln199",
+    "ln249"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln199",
+      "text": "From: Ines Emeryby\nTo: Network Intake\nSubject: Fwd: A couple small things from the Festival Committee\nDate: April 14, 2024\n\nHi Rowan,\n\nI was sorting through some of the older Festival Committee notes ahead of the summer planning and found a couple of items worth passing along. They’re both just examples of people sorting out practical problems, really.\n\nI’ve copied them below.\n\nAll the best,\nInes"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "-- Forwarded message --\nFrom: Ines Emeryby\nTo: Festival Committee\nSubject: A couple small things from the Festival Committee\nDate: April 10, 2024"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln199",
+      "text": "Hello everyone,\n\nA quick note about my own small contribution. I realized our paper log for tracking instrument sterilization cycles at the practice was getting quite muddled—dates were hard to find, and it was easy to miss a batch. So, I made a new wall chart with clear columns for the date, cycle number, and which instrument sets were processed. It’s laminated so we can use a grease pencil. It’s just a simple chart, but the assistants say it’s much easier to check at a glance now."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "---"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln249",
+      "text": "Milo here. While we’re sharing minor fixes, I had a go at the old work lights for the Lantern Row community theatre. The metal housings on six of them had cracked right along the seams, probably from being knocked over one too many times. I cleaned the cracks thoroughly, filled them with a high-temp epoxy, and then ran a strip of aluminum tape over each seam for a bit of extra reinforcement. They’re not pretty, but they hold the bulbs securely again. Should get them through another few seasons of setup and strike."
+    }
+  ],
+  "content_sha256": "38453f64068c89b528cac394fce7739b93d0e492cf0f5fa025f7a3ec59295558"
+}

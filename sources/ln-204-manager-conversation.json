@@ -1,0 +1,39 @@
+{
+  "id": "ln-204-manager-conversation",
+  "title": "Call notes: Hannah Bellamy on the storm below Brickway Junction",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln016",
+    "ln001"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Hannah Bellamy, program director, Brickway Junction · March 18, 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Hannah called about the storm response below Brickway Junction. The county road washed out on the Monday and stayed closed for nine days."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Asked what happened, the neighbors mostly talked about Dorothy Gale. Nobody remembers who put her in charge. Hannah passed on what one of them told her: “We were all standing around the depot, and by Tuesday she had forty people on a list, each with a job, before anyone had asked her to.”"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Gale Agricultural Supply's two trucks ran the back lanes twice a day. Food, feed and medicine reached every farm on the cut-off side. I have this from Hannah; I haven't spoken to Dorothy yet."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Hannah would like Dorothy recognized at the spring meeting. Nothing is arranged. Follow up in April."
+    }
+  ],
+  "content_sha256": "1603ae13de970825ecd70d04d9767fa49b3d55235ede20411403e1529f082ef9"
+}

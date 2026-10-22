@@ -1,0 +1,20 @@
+{
+  "id": "ln-159-meeting-minutes",
+  "title": "Festival Committee Meeting Minutes - January 2025",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln273",
+    "ln093",
+    "ln228"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Festival Committee Meeting\nDate: January 16, 2025\nPresent: Ulric Stoneshaw, Oriel Brambleworth, Dacey Brambleley, Rowan Bell (Community Manager)\n\n1. Call to Order\n   The meeting was called to order at 7:00 PM at the Workshop on Lantern Row.\n\n2. Storage and Logistics\n   Ulric Stoneshaw raised the issue of time lost at the start of each festival season locating materials. He proposed a reorganization of the primary storage shed on Lantern Row. His plan involves acquiring a set of rolling bins, each to be clearly labeled for specific hardware (nails, screws, hinges) and fabric rolls. He stated this would allow crews to pull out only what they need and quickly return items, rather than digging through stacked crates. No action was taken; further discussion on sourcing bins is planned for the February meeting.\n\n3. Member Project Updates\n   3.1 Oriel Brambleworth reported on a completed project for the Quadling Health Access group. At their request, he designed and built a folding puppet booth for use at community health fairs. The booth was used in December to demonstrate hand-washing routines to children. Oriel noted the booth folds flat for transport in a cart and sets up in under five minutes. He used a lightweight frame from the Timber Verge Repair Co-op and canvas remnants from last year's Festival banners.\n\n   3.2 Dacey Brambleley provided an update on a fabrication project for the Gillikin Growers circle. She was approached by a greenhouse operator struggling to manually adjust roof vents across a long structure. Dacey created a prototype bracket from aluminum stock. The bracket allows a standard small motor, attached to a simple pulley system, to automate the opening and closing of the vents. The prototype was installed at a greenhouse in northern Gillikin for a three-day test in late December and performed without failure. Dacey noted the design uses common machine shop parts to keep future replication simple and affordable.\n\n4. Old Business\n   There was no old business.\n\n5. New Business\n   Rowan Bell inquired if the puppet booth design or vent bracket prototype could be documented for the network's shared project library. Both Oriel and Dacey agreed to provide basic sketches and a parts list by the end of February.\n\n6. Next Meeting\n   The next meeting is scheduled for February 20, 2025, at the Workshop on Lantern Row.\n\n7. Adjournment\n   The meeting was adjourned at 8:15 PM.\n\nMinutes submitted by Rowan Bell, Community Manager."
+    }
+  ],
+  "content_sha256": "6a8d20067b53dbf0d901b0eaec32dd03c2f8dd03894a8ebfa42cac985ff815eb"
+}

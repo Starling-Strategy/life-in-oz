@@ -1,0 +1,29 @@
+{
+  "id": "ln-114-intake-email",
+  "title": "Fwd: Gate Quarter happenings & a translation note",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln282",
+    "ln162"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln282",
+      "text": "From: Dov Wickwood, Wickwood Translations\nTo: Emerald City Leadership Network, Intake\nSubject: Fwd: Gate Quarter happenings & a translation note\nDate: November 2024\n\nHi Rowan,\n\nForwarding a note from Sunniva below—sounds like a great turnout! And it reminded me to mention a small speed bump from my week. I'll let Sunniva's note speak for itself, then add my bit.\n\nBest,\nDov"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln282",
+      "text": "---------- Forwarded message ----------\nFrom: Sunniva Fernmere, Fernmere Food Truck\nTo: Dov Wickwood\nSubject: Gate Quarter library pop-up\nDate: November 2024\n\nDov! Library event was a blast. Made forty wild mushroom and thyme tarts. People came for the books and stayed for the food—sold the last one twenty minutes before the librarians started shooing us out. A clean sell-out is the best kind of closure. Hope your week’s been good.\n\nSunniva"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln282",
+      "text": "And my bit: I was translating a property lease agreement for a new shop here in Gate Quarter. The legal phrasing was straightforward, but there was a specialized glossary of tenancy terms that needed a full verification. I had to cross-reference a few sources, and it set the final delivery back by two days. The client was understanding, but it’s a note for the process."
+    }
+  ],
+  "content_sha256": "15ff4894ae29744678d65897915aea6c5548c08f64adef2fea4ca7e1b96b3581"
+}

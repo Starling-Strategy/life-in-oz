@@ -1,0 +1,36 @@
+{
+  "id": "ln-112-speaker-bio",
+  "title": "Program Participant Bios",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln080",
+    "ln104",
+    "ln078",
+    "ln271"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Ulric Poppymore coordinates the Blue Orchard Childcare Co-op in Munchkin Country, a member-run initiative supporting families with seasonal and shift work. When parents on harvest shifts faced repeated late pickups, Ulric organized a cover rota, recruiting a pool of volunteers to stay with the remaining children, ensuring no child was left waiting alone and no parent faced a fine. The system now runs on a simple chalkboard schedule in the co-op's front hall."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Briony Gateholt leads the Reed Flats warm room, a community space offering respite during the colder months. Noting that attendees often arrive after sunset with armloads of supplies, Briony is proposing a practical upgrade to improve safety and accessibility: the installation of a motion-activated light on the path to the building's rear entrance. She is currently gathering cost estimates and seeking feedback from regular visitors on the best placement."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Agnes Hazelton is a co-founder of the Redfern Hill Makers Space in Quadling Country, a workshop dedicated to teaching and sharing craft skills. To equip newcomers without overstretching the space's modest budget, Agnes recently secured a donation of used hand-sanding tools from a cabinetmaker's workshop that was closing in a nearby town. The tools, while worn, are perfectly serviceable and have already been put to use in several introductory woodworking sessions."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Ewan Stoneworth manages the Tinsmith Row Clinic in Winkie Country, where he focuses on making healthcare practical and accessible. To increase flu vaccination rates without requiring extra appointments, Ewan organized a weekend clinic right in the clinic's main waiting area. Using repurposed garment racks hung with spare sheets as simple privacy screens, the effort vaccinated eighty-seven people over two days, with minimal disruption to the clinic's regular operations."
+    }
+  ],
+  "content_sha256": "f22168fd7b4c8838ffb8cee88e1ef0fe40f426586e54fa1f69a924d78b6faed8"
+}

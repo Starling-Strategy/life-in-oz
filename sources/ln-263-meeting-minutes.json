@@ -1,0 +1,85 @@
+{
+  "id": "ln-263-meeting-minutes",
+  "title": "Festival Committee Meeting Minutes - June 2025",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln091",
+    "ln081",
+    "ln057"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Festival Committee Monthly Meeting\nDate: June 12, 2025\nPresent: Basil Bramblebourne, Tamsin Reedwood, Enid Hazelstead, Rowan Bell (Community Manager)\nLocation: Emerald City Chamber Meeting Room"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Call to Order: Meeting called to order by Basil Bramblebourne at 6:07 PM."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "2. Old Business Review:"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln081",
+      "text": "Regarding materials salvage: a few members mentioned seeing some revived bunting. I can confirm we did have a leak in the old storage shed off the Brickway. Several bolts of festival bunting were water-damaged. Rather than scrap them, we sent the lot to a co-op down in Quadling Country for re-dyeing. The colors came back vibrant—a real save. They're earmarked for the Munchkin spring fair decorations next year."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln057",
+      "text": "Good. That frees up shelf space in the main warehouse, which brings me to my item. The flat set pieces are leaning against every wall. It's a hazard and it damages the corners. I've proposed building a vertical storage rack. I sketched a design on the back of a work order. It uses standard lumber and would slot into the north wall. This is a plan; we need to source the materials and schedule a build weekend."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Action: Tamsin Reedwood to provide a materials list and estimated cost to the committee by June 26."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln091",
+      "text": "That sounds efficient. My update is also in the planning stage, but it's for a different kind of community space. I've pitched using the old mill site in Hammerhead Rise for a weekend health clinic. The structure is sound, but it's been vacant. Before we can move forward, we need to secure portable water and power hookups. I'm speaking with the local council about permits, but the Festival Committee's experience with temporary site logistics would be invaluable."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln081",
+      "text": "We've wrangled power for food stalls and water for the flower shows. I can put you in touch with the vendors we use. They might have portable units you could rent."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "I can connect you with the Quadling Health Access circle as well, Enid. They might have a line on funding for the hookup costs."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln091",
+      "text": "Thank you, both. That would help. It's just a plan until those utilities are locked in."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Action: Basil Bramblebourne to share contact information for portable utility vendors with Enid Hazelstead by June 19."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "3. New Business: Discussion on volunteer coordination for upcoming Emerald City autumn market. Tabled until next meeting due to time."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "4. Adjournment: Meeting adjourned at 7:15 PM.\nNext Meeting: July 10, 2025."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "Minutes submitted by Rowan Bell, Community Manager, Emerald City Leadership Network."
+    }
+  ],
+  "content_sha256": "dc2c0cbbb836eed29c59ca902629dd34019a339338ff3a3726d45a42e4ad20a6"
+}

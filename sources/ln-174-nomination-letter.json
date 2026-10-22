@@ -1,0 +1,19 @@
+{
+  "id": "ln-174-nomination-letter",
+  "title": "Nomination for Zora Oakholt",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln208",
+    "ln100"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln208",
+      "text": "To the Founders' Gala Nomination Committee,\n\nI'm writing to nominate Zora Oakholt for recognition at this year's event, for her indispensable work within our Liaison circle. I've seen firsthand how her methodical approach turns chaos into order, which is precisely the kind of quiet, foundational effort that keeps this city moving.\n\nMy own recent work involved coordinating a crew to grind down the raised edges of three sunken manhole frames on a busy Gate Quarter avenue. The immediate result was a smoother transition for vehicle traffic, but it also required precise coordination with the paving schedule and traffic control. It’s the sort of visible public works fix that gets noticed. Zora’s work, by contrast, often happens in the file rooms, but its impact is just as real.\n\nLast month, Zora tackled a six-month backlog of street performer permit applications from the Bell Market district. The pile was daunting, a jumble of requests for festivals, market days, and weekend performances. Without being asked, she sorted the entire backlog into priority order based on the applicants’ event dates. She organized them by urgency: first the applications for events happening this week, then next week, then next month, creating a clear queue. This allowed the approvals clerk to immediately process the most time-sensitive permits, preventing several performers from missing their scheduled slots. She restored a sense of fairness and timeliness to a process that had stalled.\n\nZora’s precision, her quiet diligence, and her ability to see the system within the stack of paper are exactly what make the Wizard's Office function. She ensures that the work we do in the field—like smoothing out a road—is supported by orderly, efficient administration behind the scenes. I can think of no one more deserving of this nomination.\n\nSincerely,\nTilda Stoneford\nPublic Works Engineer\nWizard's Office Liaisons"
+    }
+  ],
+  "content_sha256": "c04be2365abb5a7a9197f8efd434028cc1b2796fe5b00d4f92d1c797f58d392d"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ln-187-membership-intake-form",
+  "title": "Emerald City Leadership Network Membership Intake Form",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln230"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Application Date: March 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Applicant Name: Hollis Wheatfield"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Role/Organization: Librarian, Lantern Row Reading Room"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Why do you want to join the Emerald City Leadership Network?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln230",
+      "text": "I believe in the connective tissue of shared spaces. The Reading Room is one such space, but it exists within a larger civic body. I hope to learn from the structured ways other circles manage resources, resolve scheduling conflicts, and preserve their own histories—the practical mechanics of community that aren't often written down in books."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Please describe a recent project or contribution you made to your community or workplace."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln230",
+      "text": "Well, there were two things last month, both rather quiet but necessary. First, I put together a small display in our front case on the city's original canal system. It's easy to forget we're built on managed water. I gathered maps from the Wizard's Office archives—beautiful, fading things—along with some engineers' sketches and photographs of the brickwork from the Munchkinland quarries. It's not a flashy display, but a few regulars have stopped to look, which is the point."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln230",
+      "text": "The other was more of a retrieval mission. After one of our story hours, a whole shelf on Oz architectural history was in disarray. Volumes on Gillikin timber frames were with the Quadling clay pamphlets, that sort of thing. I spent an afternoon tracking them down, all two dozen of them, and getting them back to their proper places. It’s a bit like detective work, following the cataloging logic. The room feels more settled when the order is restored."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "What circle(s) are you most interested in connecting with?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln230",
+      "text": "The Reading Room Network, of course, to compare notes on circulation and preservation. And the Timber Verge Repair Co-op, perhaps. Their work with old structures must generate fascinating practical knowledge that complements our historical collections."
+    }
+  ],
+  "content_sha256": "4422a7814d48a393df5ad7143df7d07be427f2b4dfc5212e9630f0dc0190eb75"
+}

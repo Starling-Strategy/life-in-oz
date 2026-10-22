@@ -1,0 +1,51 @@
+{
+  "id": "ln-322-meeting-minutes",
+  "title": "Meadow Mutual Aid: special meeting of the mutual-aid committee",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln003",
+    "ln019",
+    "ln020",
+    "ln021"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Meadow Mutual Aid · Special meeting of the mutual-aid committee · August 12, 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Present: Clara Micefield (director of field operations), June Arden (secretary), Caleb Alder, Iris Marsh."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Item 1. South Meadow lane, August 9. Harvest traffic stalled two supply trucks on the lane, and the heat put one driver down."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The director reported that within the hour she had forty volunteers and every tow rope in Meadowbank on the scene, and both trucks were clear before dark."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Caleb Alder reported that the North Orchard clinic front desk took the driver straight through when volunteers brought him in. The driver has recovered."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Item 2. The committee thanked the director and asked her to write up the call list so it can be used again. Iris Marsh offered to keep the master copy once it is written. Action: Clara Micefield to draft; no date set."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Minutes taken by June Arden, secretary."
+    }
+  ],
+  "content_sha256": "6287c403d11c8b333bfa2910280d6c3ed84f2f167584a66e0a36deea9e038173"
+}

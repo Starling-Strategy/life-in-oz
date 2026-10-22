@@ -1,0 +1,18 @@
+{
+  "id": "ln-081-speaker-bio",
+  "title": "Meet Mattie Amberstead of Amberstead Flowers",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln167"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Mattie Amberstead is the florist and owner behind Amberstead Flowers in Reed Flats. Her deep knowledge of local flora and eye for detail have made her shop a community staple, known for arrangements that feel both of the place and perfectly personal. This fall, she's planning to host a weekend workshop for the Small Business Circle on assembling winter-hardy porch pots, sharing her techniques for combining fragrant evergreens with the bright pop of seasonal berries to create displays that endure the cold months. Mattie also keeps her shop vibrant year-round; during a recent slow season, she introduced a line of dried flower wreaths in her shop window, featuring wheat stalks, lavender, and preserved roses from the Gillikin uplands. The wreaths became a steady source of sales, offering neighbors a touch of enduring, rustic beauty for their homes."
+    }
+  ],
+  "content_sha256": "cbe4fd4c018016638deb840aae2666009cac593a4a7e9c6d27eac611d41196ce"
+}

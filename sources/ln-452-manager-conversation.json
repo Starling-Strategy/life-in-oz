@@ -1,0 +1,38 @@
+{
+  "id": "ln-452-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Dov Wickwood · April 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln282"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Call with Dov Wickwood, Wickwood Translations. Discussed recent project work for network circles."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln282",
+      "text": "The Timber Verge Repair Co-op had a set of vintage Winkie welding guides—really old, hand-illustrated things—they wanted accessible to their Munchkin-speaking apprentices. I translated the full set, dialect and all. The tricky part was keeping the old Winkie idioms for heat levels and joint types, but finding the right Munchkin craft equivalents. They’ve been added to their reference library."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Noted. Dov said the guides are now in the co-op's library."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln282",
+      "text": "Separately, a Gillikin cider maker needed a fermentation manual translated from Winkie. The technical glossary was the main event—terms like specific gravity, titratable acidity, volatile acidity. I compiled and translated a standalone glossary so their team could cross-reference. Precision there is everything; a mistranslated acidity term could spoil a batch. It’s done and with them."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Recorded. Second project: glossary for cider maker's manual, completed."
+    }
+  ],
+  "content_sha256": "a458e8609e6e2cc6d289e6fcb2de897139c522031e202dee02e731718988073b"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ln-039-intake-email",
+  "title": "Fwd: Notes on recent contributions",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln182",
+    "ln170"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln182",
+      "text": "From: Percy Brickworth\nTo: Network Intake\nSubject: Fwd: Notes on recent contributions\nDate: 15 April 2024\n\nRowan,\n\nForwarding the below from a colleague at the Hall. Thought it was worth sharing.\n\nRegards,\nPercy"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: A colleague at the Records Hall\nTo: Percy Brickworth\nSubject: Your work last week\nDate: 12 April 2024\n\nPercy,\n\nJust wanted to note my thanks for your work with the parish registers last week. That sudden leak from the upper hall gutter could not have been worse timed. You were the only one who stayed late all three nights to see the drying process through, carefully separating each damp page with blotting paper and transferring them to the new acid-free boxes. The Head Clerk remarked that we’d have lost the 1890-1910 Munchkin immigration records entirely without your patience. The registers are now stable and back on the shelf.\n\nOn a separate note, I was at the Reading Room gathering yesterday. Maren Crowmere’s name came up. One of the other volunteers mentioned that a new recruit was quite anxious before their first paired reading session—hands shaking, talking too fast. The volunteer said Maren took the newcomer aside for a full twenty minutes before the learner arrived, calmly showing them the lesson plan, demonstrating how to prompt without correcting, and even role-playing a tricky bit. The new volunteer reportedly led the session without a hitch afterward. It was spoken of as a small, kind thing that made a real difference.\n\nBest regards,\nYour colleague"
+    }
+  ],
+  "content_sha256": "f55065d08ec2fed652706425fe6ae976dbca28510b9d484961f6768ab5535a04"
+}

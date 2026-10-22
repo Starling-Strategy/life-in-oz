@@ -1,0 +1,24 @@
+{
+  "id": "ln-489-intake-email",
+  "title": "Fwd: Workshop idea & Spring Fair sound check",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln006",
+    "ln007"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln006",
+      "text": "Rowan,\n\nI'm forwarding the description of the listening corner sound check Oscar did last month—good to see that kind of proactive work in action.\n\nIt also got me thinking about our own practical needs. I've been talking to learners in Eastfield, and a constant theme is the anxiety around official-looking mail. I've drafted a proposal for a very specific, two-session workshop here at the Reading Room. The goal would be just to build confidence with utility bills and payment slips: identifying the different charges, locating the due dates, understanding the payment stub. No frills, just that one thing.\n\nLet me know if the network has a process for reviewing these sorts of program proposals.\n\nAll best,\nSamuel Strawbridge\nEastfield Literacy Program"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Oscar Diggs, Exhibition Technician, Junction Quarter Reading Room\nTo: Junction Quarter Reading Room Staff List\nDate: May 5, 2026\nSubject: Notes from Spring Fair Outdoor Stage Prep\n\nA quick note on the stage setup for tomorrow's Spring Fair opening ceremony. I conducted the full sound check a day early this afternoon.\n\nIdentified a faulty cable on the left speaker tower—intermittent crackle that would have been a real headache during speeches. Fortunately, I always bring a backup kit. Swapped in a spare cable, ran the check again, and we're now getting clear audio across the whole green.\n\nEverything is secured and ready for tomorrow. The stage manager has been informed. Should be smooth sailing.\n\n- Oscar"
+    }
+  ],
+  "content_sha256": "eac15d55d25e0be1048913a88528f46fbd01b35e4246b854406613e19e59ce96"
+}

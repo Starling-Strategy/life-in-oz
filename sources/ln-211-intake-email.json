@@ -1,0 +1,24 @@
+{
+  "id": "ln-211-intake-email",
+  "title": "Fwd: Timber Verge & Westgate Mills updates",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln118",
+    "ln238"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln118",
+      "text": "From: Jude Quadstead\nTo: network-intake\nSubject: Fwd: Timber Verge & Westgate Mills updates\nDate: 15 April 2025\n\nRowan,\nSaw Gideon's note below about the overlocker. Good on him. Reminded me the dairy co-op over at Reed Flats finally got their grate sorted. Figured the network likes to hear when things get fixed right.\n\n--\nJude"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Gideon Pepperham\nDate: 14 April 2025\nSubject: Timber Verge & Westgate Mills updates\n\nTo the network,\n\nTwo bits of work completed:\n\nFor the Timber Verge Repair Co-op: I finished the restoration on that industrial overlocker for the Winkie adult ed textile program. It was donated in pieces, missing several tension discs and with a badly bent handwheel. I sourced compatible parts from two retired machines, machined a new handwheel spindle, and recalibrated the stitch differential. It runs quietly now and can handle heavy denim. The instructor picked it up yesterday; she said the class can finally teach professional seam finishing techniques.\n\nSeparately, Jude Quadstead over in Westgate Mills reports he replaced the rusted-out steel grate at the Reed Flats dairy wash-down channel. The old one was a hazard—someone's boot went through last month. He measured the channel, cut and welded a new grate from heavier-gauge stock, and sealed the welds to resist the wash-down chemicals. The dairy manager says it's solid as the road now.\n\nRegards,\nGideon Pepperham"
+    }
+  ],
+  "content_sha256": "c504aa962330810f25e2f6e67e703cf828fdc81a4e08009591174ed3496fb50d"
+}

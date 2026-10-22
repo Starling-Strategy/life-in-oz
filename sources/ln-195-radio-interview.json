@@ -1,0 +1,104 @@
+{
+  "id": "ln-195-radio-interview",
+  "title": "Young Founders on the Air: Building for the Long Haul",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln049",
+    "ln078"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good afternoon, you’re listening to Community Voices on O.Z. Radio. I’m your host, and today we’re talking with young founders from the Emerald City Leadership Network about building things that last—both businesses and the things they make. With me is Imogen Shaw, founder of Shaw Community Networks in the Junction Quarter. Imogen, welcome."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln049",
+      "text": "Thanks, great to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "And joining us from Quadling Country is Agnes Hazelton, co-founder of the Redfern Hill Makers Space. Agnes, hello."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln078",
+      "text": "Hello! It’s lovely to be with you."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "Agnes, let’s start with you. I understand your space recently held a workshop that was all about building things to last. Can you tell us about it?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln078",
+      "text": "Absolutely. We had about a dozen people come in, mostly from the neighborhood. The goal was to turn discarded shipping pallets—the sturdy ones you see piled up behind some of the bigger shops—into something useful and solid. So we spent the day building storage crates."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "That sounds straightforward, but I imagine there’s a trick to it."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln078",
+      "text": "Oh, there is. It’s not just nailing boards together. We showed everyone how to sand down the rough wood so you don’t get splinters, how to check each plank for cracks, and how to reinforce the corners with extra bracing. The idea is that the crate you take home won’t fall apart when you load it up with your garden tools or your winter quilts. Everyone left with a finished crate, and I think more importantly, they left knowing how to make another one."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "Wonderful. Imogen, your work is a bit less about wood and more about wires, but I hear you’re also thinking about durability and preventing problems before they happen."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln049",
+      "text": "That’s right. I set up networks for small businesses and community halls. Right now, most of my calls are when something breaks—a router dies, a connection drops. It’s reactive. I’m tired of the emergency calls at inconvenient hours. So I’m putting together a proposal for all my existing clients: a preventive maintenance schedule."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "What would that involve?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln049",
+      "text": "Twice a year, I’d go in, check all the hardware, run diagnostics, update firmware—the software that runs on the devices themselves. Dust out the equipment, check cable connections. The boring stuff, honestly. But if you do the boring stuff on a schedule, the exciting, disastrous stuff happens a lot less often. It’s about building a system that doesn’t keep you up at night."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "Agnes, that sounds similar in spirit to your workshop—a little care upfront saves a lot of trouble later."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln078",
+      "text": "Exactly. It’s all about respect for the material, whether it’s wood or a network. If you understand how it’s put together and you give it regular attention, it will serve you well for a long time. Imogen’s plan is like sanding the rough edges off your business operations."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln049",
+      "text": "(Laughs) I’ll use that. ‘Network sanding.’ But yes, that’s it. It’s not the flashy new installation; it’s the upkeep. I’m drafting the client letters now, laying out the schedule and the cost. It’s a shift, but I think people will see the sense in it."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "host",
+      "text": "It sounds like both of you are building foundations—literally and figuratively—for things to endure. Agnes Hazelton of Redfern Hill Makers Space and Imogen Shaw of Shaw Community Networks, thank you both for sharing your time and your ideas."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln078",
+      "text": "Thank you!"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln049",
+      "text": "Thanks for having us."
+    }
+  ],
+  "content_sha256": "c75dfb900c8a601b60ec270942a8e8816686f0657373596c9fc6f0d9e0e7449e"
+}

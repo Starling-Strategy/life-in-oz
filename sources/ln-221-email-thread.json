@@ -1,0 +1,29 @@
+{
+  "id": "ln-221-email-thread",
+  "title": "Tool donations and guard rails",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln108",
+    "ln250"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln108",
+      "text": "From: Gus Crowby, Crowby Machine Shop\nTo: Rowan Bell, Timber Verge Repair Co-op\nSubject: Westgate crossing & a word with Nell\nDate: April 16, 2025\n\nRowan,\n\nTwo things.\n\nFirst, about that bad crossing on the Mill Access Road. Got a pile of decent steel tubing donated from a decommissioned racking system. I'm planning to cut and weld up a simple guard rail for it. Should keep folks from stepping right into the cart path when the verge is muddy. I'll handle the fabrication here at the shop. Need to coordinate with the local road crew for the install—they'll have the post-hole digger and the mixer for the footings. Let me know if the co-op has a standard footing spec we should follow.\n\nSecond, I saw Nell's note about the tool library being short on left-handed saws. Tell her I've got a couple of older but serviceable southpaw crosscuts taking up space on my back rack. They could use a sharpening, but the handles are solid. She's welcome to them if she wants to send someone over to Westgate Mills to pick them up. No charge, obviously.\n\nGus Crowby\nCrowby Machine Shop\nWestgate Mills"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager\nTo: Nell Heatherholt, Violet Hills tool library\nCc: Gus Crowby, Crowby Machine Shop\nSubject: Fwd: Westgate crossing & a word with Nell\nDate: April 17, 2025\n\nNell,\n\nForwarding Gus's note. Great offer on the saws. Also, Gus is moving ahead on that guard rail for Westgate Mills. Let me know about the saws and I can help coordinate pickup.\n\nRowan"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln250",
+      "text": "From: Nell Heatherholt, Violet Hills Tool Library\nTo: Rowan Bell, Community Manager\nCc: Gus Crowby, Crowby Machine Shop\nSubject: Re: Westgate crossing & a word with Nell\nDate: April 18, 2025\n\nRowan, Gus,\n\nThat's fantastic news on both counts. Gus, thank you! Those saws would be a huge help. I just finished our spring inventory and we only had two left-handed saws on the entire wall, which isn't nearly enough. I'll arrange for a volunteer to come by your shop next week—I'll email you directly to set a time.\n\nAnd the guard rail project sounds excellent. That crossing is a known trouble spot. Our tool library doesn't have a standard footing spec, but I can ask around the co-op if anyone's done a similar install recently and has notes.\n\nBest,\nNell"
+    }
+  ],
+  "content_sha256": "d21a54f4b1834ab1526bf185cf0aeb77138ef214d15626af7796b130442d309f"
+}

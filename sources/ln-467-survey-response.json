@@ -1,0 +1,58 @@
+{
+  "id": "ln-467-survey-response",
+  "title": "Wizard's Office Survey Response",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln064"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network – Member Survey\nTopic: Engagement with the Wizard's Office Administration\nDate: May 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. In the last year, have you had any direct, structured interaction with a Wizard's Office staff member or program? If yes, please describe the purpose and nature of that interaction."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln064",
+      "text": "Yes. I am the staff member in question. My primary structured interaction with the public is running a monthly drop-in session at the Lantern Row reading room. The purpose is to demystify the small-grants application process. Community groups—like the Brickway Transit Union or local mutual aid circles—can bring their draft forms, and I sit with them, page by page, to clarify what information is needed and how best to present their project's aims."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "2. Did that interaction achieve its intended purpose, from your perspective? Please elaborate."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln064",
+      "text": "For the drop-in, I believe it does. The intention isn't to guarantee funding, but to reduce the anxiety and errors that come with a government form. Seeing the relief when someone realizes a question about 'project sustainability' can be answered by describing their volunteer rotation schedule—that's the purpose. The forms that come out of those sessions are invariably clearer and more complete."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "3. Are you aware of any other regular, scheduled opportunities for the public to interface with the Wizard's Office outside of standard appointment requests?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln064",
+      "text": "I am, because I run one. The monthly drop-in at Lantern Row is the only one I'm directly responsible for. It's every second Thursday, from three until six. We don't advertise it widely—it's mostly word of mouth through networks like this one—but it's a fixed point on the calendar. It's important to have a predictable time and place where people know they can find a person, not a portal."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "4. What one change, if any, would you suggest to improve communication or collaboration between civic groups and the Wizard's Office?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln064",
+      "text": "More of this—the physical, scheduled, informal access. One drop-in in one reading room is a start, but it's not enough for a whole city, let alone the countries. The forms are necessary, I understand that. But the process shouldn't feel like navigating a corn maze alone. Having a known person in a known chair at a known time makes the bureaucracy feel… addressable."
+    }
+  ],
+  "content_sha256": "b659b6a8b41e12d16b9a4ecf1dff27349c9b06ff0cff5682b5b0529b64294bc0"
+}

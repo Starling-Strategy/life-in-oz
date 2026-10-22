@@ -1,0 +1,19 @@
+{
+  "id": "ln-026-nomination-letter",
+  "title": "2024 Founders' Gala Nomination: Ines Emeryby",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln127",
+    "ln199"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln127",
+      "text": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Ines Emeryby for this year’s recognition. I’ve gotten to know her through the Quadling Health Access circle, and I’ve been consistently impressed by how she identifies a need and finds a practical, kind way to meet it.\n\nAs context, my own small effort this year was a result of seeing her approach. Through our circle, I learned of a local equipment manufacturer with a surplus of slightly imperfect therapy balls. With Ines’s encouragement about just making the call, I reached out and arranged a donation that brightened our Meadowbank Clinic’s exercise room. It was a simple thing, but it showed me the power of using the network to connect resources.\n\nInes’s own project this past autumn was on a different scale entirely. She organized a fluoride varnish day at a Redfern Hill primary school. She spent weeks coordinating with the school, securing supplies, recruiting a few volunteer colleagues, and most importantly, getting parental consent forms sorted. On the day, they set up in a spare classroom and, during the lunch breaks, provided quick, gentle applications to over eighty children. She told me later that the goal was to make it a routine, non-scary part of their school year, and by all accounts, she succeeded. The school nurse has already asked if it can become a yearly event.\n\nWhat I admire most is that Ines doesn’t just see a problem; she sees a system she can quietly improve. She builds the trust needed to make these things happen, turning a health access idea into a tangible service for dozens of families. She embodies the spirit of quiet, effective community care that this network celebrates.\n\nThank you for your consideration.\n\nSincerely,\nInes Spindleton"
+    }
+  ],
+  "content_sha256": "bbda090330174534655cdcd67c85eb037424ab9337f0d02402ed411d0997a389"
+}

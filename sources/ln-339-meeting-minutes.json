@@ -1,0 +1,22 @@
+{
+  "id": "ln-339-meeting-minutes",
+  "title": "Meadow Mutual Aid Coordination Meeting",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln080",
+    "ln110",
+    "ln272",
+    "ln045",
+    "ln164"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Meadow Mutual Aid Coordination Meeting\nDate: 12 September 2025\nPresent: Calla Copperby (chair), Nico Poppycombe, Ulric Poppymore, Nan Kilnholt, Priya Dell, Rowan Bell (Community Manager)\n\n1. Approval of previous minutes\nMinutes from 29 August were approved as circulated.\n\n2. Delivery rota update (Calla Copperby)\nCalla reported on the recent route reorganization. By clustering delivery stops by neighborhood alley instead of following the main road sequence, the average volunteer circuit has been reduced by twenty minutes. Early feedback indicates less fuel is being used. The new route sheets have been distributed to all active delivery volunteers.\n\n3. Blue Orchard Childcare Co-op update (Ulric Poppymore)\nUlric informed the group that a simple phone chain among Blue Orchard parents is now active for severe weather alerts. The system is used to relay official advisories and any resulting childcare schedule changes. It has been tested once during a recent high-wind warning. 'It's basic,' Ulric said, 'but it means the message gets to everyone without relying on a single point of failure.'\n\n4. Oral history project (Nan Kilnholt)\nNan shared that she recently recorded a session with a retired mill worker from Westgate Mills. The conversation captured detailed memories of the mill's whistle and how shift changes structured the community's day. The recording is being transcribed for the Reading Room Network's archive. 'The sound of that whistle meant home to so many people,' Nan noted.\n\n5. New business and planned actions\n5.1. Priya Dell raised the idea of supporting natural pest control in the shared garden plots. She plans to suggest specific bird feeder placements to attract species known to control common garden pests. She will survey the plots next week to identify the best locations.\n\n5.2. Nico Poppycombe proposed a potential partnership with a Brickway Junction bakery. He wants to approach them about donating day-old bread regularly. The key requirement is arranging a volunteer for pickup before the bakery's closing time. Nico will make initial contact and report back on the bakery's interest and available pickup window.\n\n5.3. A discussion followed on volunteer capacity for the potential bakery pickup. Calla suggested it could be integrated into an existing delivery run if the timing aligns. Ulric noted the Blue Orchard phone chain volunteers might be able to assist with communication if a regular pickup is established.\n\n6. Next meeting\nAgreed for 26 September 2025, 6:30 PM at the Bluebell Crossing Meeting House.\n\nMeeting adjourned at 7:45 PM.\n\nAction summary:\n- Priya Dell to survey shared garden plots for bird feeder placement suggestions.\n- Nico Poppycombe to contact Brickway Junction bakery regarding day-old bread donation and pickup timing.\n- Calla Copperby to monitor feedback on new delivery routes and report any issues.\n- Rowan Bell to circulate these minutes."
+    }
+  ],
+  "content_sha256": "f153c389c53c24f20087a19e640d08b8efc89fbae42c3490490a01878867d958"
+}

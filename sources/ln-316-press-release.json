@@ -1,0 +1,55 @@
+{
+  "id": "ln-316-press-release",
+  "title": "Meadow Mutual Aid Announces New Local Coordinators for Gillikin Falls, Lantern Row, and Blue Orchard",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln068",
+    "ln175",
+    "ln200"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\n\nAugust 2025\n\nEMERALD CITY – Meadow Mutual Aid, a network of local resource-sharing circles across Oz, today recognized three new community coordinators for their work in streamlining support for neighbors in Gillikin Falls, Lantern Row, and Blue Orchard."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Gillikin Falls, Rafe Ashbourne of the Gillikin Falls Childcare Co-op introduced a simple but effective system to ensure shared toys are kept clean and safe. A rotating schedule for parents, paired with a clear checklist posted by the sink, has made the sanitizing routine a consistent part of the co-op's week. 'It’s one less thing to worry about,' Ashbourne said. 'Everyone knows their turn, and the checklist means nothing gets missed. It keeps the little ones healthy and the parents from having to guess.'"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Members of the Quadling Health Access circle report that Odile Pepperby, administrator at Lantern Row Care Home, recently averted a potential crisis. When the home's large industrial refrigerator failed, Pepperby was able to get it repaired over a single weekend. According to accounts shared within the network, she called in a favor from a former resident's relative who works in appliance repair, ensuring perishable supplies for residents were kept safe without the usual wait for a commercial service."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln175",
+      "text": "“It’s about who you know, and more importantly, who knows you,” Pepperby noted when asked about the incident. “The work here builds its own connections. Sometimes the right person is just a phone call away.”"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "In Blue Orchard, Juniper Ashfield, who oversees the neighborhood community fridge, tackled a recurring practical problem. The wicker basket used to collect surplus fruit from local gardens had developed weak handles from frequent use. Rather than replace it, Ashfield reinforced the handles by stitching them with durable twine, a repair that has prevented further breakage and kept the donation system running smoothly."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln200",
+      "text": "“The basket just needed a little help,” Ashfield said quietly. “The twine was leftover from mending a garden trellis. It seemed a shame to get a new one when a fix would do.”"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Rowan Bell, Community Manager for the Emerald City Leadership Network, which includes Meadow Mutual Aid, commended the approach. 'These aren't grand gestures, but they are exactly what makes a mutual aid network work. It’s seeing a need—a broken handle, a failed fridge, a messy sink—and applying the skill or connection you have to solve it. It’s practical care, and it builds resilience block by block.'"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Meadow Mutual Aid connects local volunteers across the Emerald City and the four countries to share resources, skills, and time. The network operates through neighborhood circles focused on food access, childcare, elder support, and home repairs."
+    }
+  ],
+  "content_sha256": "98f3b73b98d07847d09631fc8d73a61d7a43704703f89a8e585264fc1ebf3ca5"
+}

@@ -1,0 +1,76 @@
+{
+  "id": "ln-350-meeting-minutes",
+  "title": "Gillikin Growers Cooperative Harvest Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln101",
+    "ln209",
+    "ln053",
+    "ln037"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Gillikin Growers Cooperative\nHarvest Meeting Minutes\nOctober 19, 2025\nPresent: Beryl Brookford, Oren Tinshaw, Nimmie Meadowbright, Peter Ash, Rowan Bell (Network Community Manager).\n\n1. Opening Remarks\nThe meeting was called to order at 7:00 PM at the Violet Hills Community Hall. Rowan Bell welcomed members and guests."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln101",
+      "text": "Beryl Brookford presented the seasonal apple price floor. The cooperative... set the floor at twelve coppers per bushel. This is... the same as last season. The reasons are... first, the overall market is stable. Second, our storage costs have not increased. And third... we have a good relationship with our buyers who appreciate the consistency. So, the floor stays level."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "2. Forward Pricing Discussion\nOren Tinshaw spoke regarding forward prices for the winter wheat crop."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln209",
+      "text": "Looking at the projections, I recommend we offer a smaller advance payment to members this year. The market indicators suggest a potential dip in demand from the eastern mills. A smaller advance reduces our risk without harming member liquidity, as final payments would be proportionally larger upon delivery."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "A discussion followed. It was agreed that the finance committee, led by Oren, would draft a proposal for a 15% advance (down from 20% last year) to be voted on at the November meeting."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "3. Treasurer's Report from Munchkin Growers Cooperative\nNimmie Meadowbright, Treasurer of the Munchkin Growers Cooperative, presented her cooperative's accounts."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln053",
+      "text": "Our records show that all member payments for the late summer harvest were processed and distributed within the month of September. I have the bank receipts here, should anyone wish to review them."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The report was noted. Rowan Bell thanked Nimmie for sharing a model of timely accounting."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "4. Member Updates and Announcements\nPeter Ash provided an update."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln037",
+      "text": "Right, so, I was at the market last week and a fellow comes up, says he's a seed buyer from the Ev seed exchange. Name's Peter Ash, if you can believe it! No relation, of course. He was asking after our Scarlet Runner bean seed, wanted to know if the cooperative had any surplus for trade. I told him I'd mention it."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "The minutes record that the visitor, Peter Ash of the Ev seed exchange, is not a member of the Gillikin Growers Cooperative. Beryl Brookford agreed to follow up with the cooperative's seed bank manager to see if a trade was feasible."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "5. Action Items\n- Oren Tinshaw to draft forward pricing proposal for November vote.\n- Beryl Brookford to inquire with seed bank regarding bean seed inquiry.\n- Rowan Bell to circulate these minutes by end of week.\n\n6. Adjournment\nThe meeting adjourned at 8:25 PM.\nSubmitted by,\nRowan Bell\nCommunity Manager, Emerald City Leadership Network"
+    }
+  ],
+  "content_sha256": "10a65d2d6092267d7f6878ea802c6adde71d45643978cadcb1dd0e238e326bc4"
+}

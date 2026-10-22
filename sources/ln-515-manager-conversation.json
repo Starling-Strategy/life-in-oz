@@ -1,0 +1,28 @@
+{
+  "id": "ln-515-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Lena Kilnfield · September 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln266"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Call with Lena Kilnfield, school librarian at Gate Quarter school. Summary:"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Lena said the quiet corner in the library is now fully set up. She arranged the donated floor cushions and installed a low shelf with picture books she selected for their calming nature. She's seen it used by students almost every day since the term started, usually one or two at a time when they need a few minutes to settle."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Separately, Lena reported on the summer reading sign-up. She ran a table in the library entryway for the last week of the previous school year. She had printed book lists she curated by grade level. She personally registered over sixty students who stopped by the table. She said the lists were a big draw, with many parents taking one even if their child was already signed up for the library program."
+    }
+  ],
+  "content_sha256": "88a65ad7cddab7079b5a6ac9982992c8fae8acfa3e51fd9f4ebdece29c826977"
+}

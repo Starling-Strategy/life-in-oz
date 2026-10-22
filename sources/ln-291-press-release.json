@@ -1,0 +1,45 @@
+{
+  "id": "ln-291-press-release",
+  "title": "Winkie Works Guild Announces New Member-Led Repair Projects Across Oz",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln132",
+    "ln121",
+    "ln270"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nJuly 2025\nEmerald City, Oz – The Winkie Works Guild, a member circle of the Emerald City Leadership Network, today highlighted three recent projects demonstrating how hands-on skill and community coordination solve practical problems across the Four Countries."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Quadling Country, Lorna Quadshaw of Quadshaw Metalworks fabricated a new locking hasp and hinge set for a frequently vandalized tool shed at a community garden in Hammerhead Rise. She used leftover galvanized steel from a discontinued gate order, cutting and welding the pieces in her workshop. The new hardware was installed last week. “The old latch was a joke,” said Quadshaw. “Someone with a pry bar could pop it in ten seconds. This new set? Good luck. It’s got a hidden pin and the hinge barrels are welded shut. It’s just using up stock that was gathering dust, but now the gardeners’ shovels and trowels stay put.”"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "During an unexpected late-season snowstorm in the Emerald City region, Brickway Transit driver Pella Crowshaw organized a volunteer phone tree. She coordinated between her transit union and guild contacts to dispatch volunteers to clear bus windshields and verify salt supplies at the Brickway depot in the early hours. “It wasn’t a formal call-out,” Crowshaw explained. “We just started ringing around—drivers who live near the depot, guild folks with four-wheel drives. The goal was simple: make sure the first buses could roll. By 5 a.m., the windshields were scraped and the salt bins were full. All the early routes left on schedule.”"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In Timber Verge, Winkie Country, Isla Emeryley of the Emeryley Food Truck faced a critical failure of her truck’s cooling system ahead of a scheduled market day. She sourced a compatible relay switch from a retired refrigeration unit at a local repair shop. “It was identical, just older and a bit dusty,” Emeryley said. “A volunteer from Meadow Mutual Aid, who knows their way around wiring, came over after dark. We had the panel open, swapped the switch, and tested it. By midnight, the cooler was humming again. Saved the day’s ingredients and a day’s sales.”"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "“These projects are exactly what the network is for,” said Rowan Bell, Community Manager for the Emerald City Leadership Network. “It’s members seeing a need, applying their specific skills, and often collaborating across circles. Lorna used fabrication, Pella used coordination, Isla used salvage and repair. Each is a real, tangible result for their community.”"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "About the Winkie Works Guild: The Guild is a circle within the Emerald City Leadership Network, connecting individuals skilled in fabrication, repair, transportation, and logistics across Oz. The Emerald City Leadership Network fosters collaboration among adult members in professional and community circles across the Emerald City, Munchkin, Winkie, Quadling, and Gillikin countries."
+    }
+  ],
+  "content_sha256": "bd0149eb23efe5fcac4e6b427d7d9ddc3f1e229d7ee74a4715f923724b5883ec"
+}

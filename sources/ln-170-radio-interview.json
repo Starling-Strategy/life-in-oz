@@ -1,0 +1,93 @@
+{
+  "id": "ln-170-radio-interview",
+  "title": "On the Road with Quadling Health Access",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln295"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good morning, listeners. You're tuned in to Community Pulse on Oz Public Radio. Today we're talking about the vital services that keep our communities connected, especially when it comes to healthcare. I'm your host, and I'm joined this morning by Bea Wickton, Patient Transport Coordinator for Quadling Health Access. Bea, welcome to the program."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln295",
+      "text": "Thank you, it's good to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Bea, you've been with Quadling Health Access for several years now. I imagine you've seen a lot of changes. What's the biggest challenge right now in getting people to their appointments?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln295",
+      "text": "Well, the basics are always the same: reliable vehicles, dependable drivers, clear communication. But one thing I'm looking at closely is the passenger experience itself. Many of our riders are older, or have significant mobility issues. They're spending a fair bit of time in our vehicles, getting to dialysis, to specialist appointments in the Emerald City."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "And that comfort is important."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln295",
+      "text": "It is. But it's more than just a soft seat. It's hygiene. Our vehicles get a quick wipe-down between trips, which is fine for general use. But for our riders who may have compromised immune systems, or who are dealing with chronic conditions, I think we need to do more. I'm suggesting we implement a monthly deep-cleaning service for the entire fleet, focusing on the seats and restraints. A professional service that uses the right equipment to really get into the fabric, to sanitize it properly. It's a planned expense, but I believe it's a necessary one for both comfort and safety."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "That sounds like a proactive step. Of course, the best plan can meet an unexpected obstacle. I heard there was a major disruption recently with a bridge closure?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln295",
+      "text": "Yes, the old stone bridge on the main route from the southern marshes into Hammerhead Rise. The Wizard's Office engineers found some instability and closed it for repairs with only a day's notice. That bridge is on the primary route for three of our regular dialysis runs."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "What did you do?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln295",
+      "text": "Well, there wasn't time to panic. I got the alert early, before the drivers had even started their first pick-ups. I pulled out all the route maps—the paper ones and the ones in my head—and started looking at the back roads. The detour the city suggested would have added over an hour each way, which is simply not acceptable for someone needing dialysis. So I found a different way, using the gravel service road that runs along the irrigation canal. It's rougher, and it passes through a couple of private orchards, but it cuts the extra time down to about fifteen minutes."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "You had to get permission?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln295",
+      "text": "I made some quick calls. Explained the situation to the growers. They were understanding—everyone knows someone who relies on our service. They gave the okay for our vans to pass through. I then contacted each driver on those routes, gave them the new turn-by-turn, and called the patients or their families to let them know we'd be using a different, slightly bumpier road, but that we'd be on time. And we were. All twelve patients made their appointments."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "That's impressive coordination on the fly."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln295",
+      "text": "It's just the job. You have a plan, and then you have what actually happens. Your job is to make sure the second thing still gets people where they need to be."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "Bea Wickton, Patient Transport Coordinator for Quadling Health Access. Thank you for your time today, and for the work you do."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln295",
+      "text": "Thank you for having me."
+    }
+  ],
+  "content_sha256": "457020308e2a96acad11d24d968d51e99f7de4b674be3d286cc769671040587a"
+}

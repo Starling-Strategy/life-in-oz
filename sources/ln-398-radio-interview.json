@@ -1,0 +1,73 @@
+{
+  "id": "ln-398-radio-interview",
+  "title": "Balancing the Books and the Booths: A Chat with Meadowbank's Cecily Cinderdale",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln131"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Welcome back to Community Currents on Emerald City Radio. I'm your host, and today we're looking at the quiet, essential work that keeps our local projects running smoothly: bookkeeping. It’s not just numbers in a ledger; it's the story of a community's health. And for that story, we're joined by Cecily Cinderdale of Cinderdale Bookkeeping in Meadowbank. Cecily, thanks for coming on."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln131",
+      "text": "Thank you for having me. It’s a pleasure. I always say a good set of books is like a well-tended garden; you have to know what you planted, what you harvested, and where the water’s really going."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "A lovely analogy. Now, I understand you recently did some work for the Meadowbank community newsletter. Can you tell us about that?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln131",
+      "text": "Certainly. They brought me a year’s worth of donation records and printing invoices—a real mixed bag of transactions. My job was the reconciliation, making sure the debits and credits lined up. It’s like following a trail of breadcrumbs through a forest; you have to be methodical. And I found one. A consistent discrepancy between what was being charged for bulk paper and what the supplier’s own rate sheet, buried in an old email, said it should be. A small underpayment on every order, month after month."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "So the newsletter was being overcharged?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln131",
+      "text": "Not exactly. They were being under-charged, according to the agreed rate. The supplier’s billing system had an old, lower price coded in. Once we presented the rate sheet, they corrected their records and applied the proper charge going forward. It wasn’t about getting money back; it was about squaring the accounts. You can’t build a stable house on a foundation that’s a few inches off."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "A matter of principle as much as pennies. Shifting gears, I hear you also lent your skills to the local craft fair this year in a very hands-on way."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln131",
+      "text": "Ah, that was a different kind of puzzle. Several first-time vendors were anxious about tracking their sales—worried they’d forget something or get the math wrong for their taxes. They needed something they could use with a pencil, right there at the booth. So I designed a single-page income tracker on a columnar notepad grid. Just five columns: Item, Quantity, Price, Total, and a notes line. It forced a simple discipline. At the end of the day, they had a clean, physical record. No magic, just columns."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "And did it help?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln131",
+      "text": "From what they told me, yes. One potter said it was the first time she’d finished a market and known exactly what she’d earned, not just a jumble of coins and a feeling. It’s about removing the fog. When the income side of your ledger is clear, you can make better decisions about next year’s clay, or yarn, or whatever you’re making."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "From newsletter finances to fairground earnings, it’s all about that clarity. Cecily Cinderdale, thank you for shedding light on the essential work of keeping our community’s accounts in order."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln131",
+      "text": "My pleasure. Remember, a balanced book is a confident community."
+    }
+  ],
+  "content_sha256": "2eae05a7872d6c48e18ce8bf261fcef170248b3acb8a97baafd3074cdda836bd"
+}

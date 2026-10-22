@@ -1,0 +1,69 @@
+{
+  "id": "ln-415-radio-interview",
+  "title": "A Little Music, A Little Fix: Festival Committee Voices on Community Craft",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln177",
+    "ln190"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln177",
+      "text": "And we are back on Oz Travel Digest Community Radio, I’m Linus Barleyfield, and in the studio with me tonight is Ansel Wickby from the Timber Verge Repair Co-op. Ansel, welcome! I’ve been looking forward to this. Your crew does the kind of work that keeps the whole melody of a place from falling out of tune."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln190",
+      "text": "Thank you, Linus. That’s… a way of putting it. We just listen to what’s broken and try to find the right fix."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln177",
+      "text": "See, that’s it! You listen. That’s the rhythm. So, we’re both on the Festival Committee, and I thought we could talk about the work that happens off the main stage, the stuff that sets the key for everything else. I’ll start. My little project this season was about… visual harmony. The Spectacle Lane Brass Band is loud, we’re proud, but we looked a bit like a bag of mixed confetti. Then, at the charity shop over on Brickway, I found them. A full set of navy blazers, just hanging there, waiting for a second act."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln190",
+      "text": "A matching set? Same maker?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln177",
+      "text": "Close enough! A few different labels, but the same shade, the same weight. The real magic was finding a volunteer tailor who took them in and out. Now, for our big gigs, we step out looking like a unit. It changes how you play, I swear. You stand a little straighter. The trumpets feel brighter."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln190",
+      "text": "That makes sense. A uniform casing for the working parts. My project was also about a casing, but a much heavier one. That little cafe on my end of Spectacle Lane, the one with the green tiles, had an antique icebox sitting in the back. Beautiful oak thing, brass hinges, completely dead. They wanted to use it as a display cooler up front, but it hadn’t held a chill in decades."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln177",
+      "text": "A display cooler! So it has to work, but quietly. You can’t have a compressor growling through a quiet jazz set."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln190",
+      "text": "Exactly. The diagnosis was simple: the old insulation was shot, and the original cooling unit was just a historical artifact. So we stripped out the old horsehair and cork, lined it with modern foam board, sealed it tight. Then we fitted a small, very quiet cooling unit in the bottom compartment. Runs on a whisper. The old hardware on the front? All still there, all still works. Now it keeps their pastries cool and looks like it walked out of a century ago."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln177",
+      "text": "That’s beautiful. You preserved the melody of the piece but rewrote the accompaniment. That’s what the Festival Committee is, for me. It’s not just about the day-of logistics. It’s about all of us, in our corners, tuning up our little section of the city so the whole thing sings. You fixing the icebox, me fixing the band’s look… it’s all part of the same composition."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln190",
+      "text": "I suppose that’s right. Most problems just need the right attention. You see a rack of jackets, I see a box full of failed insulation. The fix is different, but the aim is the same. Keep something good going."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln177",
+      "text": "Couldn’t have said it better myself. Ansel Wickby, thank you for coming down and for keeping the cool where it’s needed. For Oz Travel Digest Community Radio, this is Linus Barleyfield. Tune in next week!"
+    }
+  ],
+  "content_sha256": "b17529229513ba2d9569c21002f0b142513153b10aab2a8018f257dd91b631ee"
+}

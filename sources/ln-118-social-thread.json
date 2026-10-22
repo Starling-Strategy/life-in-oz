@@ -1,0 +1,71 @@
+{
+  "id": "ln-118-social-thread",
+  "title": "Community Projects and Practices in Winkie Country",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln060",
+    "ln276",
+    "ln120",
+    "ln130"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln060",
+      "text": "At Westgate Foundry, we’ve started using a new staged cooling procedure for our large iron molds. Instead of pulling them from the sand right away and letting them air-cool, we’re now keeping them insulated longer and managing the temperature drop over a full day. The result is we’ve seen a drop in thermal stress cracks along the seams of our heavier pieces. The castings are coming out more consistent."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln276",
+      "text": "Fabricated a dozen custom brackets for the new disabled access ramp at the Tinsmith Row Community Hall. The original specs weren’t holding. Designed these to interface with the existing stonework and meet the updated safety code for lateral load. Installed last Tuesday."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln130",
+      "text": "Saw the benches in the park by the kiln are in a state. Spoke to the town clerk. I’ve offered to replace the broken slats. Just waiting on the municipal work order approval and for them to get the lumber delivered. Shouldn’t take more than a morning once it’s here."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln120",
+      "text": "Had a sit-down this week with one of our carpentry apprentices and their master. The apprentice was getting frustrated with dovetails, and the master was concerned about pace. We went back to the bench, looked at the work, and agreed on a revised plan: two weeks focusing solely on lap and bridle joints to rebuild confidence in the fundamentals. It was a good talk."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "an older passenger",
+      "text": "That ramp at the Hall is a blessing. My sister uses a walker and the old step was a real barrier. The new one feels solid as the ground. Whoever did the work, thank you."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln060",
+      "text": "Emeryham, what gauge steel did you use for those brackets? We often get similar reinforcement requests at the foundry for municipal jobs."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln276",
+      "text": "Quarter-inch plate, hot-dipped. Over-engineered for the spec, but the stone substrate is uneven. Needed the thickness for the lag bolts."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln130",
+      "text": "Hazel, that’s the right approach. Can’t run before you can walk a straight line. A bad dovetail can ruin a drawer front and a day’s mood. Good on you for stepping in."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln120",
+      "text": "Thanks, Kezia. Sometimes it just takes a neutral third party to clear the air. The foundation is everything. How’s the wood looking for those park benches? Oak, I hope?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln130",
+      "text": "They’re specifying treated pine from the Gillikin mill. Not my first choice, but it’s what the budget allows. I’ll make it work."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "a neighbor",
+      "text": "My boy is in the apprentice program at the Works Guild. He came home last night and was actually smiling about going back to the shop today. Didn’t say why, but that’s a change. So, thank you, if anyone here had a hand in that."
+    }
+  ],
+  "content_sha256": "0cd5c3854523ae72368008326c114ef7eedc1d158e8e1813ac121760565a1aba"
+}

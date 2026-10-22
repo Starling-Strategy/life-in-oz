@@ -1,0 +1,51 @@
+{
+  "id": "ln-037-social-thread",
+  "title": "Festival Committee Thread: Logistics, Sound, and Tuba Mutes",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln069",
+    "ln133",
+    "ln141",
+    "ln189"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln069",
+      "text": "Hello all. Wynn Fernshaw here. I’m finalizing the fabric order for the community pageant banners and was thinking about storage for the spools. Before I get into that, a quick, unrelated note: a teacher from the Blue Orchard school stopped me at the market. She mentioned the students used that box of scrap fabric I’d passed along for their collage and puppet-making unit. She said they were quite taken with the textures, especially the heavier brocade pieces. It was nice to hear."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln141",
+      "text": "Wynn! That’s lovely. Textures are everything. Speaking of things getting misplaced… I, Milo Plumton, offer a cautionary tale for our equipment lists. Last month, for the Munchkin Founders’ Day parade warm-up, we were all set when we realized the soloist’s specialized tuba mute was missing. A frantic twenty-minute search ensued. It had rolled clear across the bandstand and lodged itself under the percussion cart. We found it, slightly dented, but the delay meant we started the warm-up with cold lips. Not ideal. I’m now advocating for a ‘mute check’ as part of our pre-event roll call."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln189",
+      "text": "Yves Rushford here. I can sympathize, Milo. Last-minute faults are the worst. I was volunteering at my niece’s primary school play in Gate Quarter last week. During the final dress rehearsal, the main speaker feed cut out—just a faint buzz from the back. I traced it to a faulty connector on the main cable; the solder joint had cracked. Had to run home for my kit, re-solder it, and test the line. Got it done before the curtain. The important part was the kids’ voices carried to the back row. A simple fix, but it reminds me we should budget time for a full cable inspection for any of our outdoor festival stages."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln133",
+      "text": "Isla Poppywood. That’s good preventative work, Yves. My mind runs to contingencies. I’ve been drafting a simple set of check-call protocols for drivers—relevant for any festival where we’re moving gear across country. Based on getting stranded once in a sudden Winkie Country dust storm. The proposal is: if visibility drops below a certain point, you pull over safely, call in your location and status to dispatch or a designated contact, then wait for the all-clear. No trying to push through. It’s about making sure people and cargo are accounted for. I’d like to propose we adopt a version of this for our long-haul volunteer drivers during the festival load-in/out."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln069",
+      "text": "A protocol sounds wise, Isla. It connects to my original point about storage, in a way. Knowing where things are—fabric, mutes, cables, people—is half the battle. Milo, would a designated ‘small items’ crate on the equipment cart help? Yves, for the cable check, do you need a second pair of hands? I’m quite good with a needle; I can manage a spool of solder."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln189",
+      "text": "An extra set of eyes and steady hands is always welcome, Wynn. Thank you. Isla, I’d like to see that protocol draft. It sounds solid."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln141",
+      "text": "A dedicated crate is a brilliant idea, Wynn. I’ll bring it up with the band manager. And Isla, yes, please. The last thing we need is a trombonist lost in a dust storm with a truck full of music stands."
+    }
+  ],
+  "content_sha256": "840fcb66ace11a25f88231549ba7d37e4f86b9f7184d07e80d66772a33b304ff"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ln-491-nomination-letter",
+  "title": "A Nomination for Oscar Diggs",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln007",
+    "ln051"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln051",
+      "text": "To the Founders' Gala Committee,\n\nI’m writing to nominate Oscar Diggs of the Junction Quarter Reading Room’s listening corner for one of this year’s honors. I’ve seen firsthand how he turns a quiet room into a town square.\n\nHis work on the listening corner is the obvious place to start. It’s not just a space with chairs and headphones. Oscar has a way of curating those recordings—a farmer from the Gillikin highlands one week, a story from an old Winkie Works clockmaker the next—that makes you feel like you’ve traveled somewhere without leaving your seat. Because of his setup, my reading group now meets there once a month. The change of scenery, the access to those voices, it’s sparked conversations we’d never have had in my store’s back room. He’s made it a resource, not just an amenity.\n\nBut the real reason I’m putting his name forward is the Brickway Transit town hall last spring. You remember the night; the projector failed, and the whole agenda was about to go sideways. Oscar didn’t miss a beat. He produced a flip chart and markers from somewhere—I swear he conjured them—and became the unofficial scribe for three hours. He wrote down every complaint about the Number 3 line, every suggestion about the bus shelter repairs, in this clear, big script everyone could see. He kept the mood from turning sour. He made people feel heard when the technology let us down. That’s a kind of civic magic.\n\nOscar’s showman’s patter is fun, but what’s underneath is a deep reliability. He always brings a backup, whether it’s a spare audio cable or a willingness to pick up a marker and serve. He builds connections—between stories and listeners, between neighbors and city plans. I can’t think of anyone more deserving of recognition at the Gala.\n\nSincerely,\nFlorence Gray\nGray's Grocery, Bell Market"
+    }
+  ],
+  "content_sha256": "b789de36a1feba00e4a5bf2de7cae4fee5758d5fd29965418b249d4b6da917a4"
+}

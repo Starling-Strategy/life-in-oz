@@ -1,0 +1,38 @@
+{
+  "id": "ln-056-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Pavel Dunn · June 2024",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln023"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Pavel called to check on the Small Business Circle meeting time. Conversation moved to shop updates."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln023",
+      "text": "That old monster of a baking sheet from the wholesale order? Warped, wouldn’t fit anything. I was about to chuck it in the scrap pile, but then I looked at the second oven—the smaller one. Grabbed the tin snips, cut a foot off the length. Now it fits perfectly in there. Use it for proofing the morning rolls. No sense wasting good metal."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "He mentioned another fix."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln023",
+      "text": "The central prep table. That wobble was driving me spare every time you leaned into a knead. Found a bracket in the back, shimmed the leg with a scrap of leather, tightened it all down. Solid as a rock now. Should’ve done it months ago."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "No new equipment needed for either. He’s planning to attend the next circle meeting if the morning bake is done in time."
+    }
+  ],
+  "content_sha256": "9336e1d3e231acca8ad16132ba82334222106a4b4f4a3d2d9a7568dd1dde0598"
+}

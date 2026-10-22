@@ -1,0 +1,55 @@
+{
+  "id": "ln-100-meeting-minutes",
+  "title": "Small Business Circle Meeting Minutes – October 2024",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln062",
+    "ln155",
+    "ln179"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Small Business Circle Meeting Minutes\nDate: October 16, 2024\nPresent: Nell Violetby, Wade Plumwood, Rhoda Reedshaw, Rowan Bell (Community Manager)\n\n1. WELCOME AND CHECK-IN\n   Rowan Bell called the meeting to order. Members shared brief updates on recent business conditions.\n   Rhoda Reedshaw noted the seasonal uptick in quilts and heavier linens. Wade Plumwood mentioned a steady stream of post-harvest tune-ups for farm carts. Nell Violetby reported that the school year was well underway."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "2. MEMBER UPDATES & ACCOMPLISHMENTS\n   a) Rhoda Reedshaw reported on a recent improvement to her laundry. She has installed retractable, ceiling-mounted drying lines in the back room. The new lines provide dedicated space for air-drying delicate items like wool sweaters and embroidered fabrics, increasing her capacity during peak periods without requiring floor space. She demonstrated the pulley system with a satisfied laugh, noting several customers had already commented on the convenience.\n   b) Wade Plumwood shared a recent repair. A postal worker from the Blue Orchard route came in late Tuesday afternoon with a heavily loaded delivery bike that had taken a knock, bending the derailleur hanger. Wade stayed after closing to straighten the hanger and perform a full gear adjustment. The bike was ready at opening on Wednesday, allowing the postal worker to complete their route without needing to seek a rental, which would have incurred a daily fee."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "3. NEW BUSINESS: SUMMER READING PARTNERSHIP PROPOSAL\n   Nell Violetby presented a draft proposal for the Small Business Circle to consider sponsoring prizes for next summer's Bell Market School reading program. Her proposal suggests that circle members could contribute vouchers for their goods or services as incentives for young readers who meet their reading goals.\n   As an example, she has already received tentative interest from a local pie shop for a free slice voucher and from a hardware store for a small toolkit. She envisions a tiered prize system, with vouchers from multiple businesses making up each prize bundle. The proposal is intended to promote literacy while providing local businesses with positive community exposure. She requested feedback and expressions of potential participation from the circle."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln155",
+      "text": "Wade Plumwood said he liked the idea and thought a voucher for a basic safety check or a set of new handlebar grips could fit well in a prize bundle. He asked about the expected number of winners."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln062",
+      "text": "Nell Violetby clarified that last year there were approximately forty prize winners across three age groups. She emphasized the proposal is flexible and businesses could choose the value and quantity of vouchers they feel comfortable contributing."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln179",
+      "text": "Rhoda Reedshaw said it was a wonderful idea and put people at ease about the ask. She offered to provide vouchers for a free delicates wash-and-dry service. She suggested the circle could also help Nell approach businesses in other districts, like Hammerhead Rise, to broaden the pool of potential donors."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "4. DISCUSSION AND NEXT STEPS\n   The circle agreed the proposal had strong merit. Wade moved that the Small Business Circle formally endorse the concept and that members indicate their voluntary participation level to Nell by the end of November. Rhoda seconded. The motion passed unanimously.\n   ACTION: Nell Violetby will revise the draft proposal incorporating today's feedback and circulate it to the full circle roster via the network newsletter by November 1.\n   ACTION: All members will consider what type of voucher they might contribute and inform Nell of their tentative commitment by November 30.\n   Rowan Bell offered to help connect Nell with the Chamber circle if she wished to expand the search for partners into other commercial districts."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "5. OTHER BUSINESS\n   There was a brief discussion about the upcoming Founders' Gala and member nominations. No further business was raised.\n   The meeting adjourned at 7:45 p.m.\n\nMinutes submitted by Rowan Bell, Community Manager, on October 17, 2024."
+    }
+  ],
+  "content_sha256": "19cbdda50083582d975b1f959fc77d843fd4e4264388267320fecd1123792eb3"
+}

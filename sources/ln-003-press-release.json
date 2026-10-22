@@ -1,0 +1,48 @@
+{
+  "id": "ln-003-press-release",
+  "title": "Reading Room Network Seeks to Preserve City's Craft Histories Before They Fade",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln074"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY – January 2024 – The Reading Room Network, an association dedicated to preserving and sharing the living history of Oz, has completed two new oral history projects, capturing the disappearing knowledge of local craftspeople. The work, led by volunteer Zinnia Pepperdale, will be added to the Network’s public archive, ensuring these stories remain for future generations."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The first project saw Pepperdale sit down with several retired bakers formerly of Lantern Row’s famed bakery district. Their interviews, now fully transcribed, detail the precise, guarded steps for creating the district’s signature sourdough bread. The archive now holds the full story of the starter’s origin, the specific resting times in the old brick ovens, and the method for achieving its distinctive crackled crust."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln074",
+      "text": "It was… a delicate process. Not just the baking, but the telling. Each baker remembered a slightly different detail—the feel of the dough on a humid morning, the sound the loaf made when it was ready. My task was to weave those threads together into a single, clear guide. It’s more than a recipe; it’s the story of a block."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In a separate undertaking, Pepperdale recorded the recollections of an elderly clockmaker who maintained the Emerald City’s central clocktower chimes for decades. The interview preserves intricate details of the original mechanical system, including the exact weights of the iron counterweights, the composition of the grease used on the pulleys, and the specific sequence for winding the mechanism—a system since replaced by modern electric motors."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln074",
+      "text": "He described the tower’s interior as a… forest of oak beams and hemp ropes. You could feel the weight of the city’s time in that room. He knew every squeak and groan of the gears. Capturing that… the tangible memories of a machine that marked the hours for so many… it felt urgent."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The Reading Room Network relies on volunteers like Pepperdale to document the skills and stories that define communities across Oz. The Network invites anyone with a story to share, or an interest in helping to record them, to contact their local Reading Room chapter."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "About the Reading Room Network: Part of the Emerald City Leadership Network, the Reading Room Network connects communities through shared history and knowledge. Volunteers maintain public archives and host story circles across the Emerald City, Munchkinland, the Gillikin Country, Quadling Country, and the Winkie Country."
+    }
+  ],
+  "content_sha256": "c066ca26b451acdc15a328194e0d4b0b770cc9b4e2cc65e4d515cfeec9d23a87"
+}

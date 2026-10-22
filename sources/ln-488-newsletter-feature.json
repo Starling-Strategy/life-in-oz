@@ -1,0 +1,59 @@
+{
+  "id": "ln-488-newsletter-feature",
+  "title": "When the Road Closed: How Meadow Mutual Aid Keeps Things Moving",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln020",
+    "ln026"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "A few weeks ago, a crew from the Emerald City Public Works department arrived in North Orchard with a mandate: patch a sinking stretch of the service lane behind the clinic block. It was good news for the pavement, less good for the North Orchard Clinic's ambulette, which uses that lane for patient pickups. The work was supposed to start Monday; by 7 a.m. Sunday, the 'Road Closed' signs were already up."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Caleb Alder, the clinic's reception lead, got the news from a volunteer driver who lives on that block. \"Neighbors told me the crew showed up early to get a head start,\" Caleb says. \"They'd blocked the lane with cones and one of their little tractors.\" That meant three scheduled pickups for Monday morning were suddenly inaccessible."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln020",
+      "text": "It wasn't a big panic, just a puzzle. The drivers all have the neighborhood maps, and I know which streets are wide enough for the ambulette to turn around. I called the three families, explained about the tractor, and gave them new pickup spots one street over. Took maybe twenty minutes. The funniest part was the first driver who called me—he just said, 'Caleb, the road ate a tractor.' Which, you know, wasn't technically wrong."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "By the time the road crew's first coffee break rolled around, all three patients had been rerouted and arrived at the clinic on time. The incident never made it into a formal report; it was just a Monday."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Over in South Meadow, the paperwork doesn't move, but how you organize it can make all the difference. Elias Moss, treasurer for the South Meadow Housing Cooperative, recently faced a mountain of maintenance receipts from the past quarter—plumbing, electrical, landscaping, the works."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln026",
+      "text": "They were in two shoeboxes and a folder that said 'Misc.' on it. Not ideal. When the co-op board asked about the cost of repiping the common line last February, I had to dig through everything. It took me forty-five minutes to find the invoice and the canceled check. After that, I decided to sort it properly."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Elias spent an evening sorting every receipt by contractor, then by month, labeling a set of folders with clear names. The system was tested sooner than expected."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln026",
+      "text": "The very next week, someone needed the details on the gutter cleaning. I opened the 'Landscape & Exterior' folder, found the month, and there it was. Twenty minutes, start to finish. Half the time. It's not glamorous, but it means when people have questions about where their money goes, we can answer them fast. That's the point."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "From rerouting vehicles to routing paperwork, these are the small, essential efficiencies that keep the Meadow Mutual Aid network humming. No grand announcements, just the work of making sure people get where they need to go and know where their resources are flowing."
+    }
+  ],
+  "content_sha256": "e492ea9171b87181abd1fbaddddabf1762d6bc2e11d91679e2abe06e0396802f"
+}

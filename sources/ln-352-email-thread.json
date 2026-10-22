@@ -1,0 +1,35 @@
+{
+  "id": "ln-352-email-thread",
+  "title": "Listening corner installation",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln007",
+    "ln028",
+    "ln012"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln012",
+      "text": "From: Greta Vane, Reading-room attendant\nTo: Oscar Diggs, Exhibition technician\nSubject: Listening corner sign-off\nDate: October 7, 2025\n\nOscar,\n\nThank you for the walk-through. The Junction Quarter Reading Room listening corner is now formally accepted. The installation is stable, the bench seating is within our floor-load limits, and the single-socket power draw is as agreed. I have appended the room’s weekly schedule; the corner will be open during all regular reading room hours, with the exception of the Wednesday morning quiet period for our study group.\n\nPer our policy on shared audio equipment, I will have a small sign printed regarding headphone hygiene—wiping down after use, etc.—to be posted on the bench. Please let me know if you have any specific wording you’d prefer from a technical standpoint.\n\nWell done on a tidy piece of work.\n\nGreta"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln007",
+      "text": "From: Oscar Diggs, Exhibition technician\nTo: Greta Vane, Reading-room attendant\nCc: Felix Rowe, Producer, Bell Market community radio\nSubject: Re: Listening corner sign-off\nDate: October 7, 2025\n\nGreta,\n\nExcellent. The schedule works perfectly. For the sign, maybe just ‘Please wipe the earpieces with the provided cloth before returning the headphones to the cradle.’ Simple, polite, and it protects the gear. The cloths are in the small box on the left side of the bench.\n\nFelix—a huge thanks again for the loan of the field recorder. It made all the difference in capturing those orchard-village voices clearly. And your ear in co-editing the first six histories was indispensable; you caught a few background hums I’d gone tone-deaf to. The bench is wired, the stories are loaded, and we are officially ‘on air’ in a very quiet, seated way.\n\nAll the best,\nOscar"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln028",
+      "text": "From: Felix Rowe, Producer, Bell Market community radio\nTo: Oscar Diggs, Exhibition technician; Greta Vane, Reading-room attendant\nSubject: Re: Re: Listening corner sign-off\nDate: October 8, 2025\n\nOscar, Greta,\n\nPleasure was all mine. Glad the recorder worked out—it’s a good machine, likes a dry day which we had plenty of. Those edits were a nice bit of work; got the pace right, kept the coughs and the long pauses to a minimum without losing the feel of the conversation. Sounds like a proper little setup you’ve built there. One socket! That’s working on a tight budget. Let me know if you want to batch up the next set of interviews. We could run them on the Sunday community slot, give the corner a bit of a signal boost.\n\nFelix"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln007",
+      "text": "From: Oscar Diggs, Exhibition technician\nTo: Felix Rowe, Producer, Bell Market community radio; Greta Vane, Reading-room attendant\nSubject: Re: Re: Re: Listening corner sign-off\nDate: October 8, 2025\n\nFelix, Greta,\n\nA radio slot would be fantastic. Let’s plan for that. I’ve got three more villagers lined up who were away during the first round. We’ll get them recorded, you and I can give them the same once-over, and then we can talk timing for your Sunday show.\n\nGreta, I’ll stop by tomorrow to refill the cloth box and check the headphone connections. All part of the service. The show must go on, and it will—quietly, and only between 9 a.m. and 8 p.m. on most days.\n\nCheers,\nOscar"
+    }
+  ],
+  "content_sha256": "160ac08301e9845537600756afc1e337f6ecfae1fb0b3679d30543fe7fa33599"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ln-010-meeting-minutes",
+  "title": "Young Founders Circle Meeting Minutes – January 2024",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln078",
+    "ln135",
+    "ln194"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Young Founders Circle – Monthly Meeting\nDate: January 18, 2024\nPresent: Agnes Hazelton, Gwen Violetmore, Hazel Violetbourne, Rowan Bell (Community Manager)\n\n1. Welcome and Check-in\n   The meeting was called to order at 6:05 PM. Rowan welcomed everyone and noted the evening's focus was on recent project completions and planning for the spring cycle."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln078",
+      "text": "I'm glad to be here. Before we get into the planning, I wanted to share something I wrapped up last week. The hinged flap on the Redfern Hill community hall stage has been sagging for months—a real hazard. I replaced the old hardware with new piano hinges and added a steel support bracket underneath. It's solid now, so the drama group can get back to their rehearsals safely."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Agnes showed a photograph of the reinforced stage edge. The group agreed this was a good example of addressing a community need with practical skills."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln135",
+      "text": "That's wonderful, Agnes. It reminds me of my own recent project. I'd noticed the crossing guards near Bell Market squinting in the glare, especially with all the roadwork dust. So, I sourced a batch of durable, wraparound safety glasses—they've got side protection and anti-fog coating. I fitted a dozen guards last week. They're not prescription, just protective, but it makes a real difference for visibility and comfort."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Gwen explained the glasses were purchased through a supplier discount and funded by a small grant from the Emerald City Chamber's safety initiative."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln194",
+      "text": "I love hearing about these hands-on fixes. My contribution this month was quieter, but I think just as important. I sat down with a retired basket weaver here in Heatherford for an oral history session. We spent an afternoon talking, and I recorded her describing the entire process—from identifying the right willow shoots in the damp meadows, to the seasonal harvesting, to the preparation and stripping for the traditional Quadling patterns. It's all captured now, for the Reading Room archives."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Hazel noted the recording equipment was borrowed from the Reading Room Network. The group discussed how preserving craft knowledge supports future makers.\n\n2. Discussion of Spring Projects\n   Rowan prompted the circle to think about projects for the coming season."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln078",
+      "text": "Looking ahead, I'd like to organize a basic tool maintenance workshop at the Makers Space. Something simple: sharpening, lubrication, checking cords. It would be open to anyone in the network."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln135",
+      "text": "That's a great idea. I could contribute a segment on eye protection for different tasks. For my own planning, I'm looking into hosting a vision health talk for the Small Business Circle, but that's still in the very early stages."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln194",
+      "text": "I plan to reach out to two more elders in Gillikin Country for oral histories—one was a potter, the other worked with the old timber flumes. I haven't scheduled the sessions yet."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "3. Open Actions and Next Steps\n   - Agnes to draft a workshop outline and propose dates for the tool maintenance session.\n   - Gwen to develop a one-page outline for the vision health talk concept.\n   - Hazel to make initial contact with the potential interviewees.\n   - Rowan to circulate a draft of the network's spring calendar for comment.\n\n4. Next Meeting\n   The next meeting is scheduled for February 15, 2024, at 6:00 PM. Meeting adjourned at 7:20 PM."
+    }
+  ],
+  "content_sha256": "30948b4433b71fc397c2076bab643e808d6bf81ca357ac4856e1bfac7237d0be"
+}

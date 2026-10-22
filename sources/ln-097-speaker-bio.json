@@ -1,0 +1,36 @@
+{
+  "id": "ln-097-speaker-bio",
+  "title": "Event Program: Quadling Health Access Meet & Learn, October 2024",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln253",
+    "ln259",
+    "ln171",
+    "ln211"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Orla Amberholt is a foreman with the Brickway Works road crew, based in Redfern Hill. While her daily work keeps the Brickway's paving and drainage secure, her focus on community well-being extends beyond the asphalt. Recently, noticing a persistent hazard, she coordinated directly with a fabricator in the Winkie Country to produce twelve new, durable drain grates. She and her crew then marked each broken grate location with bright safety cones, preventing accidents for cyclists and pedestrians until the replacements could be installed. Her practical, get-it-done approach ensures the physical infrastructure that communities rely on is both safe and functional."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Emrys Crowham administers the South Copse Care Home in Quadling Country. With a soft-spoken and measured manner, he attends to the details that foster community and comfort within the home. Recognizing how much residents valued their weekly communal sing-along, he noted the piano's increasingly sour and muted notes. He arranged for a specialist tuner to service the instrument, a project that required navigating scheduling and budgets. The piano now sounds clear and full again, and the sing-alongs have resumed, providing a consistent source of joy and social connection that Emrys understands is vital to holistic health."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Honor Tinford, owner of The Tinford Table in the Emerald City's Junction Quarter, brings a direct, warm, and seasoned perspective to the challenges of independent food businesses. She sees how erratic supply chains and minimum order sizes strain small kitchens and local producers alike. Looking to build resilience, she intends to organize a casual meet-up at her restaurant for fellow small-scale restaurateurs and independent food producers. Her goal is to discuss forming a more flexible, cooperative buying group that could secure better prices and reliable quality for all members, strengthening the local food ecosystem from the ground up."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Agnes Fernton is a physiotherapist at the Green Market Clinic. With a gently explanatory tone, she focuses on making therapeutic movement accessible outside the clinic walls. Observing a need in Violet Hills, where many residents manage knee arthritis but lacked simple exercise options, she devised a practical solution. Using a repurposed wooden cable spool as a stable seat and a length of smooth dowel as a guide, she created a sturdy, seated leg-extension station. Installed in a public park, the station requires no supervision or special equipment and is now regularly used by residents to maintain strength and mobility as part of their daily routines."
+    }
+  ],
+  "content_sha256": "06c2ee5e0c13ab0743a0fc88803507abb73e652f6120e47d197efac4b263b2e1"
+}

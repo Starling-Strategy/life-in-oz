@@ -1,0 +1,29 @@
+{
+  "id": "ln-223-intake-email",
+  "title": "Fwd: A couple of good things from the festival circuit",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln165",
+    "ln013"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln165",
+      "text": "From: Willa Rushley\nTo: ECLN Intake Desk\nSubject: Fwd: A couple of good things from the festival circuit\nDate: 9 April 2025\n\nHi Rowan,\n\nForwarding a note from Vera Porcelain in Clay Hollow. I read it and thought, this is exactly the sort of thing we should be sharing. It put me in mind of our lantern project, so I’ve scribbled that down below her note, too. More light, more punch! Hope it’s useful.\n\nBest,\nWilla"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Vera Porcelain\nTo: Willa Rushley\nSubject: Re: Clay Hollow Harvest Festival\nDate: 7 April 2025\n\nWilla,\n\nThank you for asking. The punch bowl for the opening ceremony was a minor crisis averted. It’s a large, old family piece the organizers borrowed, and the spout had snapped clean off in transit. A clean break, but in an awkward, weight-bearing spot.\n\nI used a series of internal ceramic dowels for alignment and structural support, then sealed it with a food-grade adhesive. The repair is nearly invisible from the outside, and critically, it held the weight of the punch for the entire ceremony without a drop leaking. The owner was relieved, and the committee didn’t have to scramble for a last-minute replacement.\n\nSincerely,\nVera"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln165",
+      "text": "And from my end, our Redfern Hill Autumn Festival lantern release went off without a hitch! I sourced a batch of fully biodegradable paper lanterns (they dissolve in rain, it’s fantastic) and briefed a team of fifteen volunteers on the safety protocols – keeping a clear path, wind direction checks, the whole routine. Seeing a few hundred of those little lights drift up over the hill was just magic. Everyone stayed safe, and the clean-up crew the next morning said they found only a few damp scraps."
+    }
+  ],
+  "content_sha256": "8cd0f3bde83ba7e1dd09a333a76b43c64dc9bdb9a6a89a80e375ffdab5b9aa4c"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ln-270-nomination-letter",
+  "title": "Nomination for the Festival Committee Appreciation Award",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln213",
+    "ln201"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln213",
+      "text": "To the Founders' Gala Committee,\n\nI am writing to nominate Lottie Wren of Wren Puppets for recognition for her work supporting the Festival Committee. My own recent experience in Gate Quarter provided a clear example of how small, systematic efforts can have a large impact on our events. While preparing for the street fair, I discovered a long-neglected crate of festival pennant poles in a storage locker. They were a tangle of three different, incompatible mounting bracket types. I spent an afternoon sorting them by type and clearly labelling each crate. This small act saved our setup crew hours of frustration and trial-and-error during the fair.\n\nThis is why I wish to highlight Lottie's work. For the upcoming Yellow Kiln lantern parade, she identified a persistent problem: puppet components, particularly fabric and papier-mâché pieces, were often stored damp in old sacks or boxes, leading to mildew and disorganization. Lottie did not just mention the issue; she sourced and procured heavy-duty mesh bags specifically for this purpose. These bags allow for air circulation, preventing rot, and their clear design lets crews see exactly which puppet or component is inside. This simple, thoughtful solution preserves our community's artistic assets and ensures the parade's preparations are smoother and more efficient.\n\nLottie's action demonstrates the quiet, practical stewardship that makes our network's events possible. She saw a need that affected the longevity and quality of our shared resources and addressed it directly and effectively. I believe her contribution exemplifies the spirit this award seeks to honor.\n\nSincerely,\nLorna Plumshaw\nVolunteer Lead, Festival Committee"
+    }
+  ],
+  "content_sha256": "a5dbf4cc835555a48064b3735be13d6ded2c62f561514d93a9c84a1bc93958c4"
+}

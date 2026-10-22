@@ -1,0 +1,24 @@
+{
+  "id": "ln-313-intake-email",
+  "title": "Fwd: Parade Photos & Space Hunt",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln225",
+    "ln201"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln225",
+      "text": "From: Mabry Rushcombe, Rushcombe Costumes\nTo: Network Intake Desk\nDate: August 2025\nSubject: Fwd: Parade Photos & Space Hunt\n\nHi Rowan,\n\nHope you're faring well! I'm attaching a few snaps from the Gate Quarter Spring Parade—my floral creatures finally got to stretch their legs! The six of them, all burlap and wire, were a riot of color. The kids especially loved the big swaying 'Dawn Poppy' one; it could bob and weave through the crowd without anyone getting poked. They held up beautifully, even when the afternoon breeze came through.\n\nAlso, I got a note from Lottie Wren (cc'd) who's thinking ahead for next year's Munchkin harvest do. She's hunting for a specific kind of workspace. I told her you're the one with all the good leads for space and people. Everything she's after is in her message below.\n\nAll best,\nMabry"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Lottie Wren, Wren Puppets\nTo: Mabry Rushcombe\nDate: 22 August 2025\nSubject: Space inquiry\n\nMabry,\n\nCongratulations on the parade success. The photos are wonderful—the scale you achieved with the burlap is impressive.\n\nAs we discussed, I am in the early planning stages for puppet forms for next year's Munchkin harvest celebration. The designs require a much wider wingspan and taller frames than my current workshop allows. I am specifically looking for a vacant warehouse bay, preferably with ceilings at least five meters high, where I can lay out and construct these larger pieces. It would need to be available for a 3–4 month period leading up to the event. If you know of any leads through your network, I would be grateful for an introduction.\n\nBest regards,\nLottie"
+    }
+  ],
+  "content_sha256": "37d54af805cf0b4b9621ef20b7a4e94c119f53b2dc22d391da921c1e4c21cf07"
+}

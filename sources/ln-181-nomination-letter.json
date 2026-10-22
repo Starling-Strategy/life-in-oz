@@ -1,0 +1,19 @@
+{
+  "id": "ln-181-nomination-letter",
+  "title": "Nomination for Ambrose Bramblefield, Founders' Gala",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln191",
+    "ln119"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln191",
+      "text": "To the Founders' Gala Committee,\n\nI am writing to nominate Ambrose Bramblefield of Bramblefield's Cafe in South Meadow for recognition at this year's gala. My own experience this past winter highlights the kind of practical, supportive work our Small Business Circle does. I replaced my shop's tired old awning with a sturdy canvas one from a Winkie mill. It was a straightforward fix—now the window is shaded and the storefront looks like a place that cares about its work. But Ambrose's contribution feels different; it’s about building a space for others to do their work, too.\n\nEvery month, the South Meadow Reading Group meets in the back corner of his cafe. Ambrose doesn't just tolerate them occupying a few tables. He sets aside the space properly, with a dedicated tea service for the group. He even created a special blend for them, named after whatever book they're discussing. My cousin is in that group, and she says it’s the highlight of her month—not just the discussion, but the feeling of being welcomed and considered. In a small community, that kind of intentional hospitality is a real skill. It turns a transaction into a gathering place.\n\nAmbrose is soft-spoken and might not put himself forward, but his actions show a deep understanding of what a local business can be: a reliable, gentle center for the people around it. He’s made his cafe a home for a quiet, important piece of our community's life. I think that’s exactly the spirit the Founders' Gala aims to celebrate.\n\nSincerely,\nAurelia Quadwood\nQuadwood's Barbers, Yellow Kiln"
+    }
+  ],
+  "content_sha256": "8355ae7cf349833153595db79a713f8359bdf8b21a9c7ac1b20d43761acbe96c"
+}

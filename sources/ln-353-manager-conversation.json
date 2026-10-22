@@ -1,0 +1,43 @@
+{
+  "id": "ln-353-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Nell Heatherholt · October 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln250"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell checking in with Nell about tool library upkeep and recent activity."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln250",
+      "text": "We had a garden fork come back last week with two tines bent right over. Someone must've hit a root. I got it in the bench vise, worked it straight with the mallet, then filed down the burrs so it wouldn't snag. It's back on the shelf now."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Noted."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln250",
+      "text": "Then Saturday was the mower clinic. Six people showed up. We went through the whole process: safe removal of the blade, sharpening with a file—I stressed keeping the original bevel—and how to check the balance by hanging it on a nail. A couple of folks brought their own mowers and did the work right there. They seemed pleased to know they could do it themselves next time."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Any plans for another clinic?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln250",
+      "text": "Thinking about one for pruning tool maintenance before the spring rush. Saw sharpening, pivot bolt tightening, that sort of thing. I'll put a note on the board next month to see if there's interest."
+    }
+  ],
+  "content_sha256": "5590a7d2ee2356e0845fcbc1f505ca8e768c826f5536e9ed6803937106c05d5e"
+}

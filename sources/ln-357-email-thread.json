@@ -1,0 +1,24 @@
+{
+  "id": "ln-357-email-thread",
+  "title": "RE: Violet Hills flour and a good tutoring trick",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln221",
+    "ln198"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln198",
+      "text": "From: Xan Cinderby, Founder, Cinderby Tutoring\nTo: Ren Cinderholt, Mill operator, Violet Hills Grain Mill\nSubject: RE: Violet Hills flour and a good tutoring trick\nDate: 14 October 2025\n\nRen,\n\nGot your note. It was good to hear from you. The flour sounds like a lovely gift for the festival. Two hundred small sacks is no small task. I remember your father talking about the stone grinding process when I was a boy visiting; it’s a fine thing to share that with the whole village. It makes the gift feel substantial.\n\nAs for the tutoring, it’s kind of you to mention. It wasn’t anything too grand. I was working with a student from the Brickway district who was stuck on a physics problem about mechanical advantage. We’d been going in circles with the textbook diagrams. I finally asked if they’d ever taken a bicycle apart. They hadn’t, but they knew how the gears felt going uphill. We talked about the gearbox on a bike, how the chain moves between different-sized cogs. Something about that—the feeling of shifting to an easier gear—made the principle click. They went home and reworked the problem correctly. I was just the one who happened to find the right analogy.\n\nAre you planning to be in the city for the next Founders’ meet-up? I’d like to hear how the festival reception went for the flour. It’s always useful to hear how other people present their work to a community.\n\nAll the best,\nXan"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln221",
+      "text": "From: Ren Cinderholt, Mill operator, Violet Hills Grain Mill\nTo: Xan Cinderby, Founder, Cinderby Tutoring\nSubject: RE: Violet Hills flour and a good tutoring trick\nDate: 16 October 2025\n\nXan,\n\nThanks for the reply. The packing took the better part of three days, but it’s done. Each sack is stamped with the mill’s mark—the old oak and wheat sheaf. We’ll hand them out at the festival welcome tables. Modest, I know, but folks appreciate knowing where their food comes from.\n\nThat story about the bicycle gearbox is exactly what I mean. Finding the right way in. We had a customer last week who couldn’t grasp why our stone-ground keeps longer. I ended up comparing it to the difference between a rough-cut stone path and a polished floor—more surface for the air to hold onto, or some such. It seemed to settle the matter. It’s the same sort of thinking.\n\nI won’t be in the city next month; we’re into the late harvest runs at the mill. But if you’re ever up in Violet Hills when the wheel’s turning, you’re welcome to come by. The noise is something fierce, but the smell is good.\n\nRen"
+    }
+  ],
+  "content_sha256": "2ac62f7e7fa4a1ed853105f3f7f38635153bea32760c8d9baec28fda47d0c03a"
+}

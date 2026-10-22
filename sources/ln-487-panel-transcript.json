@@ -1,0 +1,157 @@
+{
+  "id": "ln-487-panel-transcript",
+  "title": "Gillikin Grown, City Bound: A Panel on Supply, Design, and Delivery",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln042",
+    "ln101",
+    "ln221",
+    "ln138",
+    "ln164"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone, and welcome. I’m Rowan Bell, community manager for the Emerald City Leadership Network. Tonight’s conversation is ‘Gillikin Grown, City Bound,’ and we’re focusing on the connections between producers, buyers, and the systems that get goods where they need to be. I’m joined by five members from across the network. Let’s start with a quick hello from each of you. Daphne?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln042",
+      "text": "Daphne Lark. I buy the food for the school meals in North Orchard. It’s a lot of potatoes."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln101",
+      "text": "Beryl Brookford. I’m a cooperative buyer with Gillikin Growers. My work involves… coordinating bulk purchases from our member farms and mills."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln221",
+      "text": "Ren Cinderholt. I run the Violet Hills grain mill. We take what the growers bring us and turn it into flour, meal, that sort of thing."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln138",
+      "text": "Una Fernford, Fernford Design Studio in Bell Market. I design things for people who make things—packaging, tools, signs. I think about how things look and how they work together."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln164",
+      "text": "Nico Poppycombe, with Meadow Mutual Aid over in Brickway Junction. I help organize our delivery rotas for food and supplies to folks who need them."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Thank you. Daphne, let’s begin with you. You’re at the end of the chain in a way, feeding students. What does a reliable supply line look like from your desk?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln042",
+      "text": "It looks like not having to rewrite the menu in the middle of the week. This past winter, we had a problem. The usual Gillikin potato harvest came in light because of all the rain. My supplier called and said he could only fill half my order. That’s two hundred kilos short. I can’t serve ‘potato-shaped hopes’ on a plate."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "What did you do?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln042",
+      "text": "I started calling other growers on the cooperative list. Not to undercut my usual man—he had a bad year, it happens—but to see if anyone had a surplus they hadn’t moved yet. Found a farm near Violet Hills that had stored a bigger crop. They were willing to sell me the two hundred kilos at the same price. It meant adjusting the delivery day, but the winter lunch menus stayed as planned. Mash on Monday, stew on Thursday."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln101",
+      "text": "That’s… that’s a good example of the network working. Daphne used the co-op list. The grower with surplus found a buyer without it flooding the open market and driving prices down for everyone else. It’s… balanced."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "Balance seems key. Ren, you’re in the middle of that chain, processing grain. Does that balance affect your work?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln221",
+      "text": "Every day. We get orders for all sorts: coarse for porridge, fine for bread, superfine for pastries. Recently, a baker in town had a big order for some fancy nut-and-spelt cake. Needed a flour so fine it’d feel like silk. We’ve got a secondary mill line we use for experimental batches. I had a new sifter mesh made—a finer grade. Ran a small batch of spelt through it, just a sack’s worth. The baker tested it, said it was perfect. Now we know we can do that grade consistently if the order comes up again."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln138",
+      "text": "Oh, that’s lovely! The right tool for the right texture. It’s like choosing the perfect brush for a line."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "Una, you design some of those tools, don’t you? Not sifter meshes, but the things that identify the product."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln138",
+      "text": "Yes! I worked with a lovely little stone-ground mill down in Munchkin Country. They were using a hand-stamped ink pad on their linen sacks, and it was always smudging or fading. They wanted something simple, durable, and… them. So I designed a reusable stencil for them—cut from a stiff, waterproof material. Now they can just dab on the paint, press the stencil, and pop it off. A clean, consistent mark on every sack. It makes their flour look like theirs, even before you open the bag."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln101",
+      "text": "Consistency in branding… that leads to something I’m working on. For the cooperative, I’m drafting a proposal. Right now, when we order flour in bulk from different Gillikin mills, it comes in bags of different weights—twenty-five kilos, twenty, thirty. Different materials, too: some heavy linen, some lighter cotton. It makes stacking, inventory, and re-use… complicated."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "manager",
+      "text": "What are you proposing?"
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln101",
+      "text": "A standard. One weight—I’m thinking twenty-two kilos—and one material specification for the bulk bags. It would simplify ordering for buyers like Daphne. It would let mills like Ren’s plan their bag purchases better. And if the bags are uniform and sturdy, they can be returned, cleaned, and re-used many times, cutting down on waste. It’s just a draft. I’ll need to get all the mill operators and major buyers to look at it."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln221",
+      "text": "Twenty-two kilos… aye, that’s a manageable weight. Lighter than some, heavier than others. I’d be willing to look at the numbers. A standard bag would certainly neaten up our loading bay."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "manager",
+      "text": "Nico, you’re on the final leg of the journey—delivery. How do you manage getting these goods to the people who need them?"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln164",
+      "text": "It’s all about the rota. We have a list of recipients for our mutual aid deliveries, and we used to just assign times based on driver availability. But a missed delivery means someone doesn’t get their food, and the driver has to make a second trip. So last month, I collected notes. Just asked people, ‘What’s your best window?’ Got over thirty replies."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "manager",
+      "text": "What did you learn?"
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln164",
+      "text": "Lots of small things. One parent said after 3 p.m., once the kids are home from school, is perfect. An older recipient prefers mornings, before the heat. Someone who works nights asked for a late afternoon drop. I took all that and adjusted the next month’s rota. It’s not perfect—drivers still have routes—but we’ve already seen fewer missed deliveries. It’s just respectful, you know? The delivery is for them, so their time matters."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln042",
+      "text": "That’s the same principle. My job isn’t just buying potatoes; it’s making sure they’re on a student’s plate at lunchtime. Ren’s job isn’t just milling spelt; it’s making flour fine enough for a specific cake. It’s all connected."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln101",
+      "text": "Yes. And the connection… needs good structure. Like a standard bag. Or a clear stencil. Or a reliable rota. They’re not the product, but without them, the product doesn’t reach its purpose."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "ln138",
+      "text": "Exactly! The structure is the design. The bag, the stencil, the schedule—they’re the framework that holds the good stuff inside."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "manager",
+      "text": "It sounds like the work is in both the substance—the potato, the flour—and the systems that shepherd it. My thanks to all of you for sharing that work tonight. For our listeners, links to the Gillikin Growers Cooperative and Meadow Mutual Aid will be in the transcript. Goodnight."
+    }
+  ],
+  "content_sha256": "dba96267f1e2fa5a8653e64af6ee8b806d79ba5555f8b24084a8a350a70ef91c"
+}

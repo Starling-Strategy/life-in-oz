@@ -1,0 +1,35 @@
+{
+  "id": "ln-247-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Jasper Brookwood · May 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln167",
+    "ln096",
+    "ln299"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Jasper sounded cheerful but a bit rushed, background noise of the cafe's grinder. He said he'd just come from fixing a tap in the kitchen. The drip had been driving him and the staff crazy for weeks. He finally watched a tutorial on a community board, bought a washer from the hardware stall on Brickway, and did it himself last Thursday. Said it was surprisingly straightforward and saved him a hefty call-out fee from a plumber. He joked that his next skill might be electrical, but then quickly added he'd probably stop at plumbing."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Jasper mentioned that Mattie Amberstead had a bit of a scramble last month. Her autumn tulip bulb shipment was delayed by about a week, which put her behind schedule. She didn't wait; as soon as they arrived, she sorted them, contacted her regular customers, and pre-sold most of the batch with clear instructions for late planting. She told Jasper she managed to move the whole lot and even got a few new orders from the word-of-mouth."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "On Hugo Peppermere, Jasper had heard this secondhand from a guild member who visits the cafe. The story is that Hugo coached one of his newer apprentices on how to put together and present a bid for a small repair job—something about a porch step, I think. The apprentice went to the client with Hugo's guidance, presented the bid clearly, and the client accepted it right there on the spot. Jasper said the guild member seemed really pleased with how Hugo is structuring the training."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Jasper agreed the Small Business Circle meeting next week would be useful, especially to share these kinds of 'small win' stories. He said he'd try to make it, depending on how the lunch rush goes."
+    }
+  ],
+  "content_sha256": "6e11ac5b41a317dfb1e5acee2301fb25ed21d8d90b8fcecc8cbfca8f09c8d497"
+}

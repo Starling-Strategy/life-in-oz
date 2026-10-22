@@ -1,0 +1,30 @@
+{
+  "id": "ln-156-speaker-bio",
+  "title": "Program Participant Bios",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln127",
+    "ln282",
+    "ln216"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Ines Spindleton is a physiotherapist at Meadowbank Clinic. Her gentle and encouraging approach extends beyond the clinic; she recently assisted an elderly patient in compiling the necessary documentation to appeal a delayed funding decision for a walking frame, a successful effort that led to the approval of the request."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Dov Wickwood founded Wickwood Translations in the Gate Quarter of the Emerald City. Known for precise and quietly enthusiastic work, Dov recently caught and corrected several subtle errors in the Gillikin and Quadling language sections of the Emerald City Spring Festival's printed program before it went to press, ensuring clarity and respect for the dialects."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Ivo Fernby is a floor lead at Saffron Flats Can Works in Timber Verge. His direct, results-focused approach is practical: he recently designed and welded simple angled brackets to hold removable drip trays under two filler heads on the main line, a modification that captured minor syrup leaks and made end-of-shift cleanup significantly faster."
+    }
+  ],
+  "content_sha256": "d1e160b5702d0fcdc167a4217bbbf9a6864b83c404dea8c74393b9105ac955e5"
+}

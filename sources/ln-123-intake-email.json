@@ -1,0 +1,23 @@
+{
+  "id": "ln-123-intake-email",
+  "title": "Fwd: Two Items for the Network",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln043"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln043",
+      "text": "Rowan,\n\nForwarding two things for the intake log. First, a note about a small equipment plan. Second, a bit of market news that's got me thinking. Hope you're having a good December.\n\nSimon"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Simon Fern\nTo: Emerald City Leadership Network Intake\nDate: December 2024\nSubject: Project & Client Update\n\nItem One – Equipment Test Planned:\nI’m looking into installing a UV sanitation lamp in the final rinse stage of the wash line. The idea is that with proper UV treatment, I won’t need to keep the rinse water as hot, which could cut down on heating costs. I’ve sourced a lamp that fits the existing rack system—you know I’m particular about the racks—but I’m holding off on any installation until after the safety inspection from the county. That’s scheduled, but no date yet.\n\nItem Two – Market Shift:\nLost a client this month, a small orchard over in the lower Blue Orchard valley. They were with me for three seasons, but a competitor from over the river is undercutting on per-crate rates. It’s a straight volume game they’re playing. It’s prompted me to sit down and review my service bundles, especially for the smaller growers who might be feeling the pinch. Maybe there’s a tiered approach or a seasonal contract that makes more sense for them.\n\nThat’s the news from the crate wash.\n\nSimon Fern\nFern Crate Wash\nBlue Orchard"
+    }
+  ],
+  "content_sha256": "0bb33900c3ca05a92dafeb978201189cb6cc57bab351c7e5205382d0424eb1c4"
+}

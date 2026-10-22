@@ -1,0 +1,43 @@
+{
+  "id": "ln-494-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Barnaby Haybourne · July 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln089"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Called Barnaby Haybourne for a monthly check-in on Gillikin Growers activities. He was in high spirits, having just come in from checking soil samples."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln089",
+      "text": "Rowan! Just the thing. I've been up to my elbows in dirt for the city's new flowerbed project. They had six possible spots, and I tested every one. The pH tells you everything—two were far too acidic, one was practically alkaline. But I found three beauties along the south Brickway stretch: good drainage, neutral pH. You don't need to amend the soil much at all, which saves the project committee a bundle on lime and compost. I sent the report over yesterday."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Noted. Any other projects on the horizon?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln089",
+      "text": "Oh, it's all about planning ahead. I'm thinking autumn. The city's parks shed leaves like nobody's business, and they just send them off to be composted centrally. What a waste of a perfect resource! I want to organize a proper leaf collection drive—get volunteers to bag them up right there in the parks. Then we store the bags over winter, and come spring, gardeners from all the circles can have leaf mould for their plots. It's a year-long process, but if we start the organizing now, we'll be ready when the first gingko drops."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "So that's still in the planning phase? No dates set yet?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln089",
+      "text": "Exactly right. It's an intention, an offer. I need to talk to the park maintenance folks and the Chamber circle to see about permissions and storage. But the science is sound. Leaf mould is gold."
+    }
+  ],
+  "content_sha256": "74ee503e62716eb88dbbd274b987b53f4ab8ddece2925debc116255c72a56d1b"
+}

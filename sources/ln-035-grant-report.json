@@ -1,0 +1,44 @@
+{
+  "id": "ln-035-grant-report",
+  "title": "Small Business Circle Grant Report – April 2024",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln191",
+    "ln203"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nApril 2024\nGrant funds from the Emerald City Leadership Network’s Small Business Circle were directed toward two member-led initiatives in the first quarter of 2024: a skills-sharing project in Yellow Kiln and a planned equipment upgrade to support regional events."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Aurelia Quadwood of Quadwood's Barbers used her portion of the grant to purchase professional-grade combs, shears, and instructional materials. Over three consecutive weekends, she taught basic hair-cutting techniques to a local teenager from Yellow Kiln."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln191",
+      "text": "The kid showed real interest, so we started with the fundamentals—how to hold the tools, how to section hair, straight lines on a mannequin. By the third weekend, they were ready to try a simple trim on a willing brother. I sent them home with a starter kit so they could keep practicing on family. It’s not about making a barber out of them in a month, it’s about giving them a skill they can always fall back on."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The remaining funds are supporting Lux Thistlemore of Thistlemore Catering in a research phase. Lux is investigating the purchase of durable, fuel-efficient chafing dishes specifically for rental to caterers and community groups hosting outdoor events in Gillikin Country."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln203",
+      "text": "Gillikin garden weddings are beautiful, but the logistics are a challenge. You need equipment that holds heat steadily in the open air without guzzling fuel cans all evening. I’m comparing materials, insulation, and burner types. The goal is to have a small, reliable set available for rent by next season—it’ll cut down on waste and transport costs for a lot of us."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Grant money has been fully allocated. Aurelia’s project is complete, with the tools purchased and the instruction given. Lux’s research is ongoing; no equipment has been purchased yet. The Small Business Circle will review outcomes and usage later this year."
+    }
+  ],
+  "content_sha256": "1205a556ef19748e4315a750b9fb0f5f10b4909691a5ddc736c06b0f706e515d"
+}

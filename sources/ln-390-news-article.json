@@ -1,0 +1,91 @@
+{
+  "id": "ln-390-news-article",
+  "title": "Keeping the Pages Turning: A Roundup of Quiet Work in the Reading Room Network",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln182",
+    "ln074",
+    "ln291",
+    "ln170"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "While the larger Emerald City Leadership Network circles often make headlines with new transit initiatives or mutual aid drives, the Reading Room Network hums along with quieter, equally vital work. This month saw a flurry of small, concrete accomplishments and one hopeful plan, all aimed at preserving stories and sharing knowledge."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Council Minutes Get a New Spine"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "At the Emerald City Records Hall, archivist Percy Brickworth has just completed a painstaking three-week project. Two decades' worth of faded Emerald City Council minutes, their bindings cracked and pages loose, have been carefully hand-stitched and rebound. The work was precise, with each signature resewn to ensure the volumes could withstand another half-century of handling by researchers and clerks."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln182",
+      "text": "It’s not glamorous, but it’s essential. These books are the official memory of how decisions were made. The old glue had dried out and the signatures were separating. Now, the spines are flexible but strong. They should see the centennial."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Riverboat Pilots’ Tales Find an Audience"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, oral history volunteer Zinnia Pepperdale brought some of that recorded memory to life. She organized a small, intimate listening session at the Reading Room, playing excerpts from her recordings of retired riverboat pilots. The audience, a dedicated group of maritime history enthusiasts, listened in rapt silence as voices from the Munchkin River described navigating by starlight and the sound of shifting sandbars."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln074",
+      "text": "I was… a bit nervous. The recordings are personal. You hear the chuckle in their voice when they remember a near-miss, or the long pause before describing a first command. But the people who came… they understood. They asked questions about the kinds of boats, the cargo. It made the voices feel… present again."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "A member of the audience, an older man who identified himself as a former dockworker, was overheard saying, “My uncle talked just like that. It’s the same cadence. I’d forgotten.”"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Tutors Trade Notes Over Coffee"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "For literacy volunteer Maren Crowmere, the work is about building capacity in the present. She recently arranged an informal gathering for eight volunteer tutors at a Gate Quarter cafe. The goal was simple: to share strategies and swap teaching materials away from the formal setting of the tutoring rooms."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln170",
+      "text": "Sometimes you just need to talk it through with someone who’s facing the same challenges. One tutor had a brilliant way of using old theater programs to practice reading. Another found that sketching a quick map helped a student follow a story’s geography. We left with new ideas and a few less photocopied worksheets to prepare."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "A Stationer’s Collection, Awaiting Its Close-Up"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Looking ahead, Yara Meadowby of Meadowby Stationers has set her sights on a project that bridges preservation and access. She intends to finally photograph and list her personal collection of historic Ozian blotting papers online. The collection, she says, includes rare Quadling floral-pressed papers and early Gillikin mill samples with distinctive watermarks."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln291",
+      "text": "They’re beautiful artifacts of papermaking, each one telling a little story about where and how it was made. They’ve been in my flat for years, tucked away. The idea is to get good, clear images so that researchers or even just curious people can see them. The main hurdle is technical—I need to borrow a proper camera with a macro lens to capture the details. Once that’s sorted, I can begin."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "From the sturdy stitching of official records to the soft-spoken stories of river pilots, from the practical exchange of teaching tips to the planned unveiling of delicate papers, the common thread is stewardship. It’s work done not for fanfare, but for the simple, enduring reason that these things—the records, the voices, the skills, the artifacts—matter, and someone must tend to them."
+    }
+  ],
+  "content_sha256": "409a8d6f90946450422dedac9a8a868c1463314aa056e2a7e223a80b72e532e7"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ln-331-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Cosmo Hazelshaw · September 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln105"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Cosmo Hazelshaw reporting on two recent freelance jobs."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln105",
+      "text": "First one: the Northwalk park bench lanterns. Three of them had gone dark. The solar panels were just grimy, a good cleaning sorted that, but the battery contacts were corroded. That’s the real issue—poor sealing on the older models lets moisture in. Cleaned the contacts, but they were too far gone, so I replaced them. All three back in service now. They should light up the path properly again tonight."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Second project?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln105",
+      "text": "The antique footlight dimmer for the Lantern Box Theatre. It’s a beautiful old board, but it was dropping channels. Traced it to blown resistors. The kind they don’t make anymore. Spent a day calling around salvage yards. Found a cache of the right spec in a Winkie yard that specializes in old stage gear. Replaced the faulty ones, calibrated the sliders. It’s humming along now. They were thrilled—said it saved the atmosphere of their autumn show."
+    }
+  ],
+  "content_sha256": "3c1a2e6e7025684b8f9c67df8d04605f8f30283f954e3ec7a3b29db24f72abbc"
+}

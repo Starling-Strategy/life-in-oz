@@ -1,0 +1,20 @@
+{
+  "id": "ln-289-meeting-minutes",
+  "title": "Quadling Health Access Circle Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln171",
+    "ln259",
+    "ln143"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "QUADLING HEALTH ACCESS CIRCLE\nMeeting Minutes\nJuly 2025\n\nPresent: Emrys Crowham (Chair), Honor Tinford, Clem Meadowstead, Rowan Bell (Community Manager)\n\n1. Welcome and Introductions\n\n2. Financial Stewardship Update\n   Clem Meadowstead reported on recent support provided to the circle's administrative team. In June, she assisted with the quarterly grant report for the supply fund, clarifying the categorization of several purchases of medical consumables and cleaning supplies. Her review prevented the items from being incorrectly flagged as capital expenditures, which would have conflicted with the grant's guidelines and potentially triggered an audit query. The report was submitted on time and without further issue.\n\n3. Member Initiatives & Resource Sharing\n   Honor Tinford shared a recent successful initiative from her own business. In late June, after speaking with a supplier at the Winkie Works Guild market, she arranged a weekly direct delivery from a specific Winkie dairy farm to her restaurant, bypassing the central distributor. This has resulted in fresher cream at a cost approximately twelve percent lower than her previous supply. The savings and quality allowed her to introduce a seasonal berry fool dessert special, which has been popular. She noted the farm might be open to similar direct arrangements with other food-service operations and offered to connect interested members.\n\n4. Facility Improvement Proposal\n   Emrys Crowham presented a planned improvement for the South Copse Care Home's sensory garden. He proposed installing a single, dedicated bench with a higher seat and integrated back support. The current log and stone seating, while aesthetically pleasing, is too low for many residents to rise from without significant assistance. The proposed bench would be placed on a paved area near the lavender bed. He is currently gathering cost estimates from local woodworkers and seeking feedback from residents and staff on the exact placement. No funds have been committed yet; this is a proposal for the circle's input and to explore potential co-funding avenues.\n\n5. Open Discussion & Next Steps\n   Rowan Bell asked if the sensory garden bench might qualify for a small matching grant from the Network's Community Improvement Fund. Emrys agreed to forward his final quote and plan once ready.\n   Clem suggested a future agenda item: a workshop on grant reporting basics for other circles, using her recent experience as a case study.\n   The next meeting was scheduled for September 2025.\n\nActions:\n   - Emrys Crowham to finalize bench specifications and obtain quotes, circulating to the circle by mid-August.\n   - Rowan Bell to provide application details for the Community Improvement Fund.\n   - Clem Meadowstead to draft a brief outline for a potential grant-reporting workshop.\n\nMeeting adjourned at 4:15 p.m."
+    }
+  ],
+  "content_sha256": "8a08f116819ef576c27b8681d3540a80fbc59fafa57fb0777b0a8052f11df873"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ln-178-email-thread",
+  "title": "Re: Timber Verge Co-op - February check-in",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln169",
+    "ln066"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Abel Wickridge, Calla Thistlestead\nSubject: Re: Timber Verge Co-op - February check-in\nDate: February 6, 2025\n\nHi Calla, Abel,\n\nThanks for looping me in. I've read the thread. Attaching the standard vendor intake form for the Co-op; you can fill it out and send it back to me or the intake desk directly.\n\nRowan"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln066",
+      "text": "From: Calla Thistlestead, Junction Quarter Refill Shop\nTo: Abel Wickridge, Rowan Bell\nSubject: Re: Timber Verge Co-op - February check-in\nDate: February 5, 2025\n\nHi Abel, Rowan,\n\nSo sorry for the radio silence! Things went a little haywire here. I meant to follow up last week, but I had a bit of a stock mishap. I accidentally ordered double the olive oil I needed – my own fault, I was juggling invoices and didn't check the quantity – and it's been a mad scramble to clear it. We've been running a \"Buy One, Get One Half Off\" promo on refills for the last three weeks. It's actually been fun, brought in some new faces, but my back room is still a forest of five-liter tins. Won't make that mistake again!\n\nAnyway, I'm back on track. Abel, your story about the detour is exactly the kind of thing I was hoping to hear about. I think the Co-op could really use a reliable hauler who understands local needs. Should Rowan send you the forms?\n\nBest,\nCalla"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln169",
+      "text": "From: Abel Wickridge, Wickridge Haulage\nTo: Calla Thistlestead\nSubject: Timber Verge Co-op - February check-in\nDate: February 1, 2025\n\nCalla,\n\nFollowing up on our chat at the last network meet. You asked for examples of the work.\n\nLast Tuesday, got a call mid-route. Eastfield farm, their usual feed man didn't show. Had a trailer full of bagged grain bound for the mill. Made the detour, unloaded the whole lot at their barn myself. Got it done before sundown, so the animals were fed on time. Farmer settled the freight charge, no premium. Just how it should be.\n\nIf the Co-op needs that kind of flexibility, I'm available. Let me know.\n\nAbel Wickridge"
+    }
+  ],
+  "content_sha256": "3063afbfb2ae35f458f3a231848704c582afc35a81d9594875c5988be1729124"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ln-071-grant-report",
+  "title": "Wizard's Office Liaisons: Small Grants Impact Report, August 2024",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln076",
+    "ln237",
+    "ln160"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nEmerald City, August 2024 – The Emerald City Leadership Network’s Wizard’s Office Liaisons circle, supported by a recent convening grant from the Council of Four, reports on three completed initiatives demonstrating the tangible impact of small-scale civic funding and facilitation."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Gillikin Country, a heritage orchard group approached Liaison Tomas Saffronley for guidance. The volunteers, who maintain a stand of antique apple trees, were struggling with overgrowth using personal tools. Tomas assisted the group in navigating the Wizard’s Office application process for a small community stewardship grant. The successful application secured funds for professional-grade pruning tools and pole saws. The group has since completed the initial restorative pruning of the most neglected trees, improving their structure and long-term health."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln076",
+      "text": "Sometimes the barrier isn’t the availability of funds, but understanding how to properly request them for a specific, practical need. The orchard group knew exactly what they needed—the right tools for the job—and the grant process worked as intended to meet that clear, communal need."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "For the annual Munchkin Country festival, Events Producer Marlo Kilncombe of the Festival Committee identified a challenge for a participating community choir. Their planned performance location had a flat ground, obscuring the view for many attendees. Using her connections as a Liaison, Marlo approached a hardware store at Brickway Junction and secured a small in-kind sponsorship. This covered the rental cost of proper tiered standing platforms for the fifty-member choir. The setup was used for their three scheduled performances, improving sightlines and acoustics for the audience."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln237",
+      "text": "It wasn’t a huge sum, but it solved the problem. The store manager was happy to support a local cultural event, and the choir directors were relieved not to have to pass a hat for rental fees. It made the event feel more professional for everyone involved."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Back at the Wizard’s Office itself, Liaison Dilys Clovermore noted a recurring point of confusion. Over one month, she fielded three separate inquiries from community garden coordinators in different countries asking if small equipment grants could cover the cost of having tools professionally sharpened. The existing guidelines were ambiguous. Dilys compiled the inquiries, proposed a clarification, and worked with the grants office to update the official Frequently Asked Questions document. The FAQ now explicitly states that professional sharpening services for communal tools are an allowable expense under the small equipment grant category."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln160",
+      "text": "If multiple people are asking the same question, the document needs to answer it. This change saves time for applicants and for our office. Now a garden coordinator in Quadling Country can point to the published guideline and plan their budget accordingly, without needing to call for confirmation."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The Liaisons circle used the Council of Four grant primarily to cover travel costs for two cross-country coordination meetings this past quarter, enabling the in-person collaboration that underpins these outcomes. Remaining funds are allocated for compiling and printing an updated resource guide for distribution at regional harvest fairs this autumn."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Network connects adult members across Oz’s four countries and the Emerald City through practical circles focused on civic, commercial, and community projects. The Wizard’s Office Liaisons circle facilitates communication and resource access between civic administration and local community groups."
+    }
+  ],
+  "content_sha256": "0c78e53ab7a89eda5e8846a6712905fd0fa3e46942b12bbbe7fca15e4b4c8722"
+}

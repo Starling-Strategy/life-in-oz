@@ -1,0 +1,125 @@
+{
+  "id": "ln-256-panel-transcript",
+  "title": "Repairing What We Share: A Timber Verge Panel",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln122",
+    "ln286",
+    "ln158"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone, and welcome to this Emerald City Leadership Network panel. I’m Rowan Bell, the community manager. Tonight we’re talking with three members of the Timber Verge Repair Co-op about the work they do in their own communities. We have Ursa Saffronridge, a school librarian in Lantern Row; Doris Emerycombe, a welder from Blue Orchard in Munchkin Country; and Noor Greenton, also a school librarian, from Heatherford up in Gillikin Country. The floor is yours. Ursa, maybe you could start us off? What does ‘repair’ mean in your world?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln122",
+      "text": "Thank you, Rowan. For me, repair is about mending access. I see it every day in the library. Last year, I noticed several students struggling with printed text—it wasn’t a lack of interest, it was a barrier. So I wrote a grant application to the Reading Room Network for a digital audiobook service. It was funded, and now we have tablets and headphones in a dedicated corner. Modest, I know, but it repairs the link between those students and the stories they want to reach."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln158",
+      "text": "That’s lovely, Ursa. It reminds me of the seed library I started. Repair, in my corner, is about restoring a connection—not just fixing a broken thing, but restarting a cycle. I took some old card catalog drawers we were going to discard, cleaned them up, and filled them with packets of seeds for herbs and flowers that are easy to grow. It’s in the school entrance now. Children take a packet, parents take a packet, and the hope is they’ll bring some seeds back at the end of the season. It’s mending our link to growing things."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln286",
+      "text": "Hmph. My repair was less subtle. The iron bollard at the Blue Orchard ferry landing was cracked clean through. If a boat tied off wrong, it could snap and someone ends up in the river. I hauled my welder and a portable generator down there. Took me half a day to clean the rust, heat the metal, and weld a reinforcing patch onto it. Now it’ll hold. Repair, to me, is stopping something from failing under strain."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Doris, that’s a very concrete example. Ursa, Noor—your projects involved less iron, but they still required resources and permission. What was that process like?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln122",
+      "text": "The grant was the key. The Reading Room Network has clear guidelines; they want to know exactly who will benefit and how you’ll measure it. I had to count the students, list the titles we’d license, and outline the training for staff. It was precise work, but satisfying. The approval came through in about six weeks, and the service went live this past term."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln158",
+      "text": "Mine was much more… improvisational. I didn’t need funding, just the drawers and some donated seeds from the Gillikin Growers circle. The permission was simply asking the head teacher if I could use the space by the front door. She said yes, so long as I maintained it. The real process is ongoing—showing the children how to fold the packets, talking about what the plants need. It’s a gentle, daily repair."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln286",
+      "text": "I just told the ferry master I was fixing it. He said, ‘About time,’ and kept an eye on my generator cable so no one tripped. Sometimes the process is seeing a problem and having the tools to solve it."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "These are three very different scales. Doris, you’re working on public infrastructure. Does that create any tension with… well, with official channels?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln286",
+      "text": "Not if you do it right. The ferry landing is everyone’s. The Wizard’s Office has a maintenance schedule, but it’s long. If I see a crack I can fix, I fix it. I let the ferry master know. He reports it as ‘remediated’ on his end. It’s faster. They don’t mind not paying for it."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln122",
+      "text": "It’s about working within the systems that exist. The grant was a system. The audiobook service plugs into our existing library catalog. It’s a repair that doesn’t disrupt; it augments."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln158",
+      "text": "And sometimes repair is about building a new, tiny system where there wasn’t one. The seed library is its own little ecosystem now. Just last week, a child brought me a packet of marigold seeds she’d saved from her grandmother’s garden. That’s the repair continuing."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "We have some questions from the audience. The first is for Doris: ‘Where do you get the materials for a job like the bollard?’"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln286",
+      "text": "Scrap pile. I used a piece of plate steel from an old boiler we cut up last month. The rod and gas, I have. The generator’s mine. You don’t need new stuff to make something strong."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "A question for Ursa and Noor: ‘How do you measure the success of a repair that’s about access or connection?’"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln122",
+      "text": "Numbers, initially. How many student sessions on the audiobook platform? But the real measure is seeing a student who used to frown over a book now listening intently, then coming to ask for the next title in a series. That’s the repaired connection."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln158",
+      "text": "I measure it in empty drawers. When a drawer is empty, I know the seeds are out in the world, planted in someone’s garden or window box. And when someone brings seeds back to refill it, the cycle is complete. That’s success."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "manager",
+      "text": "Final thoughts? What would you say to someone who wants to start a repair project in their own community?"
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln286",
+      "text": "Look at what’s broken. See if you have the tools. Then do it."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln122",
+      "text": "Look for the systems that can help you. A grant, a network, a willing administrator. Precision in the plan leads to freedom in the outcome."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln158",
+      "text": "Start small and make it beautiful. An old drawer, a handwritten label, a handful of seeds. Repair can be a quiet invitation."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "manager",
+      "text": "Thank you all. That was Ursa Saffronridge, Doris Emerycombe, and Noor Greenton. This has been ‘Repairing What We Share,’ a panel of the Emerald City Leadership Network. Goodnight."
+    }
+  ],
+  "content_sha256": "0dae778c54084c583233521074a0c7bc705d4cafccaa2040e0a6bcfb1028c9c0"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ln-395-grant-report",
+  "title": "Young Founders Circle – Seed Grant Report, November 2025",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln162",
+    "ln097",
+    "ln078"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nEmerald City Leadership Network\nNovember 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The Emerald City Leadership Network is pleased to report on the outcomes of the 2025 Seed Grant awarded to the Young Founders Circle. The grant was intended to support small-scale, member-led projects that demonstrate practical problem-solving and community benefit. The following report details the specific actions funded and their impact."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln162",
+      "text": "The near-failure at the Meadow Market was a real wake-up call. The truck just wouldn't start, and it was right in the middle of the lunch rush. I had to get towed. The diagnosis was a degraded main battery—it just couldn't hold a charge anymore from all the deep cycles. The grant covered the cost of a proper slow charger, the heavy-duty cable, and the installation of a dedicated outlet at my rented spot in Junction Quarter. Now, for the last hour we're open, I plug the truck in. It's like a slow braise for the battery instead of a sear. It's already made a difference; the morning starts are smooth, and I'm not sweating a dead battery every market day."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The equipment and installation, funded by the grant, totaled 85 silver pieces. Sunniva Fernmere reports that the preventative measure has eliminated the downtime previously caused by battery anxiety, ensuring reliable service."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln097",
+      "text": "The previous fare enquiry form was a source of constant clarification. Passengers would often omit necessary details, or provide them out of order, which required my staff to spend time calling or writing back. Using the grant for design software and a small print run, I was able to redesign the form. The new version uses clearer section headers, logical sequencing, and more intuitive blank spaces. The result is that the average processing time for a completed enquiry at the Violet Hills office has been reduced by approximately thirty-three percent. This allows us to address passenger concerns more rapidly."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The grant allocation of 40 silver pieces covered the software license and the initial print run of two hundred forms. The Tramways office has adopted the new form as its standard."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "A portion of the grant remains unspent, designated for a proposed project that is still in the planning phase. Agnes Hazelton of the Redfern Hill Makers Space has been speaking with other Young Founders about the possibility of running a children's woodworking class. The concept, as relayed by members, would focus on the construction of simple birdhouses. The grant funds would be used to purchase safety equipment, basic tools suitable for young hands, and an initial supply of wood. No dates have been set, and the plan remains under consideration."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "In total, 175 silver pieces of the 300-piece grant have been disbursed for completed projects with documented results. The remaining 125 pieces are reserved for the potential woodworking class initiative, pending a formal plan from Agnes Hazelton. The Network thanks the Young Founders Circle for their diligent and practical application of these resources."
+    }
+  ],
+  "content_sha256": "6d6196d79cfddc90c217c52e2f56b844d29f155a2ff3718e8d93fd9d26bb341b"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ln-381-social-thread",
+  "title": "Timber Verge Repair Co-op - The Yellow Brick Board",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln070",
+    "ln082",
+    "ln226"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln226",
+      "text": "Posted in 'Local Work': Got the Flour & Salt delivery trike back on the road yesterday. Their whole three-speed was rusted solid—chain, hub, the works. Cleaned and lubed everything I could salvage, replaced the chain and one cog. They didn’t miss a single morning drop-off. Good as new."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln082",
+      "text": "Good to hear, Ember. Speaking of your shop—those ventilation fans are in. Your lintels aren't standard, so I had to bend the bracket arms to fit. They’re secure now. You’ll want to run them for an hour before any heavy sanding to clear the air."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln226",
+      "text": "Thanks, Mabel. That’s a huge help. We tested them this morning and the draft is strong. No more sawdust fog."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln070",
+      "text": "Efficient work, both of you. Meanwhile, I sat on my hands for two days on a South Copse job waiting for a city inspector to come stamp the breaker box. Client’s shop renovation just… paused. Everything was up to code and ready Monday morning. He showed up Wednesday afternoon."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln082",
+      "text": "That’s the worst. You call the scheduler every day?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln070",
+      "text": "Twice a day. They just say he’s behind. Nothing to do but wait and eat the delay."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "baker",
+      "text": "Ember, that was our trike. Thank you. We didn’t realize how bad it was until it just stopped. You saved our week."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln226",
+      "text": "Glad it worked out. Keep an eye on the chain tension; it might stretch a bit over the next week."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln070",
+      "text": "At least someone’s machinery is moving. My inspector finally came, stamped it, took thirty seconds. Job’s done now. But two days."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln082",
+      "text": "We need a better system for that. Maybe the Chamber circle can poke the Wizard’s Office about inspection delays. It’s not just you."
+    }
+  ],
+  "content_sha256": "dc7b4de2cd34a9f39112613661c677c13f56b81ee99780e57f20e216d3240965"
+}

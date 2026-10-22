@@ -1,0 +1,28 @@
+{
+  "id": "ln-234-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Wilfred Kilnley · May 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln067"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Wilfred reports the herb garden project is complete. They built three raised beds by the sunroom. Residents helped with planting. Labels are in large print. He says the thyme and mint are already being used in the kitchen."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "On the transit coordination: Wilfred finalized the schedule with Brickway Transit. A dedicated bus, wheelchair-accessible, will run the second Tuesday of each month for clinic visits. They've assigned a consistent driver, which the residents appreciate for familiarity."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Wilfred mentioned the garden gives residents a reason to go outside daily. The transit arrangement relieves a lot of scheduling anxiety for families. He plans to expand the garden with seasonal flowers next."
+    }
+  ],
+  "content_sha256": "37275fcaa767553c1d0c2df968b26d27dec0e4bc129ad03c0af932c792a39260"
+}

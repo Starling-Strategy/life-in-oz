@@ -1,0 +1,65 @@
+{
+  "id": "ln-520-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Jude Quadstead, Fennel Wheatstead, Edmund Saffronham · September 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln118",
+    "ln107",
+    "ln252"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell initiated a check-in call with three members of the Timber Verge Repair Co-op network."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln118",
+      "text": "They needed a proper door for the new tool shed. The old milling machine from Westgate Foundry’s scrapyard had the right gauge steel. I cut and welded four heavy-duty hinges last week. They’re hung. Door swings smooth."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Rowan noted the completed work and asked Fennel for an update."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln107",
+      "text": "My current project is still in the drafting phase. I’m preparing a proposal for the South Copse primary school. The aim is to introduce a basic bicycle maintenance and safety program for the upper-year students. It would cover tire patching, brake adjustments, and road safety principles. I plan to present it to the school council next month."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Rowan asked Edmund about his recent work."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln252",
+      "text": "The foundry’s ceramic molds were cracking at a 15% rate due to improper drying. I designed and installed a system of slatted wooden racks in the warm storeroom off the main floor. It allows for consistent air circulation on all sides. Defects have dropped to an estimated 3% in the first week."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln107",
+      "text": "That’s a significant improvement. Was the lumber sourced locally?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln252",
+      "text": "Timber Verge surplus. Seasoned pine."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln118",
+      "text": "Good use for it."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Rowan closed the call by thanking everyone for their time and updates."
+    }
+  ],
+  "content_sha256": "e1967a7ba69acc24b13e2c857ee12781e2872420675f22376d60fe5a888e1694"
+}

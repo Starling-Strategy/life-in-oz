@@ -1,0 +1,112 @@
+{
+  "id": "ln-470-meeting-minutes",
+  "title": "Emerald City Leadership Network - Festival Committee Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln285",
+    "ln061",
+    "ln093",
+    "ln083",
+    "ln141"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network - Festival Committee\nMeeting Minutes\nDate: May 21, 2026\nPresent: Rowan Bell (Community Manager), Alma Reedton (Heatherford Brass Band), Greer Saffroncombe (Brickway Transit), Oriel Brambleworth (Brambleworth Puppets), Flora Hayworth (Hayworth Catering), Milo Plumton (Blue Orchard Brass Band)"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Call to Order\n   The meeting was called to order by Rowan Bell at 7:05 PM at the Emerald City Reading Room."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "2. Welcome and Working Lunch Feedback\n   Rowan thanked Flora Hayworth for catering the meeting's working lunch. Flora reported that she used a borrowed convection oven from the Reading Room's kitchen to prepare a chilled beetroot and apple soup, accompanied by seeded crackers and local cheese. The meal was praised by members as both refreshing and economical, costing the committee only the price of the ingredients."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "3. Updates from Recent Festival Seasons\n   Members provided brief reports on activities from the spring festival season."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "a. Alma Reedton reported on the Heatherford Community Fair. She led the Heatherford Brass Band's fifteen-minute warm-up and sound check on the main stage. The performance attracted an early crowd, with several families arriving specifically to listen to the tuning and run-through."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "b. Milo Plumton shared an experience from the Blue Orchard Blossom Festival. During a sudden downpour, he borrowed a spare vinyl tent from the Westgate Mills Foundry picnic supplies. This created a dry backstage area for musicians, preventing damage to several woodwind instruments."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "c. Oriel Brambleworth gave an update on puppet construction. He has been experimenting with using recycled canvas offcuts from a local sailmaker to create flexible knee and elbow joints for his puppets. This has reduced the need for costly leather while maintaining the necessary range of motion. He brought a sample joint for the committee to examine."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "4. Logistics and Vendor Coordination\n   a. The committee discussed the need for a standardized vendor information packet for the upcoming Emerald City Autumn Fair."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln061",
+      "text": "Greer noted that clear communication about load-in times and vehicle access is crucial. She offered to draft a section based on her transit experience."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "b. Greer Saffroncombe provided an update from the Brickway Transit Union. She has drafted a union memo outlining driver concerns about the new electronic fare boxes being installed on some routes. A primary issue noted is that the touchscreens are difficult to operate while wearing driving gloves. The memo is being circulated among union members for feedback before submission to the Wizard's Office."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln285",
+      "text": "Alma suggested that festival vendors might face similar issues with touchscreen payment systems in cold or wet weather, and that this should be considered in vendor guidelines."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "5. Resource Sharing and Sustainability\n   a. The committee endorsed the principle of sharing resources between festivals, as exemplified by Milo's tent borrowing and Oriel's material experimentation."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln093",
+      "text": "Oriel mentioned that the canvas joints are holding up well, but he is still testing their durability over hundreds of flexes. He proposed creating a shared inventory of reusable or borrowed items—like large tents, portable staging, and cooking equipment—that member circles could access."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln083",
+      "text": "Flora agreed, noting that the convection oven she borrowed worked perfectly for the soup, and that such an inventory could reduce costs for smaller festivals and pop-up events."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "b. Action: Milo and Oriel will collaborate on drafting a simple template for a shared resource log. Rowan will circulate it to the full Network after the next meeting."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "narrator",
+      "text": "6. Upcoming Events and Next Steps\n   a. The Quadling Health Access Circle is planning a wellness fair in late July. They have requested advice on stage scheduling to avoid sound overlap between music and speaker areas."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln285",
+      "text": "Alma and Milo agreed to review the proposed layout and schedule together and provide notes."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "narrator",
+      "text": "b. The next Festival Committee meeting is scheduled for June 18, 2026. Flora will coordinate the meal."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "narrator",
+      "text": "7. Adjournment\n   The meeting was adjourned at 8:40 PM.\n\nMinutes respectfully submitted by Rowan Bell, Community Manager."
+    }
+  ],
+  "content_sha256": "41916f6465fcdbc761c0164c32bb05ea8918d18ac0ae9ef4d4acb17bb597a005"
+}

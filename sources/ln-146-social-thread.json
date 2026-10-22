@@ -1,0 +1,61 @@
+{
+  "id": "ln-146-social-thread",
+  "title": "On Air, On the Floor, and On the Bench",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln168",
+    "ln095",
+    "ln060",
+    "ln108"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln168",
+      "text": "Putting a draft together for the Guild. The dust collection filters on the Westgate grinding floor are ten years old. The new models capture finer particulates. Better air means less coughing and clearer goggles for the crew. I’m proposing a shared-cost upgrade with the Works Guild fund. Would appreciate eyes on the draft before I submit."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln095",
+      "text": "Minna, that sounds like a breath of fresh air, literally! It reminds me of clearing out the old dried arrangements to make room for the new. Speaking of which, I’m planning a dried flower workshop for this autumn. I want to teach how to preserve the last of the summer blooms—the sturdy sunflowers and the delicate lavender—so they can brighten homes all through the gray winter. It’s about capturing a bit of warmth before the chill sets in."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln060",
+      "text": "The draft proposal is sound, Minna. I’ll review the cost-sharing section. On a related note, we had an incident last week that underscored the importance of clear procedures. A cart hauling sorted scrap tipped on the access ramp. I directed the crew to cordon the area, assess stability, and recover material by priority—untangled beams first, then sheet metal, lastly the mixed fines. We salvaged eighty percent for reuse. The key was having everyone follow a single chain of command to avoid further mishaps."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln108",
+      "text": "Eighty percent’s a good haul from a spill. Cleanup’s easier when the crew knows their jobs. Had a new apprentice from the Guild in my shop Tuesday morning. Spent the time on lathe safety: where to stand, how to secure the work, why you never reach over a spinning chuck. Then we went over measurement with the calipers—how a thousandth of an inch might as well be a mile if you’re building a press fit. Emphasized a clean bench. If you can’t find your tools, you shouldn’t be running the machine."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln168",
+      "text": "Thanks, Hattie. Gus, that’s the sort of training that sticks. A well-taught apprentice is less likely to cause the sort of incident that requires a salvage op. Jory, your workshop sounds like a nice change of pace. Might send my niece; she could use a hobby that doesn’t involve sparks."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "apprentice",
+      "text": "Gus, thank you again for Tuesday. My calipers are on a clean rag next to my bedroll now. I measured my dinner spoon. It’s not precise."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln108",
+      "text": "It’s a start. Try your boot heel next."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln095",
+      "text": "Everyone is welcome at the workshop! We’ll be working with texture and color, just like sorting scrap, but… softer. And quieter."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln060",
+      "text": "Procedures and training prevent the majority of issues. Minna, I’ve sent you my notes on the draft. The priority should be worker health metrics to strengthen the funding argument."
+    }
+  ],
+  "content_sha256": "7400d71d85728342ca6a4229670251802074766d52b91f0041215e28d8e0e58f"
+}

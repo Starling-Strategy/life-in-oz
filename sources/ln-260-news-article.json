@@ -1,0 +1,70 @@
+{
+  "id": "ln-260-news-article",
+  "title": "Wizard's Office Liaisons Lend a Hand, a Shovel, and a Microscope",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln247",
+    "ln208",
+    "ln220"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY – While the name 'Wizard's Office' conjures images of a grand, mysterious bureaucracy, its day-to-day impact relies on the quiet, diligent work of its staff. Three members of the Emerald City Leadership Network who serve as liaisons between the Office and the public recently demonstrated how a focus on detail—whether in language, pavement, or parchment—can make a tangible difference."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Purplemoor, a small village in Gillikin Country, health access navigator Coralie Greenshaw sat down with three elderly residents at the village hall last month. The task at hand was a set of Wizard's Office forms required to apply for a subsidised eye examination. For many, the dense medical and legal terminology can be a barrier as effective as a locked door."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln247",
+      "text": "We took it line by line. A phrase like 'ocular morbidity assessment' is just a frightening way of saying 'checking how your eyes are doing.' My job was to be the translator, so the question wasn't 'What does this mean?' but 'Does this line apply to you?'"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Greenshaw, who works with Quadling Health Access, said the calm, collective review helped demystify the process. All three applications were completed and submitted during the session. 'It turns a source of anxiety into a shared task,' she noted."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Back in the Emerald City's Gate Quarter, public works engineer Tilda Stoneford was paying attention to the ground beneath everyone's feet. On a routine inspection, she documented a case of subsidence—a subtle sinking and cracking—under a brick park path frequented by families and older residents."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln208",
+      "text": "It wasn't an emergency, but it was a predictable failure point. By logging the specific location, dimensions, and likely cause now, we could prioritize it correctly. It's been slotted into the next quarter's paving repair schedule, which means it will be fixed before the winter frosts make it worse."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Stoneford's precise report ensured the repair moved from a vague 'sometime' to a scheduled action, preventing a minor hazard from becoming a more serious one."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Sometimes, the crucial detail is a historical one. Cyrus Spindlefield, a records clerk, was recently asked to verify the location of certain utility pipes in the Green Market district. A civic group from the Quadling Country was planning a new planter bed and needed to be certain they wouldn't break ground on a sewer line."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln220",
+      "text": "The digital records for that particular alley were… incomplete. I had a hunch about the older physical archives. After a few hours, I found it in a tubular storage rack: a rolled, linen-backed map from 1934. The ink was still clear. It showed the pipe exactly where the project team hoped it wasn't."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Spindlefield's persistence in navigating the physical archive provided the definitive answer the project needed. The planter bed design was adjusted by a mere four feet, averting a costly and messy mistake. The 90-year-old map has since been digitized to prevent the same search from being necessary again."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "These three episodes—a translated form, a documented crack, a rediscovered map—highlight how the liaison role often functions as a bridge. The work involves interpreting the Office's processes for the public, and just as importantly, bringing the public's practical needs back into the Office's systems, one precise detail at a time."
+    }
+  ],
+  "content_sha256": "36f125f7a72f935b54ce3f16a029728f8205f01dfa7b7cbf8d4a013ac89db2ac"
+}

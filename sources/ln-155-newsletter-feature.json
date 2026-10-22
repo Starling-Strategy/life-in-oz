@@ -1,0 +1,81 @@
+{
+  "id": "ln-155-newsletter-feature",
+  "title": "The Receipt Box, the Lunch Crates, and the Collapsible Booth",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln131",
+    "ln083",
+    "ln050",
+    "ln037"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "While the Small Business Circle often meets to discuss spreadsheets and supplier contracts, the most compelling stories this month are about the things that get packed, stacked, and carried. From a portable filing system to a lunch delivery that kept volunteers going, here’s how members are building resilience—literally."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Cecily Cinderdale of Cinderdale Bookkeeping is looking at a common problem with a new angle. She’s proposed offering monthly bookkeeping sessions at the Meadowbank library, not just to answer questions, but to help people tackle the physical mess that often comes with them. Her plan involves a portable filing box, a simple wooden case with labeled compartments, which she’ll bring along so attendees can sort their receipts on the spot."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln131",
+      "text": "The idea is to stop the fiscal year from being a scavenger hunt in a shoebox. If we can get the assets—the receipts, the invoices—into the right liability columns from the start, the balance sheet almost writes itself. The library has a quiet table. We’ll bring the system to the problem."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, over in Reed Flats, Flora Hayworth of Hayworth Catering didn’t have time for proposals when the canal bank threatened to give way. A call went out for volunteers to sandbag the breach, and Flora knew they’d need fuel. She quickly prepared sixty boxed lunches—thick sandwiches, pickled vegetables, and sturdy oat bars—and packed them into insulated crates."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln083",
+      "text": "The crates are fine, but you lose all the heat through the gaps. I lined them with some old wool blankets we use for picnic setups. It’s not fancy, but it keeps the chill off the food and the volunteers. You can’t ask people to heave mud for hours on an empty, cold stomach."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The lunches were delivered and, by all accounts, were the highlight of a very damp and difficult day for the road crew. One member of the sandbagging line was quoted as saying the pickle cut through the grit perfectly."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "For Julian Park of Park Market Displays, the challenge was portability of a different sort. The Clay Hollow craft fair is a highlight for local makers, but vendor space is tight and setup time is limited. Julian designed and built a collapsible booth framework specifically for the event. Made from lightweight, seasoned timber, it’s designed to fit into a small trailer and assemble with just a mallet and a set of wooden pins."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln050",
+      "text": "You see all these angles when it’s folded flat—like a drawing of itself. Then you pull the pins, the joints lock, and the volume appears. It’s about the negative space becoming positive. I was sketching the joints for weeks, making sure the weight would hold a canvas roof and a shelf."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "The booth debuted at the fair and performed flawlessly, standing firm in the brisk market-square breeze while giving its user a professional, clean-lined stall."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Over in Blue Orchard, Peter Ash of Ash Family Produce had a more immediate structural crisis. A gust of wind swept through the market, knocking over his usual table arrangement of apple crates. While some might have seen a mess, Peter saw an opportunity for a better display."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln037",
+      "text": "The table was fine, but everything was just… flat. The wind did me a favor, honestly. I started restacking, thinking about how the reds and greens show best. You get a stable pyramid if you lock the corners just so. It uses the same number of crates, but now people can see the fruit from clear down the Brickway. And it’s solid. A bigger gust’ll just rattle it."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "The resulting pyramid was both eye-catching and remarkably stable, turning a moment of frustration into a permanent upgrade for his stall’s presentation."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "What ties these stories together isn’t just a theme of boxes and crates. It’s the practical intelligence of solving for portability, for warmth, for stability, and for clarity. These are the quiet, physical foundations that let the business of selling, feeding, and accounting carry on, no matter what the weather—or the tax year—brings."
+    }
+  ],
+  "content_sha256": "ca34777fa2e973451d04b274861de58fd0c68611f244023f2c8d97f05ab05655"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ln-359-news-article",
+  "title": "Winkie Works Expands Reach: From Machine Shop Repairs to Supply Chain Plans",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln140",
+    "ln108",
+    "ln216"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Emerald City Gazette | October 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Members of the Winkie Works Guild are making waves beyond their own workshops and factory floors this month, with actions that support neighbors, repair co-ops, and the next generation of industrial workers."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "In Bluebell Crossing, childcare co-op coordinator Delphine Pepperford tackled a perennial problem: the waiting list. 'It was a three-part problem,' Pepperford said, ticking them off on her fingers. 'Space, staffing, and scheduling. The community hall had the space on weekday mornings. Two of our experienced caregivers had availability in those slots. We just had to align the schedules and get the word out.'"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The result is a second morning group that opened earlier this month, clearing the co-op's list entirely. Pepperford credits the network's Meadow Mutual Aid circle for helping spread the announcement through its channels. 'It's one less thing for parents to juggle,' she said. 'Now they can get to their shifts at the can works or the mills on time.'"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Over in Westgate Mills, Gus Crowby of Crowby Machine Shop received an urgent call from the Timber Verge Repair Co-op. Their hydraulic press, essential for straightening axle housings, had seized. 'Brought the piston rod in. It was scored, bent—a mess,' Crowby recounted. 'They thought they'd need a whole new unit.'"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Crowby machined a new rod from a bar stock in his shop. When the co-op's representative arrived to collect it and settle the bill, Crowby refused payment for the labor. 'Told 'em to just cover the material cost,' he said with a dry chuckle. 'They're keeping wagons on the Brickway. That's payment enough.' The press was back in operation within three days."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Looking ahead, Ivo Fernby, a floor lead at Saffron Flats Can Works, is drafting a proposal for the Young Founders group. His plan involves sending a few of his own apprentices to spend a week shadowing different roles at a partner packaging plant in the Gillikin Country."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln216",
+      "text": "They see the sheet metal come in and the finished cans go out, but they don't see the design decisions, the client management, the logistics of getting those cans to a dairy or a preserves maker. A week seeing the whole chain—that broadens the understanding. It makes better problem-solvers back here on the floor."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Fernby is currently in talks with the Gillikin plant's management to finalize the details. If approved, the shadowing week could happen as early as next spring. 'It's an investment,' Fernby said. 'Not just in my crew, but in the whole network of making things in Oz.'"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "From clearing a local waiting list to keeping a co-op's tools running and planning for a more connected future, the guild's members demonstrate that the work of building a functional community often happens one repaired piston rod, one new childcare slot, and one draft plan at a time."
+    }
+  ],
+  "content_sha256": "49d696dd29f09921752f84c8b924a50128db83d4bee82a31079fec415e5c9103"
+}

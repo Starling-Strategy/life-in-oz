@@ -1,0 +1,23 @@
+{
+  "id": "ln-329-intake-email",
+  "title": "Fwd: Quarterly Disposal & A Quiet Counter",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln283"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln283",
+      "text": "Rowan,\n\nForwarding two items for the record, separate matters from the pharmacy. Details are in the forwarded notes below.\n\nCassian"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Cassian Amberford, Amberford Pharmacy\n\nItem One: Maintenance. The main dispensary counter hinge had worked loose over time, creating a persistent squeak every time it was lifted. This was disruptive during consultations. On the morning of September 12th, I secured the hinge with new brass screws and applied a small amount of beeswax to the pin. The motion is now silent and smooth. The staff, particularly our senior clerk, expressed considerable relief.\n\nItem Two: Disposal. In coordination with the Quadling Health Access network's quarterly hazardous materials collection, we safely packaged and transferred seventeen standard-sized boxes of expired medicated ointments for proper disposal. The pickup was completed on September 18th. This clears needed storage space and ensures these materials are handled according to the latest safety protocols."
+    }
+  ],
+  "content_sha256": "89f0f43238f04bea2ee1fd4638b74459e721be57a5627192abcd682fc9b92f45"
+}

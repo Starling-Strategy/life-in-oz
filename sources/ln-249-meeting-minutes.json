@@ -1,0 +1,122 @@
+{
+  "id": "ln-249-meeting-minutes",
+  "title": "Small Business Circle Monthly Meeting Minutes, May 2025",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln002",
+    "ln027",
+    "ln013",
+    "ln014",
+    "ln029"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Timber Verge Repair Co-op Hall, Timber Verge\nMay 14, 2025, 1:00 PM\nPresent: Martin Woodward, Beatrice Kettle, Vera Porcelain, Eleanor Bougham, Daniel Cress, Rowan Bell (Community Manager, ECLN)"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Welcome and Introductions\nManager Rowan Bell opened the meeting. Members shared brief updates."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln002",
+      "text": "Our apprentices at the repair co-op can now sharpen and handle chisels and saws safely. They practiced on offcuts for two full days before I let them near any customer wood. They still need to test the edges on a wider variety of materials, but the grip and stroke are correct."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln029",
+      "text": "The clay delivery to the Quadling school went through. Their order was delayed, so I loaded three bags of moist clay into my cart and took it over myself last week. The teacher said it arrived just in time for the first lesson of their pottery unit."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln027",
+      "text": "That stove burner of mine is still a menace. I got a probe thermometer and mapped the heat—it's a solid two hundred degrees cooler on the back left quadrant. For now, I'm just adding three and a half minutes to anything I put there. It's a pain to track, but it keeps the stew from being cold."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "2. Upcoming Network Events\nRowan noted the upcoming Founders' Gala and reminded members of the nomination process. The Meadowbank Spring Market was also mentioned as an opportunity for pop-up stalls."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "3. New Proposals and Planning Items"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln013",
+      "text": "I've been thinking. The Festival Committee borrows a lot of ceramic pieces from local collections for displays. I have a proposal to run a hands-on workshop for their volunteers. They could learn very basic chip repair and gluing techniques, so they know how to handle and stabilize a piece if there's a minor accident during setup. It would be preventative."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Beatrice Kettle suggested the workshop could also cover food-safe ceramic inspection for food vendors. Vera agreed to incorporate that and will draft a formal outline to present to the Festival Committee liaison next month."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln014",
+      "text": "My proposal is less hands-on and more about security. I'm drafting a plan for this circle to consider creating a modest, shared rainy-day fund. Specifically for guesthouses. When a boiler fails or a roof leaks right before the busy season, it can be crippling. If a few of us could contribute a small amount regularly, we could have a pot to offer short-term, no-interest loans to a member in a pinch. I'm working out the numbers and governance."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Martin Woodward asked about eligibility and repayment terms. Eleanor stated these were the key details still being drafted. Daniel Cress noted that while his business is different, the principle of mutual aid for urgent, unexpected capital costs resonated. The circle agreed to review Eleanor's first draft at the June meeting."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "4. Challenges and Resource Sharing"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln029",
+      "text": "Deliveries from the central clay pits are getting less reliable. The wet season made the Brickway route slow, and now they're prioritizing larger orders. I had to make that school run myself. I'm not sure I can keep doing that for every small, delayed order."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln002",
+      "text": "Have you measured the actual delay variance? Is it days or weeks?"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln029",
+      "text": "It's been two to five days late on the last four orders. Enough to disrupt scheduling."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln027",
+      "text": "Could you batch your orders with another pottery studio in Clay Hollow? Make the order large enough to hit their priority tier?"
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln013",
+      "text": "I might be able to join such an order. My material needs are small, but consistent."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "narrator",
+      "text": "Action: Daniel Cress and Vera Porcelain will discuss their combined clay needs for the next quarter and explore a joint ordering plan. They will report back in June."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "narrator",
+      "text": "5. Other Business\nBeatrice reminded the group that the Munchkinland Herald is seeking features on 'adaptation in local business' and encouraged members to share their stories. Rowan offered to connect anyone interested with the reporter."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "narrator",
+      "text": "6. Next Meeting\nThe next meeting is scheduled for June 11, 2025, at 1:00 PM. Location to be confirmed, possibly at the Kettle Canteen if the stove repair is complete."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "narrator",
+      "text": "Meeting adjourned at 2:20 PM.\nMinutes recorded by Rowan Bell, Community Manager, Emerald City Leadership Network."
+    }
+  ],
+  "content_sha256": "8dd81ac25f9c89206507f2a9aab47b597de768911329af999570ad8261bd7bae"
+}

@@ -1,0 +1,40 @@
+Emerald City Chamber Small Grant Report: Spring 2025
+
+SYNTHETIC SOURCE — original fictional text; no real event or publication.
+Format: grant_report
+Theme: Emerald City Chamber
+
+FOR THE ATTENTION OF: The Emerald City Chamber Community Fund Committee
+REPORT PERIOD: January – May 2025
+GRANT REFERENCE: ECC-CF-2025-03
+SUBMITTED BY: Otis Greenfield, on behalf of the Emerald City Chamber Small Business Circle
+
+This report details the use of funds from the Chamber's Spring 2025 Small Grant, awarded to support projects enhancing local business resilience and community safety. The grant of one hundred and fifty silver pieces was allocated across two completed initiatives and one developmental project.
+
+EXPENDITURE SUMMARY:
+- Materials for network repair (cable, wall port, termination tools): 45 silver pieces.
+- Safety demonstration materials (sample lenses, demonstration rig): 60 silver pieces.
+- Remaining funds allocated to product development research: 45 silver pieces.
+
+COMPLETED PROJECT 1: Junction Quarter Community Centre Connectivity.
+Imogen Shaw of Shaw Community Networks identified and resolved a persistent connectivity issue in the centre's main hall. The public videoconference terminal, used for remote legal aid sessions and family calls, was dropping connection due to a faulty network wall port.
+
+Imogen Shaw:
+It was a simple physical fault, but it meant the whole terminal was unreliable. I replaced the wall port and terminated new cable ends. The connection's been stable for three weeks now. People can actually finish their calls without the screen freezing.
+
+COMPLETED PROJECT 2: Workshop Eye Safety Initiative.
+Selwyn Bramblecombe of Bramblecombe Opticians organized and conducted a practical safety demonstration for the Timber Verge Repair Co-op's carpentry workshop. Using grant-purchased sample lenses and a simple demonstration rig, he showed the difference between standard acetate and impact-resistant polycarbonate lenses when struck by simulated wood debris.
+
+Selwyn Bramblecombe:
+The demonstration made the risk tangible. You could see the standard lens crack and shatter from a small projectile, while the polycarbonate one just sustained a dent. Several crew members have since asked about getting prescription safety glasses. It’s about making the right choice an informed one.
+
+DEVELOPMENTAL PROJECT: Local Product Diversification.
+The remaining grant funds are supporting initial research and development by Otis Greenfield of The Greenfield Table. This project explores creating a small line of shelf-stable, preserved goods using surplus kitchen ingredients, aiming to reduce waste and create a new revenue stream.
+
+Otis Greenfield:
+We're looking at pickled seasonal vegetables and fruit chutneys. It's in the planning stage—testing recipes, sourcing appropriate jars, understanding labeling. The grant covers the initial ingredient batches and consultation with a local food advisor. The goal is to have a few test products to sell alongside our regular menu by the end of the summer.
+
+UNFINISHED ITEMS & NEXT STEPS:
+The product development project is ongoing. A follow-up report on its commercial viability will be provided by September 2025. The two completed projects—the network repair and safety demonstration—are considered concluded, with their benefits now actively being realized by the community centre users and the workshop crew.
+
+We extend our thanks to the Chamber Community Fund for its support in making these practical, local improvements possible.

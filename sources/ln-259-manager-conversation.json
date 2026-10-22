@@ -1,0 +1,29 @@
+{
+  "id": "ln-259-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Kerensa Hedgecombe · June 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln181",
+    "ln073"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Kerensa Hedgecombe confirmed the Crossroads Inn pothole job was delayed. She said their crew was set to start on Monday, but the city requisitioned their one asphalt paver for an emergency patch on the Yellow Brick Road, near the Whistling Elm stretch. They got the machine back Wednesday morning and finished the Inn turnoff by that afternoon. She noted the new patch is holding up fine under the cart traffic."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Kerensa mentioned Jem Haymere at the depot. She said he’s been talking about a plan for the used engine oil. Currently it’s sitting in some old drums behind the repair bay, and a couple are seeping. Jem’s idea is to organize a collection drive, get a proper recycler to come take it all away. Kerensa said she’d back that; it’s been an eyesore and a worry."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "I reached out to Jem Haymere afterward. He confirmed the oil situation. His words were, 'The drums are substandard. We need a scheduled collection.' He’s drafting a proposal to the depot manager to get a recycler contracted. No date set yet; it’s a plan."
+    }
+  ],
+  "content_sha256": "09f9484c1d0daf2d1ee7ea6a281dfa882901cc169ffe2f6fa10f893e655b82cc"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ln-167-radio-interview",
+  "title": "Keeping the Gate Open: Community and Hospitality in the Junction Quarter",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln279"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good afternoon, and welcome back to Community Currents on Emerald City Radio. I'm your host, and today we're talking about the intersection of hospitality and community. Our guest is Hugo Rushmere, manager of the Emerald Gate Hotel in the Junction Quarter. Hugo, thanks for joining us."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln279",
+      "text": "Thank you for having me. It's a pleasure to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "So, the Emerald Gate has been a fixture for a long time. I understand you're looking at ways to connect more with the neighborhood, not just guests passing through. What's on the drawing board?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln279",
+      "text": "Well, we've been thinking about mobility. The Brickway is wonderful, but we see guests who'd like to explore the Quarter and the city's greenways at a slower pace. So, we've proposed a guest bicycle loaner program. The idea is to refurbish a small fleet of those sturdy city bikes you see about, make them available to guests."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "Refurbished bikes, that's a nice touch. What's holding it up?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln279",
+      "text": "The devil, as they say, is in the details. Primarily insurance and maintenance logistics. We need to ensure we have the right coverage for guests using them, and we need a reliable system for upkeep—a local partner, perhaps. It's still very much under discussion, but we're committed to working it out. It feels like the right kind of offering for our location."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "It does. Now, shifting gears—forgive the pun—you also host events. I heard about a recent wedding reception?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln279",
+      "text": "Yes, just last month. A lovely, intimate gathering in our garden room. The couple wanted everything sourced from the Quarter if possible. We were happy to oblige. We arranged for a local string quartet—they were wonderful, played a mix of traditional and modern pieces—and the cake came from a baker just three blocks away. It was a perfect example of what we can do: provide the setting and coordinate the local talent to make something really special."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "That sounds beautiful. The garden room gets lovely light, doesn't it?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln279",
+      "text": "It does, especially in the late afternoon. With the string music and the scent from the garden... it was a very good day. It's those kinds of events that remind you this isn't just a hotel; it can be a part of people's important memories, and a platform for local artisans."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "Hugo Rushmere, manager of the Emerald Gate Hotel. Thank you for sharing what's happening at the Gate."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln279",
+      "text": "My pleasure. Thank you."
+    }
+  ],
+  "content_sha256": "5d6c55dee7ba637491176c8c8500941ef2616827700fd457742ef8896639a4b7"
+}

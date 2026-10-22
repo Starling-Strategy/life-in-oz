@@ -1,0 +1,55 @@
+{
+  "id": "ln-308-grant-report",
+  "title": "Winkie Works Guild: Grant Activity Report, August 2025",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln139",
+    "ln192",
+    "ln222"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nAugust 2025\nEmerald City, Oz"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The Winkie Works Guild, supported by the Emerald City Leadership Network, is pleased to report on recent member-driven initiatives made possible through the Guild's skills-sharing fund. The funding enables members to apply their professional expertise to community needs outside their regular workplaces."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "In South Copse, dental hygienist Silas Plumley used grant funds for supplies to run tooth-brushing sessions in local schools. \"It's like showing someone how to tend a garden,\" Silas explained. \"If you don't learn the basics early, things get thorny later. We got the right-sized brushes and a simple paste, and now the kids know the proper circles to make.\" He visited three classrooms, reaching approximately seventy children."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "At the Westgate Foundry, lathe operator Wilfred Spindlebourne assisted the neighboring warehouse team when their forklift developed a brake issue. During a slow afternoon, Wilfred inspected the mechanism. \"Linkage pin was worn to a sliver,\" he stated. He returned to his shop, selected a steel rod, and turned a precise replacement on his lathe. The forklift was operational within two hours, avoiding a costly external repair and a full day's delay for the warehouse."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "In the Emerald City, Gus Poppyridge of Poppyridge Translations applied his grant to a project for the Meadow Mutual Aid tool library. The library had acquired a powerful, complex tiller but its safety manual existed only in the manufacturer's language. Gus translated the detailed guide into the four major Oz dialects—Munchkin, Winkie, Quadling, and Gillikin—ensuring the instructions for assembly, operation, and maintenance were clear and safe for borrowers from any community. \"Accuracy is a form of care,\" Gus noted. \"A mistranslated warning about a shear pin could lead to a serious injury. We took our time to get the technical terms just right in each dialect.\""
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Grant funds were allocated as follows: $45 for educational dental supplies (Plumley), $12 for materials (Spindlebourne), and $180 for translation services (Poppyridge). The total expenditure was $237 against the allocated $250, with the remainder rolling over to future projects."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "These projects illustrate the Guild's model: applying existing, often overlooked, professional skills—metalworking, language, preventive care—to solve tangible, local problems. The tiller safety guides are now printed and housed with the tool. The replacement linkage pin remains in service. The tooth-brushing technique, as Silas puts it, \"is now growing in seventy little gardens.\""
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The Winkie Works Guild operates under the umbrella of the Emerald City Leadership Network, connecting skilled tradespeople, professionals, and makers across Oz to share knowledge and address community needs through small, actionable projects."
+    }
+  ],
+  "content_sha256": "996c12cc76955f3ebf6bf2dd548dc76810e570088e9fcf54c59f1b724fcbee96"
+}

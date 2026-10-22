@@ -1,0 +1,18 @@
+{
+  "id": "ln-375-speaker-bio",
+  "title": "Mabry Rushcombe | Rushcombe Costumes",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln225"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Mabry Rushcombe is the owner and principal costume maker at Rushcombe Costumes in the Gate Quarter. Her work ensures that performers, from youth ensembles to professional companies, feel as confident as they look. Recently, when a local youth theatre needed its set of eight court jester costumes to fit a new, younger cast, Mabry took in the seams and added clever adjustable straps at the shoulders and waists, allowing for growth spurts and ensuring the costumes could be used for years to come. In a separate project for a Lantern Row repertory company, she carefully removed and replaced the frayed silk linings in fifteen vintage theatre blazers, a meticulous process that saved the cherished jackets and extended their stage life for another full season. Mabry's philosophy is that every stitch should serve both the story and the person wearing it."
+    }
+  ],
+  "content_sha256": "018dae58e6373e36c03a695c42ffdc4ede0ddf1e798489bc1ad2391a9487f6ef"
+}

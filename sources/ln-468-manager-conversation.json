@@ -1,0 +1,33 @@
+{
+  "id": "ln-468-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Una Fernford · May 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln138"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Una caught up on a few projects she’s wrapped."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln138",
+      "text": "Oh, the Redfern Hill signs are finally up! They’re these great solid rectangles—I used old timber from a shed deconstruction over in the North Market. Painted the background a deep mossy green so the bright white lettering just pops. ‘Parking’ with a big arrow, ‘Produce’ with a little carrot shape. Very clear, very sturdy. The market manager said they’ve already cut down on people wandering into the delivery lane."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Noted. And the other thing was for Bluebell Crossing?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln138",
+      "text": "Yes, the welcome packets! I wanted something warm, not just a stack of papers. So it’s a little folder in sunny yellow, with a winding path illustration on the front—like a journey, you know? Inside, the daily schedule is a timeline with soft blue blocks for nap time and these little orange circles for snack breaks. The emergency contact page has friendly, rounded icons by each name. I dropped off fifty sets last week. The coordinator told me parents have been mentioning how much easier it is to show the picture schedule to their little ones."
+    }
+  ],
+  "content_sha256": "d0b26690c47f7448562f7fe90f11d77d886b1c7b18a3d007e4436780da4d8fed"
+}

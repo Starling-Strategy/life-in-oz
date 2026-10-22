@@ -1,0 +1,43 @@
+{
+  "id": "ln-379-press-release",
+  "title": "Emerald Gate Hotel Announces Cost Savings and Expanded Staff Transit Access",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln267"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nEmerald City, Oz – November 2025 – The Emerald Gate Hotel today announced two new operational initiatives, a cost-saving contract with a local vendor and a transportation program for overnight employees, both spearheaded by Hotel Manager Cecily Orchardham."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The first initiative is a new agreement with a Munchkinland-based linen and uniform service. After a review of vendor contracts, Orchardham successfully renegotiated terms, securing a fifteen percent reduction in the cost of laundering staff uniforms for the hotel. The savings are expected to be reinvested into employee amenities."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln267",
+      "text": "It was a straightforward conversation about volume and long-term partnership. We both understood the value of keeping business local and reliable. This reduction helps our bottom line without compromising the quality our team deserves."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The second measure addresses a longstanding challenge for staff working the late shift. With the last scheduled Emerald City tram departing before many night-shift workers finish, Orchardham arranged for the hotel to provide shared-access bus passes. These passes are available to any overnight employee needing transport home after public transit has ended for the evening."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln267",
+      "text": "It’s a basic matter of safety and respect. If someone is here cleaning rooms or managing the front desk until two in the morning, we have a responsibility to ensure they can get home. The shared passes are a practical solution we’re pleased to offer."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Both changes are now in effect. The Emerald Gate Hotel, located near the city's Eastern Gate, is a member of the Emerald City Chamber within the Emerald City Leadership Network."
+    }
+  ],
+  "content_sha256": "1d8f140219149cb99f216b5cc74c817103639f0f1bbd650d6298ac3c2b24dd02"
+}

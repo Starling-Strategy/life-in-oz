@@ -1,0 +1,91 @@
+{
+  "id": "ln-241-survey-response",
+  "title": "Reading Room Network – Members' Survey Responses, May 2025",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln218",
+    "ln182",
+    "ln290",
+    "ln278"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Question 1: Please share one recent challenge or opportunity you see facing the Reading Rooms in your area."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln218",
+      "text": "The biggest opportunity I see is offering practical skills that don’t rely on the technology. Our projector is on the fritz again, and the Wizard’s Office replacement timeline is… well, you know. But that’s not stopping us. I’m working on putting together a weekend workshop on basic bookkeeping for very small businesses—the kind that run on paper ledgers and simple calculators. If we can get someone from the network to lead it, we can show that useful learning doesn’t need a flickering screen."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln182",
+      "text": "The challenge is environmental stability for our unique collections. The humidity fluctuations in the Records Hall annex are not suitable for preserving delicate materials. I have drafted a formal proposal to the Wizard’s Office for a single, dedicated climate-controlled cabinet. The priority would be the oldest, most brittle maps of the Gillikin river systems. Without stable conditions, their deterioration will accelerate."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln290",
+      "text": "Our opportunity was… well, it was about light. The carrels in the evening got so dim. But we got a bit of luck. I managed to secure a donation—twenty gently used, adjustable desktop reading lamps from an office that was closing down over in the Financial District. We’ve installed them, and the difference is like night and day. Literally. People can actually see their pages now."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln278",
+      "text": "A challenge out here is keeping the collection feeling fresh for the students without a big budget. But I heard about a great opportunity through the network grapevine! Someone mentioned that Tamsin over at Hammerhead Rise school organized a book swap with a school in the Emerald City. They exchanged several boxes of gently used chapter books. What a wonderful way to refresh both libraries. I’d love to hear more about how she set that up."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Question 2: What is one way the Network could better support your work?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln218",
+      "text": "Connections. If the Network could help circulate a call for a volunteer with some bookkeeping experience who’s comfortable teaching the very basics, that would be a huge help. I have the room and the date penciled in, but finding the right person is the key."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln182",
+      "text": "Advocacy. A collective voice from the Network endorsing preservation proposals like the climate cabinet could carry more weight with the Office than a single request from the Records Hall. A letter of support referencing our shared commitment to maintaining accessible archives would be invaluable."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln290",
+      "text": "Sharing these little successes. Not everything has to be a big project. If there’s a simple way to let other coordinators know about surplus items—like lamps, or furniture, or even surplus paper—we could all benefit. A posted notice on the Board, maybe?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln278",
+      "text": "Facilitating more of those connections between city and country rooms. The book swap idea is brilliant. If the Network could help us find partner libraries for future swaps or even just pen-pal projects, it would really broaden our students' world. A simple list of who’s interested would be a great start."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Question 3: Briefly describe the atmosphere you aim to create in your Reading Room."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln218",
+      "text": "Purposeful and welcoming. A place where you can come in not knowing how to do something, and leave with the tools and the confidence to give it a try."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln182",
+      "text": "Orderly and focused. A space for deep, uninterrupted engagement with texts and documents, where the care for the material is evident in the environment."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln290",
+      "text": "Warm and clear. I want it to feel like a relief to step in here. The light is good, the chairs are decent, and no one will rush you. We speak slowly and make sure everyone understands. It’s a haven for figuring things out."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln278",
+      "text": "Energetic and curious! I want the students to buzz with the excitement of discovering a new story or a new fact. It should be a place that’s alive with quiet chatter about books and the rustle of pages turning."
+    }
+  ],
+  "content_sha256": "7f16cab3a7d3a8c30f955e58f7cb5a21d84295eca09548a39fdfc05c9932eb43"
+}

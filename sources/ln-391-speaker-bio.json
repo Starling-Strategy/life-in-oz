@@ -1,0 +1,30 @@
+{
+  "id": "ln-391-speaker-bio",
+  "title": "Program Participant Biographies",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln293",
+    "ln038",
+    "ln242"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Pia Reedford operates the grain mill on Tinsmith Row, where she manages the flow of seed and flour. Her work is grounded in listening to the machinery’s rhythms, a skill that proved critical last month when she identified a faint, high-pitched squeal from a grain elevator belt. Recognizing it as a precursor to failure, she alerted the maintenance lead, which allowed the mill to order and install a replacement belt during a scheduled pause, avoiding a costly full shutdown."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Esther Lane is the evening caretaker for the Junction Quarter Learning Rooms, ensuring the spaces are warm, secure, and ready for community use. Her vigilance extends to the building’s aging systems; in October, she noticed an unusual, intermittent fluctuation in the old boiler’s pressure gauge. She immediately called the heating engineer, who discovered and replaced a worn valve, preventing a potential loss of heat during a week of evening classes."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Iolo Ashcombe works as a freelance translator, bridging language gaps across the city and the countries. Recently, the Quadling Health Access group needed urgent translations of public health notices about extreme heat and boil-water advisories. Iolo translated the texts into three languages and, understanding the importance of clarity, took the extra step of having each version checked by two native speakers before the notices were posted in clinics and community centers."
+    }
+  ],
+  "content_sha256": "f75a3200af18cd415cd5ae955af65f28a084c9da3180e41f800a25deeb7f1705"
+}

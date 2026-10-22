@@ -1,0 +1,35 @@
+{
+  "id": "ln-182-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Albin Gatemere · February 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln277",
+    "ln157",
+    "ln145"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Albin reported on the sick pay form project. He and the union lawyer rewrote the internal claim form, which had been described as confusing. The new version is step-by-step and clearer. He said the office will start using it next week."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "He mentioned Adele Barleyton's shuttle trial. The weekend shuttle she designed between Brickway Junction and the Violet Hills market ran for two months and saw steady use. Albin said drivers on that route reported it was busy but manageable."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Kit Amberworth's 'senior hour' idea came up. Kit suggested designating an early morning hour on less busy routes for extra boarding time. Albin said the union hasn't reviewed it yet; it's still just a suggestion from Kit. He noted they'd need to look at schedule impacts and driver coverage before any trial."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Albin sounded tired but pleased about the form. He said the old one caused so many delays and call-backs it was costing the union time in grievances. The lawyer simplified the language and added checkboxes for common situations."
+    }
+  ],
+  "content_sha256": "fb24cca93a7719a7b404d9b632e319cb44f2c3debd1b56075c4f7271280f7f5e"
+}

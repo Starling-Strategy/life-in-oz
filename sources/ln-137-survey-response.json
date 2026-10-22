@@ -1,0 +1,48 @@
+{
+  "id": "ln-137-survey-response",
+  "title": "Member Survey Response: Gillikin Falls Grain Mill",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln269"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Gillikin Falls Grain Mill (Honor Reedmere, operator)"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. What's a recent action you took or plan to take to improve your workplace or community?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln269",
+      "text": "I noticed a faint fraying sound from the grain elevator belt a couple weeks back. It wasn't urgent, but you don't ignore those sounds. I went ahead and scheduled the replacement for our planned maintenance window next month. That way we won't be staring down a full breakdown when the autumn harvest starts coming in."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "2. Are there any challenges you're hoping the network or your circle can help address?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln269",
+      "text": "Yes. I intend to propose to the Winkie Works Guild that we install a proper refill station for reusable dust mask filters here at the mill. We use the masks constantly, and sending the filters out to be cleaned and refilled takes time and costs more in the long run. Having a station on-site would improve long-term safety for the crew and cut down on waste. I'm looking for examples from other mills or shops that have done it, and advice on getting the right equipment."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "3. What's one thing you're keeping an eye on for the coming season?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln269",
+      "text": "The weather, same as always. A dry summer means a good harvest for the growers nearby, which means a busy mill. We'll be ready."
+    }
+  ],
+  "content_sha256": "a536fa047c2e9cdeaf2d030471d5ee436989bf744f47d89cf2f2ff50c54bade4"
+}

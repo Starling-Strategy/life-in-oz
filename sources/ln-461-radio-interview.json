@@ -1,0 +1,124 @@
+{
+  "id": "ln-461-radio-interview",
+  "title": "Office Hours on the Air: A Look Inside the Wizard's Office Liaisons",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln032",
+    "ln112"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good afternoon, Munchkin Country. This is 'The Local Path' on the local station, Reed Flats. I'm your host, and today we're talking about the people who help keep the wheels turning—sometimes literally. They're members of the Emerald City Leadership Network's Wizard's Office Liaisons circle. With me in the studio is Owen Flint, a drainage inspector with the Wizard's Office Public Works. Owen, welcome."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln032",
+      "text": "Thank you. Good to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "And joining us via line from the Emerald City is Ivy Coppermore, a permits clerk at the same office. Ivy, hello."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln112",
+      "text": "Hello. Yes, I'm here."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "Great. Owen, let's start with you. I think a lot of listeners might picture a government inspector as someone who shows up, points at a problem, and leaves. What does your work actually look like on a Tuesday?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln032",
+      "text": "Well. Last Tuesday, I was called out to a farm at the edge of Gillikin. A blocked agricultural drain. Water was pooling near a feed store. I walked the line, checked the inlets. The farmer said his hay cart had been sinking a bit on one track. I dug a small test pit there and found the issue. A six-foot section of perforated pipe under the track had collapsed. Soil and roots had filled it."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "So what do you do then? Write a ticket?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln032",
+      "text": "I marked the collapsed section with four temporary stakes—orange tops—so the farmer knew exactly where not to drive until the repair crew could get out. I logged the coordinates, the pipe diameter, took photographs of the stakes in place from two angles, and filed the work order. The crew was scheduled for three days later."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "Photographs, not just a description?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln032",
+      "text": "Always photographs. It's clearer. 'Near the big tree' isn't a location. A picture of a stake two feet from a wheel rut is."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "Makes sense. Now, Ivy, your world is more… paper-based? Or is it all screens now?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln112",
+      "text": "It's a mix. Mostly screens. My lane is building permits, temporary use, that sort of thing. Right now, I'm looking at a request that's highlighting a gap in our own guidelines."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "Oh?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln112",
+      "text": "Yes. A pop-up art gallery wants to use a vacant storefront in the Brickway arcade for six weeks. They need temporary lighting. The current electrical code section for temporary installations is… well, it's written for construction sites and festival tents. It talks about cable guards and ground-fault protection. It doesn't say anything about track lighting on a temporary wall, or the safe load for an existing outlet being used for eight hours a day for art lamps."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "So you have to make a judgment call?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln112",
+      "text": "I intend to ask my supervisor for a formal clarification. I don't like making a judgment call that becomes a precedent if the rules are ambiguous. I need to know: do we treat it like a permanent installation, which requires a full inspection, or can we adapt the temporary event rules? I'm drafting the query this week."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "host",
+      "text": "And until that's resolved, the gallery is in limbo?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln112",
+      "text": "Their application is pending. I've told the applicant we're seeking guidance. They're… impatient, which I understand. But it's better than approving something that might not be safe, or denying something that should be allowed."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "host",
+      "text": "Owen, does that kind of ambiguity ever come up in your fieldwork?"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln032",
+      "text": "Not often. A pipe is collapsed or it isn't. Water flows or it doesn't. The guidelines for clearances and materials are in the manual. If I saw something not in the manual—like a pipe made from a material we don't list—I'd take a photograph and send it to engineering. Same idea, I suppose."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln112",
+      "text": "Exactly. Document the ambiguity and escalate."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "host",
+      "text": "A theme emerges. Owen Flint and Ivy Coppermore, thank you both for giving us a window into the work. That's all the time we have for 'The Local Path' today. For the local station in Reed Flats, I'm your host. Stay dry out there."
+    }
+  ],
+  "content_sha256": "52bcc37379dd7a731fe837cb2c62618ad36b85c58c43278c462ed64f20096e32"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ln-441-grant-report",
+  "title": "Westgate Foundry Small Tools & Materials Grant: Interim Report, March 2026",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln240"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR THE ATTENTION OF THE EMERALD CITY LEADERSHIP NETWORK SMALL GRANTS COMMITTEE\n\nThis report concerns the use of funds awarded in December 2025 to the Westgate Foundry for the purchase of replacement small tools and common materials, intended to reduce production delays for custom and community work.\n\nExpenditures & Activities to Date\n\nIn February, the bench grinder motor on Lathe Operator Reuben Brookcombe's workstation failed completely. The approved funds were used to purchase and overnight a replacement motor assembly from a supplier in the Emerald City, at a cost of 85 silver pieces. Without this rapid procurement, the wait for the standard replacement part would have been seven working days."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln240",
+      "text": "It was just smoke and a nasty smell. Job was dead in the water. The brackets–custom order for the Brickway Transit repair shed–were all cut and just needed finishing. Couldn't touch 'em. With the grant money, we had the new motor here the next morning. I was back on the job by noon. Lost half a day, not a week."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "The remaining balance of the grant was used to stock a small inventory of common bar stock and plate steel of varying gauges. This allowed for the following community-responsive work to proceed without waiting for a special materials order."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln240",
+      "text": "The Gillikin Growers co-op down the road–their main gate took the full wind off the prairie last month. Hinges sheared right off. They came in with the broken pieces. We had the right plate thickness on hand because of the grant. I forged and drilled a new set, half-inch thicker than the old ones. Took me a day and a half. They picked them up, bolted them on. Gate swings fine now."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Summary of Funds\nAwarded: 200 silver pieces.\nSpent: 85 sp on grinder motor; 98 sp on bar and plate steel inventory.\nRemaining: 17 silver pieces, which will be reserved for incidental consumables (cutting fluids, grinding discs) as outlined in the original proposal.\n\nUnfinished Business\nThe steel inventory is now held on-site. The Foundry team is developing a simple logbook to track its use for similar small-scale, community-initiated jobs, to provide a clearer record for any future reporting."
+    }
+  ],
+  "content_sha256": "511baa5612cd387d4fde21772e63b6affed7bea5d197e4643f7e982ec7c89765"
+}

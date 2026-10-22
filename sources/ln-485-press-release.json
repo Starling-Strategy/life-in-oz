@@ -1,0 +1,60 @@
+{
+  "id": "ln-485-press-release",
+  "title": "Brickway Transit Union Announces Depot Initiatives to Improve Service and Support",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln039",
+    "ln229",
+    "ln073"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nJune 5, 2026\nBRICKWAY JUNCTION, MUNCHKIN COUNTRY – The Brickway Transit Union today highlighted recent initiatives by its members to enhance service reliability and workplace conditions along the Brickway transit corridor."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In recent weeks, depot clerks and mechanics have taken direct, on-the-ground actions to prevent service delays, improve driver comfort, and keep vehicles running with available materials."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln039",
+      "text": "“The label said ‘Brickway’ plain as day, but the contents were a full set of trowels and shears. That’s not depot stock,” said Quentin Birch, a clerk at the Brickway Junction parcel depot. “I knew the sending depot’s schedule, so I got on the line, confirmed the error, and had it turned around for the afternoon run to the Quadling nurseries. It’s just keeping an eye on what belongs where.”"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, at the main transit depot, mechanics have been addressing both long-term comfort and urgent repairs. Bertram Violetridge focused on a persistent issue for drivers assigned to the rugged western orchard routes."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln229",
+      "text": "“Bus 17 does the long haul out to the western orchards. The road gets washboarded after rains, and that old seat was just a plank,” said Bertram Violetridge, a depot mechanic. “I sourced a seat with proper lumbar adjustment from a retired coach, modified the mounts, and installed it. It’s a small change for the driver, but over eight hours a day, it makes a difference.”"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "When a standard part was unavailable, mechanic Jem Haymere applied workshop ingenuity to avoid a service cancellation."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln073",
+      "text": "“The exhaust bracket sheared clean off. The new one was back-ordered,” said Jem Haymere. “Found a strip of scrap metal the right gauge, bent it to shape, and used a heavy-duty hose clamp for tension. It’s a temporary fix, but it passed inspection. The bus finished its route that day.”"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "“These actions exemplify the network’s ethos: members using their specific knowledge and skills to solve problems directly,” said Rowan Bell, Community Manager for the Emerald City Leadership Network. “The Transit Union’s work ensures people and goods keep moving.”"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "The Brickway Transit Union is a member circle of the Emerald City Leadership Network, an association of working professionals across Oz focused on practical collaboration and shared resourcefulness."
+    }
+  ],
+  "content_sha256": "1c5ee420d1620b760428f8770c91104e35bedf158a304faa41a3a6225653acc5"
+}

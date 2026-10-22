@@ -1,0 +1,50 @@
+{
+  "id": "ln-224-post-event-debrief",
+  "title": "Winkie Works Guild Gathering Debrief: April 2025",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln240",
+    "ln300",
+    "ln212"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Event: Winkie Works Guild network meet-up, held at the Saffron Flats community hall on the 18th. About 40 attendees, mostly from the guild circles, plus a few from Meadow Mutual Aid and the Repair Co-op. The theme was 'Tools in Common.'"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Fennel Heatherbourne brought the machined pins he made for his neighbour's tractor. He had them on the table. When someone asked about the job, he gave a short, dry rundown. Said the old pins were worn to a nub, neighbour was looking at a three-day wait for parts. He had a length of decent steel rod, turned two new pins on his lathe between other jobs. Had the tractor moving again by sundown. No fuss, just the facts. People nodded; it was exactly the sort of thing they appreciate."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Reuben Brookcombe didn't say a word about any plaque. But during a break, two of his co-workers from Westgate Foundry were talking by the refreshments. One mentioned, almost casually, that Reuben's been drawing up a design for a cast metal plaque for the guild's anniversary. Doing it in his spare time, sketches on graph paper. They seemed quietly proud of him. I didn't approach Reuben about it—it's clearly not ready for a public announcement."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Barnaby Stonefield from Meadow Mutual Aid was there too, looking a bit tired but engaged. He didn't bring up the spare wheel. Later, I overheard a couple of other Mutual Aid volunteers chatting. One said Barnaby's the reason they haven't had a route completely stall this season. He keeps a good spare wheel in his van and has lent it out twice now to drivers who got a flat right at the start of their run. Got them back on schedule without needing a tow. They made it sound like a standard, unremarkable bit of preparedness, which is high praise in that circle."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "The conversations were practical. People talked about shared tool libraries, metal grades, the best way to sharpen a specific blade. The tone was blunt and useful, very Winkie. No grand speeches."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "What to change: The hall was a bit echoey. Hard to hear the quieter speakers. Next time, ask if they have any drapes or banners we could hang to dampen the sound. Also, finish earlier. People wanted to get home before full dark."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Open actions: Send a thank-you note to the hall coordinator. Check in with Reuben's co-workers in a month or so to see if the plaque design is progressing toward a guild discussion. No need to push it."
+    }
+  ],
+  "content_sha256": "eb6fc6187af9f956050b2145121f27cf655bb914d5dc7ef7e5eb3b432133ed36"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ln-180-radio-interview",
+  "title": "Tea and Currents: Keeping Community Spaces Running",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln262",
+    "ln224"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Welcome back to Green Hour on Emerald City Community Radio. I'm Dinah Violetworth, and with me today is Clem Kilnford from the Green Market warm room. Clem, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln224",
+      "text": "Happy to be here, Dinah. You've got a nicer setup here than my spot at the Market."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln262",
+      "text": "Well, speaking of setups, that's what we're talking about today. The small stuff that keeps a shared space working. Clem, I heard you had a bit of a flood over there."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln224",
+      "text": "Flood's a strong word. More of a persistent drip. The old samovar sprung a leak right where the spout meets the base. Was making a puddle on the counter, and you know, when folks are coming in from a cold walk on the Brickway, they want their tea fast, not to be mopping up after me."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln262",
+      "text": "So what did you do?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln224",
+      "text": "Took it apart. Found the washer had gone brittle, just crumbled. Didn't have a proper replacement on hand. But I remembered the Timber Verge Repair Co-op had a bin of miscellaneous tubing. Walked over, found a short length of food-safe stuff that fit snug, paired it with a new washer from my kit. Had it sealed up and steaming again in about twenty minutes."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "And no one missed their tea?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln224",
+      "text": "Not a drop. Well, not a drop they didn't pour themselves."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln262",
+      "text": "That's the way. It's the same idea, just different tools. My thing was for the repair co-op itself. They'd just finished their new tool shed out back, but it was dark as a pocket in there. They needed light and power for their grinders and saws."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln224",
+      "text": "You wire that up?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln262",
+      "text": "I did. They had a budget for bulbs and boxes, but conduit's expensive. I'd been working on a warehouse renovation over in Winkie Country—they were tearing out a whole section of old metal conduit, perfectly good. Got permission to salvage a bundle. Brought it over to Timber Verge, ran it along the ceiling joists, installed three grounded outlets and wired up four overhead fixtures. Now they can see what they're fixing."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln224",
+      "text": "Salvaged, huh? Sounds familiar. My tubing wasn't new either."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln262",
+      "text": "Exactly. It's not about the shiny new thing. It's about seeing what's already to hand and making it work. A length of conduit, a bit of tubing. Keeps the cost down for the co-op, keeps the tea hot for your neighbors."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "host",
+      "text": "So it's a kind of mutual aid, but for infrastructure."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln224",
+      "text": "I suppose it is. I fix the samovar so the warm room stays open. Dinah lights up the shed so the co-op can fix more things. One loose connection, one slow leak, and the whole system gets shaky."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln262",
+      "text": "You just tighten it back up."
+    }
+  ],
+  "content_sha256": "f3645f1855b81feb7be66524687524998e1c166f8280cfd729666958cbc6be40"
+}

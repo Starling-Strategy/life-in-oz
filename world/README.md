@@ -6,4 +6,6 @@ It is a starting point for making related fictional material, not evidence that 
 
 This roster belongs to **community-life**. The book-adventures collection reuses some cast identities under different physical and narrative assumptions. Do not merge those histories automatically.
 
-Do not supply this file to a blind document-extraction test. Its role and relationship fields give away information that the tested system should recover, or decline to infer, from the documents themselves.
+[leadership-network-people.json](leadership-network-people.json) is the separate 300-member roster for the **leadership-network** collection, with twelve circles and five districts. Its IDs (`ln001` onward) and histories are independent of this file even where names match.
+
+Do not supply either roster to a blind document-extraction test. Its role and relationship fields give away information that the tested system should recover, or decline to infer, from the documents themselves.

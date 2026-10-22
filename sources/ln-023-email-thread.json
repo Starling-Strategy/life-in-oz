@@ -1,0 +1,35 @@
+{
+  "id": "ln-023-email-thread",
+  "title": "Re: Festival Committee - Meeting Notes and Next Steps",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln117",
+    "ln163",
+    "ln050"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln117",
+      "text": "From: Anselm Ashdale, Events producer, Festival Committee\nTo: Festival Committee Distribution List; Rowan Bell, Emerald City Leadership Network\nSubject: Festival Committee - Meeting Notes and Next Steps\nDate: March 21, 2024\n\nHello all,\n\nFirst, a bit of good news to illuminate our path forward. I’m delighted to report that the Emerald City Chamber has agreed to a modest sponsorship for the Festival of Lights. I presented them with a detailed budget breakdown—every wire, bulb, and safety cable accounted for—and they saw the vision. The funds are specifically earmarked for stage lighting, which means our main platform won’t be lit by a few lonely lanterns this year. A solid step!\n\nNow, on to our gathering yesterday. Julian, your prototype was the talk of the table. And Uri, thank you for making the trip in from South Meadow.\n\nRowan, notes and actions are below.\n\nBest,\nAnselm"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln050",
+      "text": "From: Julian Park, Display maker, Park Market Displays\nTo: Anselm Ashdale; Festival Committee Distribution List; Rowan Bell\nSubject: Re: Festival Committee - Meeting Notes and Next Steps\nDate: March 22, 2024\n\nAnselm, that’s brilliant news about the lighting. Congratulations.\n\nTo follow up on what I showed the group: the chalkboard panels are done. I built five framed panels, each about the size of a window shutter. The key was sealing the frames—I used a clear weather-resistant varnish on the wood and set the chalkboards back slightly under a lip. Should stand up to a light drizzle so vendors can write the day’s prices without the board running. They’re simple, but they have a clean look. I have them at my workshop in Clay Hollow whenever the market coordinators want to pick them up.\n\nJulian"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln163",
+      "text": "From: Uri Pepperbourne, Clinic manager, South Meadow Clinic\nTo: Julian Park; Anselm Ashdale; Festival Committee Distribution List; Rowan Bell\nSubject: Re: Festival Committee - Meeting Notes and Next Steps\nDate: March 22, 2024\n\nAnselm and Julian,\n\nExcellent developments. Securing specific funding is a considerable achievement, Anselm. And Julian, the practicality of your design is evident; a sealed frame is a thoughtful solution.\n\nIn our discussion about creating welcoming spaces, I mentioned our recent clinic project. We did reconfigure our waiting area. By adding a low bookshelf unit as a divider, we created a more private corner away from the main circulation path. It’s a small change, but it has allowed for more discreet conversations when needed. It seemed relevant to our festival planning regarding quiet zones or family areas.\n\nI will await the draft layout to review the proposed first aid and quiet area placements.\n\nSincerely,\nUri Pepperbourne"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln117",
+      "text": "From: Anselm Ashdale, Events producer, Festival Committee\nTo: Uri Pepperbourne; Julian Park; Festival Committee Distribution List; Rowan Bell\nSubject: Re: Festival Committee - Meeting Notes and Next Steps\nDate: March 23, 2024\n\nThank you both.\n\nJulian, I’ll connect you with the market lead directly. Uri, that clinic example is perfectly relevant—a physical reminder that atmosphere is about function as much as decoration. I’ve asked the layout team to mark the draft with ‘Uri’s Corner’ as a placeholder for the quiet zone.\n\nRowan, for your notes, the open action from the meeting remains for me to finalize the lighting supplier contract by month’s end, now with the Chamber’s commitment in hand.\n\nOnward,\nAnselm"
+    }
+  ],
+  "content_sha256": "60fd4d1d8946b728249fa23b38e54e1655aaf8aead628261db338bbbf78758fb"
+}

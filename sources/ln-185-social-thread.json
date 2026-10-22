@@ -1,0 +1,39 @@
+{
+  "id": "ln-185-social-thread",
+  "title": "Whoever resoled our boots this week",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln005",
+    "ln181"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Yellow Brick Board · storm relief · March 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "road crew member",
+      "text": "Whoever resoled our boots this week, thank you. Some of us were walking on split soles by Thursday."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln181",
+      "text": "Six of my crew, to be exact. That was Ruth Fenwick at the cobbler's on Lantern Row. She did forty pairs in a week and wouldn't take money from the crews."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "neighbor",
+      "text": "She did my husband's too. He's been on the Brickway clearing since Monday and she had them back to him the next morning."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln005",
+      "text": "Couldn't have you out there with wet feet. Bring them back if the stitching goes."
+    }
+  ],
+  "content_sha256": "5fd5b147885e2104a70476295bf8c42463230e3190fa97b1325689e78c94d78a"
+}

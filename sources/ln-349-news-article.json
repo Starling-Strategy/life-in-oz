@@ -1,0 +1,70 @@
+{
+  "id": "ln-349-news-article",
+  "title": "Small Fixes, Big Impact: Transit Workers Solve for Rain, Repairs, and Roadwork",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln024",
+    "ln018",
+    "ln015"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY, September 2025 – When the rain sweeps in from the Gillikin Country, the Brickway can turn from a reliable artery into a series of obstacles. For the workers who keep people and goods moving, the response isn’t always a grand redesign. Sometimes, it’s a pouch of hook-and-loop fastener, a clipboard, and a quick reroute. Three recent initiatives from within the Brickway Transit Union show how practical solutions are keeping the journey on track."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "For driver Mina Vale, the first autumn storms highlighted a persistent, soggy problem. The paper transfer slips, essential for passengers connecting to other lines, would wilt and stick together in the damp air near her window. ‘It was a mess,’ Vale says. ‘You’re trying to be quick, and you’re fumbling with a clump of paper. It holds up the line.’"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln024",
+      "text": "I got one of those rigid plastic pouches from the supply closet—the kind we use for route maps. Fastened it right to the window frame with some heavy-duty hook-and-loop fastener. Now the slips stay dry, they’re right where my hand falls, and I’m not digging around. It shaves maybe ten seconds off each stop in the rain, but over a full shift on the Junction-to-City run, that adds up. Lets me keep to my timetable."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Vale’s modification has since been noted by dispatchers as a simple, replicable fix for the wet season."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Further north, a more significant disruption required a swift operational pivot. The scheduled five-day closure of the Gillikin Bridge for safety inspections threatened to sever a key bus link. Dispatch supervisor Elena Cross coordinated the response."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln018",
+      "text": "We had two spare vehicles and a field at Orchard Cross, about half a mile south of the bridge. The plan was a shuttle: buses from the city terminate there, passengers walk a short, signed path to the other side, and our shuttles complete the journey into Gillikin. The trick was communicating it clearly and having the shuttles timed to meet the arriving buses, not just run on a loop. We managed a modified service with no more than a twelve-minute added transfer time."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Cross monitored the radio constantly during the first morning peak, adjusting shuttle intervals by a few minutes based on real-time passenger load. The temporary transfer point operated without major incident for the duration of the closure."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "While Cross managed the detour, road crews were dealing with the cause of many autumn delays: water damage. A low-lying, quarter-mile stretch of the Brickway near the Winkie border had become a chronic flooding point, requiring repeated patching. Road maintenance lead Victor Sedge was tasked with a full repave."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln015",
+      "text": "We had three crews working consecutive eight-hour shifts to get it done in a day. The risk is the second shift not knowing exactly where the first left off, or the third crew re-rolling a section that’s already set. I drew a grid of the stretch on a clipboard—just a simple sheet with sections A through H. As a crew finished a section, they’d initial it and note the time. The next crew lead would take the sheet, see what was done, and pick up the pencil. No overlap, no confusion."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "The handover sheet, Sedge reports, ensured the work proceeded seamlessly from dawn until after dusk. The repaved section has since handled several heavy rains without new deterioration."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Though these solutions address different problems—a driver’s efficiency, a service disruption, a crew coordination issue—they share a common thread: they emerged from the workers closest to the challenge. As the rainy season settles in, such small-scale ingenuity may prove as vital as any official timetable."
+    }
+  ],
+  "content_sha256": "a5779476ec599365d7b1cd3098c261ab7efc135fcb5b234f04926f4fda59087f"
+}

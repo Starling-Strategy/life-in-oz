@@ -1,0 +1,66 @@
+{
+  "id": "ln-517-news-article",
+  "title": "The Liaisons: Mapping Forms, Mending Streets, and Making Connections",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln244",
+    "ln247",
+    "ln280",
+    "ln180"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Wizard’s Office Liaisons circle of the Emerald City Leadership Network includes city aides, engineers, health navigators, and tradespeople. Their daily work often bridges the gap between civic administration and community need. Here’s a look at recent efforts from four members."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In the Emerald City, a minor crisis was averted thanks to an aide’s institutional memory. Colleagues say Willa Rushwick, a council aide, once located a missing batch of street festival permit forms by remembering they had been stored with the old parade route maps. The forms, needed for a last-minute approval, were found in a storage cabinet in the Spectacle Lane annex, allowing the permit process to continue without delay."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln244",
+      "text": "It’s not a glamorous part of the job, but knowing where things are—and where they’ve been put—keeps everything moving. The parade maps from five years ago used the same filing code prefix. It was a logical, if forgotten, place."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Further north, in Gillikin Country, Coralie Greenshaw of Quadling Health Access recently completed a project in her home district of Purplemoor. She compiled a list of residents in remote Purplemoor villages who needed transport to the seasonal flu vaccine clinic and matched them with volunteer drivers. The effort ensured over two dozen individuals, primarily older residents and those without personal transport, received their vaccinations."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln247",
+      "text": "It was about connecting dots. We had the clinic dates, we had volunteers with wagons and carts who wanted to help, and we had neighbors who just needed a reliable way to get there. It’s a simple list, but it made the difference between an intention and a shot in the arm."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Back in the city, public works engineer Zinnia Cindermere oversaw a tangible safety improvement in her own Junction Quarter neighborhood. She supervised the replacement of seven rusted manhole covers along a busy commercial street, specifying non-slip cast iron replacements to improve safety for pedestrians and cyclists. The work was completed over three days with minimal disruption to shopfronts."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln280",
+      "text": "The old covers were a known hazard, especially in wet weather. They were thin, corroded, and slick. The new cast iron units meet current load and friction specifications. It’s a basic infrastructure fix, but basic is what prevents accidents."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Not all liaisons work in offices or on streets. Juniper Hazelby, a lathe operator at the Westgate Foundry in Violet Hills, brought her expertise to a younger generation. She brought sample castings and safety gear to a Violet Hills school career day, demonstrating basic metalworking to a group of interested students."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln180",
+      "text": "I brought some simple brackets, a gear blank. Let them feel the weight, see the finish. The main thing was the safety talk—goggles, gloves, knowing where your hands are. A couple of kids asked really good questions about the lathe. Had to ask one to repeat himself—it was noisy in that hall."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "From locating paperwork to securing pavement, from coordinating rides to sparking curiosity, the work of the Liaisons circle is defined by practical, grounded action. As Coralie Greenshaw notes, it’s often the simple list, the remembered filing code, or the right piece of iron that keeps a community functioning and connected."
+    }
+  ],
+  "content_sha256": "ab1bd192b3a093ffde6d15975a674713e6e947cb7ab16f8533123cfa9274e61d"
+}

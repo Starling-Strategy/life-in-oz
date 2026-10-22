@@ -1,0 +1,19 @@
+{
+  "id": "ln-228-nomination-letter",
+  "title": "A Nomination for Hannah Bellamy, Meadow Mutual Aid",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln021",
+    "ln016"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln021",
+      "text": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Hannah Bellamy for recognition for her work with Meadow Mutual Aid. I’m Iris Marsh, a home-care scheduler in Meadowbank, and I see how Hannah’s efforts create a fabric of support that goes beyond any single organization.\n\nMy own part in this was small: I spent a few afternoons walking our district to verify which clients had porch ramps and other mobility aids, then updated a shared map. The modest result was that Quadling Health Access could use that map to plan a single, coordinated day to inspect all that equipment, saving everyone time and trips. But that work only connected because of the environment Hannah fosters.\n\nHannah saw a need among the younger folks here in Brickway Junction—kids with bikes that needed attention but families without the time or know-how. So she started a monthly weekend program at the community centre’s side yard. She organizes volunteers to perform free bicycle safety checks and minor adjustments for local youth. It’s not just about tightening a chain; it’s about giving parents one less worry and teaching young people that their community has their back. She turns an empty side yard into a place of practical care every single month.\n\nHannah’s energy is infectious, and she is endlessly generous with credit, always following up to make sure a connection she helped spark actually catches fire. The bike checks and my map walk are different threads, but they’re part of the same cloth she’s weaving here. She embodies what Meadow Mutual Aid is all about: seeing a need, matching it with a willing hand, and building something that lasts. I hope you’ll agree she is most deserving of this honor.\n\nSincerely,\nIris Marsh"
+    }
+  ],
+  "content_sha256": "42416064f60de904006eb5725f247f8343ef0d18a2ea4c074bf02eac8a685710"
+}

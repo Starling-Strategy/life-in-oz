@@ -1,0 +1,29 @@
+{
+  "id": "ln-119-intake-email",
+  "title": "Fwd: Two quick repairs from the Co-op",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln286",
+    "ln274"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln286",
+      "text": "To the intake desk,\n\nHattie told me you were collecting notes from the Timber Verge Repair folks this month. Here's a couple things.\n\n--- Forwarded message ---"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Notes from the Timber Verge Repair Co-op meeting, November 2024\n\nDoris Emerycombe (Emerycombe Fabrication) reported that the big bakery over on the Brickway extension had a proofing oven failure – four of the internal rack brackets had cracked through. She had a pattern from a previous job. Cut and welded four new ones from 3/16\" stainless before lunch. They were bolted in by two o’clock, and the oven was back in service for the evening bake. No charge for the rush, but they’re sending over a crate of day-olds for the tool library.\n\nAt the same meeting, Hattie Tinstead (Tinsmith Row tool library) ran a short demonstration on repairing loose handles. She had three old crosscut saws with wobbly handles. Showed the group how to warm the hide glue, work it into the joint, clamp it up tight with bar clamps, and let it cure for a full day. All three saws are now back in the lending rotation. She reminded everyone that the library has glue pots and clamps available for loan."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln286",
+      "text": "That’s the gist.\n\nDoris"
+    }
+  ],
+  "content_sha256": "47f856f073842d4d40b6cbe5295be4cb542be0ab666fa3cba8fc054263d63f1b"
+}

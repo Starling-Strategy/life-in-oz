@@ -1,0 +1,57 @@
+{
+  "id": "ln-436-post-event-debrief",
+  "title": "Meadow Mutual Aid debrief – February 2026",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln003",
+    "ln011",
+    "ln016",
+    "ln021",
+    "ln020"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Post-event debrief · Meadow Mutual Aid network check-in · February 2026\n\nPurpose: Capture outcomes and open threads from the February network call focused on Meadow Mutual Aid circles and their neighbors. Call had 12 participants on the line. Good energy, lots of practical cross-talk."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "What happened:\n- Clara Micefield reported that last Saturday morning, Meadow Mutual Aid volunteers patched or replaced the broken washing lines in the Meadowbank communal drying yard. They used reclaimed rope and proper clothesline pulleys from the community shed. Service was restored for twelve households by lunchtime. Clara emphasized it was a team of eight volunteers, including two teenagers who were great at threading the pulleys."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln011",
+      "text": "Tobias Hale mentioned, in his usual way, that he was reading the published quarterly report for Meadowbank and spotted a line-item rental fee for the ward meeting room. He said, \"It’s town property. We shouldn’t be paying to use our own room.\" He pointed it out to the clerk, who checked the records and agreed. The erroneous charge was removed from the next quarter's budget. Tobias noted wryly that the report now has one less page of 'creative accounting'."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln016",
+      "text": "Hannah Bellamy gave an update from Brickway Junction. She organized a weekly skill-share sewing circle at the Community Centre. Experienced volunteers help newcomers repair torn hems and replace lost buttons. They use a shared bin of donated thread and fabric scraps. Hannah said, \"It’s not just about the sewing. It’s about the chat, and knowing you can fix the small thing that’s been bothering you for weeks.\" She credited three regular volunteers by name for keeping it running smoothly."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln021",
+      "text": "Iris Marsh described the ice week. She kept the home-care visit log, re-sequencing visits each morning around closed roads. She recorded which carers did visits on foot, noting the extra time taken. \"The rota looked like a spider’s web by Thursday,\" she said, \"but everyone was logged, and no one was missed. The handovers were all about which paths were clear.\""
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln020",
+      "text": "Caleb Alder from North Orchard Clinic shared that he created a single-page, tick-box form for patients requesting copies of their vaccination records. He said, \"It asks for name, date of birth, which years they need, and how they want to receive it. Check, check, check.\" This cut the average processing time at the front desk from fifteen minutes of back-and-forth questions to about five minutes. He’s already had fewer confused looks from people in the queue."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Open threads and follow-ups:\n- Clara will circulate the washing-line pulley source to the network, in case other communities have similar yards.\n- Tobias offered to keep an eye on future quarterly reports for 'similar ghosts' and will show a few others what to look for.\n- Hannah invited anyone from Meadowbank who’s near Brickway Junction to drop into the sewing circle; she’ll send the schedule.\n- Iris noted that the sequenced log from the ice week might be a useful template for future weather disruptions; she’ll clean it up and share.\n- Caleb’s form is being adopted by two other clinic front desks in the network; he’s happy to send the file."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "General notes:\nThe call reinforced how much of the work is about fixing small, tangible breakdowns – a washing line, a button, a form, a route, a billing error. The mood was less about 'mutual aid' as a grand concept and more about the specific, shared competence in the room. Next check-in scheduled for May, likely focusing on the Brickway Transit Union’s summer plans."
+    }
+  ],
+  "content_sha256": "b991272a750d977ef7f479a77aa2d6ff61916ed7ae58012d8eb180dfbc332a61"
+}

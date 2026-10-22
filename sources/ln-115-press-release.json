@@ -1,0 +1,55 @@
+{
+  "id": "ln-115-press-release",
+  "title": "Festival Committee Announces 2024 Winterlight Festival Preparations, Showcasing Community Talent",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln069",
+    "ln128",
+    "ln297"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nEmerald City, November 2024 – The Emerald City Leadership Network’s Festival Committee is proud to announce preparations for the annual Winterlight Festival, set to illuminate the Brickway and Central Square next month. This year’s event highlights the deep well of practical artistry and community care found across Oz’s four countries, from costume restoration to logistical innovations."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "A key element of the festival’s visual pageantry comes from the meticulous work of Wynn Fernshaw of Fernshaw Costumes in Blue Orchard, Munchkin Country. Fernshaw has repaired a set of vintage wool cloaks destined for the Festival’s heralds and lantern-bearers. The work involved reinforcing the worn hems with matching thread and replacing lost pewter clasps with salvaged ones from her own collection, ensuring the garments are both historically resonant and sturdy enough for a long evening’s procession."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln069",
+      "text": "“It’s a quiet sort of magic, bringing a piece of the past back to life,” Fernshaw said. “Every stitch is a choice, and every clasp has a history. Seeing these cloaks worn under the festival lights will be the real reward.”"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Behind the scenes, community organizers are applying similar care to the festival’s practical needs. While not directly involved with the festival, the efficient systems developed by members like Phoebe Thistleholt of the Westgate Mills Childcare Co-op in Winkie Country often inspire broader applications. Parents in the co-op report that Thistleholt introduced a photo board system for child sign-in, which has significantly sped up the often-frantic morning drop-off routine, a model of clarity that festival volunteers are studying for managing participant check-ins."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln128",
+      "text": "“When you simplify one part of the day, it creates space for everything else,” Thistleholt noted. “A smooth start means calmer children and happier parents. It’s about removing friction, whether it’s for ten families or a thousand festival-goers.”"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The festival’s soundtrack is also receiving attention. Oriel Emerystead, a musician with the Hammerhead Rise Brass Band in Quadling Country, has long been the keeper of the group’s extensive library. Looking ahead to the band’s busy festival season, Emerystead has announced a plan to finally sort and recatalogue their loose sheet music into proper folders, a task he has postponed for months."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln297",
+      "text": "“Right now, our music library is like a song played without a downbeat—everything’s there, but finding the right entrance is a scramble,” Emerystead explained. “Proper folders are the conductor’s baton. It will let us pull any tune, any arrangement, without the panic. It’s a gift to our future selves.”"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The Festival Committee, a cross-country circle of the Emerald City Leadership Network, coordinates volunteers and resources for Oz’s major civic celebrations. The Network connects adult members across the Emerald City and the Munchkin, Winkie, Quadling, and Gillikin countries through practical collaboration in circles focused on transit, business, repair, health, and community events."
+    }
+  ],
+  "content_sha256": "ca4cfac43ab1d0c0a892354653805f23913e56d73a285d26eb2bf98b88096127"
+}

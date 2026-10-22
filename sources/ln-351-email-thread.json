@@ -1,0 +1,34 @@
+{
+  "id": "ln-351-email-thread",
+  "title": "Lantern count discrepancy",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln213",
+    "ln288"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln213",
+      "text": "From: Lorna Plumshaw, Volunteer Lead, Festival Committee\nTo: Kerensa Lanternstead, Lanternstead Tinware\nSubject: Lantern Frames for the Procession\nDate: 15 October 2025\n\nDear Kerensa,\n\nThank you for your work on the lantern frames for the Festival of Light. The delivery arrived at the Gate Quarter store as arranged.\n\nOur inventory today shows only one hundred and fifty frames present. This is a significant shortfall from the two hundred confirmed in the committee minutes of last month. I’ve had two volunteers double-check the back room and the main storage shelves.\n\nWe proceeded with the procession using the frames we had, and it was well-received, though we had to space the lanterns more widely along the Brickway than planned.\n\nCould you please confirm the quantity you dispatched? If there was a partial shipment, we should account for the remainder.\n\nRegards,\nLorna"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln288",
+      "text": "From: Kerensa Lanternstead, Lanternstead Tinware\nTo: Lorna Plumshaw, Volunteer Lead, Festival Committee\nSubject: Re: Lantern Frames for the Procession\nDate: 16 October 2025\n\nLorna,\n\nI received your note. I am certain of the count. I made two hundred frames. My apprentice and I packed them all into the same four crates, which were collected by the carrier from Tinsmith Row. I watched them loaded.\n\nIf your store holds only one hundred and fifty, then fifty must be somewhere on the premises. Perhaps they were moved to a different area upon arrival, or set aside for inspection? They are all stamped with our workshop mark—a small lantern—on the inside rim.\n\nThe procession looked beautiful from the reports here, even with the wider spacing. But the frames exist. I would be happy to speak with the storekeeper there to help locate them.\n\nYours,\nKerensa"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln213",
+      "text": "From: Lorna Plumshaw, Volunteer Lead, Festival Committee\nTo: Kerensa Lanternstead, Lanternstead Tinware\nSubject: Re: Lantern Frames for the Procession\nDate: 17 October 2025\n\nKerensa,\n\nThank you for your reply. I have now walked the entire store with the head clerk. We found no additional crates, nor any frames loose on shelves. We saw no stamp inside the rims of the frames we have; perhaps it was not applied to all?\n\nThe carrier’s docket, which I have here, lists four crates. It does not list a piece count. The storekeeper recalls receiving and signing for four crates. He does not recall their relative fullness.\n\nWithout the frames present, I cannot amend our inventory. I have recorded your account in our notes. We will plan for a different count next year.\n\nLorna"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln288",
+      "text": "From: Kerensa Lanternstead, Lanternstead Tinware\nTo: Lorna Plumshaw, Volunteer Lead, Festival Committee\nSubject: Re: Lantern Frames for the Procession\nDate: 19 October 2025\n\nLorna,\n\nThe stamp is on every one. It is light, but it is there. If you have the frames, you have the stamp.\n\nI made two hundred. They left here. I do not know where they are now. I am sorry the count does not match, but my count is correct.\n\nPerhaps we should leave it there.\n\nKerensa"
+    }
+  ],
+  "content_sha256": "673d1bbac2c979b11405db5a553e08acaab67f6fc016f7355ab2f65afdfe65ac"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ln-163-nomination-letter",
+  "title": "Nomination for Pia Oakridge",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln154",
+    "ln058"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln154",
+      "text": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Pia Oakridge of the Timber Verge Repair Co-op for recognition at this year’s Gala.\n\nMy own bit of context: I’m an electrician from Yellow Kiln. Last month, the collective there got a new pottery kiln, and the three-phase hookup was a mess. I rewired it to current code, got the inspectors in, and it passed without a hitch. It’s running now. That’s the sort of straightforward, necessary work our co-op does—fixing what’s broken so other work can happen.\n\nBut what Pia does is different. She’s the steward of our tool library. Last fall, someone donated a vintage hand planer. It was rusty, the blade was dull, and the adjustment knob was seized. Most folks would’ve tossed it in the scrap pile. Pia took it home. She spent evenings cleaning every part, sharpening the iron, and oiling the mechanisms. She didn’t just make it work; she made it a pleasure to use.\n\nThat tool is now one of the most requested items in the library. People are using it for furniture projects, for trim work, for all sorts of fine woodworking. They come back raving about how smooth it cuts. Pia’s work turns a piece of forgotten history into a community asset. It’s not flashy, but it’s essential. She understands that a well-maintained tool doesn’t just perform a task—it teaches respect for the craft.\n\nIn a network that talks a lot about building and repairing, Pia Oakridge embodies the quiet, foundational work that makes the rest possible. She has my full support for this nomination.\n\nSincerely,\nCyrus Poppymere\nPoppymere Electrical\nTimber Verge Repair Co-op"
+    }
+  ],
+  "content_sha256": "e984bc806420cd1c63f14ba47a15040243a4eff76156c0e822445195aceab258"
+}

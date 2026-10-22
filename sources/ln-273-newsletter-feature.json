@@ -1,0 +1,49 @@
+{
+  "id": "ln-273-newsletter-feature",
+  "title": "Setting the Record Straight on Meadowbank Kitchen Handrails",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln084",
+    "ln019"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Last month, the Munchkinland Herald published a brief item celebrating the installation of new handrails on the Meadowbank community kitchen's accessibility ramp. The piece named Tilda Poppyley of Poppyley Metalworks, who was credited with the installation. Readers might have pictured the work as finished. It turns out the picture wasn't complete."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "June Arden, the reporter who wrote the original piece, has since filed a correction. 'I got ahead of the facts,' Arden states. 'My source saw the handrails delivered and assumed they were put up. I should have confirmed the installation directly with Ms. Poppyley or the kitchen coordinators before publishing.'"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln019",
+      "text": "The correction is important. It maintains trust. People rely on the Herald for accurate local news."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "So, what is the accurate state of affairs? Tilda Poppyley did fabricate the handrails in her Winkie Country workshop. She delivered them to the Meadowbank site, painted and ready. But they are not yet installed."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln084",
+      "text": "They're leaning against the shed wall. Waiting. The fabrication was my job. The install needs a permit. The permit's been applied for."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Poppyley, known for her terse precision, emphasizes the separation of trades. Her work is done. The delay is a common civic stumble—paperwork. The kitchen volunteers confirm the permit application is in with the Wizard's Office, and they hope to schedule the installation crew soon."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "This small episode is a useful reminder of how community projects unfold in stages, often invisibly. It also highlights the value of clear communication and the diligence of those, like Arden, who correct the record promptly. The handrails will get there. For now, the correction stands as its own piece of good work."
+    }
+  ],
+  "content_sha256": "eacf9e53e355ee384ae1b551adb91ba1af190b572022fa8ea1b2cfc61f6fb24f"
+}

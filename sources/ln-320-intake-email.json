@@ -1,0 +1,34 @@
+{
+  "id": "ln-320-intake-email",
+  "title": "Fwd: August notes from Gillikin and the Wizard's Office",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln065",
+    "ln208"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln065",
+      "text": "Rowan—Thought this bit from the Chamber bulletin might be of interest to the network for our regional connections, especially for any repair co-ops. Also attached the draft protocol the W.O. shared, looks like solid work. Will see you at the next inter-circle mixer. Cassian"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message --- From: Emerald City Chamber Bulletin Date: August 20, 2025 Subject: Monthly Roundup: From the Orchard to Infrastructure"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Gillikin Growers held their August meeting at Wheatbourne Orchard's barn. Owner Cassian Wheatbourne provided samples of the season's early-press cider and facilitated a discussion on cost-sharing for specialized equipment repairs, such as sprayer pumps and cold-storage compressors. The conversation yielded a tentative plan for three neighboring farms to jointly contract with the Timber Verge Repair Co-op for a maintenance review this fall."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Separately, Tilda Stoneford of the Wizard’s Office Public Works Department has circulated a draft proposal for a standardized inspection protocol targeting expansion joints on the city's older bridges, including several key spans on the Brickway. The protocol aims to systematize visual and manual checks to identify fatigue and corrosion earlier than the current annual review cycle. The draft is open for comment from engineering guilds and relevant trade circles until late September."
+    }
+  ],
+  "content_sha256": "a4d730291f8b9389b46ef6a35c6818cf22745eb3ae2ef58eac8cf4689b2b3e9d"
+}

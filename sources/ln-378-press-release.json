@@ -1,0 +1,48 @@
+{
+  "id": "ln-378-press-release",
+  "title": "South Copse Dental Practice Hygienist Donates Care Kits, Shares Health Links",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln139"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nNovember 2025\nSOUTH COPSE, Quadling Country — Silas Plumley, a dental hygienist with South Copse Dental Practice, has taken two recent steps to expand oral health access in his community, focusing on practical aid and preventative education."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Following a holiday weekend incident where a resident at the South Copse senior center faced a broken denture with no immediate repair options, Plumley assembled and donated a simple denture repair kit to the center. The kit includes a small container of denture adhesive and a contact card for the dental practice."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln139",
+      "text": "\"It’s like having a spare button for your favorite coat,\" said Plumley. \"You hope you don’t need it, but it’s a relief to know it’s there. For someone relying on their dentures to eat and speak comfortably, a quick fix can make a long weekend feel a lot shorter.\""
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In a separate initiative, Plumley recently gave a talk to a local diabetes support group in Quadling Country on the links between gum health and blood sugar management. He used oversized plastic tooth models to illustrate how gum inflammation can affect overall health."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln139",
+      "text": "\"Think of your gums like the soil around a tree’s roots,\" he explained to the group. \"If the soil is unhealthy, the whole tree struggles. Managing one helps the other. It’s a connection a lot of folks don’t get to hear about outside a clinic visit.\""
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The talk was well-received by the support group members, who appreciated the clear, visual explanation of a complex health interaction. Plumley emphasized that his role is about providing tools and understanding, whether through a physical kit or shared knowledge."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "South Copse Dental Practice has served the Quadling Country community for over twenty years."
+    }
+  ],
+  "content_sha256": "a2c58e55342c72bb8f261ccf55f4f2b6b7c182fe0ed0def372c8a43631ed67cb"
+}

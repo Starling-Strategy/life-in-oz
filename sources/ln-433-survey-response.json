@@ -1,0 +1,75 @@
+{
+  "id": "ln-433-survey-response",
+  "title": "February 2026 Reading Room Network Member Survey Responses",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln254",
+    "ln098",
+    "ln182"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Network Members’ Survey – February 2026\n\nThank you for taking the time to share your thoughts with the Reading Room Network. Your feedback helps us understand what’s working and where we can grow together.\n\n1. In your own words, what is the most valuable thing you get from being part of this network?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln254",
+      "text": "A sense of adjacency to people who are actually doing things. I sit with words all day, and it’s easy to feel disconnected. Hearing a clerk talk about a patron’s specific confusion, or an archivist describe the dust on a particular box—it reminds me that the text has a context. The network provides the context."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln098",
+      "text": "The collaboration. It’s the quiet, practical kind. Seeing a need—a word someone doesn’t understand, a form that looks intimidating—and being able to offer a simple tool to help. It’s not about grand gestures, but about making access a little smoother for the next person who walks in."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln182",
+      "text": "A shared purpose that extends beyond my desk. My work at the Records Hall can be solitary and procedural. The network connects that procedure to a living community. It validates that organizing a box of photographs isn’t just clerical; it’s preserving a story people might actually want to know."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "2. Could you describe a recent instance where you saw another member contribute something particularly helpful to the group’s work?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln254",
+      "text": "After the conference on archival practices last autumn, I heard from several attendees for whom Munchkin is a second or third language. They mentioned that Rufus Brambledale had circulated some summary notes in three languages. They said it was concise, not a full translation, but it highlighted the key arguments and let them follow up on the parts that mattered to them. It seemed a considerate bit of bridge-building."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln098",
+      "text": "I’ve been using the glossary I put together for grant terms. It started because I kept seeing the same questions from volunteers at the Lantern Row reading room. Words like ‘fiduciary’ or ‘matching funds’ were barriers. I made a single sheet with plain-language definitions. I’m told it’s now in use at three different locations, which is exactly what I hoped—that it would travel and be useful."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln182",
+      "text": "My own recent project, I suppose. A box of glass-plate photographs from the 1920s came to the hall with no labels, just a donor note suggesting they were ‘city scenes.’ I spent the better part of a month cross-referencing them with building permits from the same era. I managed to match several: a view of the old market crossroad with the permit for its cobblestone repair, that sort of thing. They’re now part of a proper visual archive. It was satisfying work, like solving a small, silent puzzle."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "3. What is one small, practical change that could make the network’s communications or meetings more effective for you?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln254",
+      "text": "A clearer subject line on circular emails. ‘Update’ is not a subject. ‘Update on Quarterly Book Drive for South Quadling’ is a subject. Precision saves everyone’s time."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln098",
+      "text": "Perhaps a five-minute ‘check-in’ at the start of general meetings where people can just state a current challenge or success from their location, without needing to elaborate. It would help us know where the needs are without waiting for a formal agenda item."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln182",
+      "text": "Advance circulation of any documents for discussion, even if they’re just bullet points. It allows for more considered conversation. We can come prepared to discuss the thing, not just hear about it for the first time."
+    }
+  ],
+  "content_sha256": "d9784229bf5fa43609cfc36bfcd6018ec28ecb65dd6ee4fae44b6e52ef4cea81"
+}

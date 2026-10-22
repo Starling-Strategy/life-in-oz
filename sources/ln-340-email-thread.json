@@ -1,0 +1,29 @@
+{
+  "id": "ln-340-email-thread",
+  "title": "Re: Proof of insurance examples",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln160",
+    "ln294"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln160",
+      "text": "From: Dilys Clovermore, Community Grants Officer, Wizard's Office\nTo: Delphine Saffronmere, Founder, Saffronmere Tutoring\nSubject: Re: Proof of insurance examples\nDate: 12 September 2025\n\nDelphine,\n\nMany thanks for your note. I've attached the one-page explainer with the examples we discussed. I've included scans of a certificate of insurance, a policy declaration page with the relevant equipment listed, and a binder letter from an insurer—all with personal details redacted, of course. The key is that the document must name the equipment, show the coverage amount meets our minimum, and be current. I hope this makes the requirement clearer for everyone.\n\nI appreciated our chat last week. Your point about needing concrete examples was well taken. It’s a common point of confusion for first-time grantees, especially for those small pop-up events.\n\nWarmly,\nDilys"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln294",
+      "text": "From: Delphine Saffronmere, Founder, Saffronmere Tutoring\nTo: Dilys Clovermore, Community Grants Officer, Wizard's Office\nSubject: Re: Proof of insurance examples\nDate: 15 September 2025\n\nDilys,\n\nThis is perfect—exactly what we needed. I've already shared it with two other founders in the network who were scratching their heads over the same clause. It turns a bureaucratic hurdle into a five-minute task. Thank you for putting it together.\n\nOn a different note, I’ve started something here that’s had a nice little payoff. Tuesdays from 4 to 5 are now a silent, device-free study hour. No phones, no tablets, just paper and pens and a timer. It’s meant for deep focus, and last week it helped three of my students finally push through and draft the concluding sections of their Quadling migration history essays. They’d been stuck for days. Sometimes the simplest structure does the trick.\n\nAll the best,\nDelphine"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln160",
+      "text": "From: Dilys Clovermore, Community Grants Officer, Wizard's Office\nTo: Delphine Saffronmere, Founder, Saffronmere Tutoring\nSubject: Re: Proof of insurance examples\nDate: 16 September 2025\n\nDelphine,\n\nI’m so glad the document is useful. Please do share it widely.\n\nAnd I love hearing about your Tuesday study hour. That’s a wonderful, pragmatic intervention. It reminds me that the best solutions are often about creating the right conditions, not adding more things. Let me know if any of those students need a letter of recommendation for a future grant application—we’re always looking for examples of sustained project work.\n\nBest,\nDilys"
+    }
+  ],
+  "content_sha256": "bfb565448a41141249d034a4c59c37316f26d99dfdadccc7fdf0d9a891fdaaae"
+}

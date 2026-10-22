@@ -1,0 +1,34 @@
+{
+  "id": "ln-212-email-thread",
+  "title": "Fwd: Bell Market benches and damp-proofing leaflet",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln088",
+    "ln034"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln034",
+      "text": "From: Marcus Wren\nTo: Rowan Bell, Emerald City Leadership Network\nSubject: Fwd: Bench placement update\nDate: April 7, 2025\n\nRowan,\n\nAttaching the note from Gideon about the new benches. Good to see progress on that front.\n\nAlso, for the record, our desk has finalized the damp-proofing grant leaflet. It's a single page, answers the five questions we get daily. Copies are on the counter now.\n\nBest,\nMarcus"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Gideon Thistleham\nTo: Marcus Wren\nSubject: Bench placement update\nDate: April 5, 2025\n\nMarcus,\n\nA quick update on the Bell Market promenade bench project. The installation is complete. Four benches are now in place.\n\nTo get the locations approved, I coordinated signatures from the Parks Office, the Transit Authority, and the Accessibility Office. Each had a different set of concerns regarding foot traffic flow and proximity to curb cuts. The final placements satisfy all three.\n\nRegards,\nGideon Thistleham\nCouncil Aide, Wizard's Office"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln034",
+      "text": "From: Marcus Wren\nTo: Gideon Thistleham\nCc: Rowan Bell\nSubject: Re: Bench placement update\nDate: April 8, 2025\n\nGideon,\n\nThank you for the update. Securing agreement from three offices is no small feat. The benches look good.\n\nOn my end, as mentioned to Rowan, the damp-proofing grant FAQ is printed. It covers eligibility, proof of ownership, the application window, average processing time, and the appeals process. It's already reducing the time spent on initial explanations.\n\nPerhaps we can discuss a similar coordination for distributing these leaflets to other advice desks in the network.\n\nBest,\nMarcus"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln088",
+      "text": "From: Gideon Thistleham\nTo: Marcus Wren\nCc: Rowan Bell\nSubject: Re: Bench placement update\nDate: April 10, 2025\n\nMarcus,\n\nNoted on the leaflet. A practical resource.\n\nRegarding distribution, I can inquire about the Wizard's Office bulletin board policy for community notices. That would cover the South Meadow and Bell Market areas, at a minimum.\n\nGideon"
+    }
+  ],
+  "content_sha256": "47540379a99bbf26798e2ca038bb1fbdc38a436d85aacce260baeac0aa3347b1"
+}

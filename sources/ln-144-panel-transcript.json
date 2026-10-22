@@ -1,0 +1,131 @@
+{
+  "id": "ln-144-panel-transcript",
+  "title": "Working With the Wizard's Office: A Liaisons Panel",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln220",
+    "ln054",
+    "ln172",
+    "ln160"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Welcome, everyone, and thank you for joining today’s network call. I’m Rowan Bell, your community manager. Our theme is the day-to-day work of our Wizard’s Office Liaisons circle. We have four members here to talk about what they do, the small ways they smooth the path, and maybe share a tip or two. I’ll start by asking each of you to introduce yourselves and tell us about one thing you’ve worked on recently. Cyrus, would you like to begin?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln220",
+      "text": "Certainly. I’m Cyrus Spindlefield, a records clerk in the City Planning annex, based in Violet Hills. My work involves maintaining the archives for public access. Recently, I focused on our microfilm collection for planning applications. The reels were filed by a sequential accession number that corresponded to the date they were filmed, not the location of the project. This meant if someone needed to see all the applications for, say, a stretch of road in Munchkin Country, they might have to pull twenty different reels from twenty different cabinets."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln220",
+      "text": "I spent a week sorting through one cabinet—about three hundred reels. I relabelled each box and grouped them by country: Munchkin, Winkie, Quadling, and Gillikin. It’s a simple change, but the clerk who handles those requests told me yesterday that the average time to retrieve a full set for a regional review has been cut in half. It’s just about putting the right label in the right place."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Thank you, Cyrus. Ozma, you’re next."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln054",
+      "text": "Hello! Ozma Tipwell, civics teacher at Westgate Mills secondary, and I help run the youth league. My recent project was very much on the ground. We’re doing a unit on local governance and heritage, and I wanted the students to see it, not just read about it. So, I organized a walking tour of historic sites in Westgate Mills—the old mill foundations by the river, the original cooper’s yard, the first public lending library building."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln054",
+      "text": "I dug through our town archive for old photographs, made photocopies, and put together a guide with a map and some questions for them to think about at each stop. The point wasn’t just to look at old bricks. I asked them, ‘If you were to propose an official heritage marker for one of these sites, what would your argument be? Who would you need to convince?’ They’re drafting those proposals now. It helped them connect the rules of civic application to the places they walk past every day."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "A great example. Edmund?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln172",
+      "text": "Yes. Edmund Tinworth, also a records clerk, in the main office on Spectacle Lane. My work is similar to Cyrus’s, though I handle more of the internal procedural manuals and correspondence files. It’s all about consistent systems. Which leads me to something I’ve offered to do. I was speaking with a member from the Meadow Mutual Aid group at the last network social. They mentioned their client referral notes are kept in a single ledger that’s becoming quite cumbersome and difficult to search."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln172",
+      "text": "I’ve offered to spend an afternoon with them, perhaps next month, to advise on setting up a simple but robust filing system. Nothing complicated—just a clear method for categorizing referrals by type of need, date, and assigned volunteer, with a separate cross-reference index. The goal is to make their own work easier and ensure continuity if someone new takes over the records. It’s still in the planning stage, but they seemed very receptive to the idea."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "That’s a wonderful offer. Dilys, last but not least."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln160",
+      "text": "Thank you, Rowan. Dilys Clovermore, community grants officer. My role is to help groups across Oz prepare applications for small civic improvement grants. I find the paperwork is always clearer after you’ve seen the place. Last month, a group from a Winkie community orchard applied for funds to build a composting site. Their application described the location as ‘the northeast corner of the orchard.’"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln160",
+      "text": "I drove out to see it. The ‘northeast corner’ turned out to be on a slight slope with good drainage, which is perfect, and it was far enough from the nearest neighbor’s fence to avoid any nuisance concerns—something they hadn’t thought to mention. Seeing it let me advise them to add a simple site diagram and a note about the drainage to their application. It makes their case stronger and helps the review committee visualize it. They’ve resubmitted, and it’s a much more complete proposal now."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "These are all such concrete examples. I’d like to open it up. For those of you in the Office, what’s one thing you wish more people in the network knew about how to work with your departments?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln220",
+      "text": "The public request forms. Please use the correct form. If you want a copy of a building plan, it’s the yellow form. A zoning history is the blue form. We have a stack of green forms returned for water main records every week, and it delays everything. The forms are different because they route to different desks. Using the right one gets your answer faster."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln172",
+      "text": "And on that, if you’re not sure which form, call the general inquiry line. Don’t just guess. The clerk there can tell you in thirty seconds. It saves you time and saves us from having to send a correction notice, which involves another form entirely."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln054",
+      "text": "I’ll add a teacher’s perspective: start early. If you’re planning a project with students that might need any kind of permission or access, get in touch with the Office as soon as you have the idea, even a rough one. It gives everyone time to figure out the right path."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln160",
+      "text": "My advice is similar to my example: whenever possible, provide a little context beyond the required fields. Not an essay, but a sentence or two that tells the story. ‘We need a grant for fencing to protect the new saplings from wild goats that come down from the rocky ridge to the west.’ That immediately explains the need better than just ‘fencing materials.’"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "manager",
+      "text": "This is incredibly helpful. We have a question from the listener list. It’s for Dilys: ‘For a small group with no experience, what’s the absolute first step in applying for a grant?’"
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln160",
+      "text": "The first step is to read the grant guidelines booklet. All of it. Then, call me. I’d much rather spend fifteen minutes on the phone going over your idea and the guidelines before you write a single word, than have to return an incomplete application. We can usually identify the one or two key pieces of information you’ll need to gather first, like a site plan or a letter of support from your local council."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "manager",
+      "text": "We have time for one more. For Cyrus and Edmund: ‘What’s a common misconception about the records you keep?’"
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln220",
+      "text": "That we have everything. We don’t. Records from before the centralization of the Office in the 1950s are often held by the individual country archives or even town halls. We have a directory of where different types of older records are likely to be. It’s another reason to call the inquiry line first."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln172",
+      "text": "And that we can produce things instantly. Even with Cyrus’s improved microfilm system, some requests require pulling physical files from deep storage, which is a manual process scheduled twice a day. Asking for ‘everything you have on the Brickway transit system’ might get you a date for an appointment next week. Specificity is kindness."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "manager",
+      "text": "A perfect note to end on. Thank you all, Cyrus, Ozma, Edmund, and Dilys, for your time and your clear, practical insights. This has been a fantastic look into the essential, behind-the-scenes work that makes things run a little smoother for everyone. Goodbye for now."
+    }
+  ],
+  "content_sha256": "907250baada94058329049e6c830cb365cafddee661216268d1d210781659a7c"
+}

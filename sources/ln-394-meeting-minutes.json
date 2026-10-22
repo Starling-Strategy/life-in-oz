@@ -1,0 +1,86 @@
+{
+  "id": "ln-394-meeting-minutes",
+  "title": "Meadow Mutual Aid Coordination Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln215",
+    "ln045",
+    "ln236",
+    "ln152"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Meadow Mutual Aid Coordination Committee\nMeeting Minutes\nNovember 2025\nPresent: Gilda Fernham, Priya Dell, Linus Hazelridge, Xan Poppyshaw, Rowan Bell (Community Manager)"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Updates on recent initiatives and resource sharing."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln215",
+      "text": "We had the small arch installation for the Yellow Kiln Harvest Gathering last weekend. Instead of the floral foam blocks, I tried packing locally foraged moss into wire frames. It held the stems perfectly for the two days, and after, we just took the frames apart and returned the moss to the woodland. It worked beautifully."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Gilda noted the moss was damp when packed and the structure required no additional support. The committee agreed this was a good model for temporary, low-waste decorations."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln045",
+      "text": "After that windstorm blew through South Copse, I checked the emergency shelf. It was picked clean of candles and batteries. I used the store's inventory to restock it: twelve candle packs, twenty-four battery packs. I've noted it all in the Mutual Aid ledger under storm supplies."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Priya confirmed the shelf is now fully stocked. The ledger entry includes the date of restock and the source of the items."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln236",
+      "text": "Got a lead on a catering service over in the Glendale district that shut down. They were selling off equipment. Secured twenty insulated cooler bags, good condition. We're using them now for the chilled meal deliveries to housebound folks. Makes transport safer."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Linus distributed the bags to the delivery volunteers the following day. Action: Linus will add a note to the resource log about the bags' availability for other circles."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "2. New proposals and planning."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln152",
+      "text": "I've been thinking... the community fridge in Reed Flats can't take everything. There's always food scraps that people aren't sure what to do with. It ends up in the general waste. I'd like to propose... a workshop. On composting. For the neighborhood. We could cover simple methods for yards and for apartments. It would reduce waste from the area overall."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Xan's proposal was discussed. The committee supported the idea. Action: Xan will draft a basic outline for a composting workshop, including potential locations and a list of needed materials, to be reviewed at the next meeting. Rowan Bell offered to help connect with the Gillikin Growers circle for expertise."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "3. Logistics and next steps."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "Thank you all. The moss experiment, the storm restock, and the cooler bags are exactly the kind of adaptive work we do. For the workshop proposal, Xan, let's get that outline together. Next meeting will be first week of December. I'll send a reminder."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "Meeting adjourned."
+    }
+  ],
+  "content_sha256": "af9c52be16c5553407196ff53568fad9a488601040ade309e55bad7cece34a08"
+}

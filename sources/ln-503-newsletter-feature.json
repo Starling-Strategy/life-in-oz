@@ -1,0 +1,65 @@
+{
+  "id": "ln-503-newsletter-feature",
+  "title": "Where Does the Money Go? A Ward Budget, A Cooperative’s Receipts, and the Questions That Remain",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln011",
+    "ln026",
+    "ln019"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "In Munchkin Country’s Meadowbank ward, the summer roadwork is finally done. The brickway is smooth, the gutters clear. The work was paid for by the ward repair fund, a public pot of money administered by the Wizard’s Office. For years, the fund’s annual report was a single page with a bottom-line total. That changed this spring, after a question from the back row of a town hall."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln011",
+      "text": "They were up there with their charts, talking about the ‘allocation’ and the ‘projected outlay.’ I put my hand up and said, ‘That’s lovely. But where’s the menu? I want to see the price of the potatoes.’ They blinked at me. I said, ‘The budget. The line-by-line. Where’s the bit that says how much for bricks, how much for labor, how much for the bloke who sweeps up after?’ The room got quiet. Then a few people clapped."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Tobias Hale, a porter at the Meadowbank community kitchen, wasn’t expecting an answer that night. But a month later, the Wizard’s Office did publish the full, itemized budget for the ward repair fund for the first time. It was posted online and made available in print at the ward office. ‘I went and got a copy,’ Hale says. ‘Just to make sure it was real. It was. Twenty-three pages. Felt like a victory, even if I had to squint at the small print.’"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "That document traveled. In South Meadow, Quadling Country, Elias Moss, treasurer of the South Meadow Housing Cooperative, saw it. His cooperative had just completed a major roof repair on their shared building, partially funded by a grant from the same ward repair system. He had a folder full of receipts from the Timber Verge Repair Co-op for materials and labor."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln026",
+      "text": "When the line-item list came out, I sat down with it and our own summary. I matched our grant number to the allocation on page seventeen. I could follow the money for the timber, the tar paper, the nails—our receipts lined up with their figures within a percent or two. But there was one line, ‘Project Management & Oversight,’ with a charge of 1,200 Ozian notes. That’s not nothing. We managed our own project. We didn’t hire an overseer. That fee seems to have been assessed by the Office itself, but it’s not broken down. What oversight did we get for 1,200 notes? A site visit? An inspector’s report? I haven’t seen it."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Moss wrote to the Wizard’s Office finance liaison in early July, attaching the published budget and his cooperative’s receipts, asking for a clarification on that line. He has yet to receive a substantive answer. ‘I got an auto-reply confirming receipt,’ he says. ‘Then, two weeks later, a note saying my query was ‘under review.’ That was a month ago.’"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln026",
+      "text": "I’m not suggesting anything improper. But public money requires public accounting. If it’s a standard administrative fee, say that. Tell us what it pays for. A fee that isn’t explained is just a toll."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "June Arden, a reporter and editor at the Munchkinland Herald, has been following this thread. She edited this feature and contributed reporting. ‘Transparency is a process, not a one-time event,’ Arden says. ‘Publishing the budget was step one. Step two is being able to answer the questions that budget generates. That’s where the real work is.’"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "For his part, Tobias Hale is pleased the numbers are out but is watching what happens next. ‘You ask for the menu to see the prices,’ he says. ‘Then you taste the stew. If the stew tastes thin, you ask about the beef. That’s all we’re doing. Tasting the stew.’"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "The Emerald City Leadership Network’s Small Business and Reading Room circles will host an informal talk on ‘Reading Public Budgets’ in September. Details will be in next month’s newsletter."
+    }
+  ],
+  "content_sha256": "58cb6d9158022dbd61387f645168489a962a7bf2476a267aac526e0742808e88"
+}

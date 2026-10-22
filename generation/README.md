@@ -11,6 +11,13 @@ Adaptable authoring inputs, not a generation service. These files contain fictio
 - [Style examples](style-examples.md): illustrative writing samples outside the source corpus.
 - [Coverage audit prompt](coverage-audit-prompt.md): extraction instructions for proposing reference experiences.
 
+For leadership-network (1.1.0):
+
+- [Generation notes](leadership-network-notes.md): order of work, model bake-off, checks and limits.
+- [Author prompt](leadership-network-author-prompt.md): setting, naming rules and the 17 forms.
+- [Document briefs](leadership-network-recipe.json): one brief per document with its episodes, by final source ID.
+- The [coverage audit prompt](coverage-audit-prompt.md) was reused unchanged.
+
 These are cleaned adaptations of the retained authoring materials. They cover community-life, not a complete reconstruction of the five book-adventures supplements. They still refer to a superseded pilot where needed to exclude repeated creative premises; that pilot is not part of the release.
 
 For a new collection, change the cast, themes and document briefs. Generate bounded drafts, review their continuity and attribution, then create annotations from the preserved documents. Keep raw runs private to your working area and check what you publish. No real contact details, invented live links or real-recording claims belong in a fictional source.

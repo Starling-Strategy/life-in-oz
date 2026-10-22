@@ -1,0 +1,92 @@
+{
+  "id": "ln-472-meeting-minutes",
+  "title": "Wizard's Office Liaisons Circle: May 2026 Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln036",
+    "ln294",
+    "ln180",
+    "ln124",
+    "ln214"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network\nWizard's Office Liaisons Circle\nMeeting Minutes, May 2026\n\nPresent: Nadia Stone, Delphine Saffronmere, Juniper Hazelby, Pim Rushby, Ansel Greenbourne, Rowan Bell (manager)"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Welcome and Updates\nRowan Bell opened the meeting, noting the focus on practical updates and coordination between the Wizard's Office and member circles."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln036",
+      "text": "Nadia Stone reported on a recent landowner meeting near South Copse regarding a disputed drainage ditch. She produced a clear, scaled sketch of the alignment based on old survey markers and the current topography. She noted that the sketch helped clarify the official record during the meeting, though she emphasized the measurements were approximate to the nearest half-rod, not round numbers."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "2. Member Updates\nMembers shared recent work and observations."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln294",
+      "text": "Delphine Saffronmere mentioned that her car has been unusable for distant tutoring appointments. She did not report on a specific action, but others noted that she has been seen learning to fix a punctured tyre on her bicycle. Delphine acknowledged the situation pragmatically, saying, 'You adapt with what's at hand.'"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln180",
+      "text": "Juniper Hazelby reported on a request from the Brickway Transit Union liaison. An older model of Emerald City bus was sidelined due to a missing, out-of-stock brake component. Juniper said, 'They needed a small shuttle retainer, about this big.' She held up her fingers to indicate the size. 'The drawing was clear, but the tolerances were tight. I machined it on the lathe from a bar of hardened bronze. Got the profile right on the third try. That got several vehicles back in service in two days.'"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln124",
+      "text": "Pim Rushby provided a brief, factual update. 'In advance of the spring thaw, I systematically checked all the Wizard's Office public notice boilerplate for emergency contact numbers. I found two outdated listings for the Quadling Country flood watch line. Both have been updated in the templates as of last week.'"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln214",
+      "text": "Ansel Greenbourne described work at a Munchkin Country community hall. 'They had a persistent circuit breaker trip on one of the heating circuits. I traced it back to a degraded section of wire feeding a wall-mounted heating element. The insulation was brittle and had cracked, causing a ground fault. I cut out the bad section, spliced in a new piece with proper crimp connectors, and sealed it with heat-shrink. Restored heat the afternoon before a scheduled community meeting.'"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "3. Coordination and Discussion\nDiscussion turned to how the Liaisons circle can better surface small, practical needs from other circles to the Wizard's Office and vice-versa."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln036",
+      "text": "Nadia suggested a simple log of 'small fixes' that could inform future procurement or template updates, stressing the need for accurate, non-rounded data."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln180",
+      "text": "Juniper asked Pim to repeat the process for updating the boilerplate, wanting to understand if similar outdated technical references might exist in maintenance manuals. 'Say that again about the templates?' she asked."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln124",
+      "text": "Pim explained it was a manual text search of standard document sections, confirming it was a clerical, not a technical, review process."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln214",
+      "text": "Ansel noted that many recurring electrical issues in older halls stem from aging cloth-insulated wire, a problem not captured in most current inspection checklists."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "manager",
+      "text": "Rowan Bell proposed compiling these observations into a one-page brief for the next cross-circle meeting. Delphine agreed to help draft the brief, citing her experience in making complex information accessible."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "4. Actions and Decisions\n- ACTION (Rowan Bell): Compile member updates and observations into a draft one-page brief.\n- ACTION (Delphine Saffronmere): Review and help finalize the brief for clarity.\n- ACTION (All): Report any similar small-scale, practical fixes or outdated reference issues to Rowan by the end of the month for inclusion.\n- DECISION: The brief will be shared at the June cross-circle meeting as a discussion starter on improving resource alignment.\n\nMeeting concluded at 7:45 p.m.\nMinutes recorded by Rowan Bell."
+    }
+  ],
+  "content_sha256": "15524f4237a4c3adeb9424cfa0c821b592a0e893cd95590de01f0849cb5ffd96"
+}

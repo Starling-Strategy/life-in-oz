@@ -1,0 +1,136 @@
+{
+  "id": "ln-098-webinar",
+  "title": "Festival Prep in Practice: A Roundtable on the Work Behind the Fun",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln035",
+    "ln237",
+    "ln260",
+    "ln117"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Hello everyone, and welcome. I’m Rowan Bell, community manager for the Emerald City Leadership Network. Today’s conversation is for the Festival Committee and anyone interested in the, well, the mechanics of making things happen. Our guests are all folks who’ve been in the thick of it. We have Tessa Finch, stage manager with the Bell Market Players. Marlo Kilncombe, events producer on the Festival Committee based in Hammerhead Rise. Percy Pepperwick, tenant organizer with the Meadowbank Tenants’ Association. And Anselm Ashdale, also an events producer on the Festival Committee from Violet Hills. Welcome, all. Let’s start with a simple question: What’s a piece of work you did recently that felt like a genuine win, something that solved a problem?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln035",
+      "text": "For our spring production, we needed a main curtain. The old one was… retired after an enthusiastic scene change. Budget was tight. I was passing a shop in the Brickway district that was closing down and saw this bolt of heavy blue fabric in the window. Got it for a song, had it cut to size the same afternoon. It’s not velvet, but it hangs beautifully and deadens the backstage noise. A pure luck find that worked."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln117",
+      "text": "Oh, I love that! The serendipity of it. Mine was less about luck and more about… morning glare. For the Violet Hills Spring Fair, we had forty vendor tents laid out according to the plan. I got there at dawn to supervise the setup, and as the sun came up, I realized it was going to shine directly into the eyes of every craft seller in the first three rows. They’d be squinting all day. So we had to quickly reposition about eight of the tents, shift them just enough to angle away from the direct light. It meant re-staking and adjusting the layout, but the vendors were so relieved."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln237",
+      "text": "Repositioning under pressure, I know the feeling! I wasn’t there for this, but volunteers told me about it later. For our festival in Hammerhead Rise, we’d put up the large main marquee. The forecast was clear, but we had an unforecast gust come through—just one strong pull. They said it felt like the whole thing might lift. Our team had to hastily relocate the entire structure to a spot with better natural windbreak from the willows. They managed it without a tear, which is a minor miracle."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln260",
+      "text": "That’s real on-the-ground work. For us, the win was more about building something, literally. Our building’s front beds were just mud and weeds. I organized a Saturday bulb-planting for the tenants. Used a bit of the association’s social fund to get trowels and bags of daffodil bulbs. Nothing fancy, but we got a dozen people out there, digging and chatting. It wasn’t about the festival, but it was a shared event that made the place brighter. The work felt good because everyone could see the result taking shape right then."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Tessa’s curtain, Anselm’s tent shuffle, Marlo’s marquee move—through volunteers—and Percy’s community planting. Different scales, same principle: seeing a need and adapting. Anselm, when you had to move those tents, were you working alone or did you have to rally the setup crew?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln117",
+      "text": "Oh, I rallied! I called the crew lead over and said, ‘We have a sun situation.’ We had to explain it to the vendors whose spots were moving, assure them it wasn’t a demotion. The crew was fantastic—they saw the problem once I pointed out the angle of the light and just got to work. It’s about communicating the ‘why’ quickly."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln237",
+      "text": "Exactly. That’s what the volunteers said made the difference with the marquee. The lead on site didn’t just yell ‘pull the stakes,’ they explained the risk and pointed to the safer spot. It kept everyone calm and purposeful."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln035",
+      "text": "It’s stage managing. You give the cue clearly so everyone moves together. My moment was solitary—buying the fabric—but hanging it was a crew operation. The ‘why’ was simple: no curtain, show looks shabby."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Percy, your bulb planting had a built-in ‘why’—beautifying the home. How did you get people to give up a Saturday?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln260",
+      "text": "I made flyers, knocked on doors. The ‘why’ was that it’s our shared entrance, our first impression. And I provided the tools and the bulbs, so the only cost was time. We made it social, promised coffee. Nothing grand, but it builds the habit of showing up for each other. That’s the foundation for bigger things, like a street festival or a tenant meeting."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln117",
+      "text": "I think that’s it. Whether it’s forty tents or a bag of bulbs, you’re creating the conditions for people to have a good experience. The craft sellers needed to see their wares, the audience needs the curtain to open, the tenants want to see flowers, not mud."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln237",
+      "text": "And sometimes the condition is just safety! Keeping a marquee from becoming a kite."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "manager",
+      "text": "Let’s talk about resources. Tessa found a bargain. Percy used a social fund. Anselm and Marlo, you had crews and equipment. What’s your approach when the ideal resource just isn’t there?"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln035",
+      "text": "You look for the substitute that does the job. The blue fabric isn’t traditional, but it’s heavy and dark. It works. You can’t always wait for the perfect thing."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln117",
+      "text": "You improvise. We didn’t have extra tent shades, so we moved the tents. It used the resources we already had—people and time—just redirected them."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln237",
+      "text": "The volunteers said they used extra guy lines from another kit to secure the marquee in its new spot. It’s about looking at what’s already in your hands."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln260",
+      "text": "And sometimes the resource is people. If I’d had a bigger budget, I might have hired a gardener. But by spending on bulbs and trowels, we invested in the neighbors instead. The resource became their own care for the space."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "We have a few minutes left. Any final thoughts on what makes this kind of logistical work satisfying?"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln035",
+      "text": "When the lights go down and that blue curtain opens smoothly. You don’t see the problem that was solved, you just see the show starting."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln117",
+      "text": "Seeing people enjoy the space you’ve adjusted. A vendor saying, ‘Thank you, the light is perfect now.’"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln237",
+      "text": "Hearing later that a potential disaster was averted because the team thought on their feet. It’s a quiet satisfaction."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln260",
+      "text": "For me, it’s seeing the green shoots come up in spring where there was just mud. A tangible reminder of a shared Saturday. That’s the festival, right there."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "manager",
+      "text": "Thank you all. That’s a wonderful place to end. Thanks to Tessa, Marlo, Percy, and Anselm for the concrete wisdom, and to everyone listening. The recording and notes will be in the Festival Committee circle. Goodbye for now."
+    }
+  ],
+  "content_sha256": "9c83e537a3d6e070e2a1492cb7ff0961e4b114ba6d05b6cceb2b789ac3445b88"
+}

@@ -1,0 +1,160 @@
+{
+  "id": "ln-246-panel-transcript",
+  "title": "Young Founders Panel: Hands-On Solutions Across Oz",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln077",
+    "ln150",
+    "ln222"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Welcome, everyone. This is Rowan Bell, community manager for the Emerald City Leadership Network. I'm pleased to host today's conversation with three members from our Young Founders circle. Bram, Lux, Gus—thanks for joining. Let's start with a simple question: when a project lands on your desk, what's your first move?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln150",
+      "text": "Oh, I love this! My first move is to find the person. Immediately. It's not a desk, it's a conversation. Even if it's about a thing—like a geometry shape—it's really about a student, their hands, their way of thinking. You have to see the person before you see the problem."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln077",
+      "text": "Right. For me, it's about the place. I get a call, I go stand where the wind is. You can't feel a gale from a desk in Violet Hills if the canes are over in Bluebell Dell. So my first move is boots on the ground, literally. See what's actually bending, what soil's giving way."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln222",
+      "text": "I approach it from the language side, naturally. My first step is to identify who needs to understand the instructions, and in what context. Is it for reading aloud at a meeting? Is it for quick reference while someone's hands are in the soil? The medium shapes the message from the very first word."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Let's talk about a specific project from each of you. Bram, you had a call about some raspberry canes this spring?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln077",
+      "text": "Yeah, that was for a young grower just starting out. Gillikin spring gales are no joke—they'll strip a cane bare before the blossoms set. She called me, really worried; the forecast was for three days of hard wind from the northwest. Didn't have the coin for a permanent fence. So I walked the plot with her, saw how the rows were oriented, and we used what was on hand: willow whips from a soggy corner of her own land."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "What did you build?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln077",
+      "text": "A temporary woven windbreak. Took an afternoon. We drove stout sticks into the windward side and wove the green willow between them. It's not pretty, but it's flexible, so it gives a little instead of snapping. It broke the worst of the force, just enough. After the gale passed, she said maybe half a dozen canes had any damage, and they were minor. The rest held. She's going to let the willow take root and maybe keep it as a living border now."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln150",
+      "text": "That's brilliant! Using what's there, making it live! Bram, you're a soil poet."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln077",
+      "text": "It's just sense. You see a problem, you use what you've got."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "manager",
+      "text": "Lux, you worked with a student on geometry?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln150",
+      "text": "I did! This was for a student who is visually impaired. The textbook diagrams and the plastic models from the school depot just weren't clicking—literally or figuratively. He could memorize formulas, but the concept of an angle, of congruence, was abstract. So I assembled a kit for him. Textured shapes: sandpaper for rough acute angles, velvet for soft obtuse ones. And little hinged measurers he could feel click into place. It wasn't high-tech, just cardstock, fabric, and some clever hinges."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "What was the result?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln150",
+      "text": "The result was watching him trace a shape and say, 'Oh, so this is what a right angle feels like. It's like a corner.' That moment. That's the product. He's now using the kit to tutor his study group, showing them how to feel the math. It's become a shared language."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln222",
+      "text": "That's a beautiful translation, Lux. From the visual to the tactile. It's exactly the kind of clarity we aim for."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "manager",
+      "text": "Speaking of translation, Gus, you have a project in the works?"
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln222",
+      "text": "Yes, it's a proposal at the moment. There's a new cross-country community garden project trying to get off the ground—plots in each country, managed locally but sharing seeds and techniques. The organizers came to me with their draft rules and planting instructions. They're all in the Emerald City administrative dialect."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln150",
+      "text": "Oh dear. That won't do."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln222",
+      "text": "Precisely. A Winkie farmer shouldn't have to puzzle out a legalistic footnote about water rights when they're trying to figure out how deep to plant a squash seed. So my proposal is to create clear, separate versions in Quadling, Gillikin, Winkie, and Munchkin dialects. Not just a word-for-word swap, but rephrased for how instructions are given in each place. In Quadling, for instance, you might use more river-metaphors for growth. In Winkie, it might be more direct and numbered."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln077",
+      "text": "That's vital. 'Full sun' means something different in Gillikin than it does in the Winkie plains. You need the local nuance."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln222",
+      "text": "Exactly, Bram. That's the plan. To get the funding to do it properly, with local speakers from each country reviewing the drafts. It's still just a proposal on paper, but the garden committee seems enthusiastic."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "manager",
+      "text": "A question for you all: what's the biggest hurdle you see for young founders starting out now?"
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln077",
+      "text": "Isolation. Thinking you have to invent everything from scratch in your own shed. You don't. Someone, somewhere, has woven a willow fence before. Find them."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln150",
+      "text": "I'd say permission. Waiting for someone to tell you your idea is valid. Don't wait! If you see a student struggling, make the kit. The making is the permission."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln222",
+      "text": "For me, it's clarity of scope. It's easy to say, 'I'll translate everything.' Start with the planting instructions. Do that well, and the rules will follow. Break the big problem into its component sentences."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "manager",
+      "text": "Thank you, all three. Any final thoughts?"
+    },
+    {
+      "id": "b027",
+      "speaker_id": "ln150",
+      "text": "Just that it's all connection, isn't it? Willow to wind, fingers to shapes, words to soil. We're just building better connections."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "ln077",
+      "text": "Well said."
+    },
+    {
+      "id": "b029",
+      "speaker_id": "ln222",
+      "text": "I couldn't have translated it better myself."
+    }
+  ],
+  "content_sha256": "7449ce861dbb53b6e44faf146736385b8c218d5647d3006b41a26738221802db"
+}

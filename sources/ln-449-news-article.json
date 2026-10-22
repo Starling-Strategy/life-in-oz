@@ -1,0 +1,47 @@
+{
+  "id": "ln-449-news-article",
+  "title": "From Speed-Dials to Seed Orders: Network Members Adjust Routines",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln010",
+    "ln030",
+    "ln006",
+    "ln023",
+    "ln017"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "ECLN Roundup: March 2026\n\nAcross Oz, members of the Emerald City Leadership Network are making small adjustments to their work, finding efficiencies in daily routines, and applying their skills to solve immediate problems. Here’s a look at recent developments from a handful of members."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Nora Northcott: A Calmer Check-In\n\nFor families with elderly relatives living alone, the time between a visiting nurse’s scheduled appointments can be a source of worry. Nora Northcott, a visiting nurse based in North Orchard, recently addressed this directly for one family. She helped them program three speed-dial numbers—for a neighbor, a nearby relative, and her own service—into their relative’s telephone. She then wrote out clear, large-print instructions on when and how to use each number. The family reports the simple system has significantly reduced their day-to-day anxiety, knowing their loved one has an easy path to reach help."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Amir Brook: Considering a Parts Pool\n\nAmir Brook, who runs Brook Device Repair in the Junction Quarter, is thinking about a way to cut down on clutter and cost. He is considering a small parts exchange agreement with another repair shop across the Quarter. The idea is to reduce duplicate inventory of less common components, like specific charging port assemblies or older-model screens. ‘We both end up holding onto bits we only need once in a blue moon,’ he explained. ‘If we could share a shelf, we’d have less money tied up in stock and more space to work.’ He plans to reach out to the other shop owner next week to discuss the logistics."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Samuel Strawbridge: Lessons from the Garden\n\nSamuel Strawbridge, an adult learning tutor in Eastfield, found a practical text for his learners this month: a seed catalogue from the Eastfield Community Garden. The group used it to compare planting instructions, sunlight requirements, and soil pH needs for different vegetables. ‘It was about reading for a purpose,’ Strawbridge said. By the end of the session, several learners were able to confidently fill out their own seed order forms for the spring planting. ‘They weren’t just reading words; they were reading to make a decision,’ he added."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Pavel Dunn: Baking with the Sun\n\nPavel Dunn of Dunn’s Bakery in Blue Orchard has made a tactical shift in his daily schedule. After installing new roof panels last year, he moved the bakery’s second bake of the day to the midday hours, when the panels typically produce the most power. For the past month, he has kept a daily log of meter readings to compare energy draw during the new midday bake against the previous evening schedule. ‘The ovens are the big draw,’ Dunn said. ‘If the sun’s doing the work, why pay for the coal?’ While he’s still reviewing the numbers, the initial readings suggest a noticeable dip in grid power use during those peak afternoon hours."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Bennett Cole: A Pattern of Bent Legs\n\nBennett Cole, who manages equipment for the Festival Committee, noticed a recurring issue. The same three folding tables were consistently returned from events with bent leg braces. After tracking the returns, he brought it to the committee’s attention, noting the repeated repairs were costing more than the tables were worth. His documentation prompted a decision: the committee has ordered a sturdier, slightly more expensive replacement model for the most frequently used tables. ‘It’s not about blaming anyone,’ Cole said. ‘It’s about the gear not being up to the job. You see a pattern, you fix the pattern.’"
+    }
+  ],
+  "content_sha256": "4a739ec95f87a44c17f24f0ded8ef854cc64c40ebb1ce00a755ef0e69580e06f"
+}

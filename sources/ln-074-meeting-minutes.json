@@ -1,0 +1,21 @@
+{
+  "id": "ln-074-meeting-minutes",
+  "title": "Wizard's Office Liaisons Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln268",
+    "ln112",
+    "ln184",
+    "ln115"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Wizard's Office Liaisons Meeting\nDate: August 2024\nPresent: Rowan Bell (Community Manager), Elspeth Wickham, Ivy Coppermore, Frey Hazeldale, Bea Reedcombe\n\n1. Welcome and Introductions\n   The meeting opened at 6:05 PM in the Wizard's Office Annex, Conference Room B. Rowan Bell welcomed everyone and noted the aim of the meeting was to share updates and coordinate on workflows between the Wizard's Office and community networks.\n\n2. Community Records Archiving (South Copse)\n   Elspeth Wickham reported on the completion of a long-term archiving project for the South Copse community council. She sorted three decades of community meeting minutes by topic into labeled binders. The topics included road maintenance, drainage disputes, and public space allocations. A council member from South Copse has already used the new system to quickly reference the 1998 decision on gravel versus hardtop for a secondary lane, which informed a current repair discussion.\n\n3. Permitting Process Review\n   Ivy Coppermore provided an update on a recent permit application for the Reading Room Network's mobile library van. She reviewed the request for the van to park in three Emerald City neighborhoods: Spectacle Lane, Lantern Row, and near the Fountain Plaza. Ivy verified the vehicle's dimensions against the specific street-width regulations for each proposed parking zone, confirming the van would not impede the Brickway transit lanes or emergency access in any of the locations. The permit was approved with standard operating conditions.\n\n4. Grant Administration and Recipient Support\n   Frey Hazeldale outlined plans for improving grant reporting. He is planning a half-day workshop for current and prospective grant recipients, focusing on how to define and measure tangible project outcomes. The workshop will move beyond simply listing expenditures to help groups articulate what change they aim to create and how they will know it has been achieved. A draft agenda and potential dates in late September or early October were circulated for feedback.\n   Bea Reedcombe shared a related example from the field. She recently helped a family in Westgate Mills complete a Wizard's Office Home Accessibility Grant application for a wheelchair ramp. Bea walked them through the required specifications, including the necessary slope measurements, and assisted in collecting three quotes from local contractors as mandated by the grant guidelines. The application was submitted successfully.\n\n5. Open Discussion and Coordination\n   A discussion followed on how to better connect grant applicants with the record-keeping resources Elspeth has organized. It was suggested that a brief guide to locating past community decisions could be added to the grant application packet for rural projects.\n\n6. Actions and Next Steps\n   - Frey Hazeldale to finalize the workshop agenda and proposed dates by September 10th and share with the group for dissemination to their respective networks.\n   - Elspeth Wickham and Bea Reedcombe to collaborate on a one-page guide on \"Finding Past Community Decisions\" for grant applicants, due for review at the next meeting.\n   - Ivy Coppermore to note the successful library van permit as a model case for future multi-location mobile service applications.\n   - Next meeting scheduled for October 2024.\n\nMeeting adjourned at 7:20 PM."
+    }
+  ],
+  "content_sha256": "0d7fecaf07643f4c09cafa65be8f4fb1534435962e00ba5b6a9997358573e339"
+}

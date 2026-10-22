@@ -1,0 +1,34 @@
+{
+  "id": "ln-239-intake-email",
+  "title": "Fwd: A quick share for the network",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln166",
+    "ln147"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln147",
+      "text": "From: Yara Wheatley, Owner, Wheatley Stationers\nTo: Emerald City Leadership Network Intake Desk\nSubject: Fwd: A quick share for the network\nDate: 19 May 2025\n\nHi Rowan,\n\nHope you're well. A couple of us in the Repair Co-op circle have been sharing small updates, and I thought Mott's story was a perfect fit for the network's files. It's the kind of solid, practical work we're all doing. I'm forwarding his note below.\n\nCheers,\nYara"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Mott Stonebourne, Appliance repairer, Timber Verge Repair Co-op\nTo: Yara Wheatley\nSubject: Quick update\nDate: 18 May 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln166",
+      "text": "Yara,\n\nThe Reed Flats job went fine. Customer had a thirty-year-old washer, drive motor was shot. Found a donor unit down at the recycling yard, pulled the bearings. They were a match. Cleaned them up, pressed them into the old housing, reassembled. Machine runs quietly now. Told the customer it should last them another few seasons.\n\nOn your end, heard you got some of that Gillikin paper in. Smart move.\n\n-Mott"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln147",
+      "text": "(End of forwarded message)\n\nP.S. Mott's right! The flax paper from the Gillikin mill arrived last week. It's a beautiful, heavy stock. I've only put out a small batch so far, but it's already drawing customers who specifically ask for 'something local'. It's a good conversation starter."
+    }
+  ],
+  "content_sha256": "edf9bd79020374fa3adeadb045116f37de047016796fb87736c7b3a2ac921f99"
+}
