@@ -45,5 +45,3 @@ Pim Rushby:
 The old template buried the lead. People don't need the legal code reference first; they need to know which street is closed and when. I broke it into clear sections: Purpose, Affected Area, Dates & Times, Contact. Bold headers, more white space.
 
 Rushby's redesign has been in use for two months. The reception desk reports a measurable decrease in calls asking for basic clarifications, allowing them to focus on more complex inquiries.
-
-From translating health alerts to fixing library lights, the work of the Liaisons circle is united by a common thread: making public information and public spaces work better for the people who use them. It's work that rarely makes a splash, but as the pharmacy noticeboards and the quiet library carrels show, it often makes all the difference.

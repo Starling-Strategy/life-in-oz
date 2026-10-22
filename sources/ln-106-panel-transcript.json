@@ -64,7 +64,7 @@
     {
       "id": "b011",
       "speaker_id": "ln104",
-      "text": "Oh, that was nothing so formal! Hannah, one of our regulars who helps out sometimes, mentioned to a few neighbors that I'd helped her daughter sort out a work history list last year. Word got around. So one quiet afternoon, three people showed up, asking if I had a minute. We sat around the old computer in the back. It's slow, but it works. One gentleman had been a farmhand for thirty years and had never written a resume; we just listed the farms and seasons. Another woman had done several different things—childcare, kitchen work, cleaning—and we grouped them into skills. It was just about getting it down on paper in a way that made sense to them. Hannah says the neighbors told her one of them got an interview at a stable not long after."
+      "text": "Oh, that was nothing so formal! One of our regulars who helps out sometimes mentioned to a few neighbors that I'd helped her daughter sort out a work history list last year. Word got around. So one quiet afternoon, three people showed up, asking if I had a minute. We sat around the old computer in the back. It's slow, but it works. One gentleman had been a farmhand for thirty years and had never written a resume; we just listed the farms and seasons. Another woman had done several different things—childcare, kitchen work, cleaning—and we grouped them into skills. It was just about getting it down on paper in a way that made sense to them. She says the neighbors told her one of them got an interview at a stable not long after."
     },
     {
       "id": "b012",
@@ -114,33 +114,8 @@
     {
       "id": "b021",
       "speaker_id": "manager",
-      "text": "A final thought from each of you: what does mutual aid mean in your day-to-day?"
-    },
-    {
-      "id": "b022",
-      "speaker_id": "ln243",
-      "text": "Seeing my shop as part of a street, a neighborhood. Helping the new florist a few doors down with her window lighting isn't competition; it makes the whole block more inviting for everyone."
-    },
-    {
-      "id": "b023",
-      "speaker_id": "ln087",
-      "text": "Demystifying. Taking something that seems complex and breaking it into steps someone can manage on their own."
-    },
-    {
-      "id": "b024",
-      "speaker_id": "ln104",
-      "text": "Being a place where people know they can ask. The door's open, the kettle's on, and sometimes that leads to other things."
-    },
-    {
-      "id": "b025",
-      "speaker_id": "ln248",
-      "text": "Not letting good things go to waste. Whether it's food, skills, or time. Finding the right match."
-    },
-    {
-      "id": "b026",
-      "speaker_id": "manager",
-      "text": "Thank you all so much. That was a wonderful conversation. And thank you to everyone listening."
+      "text": "Thank you all so much. And thank you to everyone listening."
     }
   ],
-  "content_sha256": "c24a63935bea0c866474b11cec575435bcc6ae80b1178f412a5fb69efc302e28"
+  "content_sha256": "9bd40990a20866836a496d9bb1450c3fb5213ea2137130d82de0999b08723a5e"
 }

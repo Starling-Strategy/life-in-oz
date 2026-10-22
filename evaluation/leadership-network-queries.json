@@ -8,7 +8,7 @@
     "speaker/convening": "The question asks who spoke at, hosted or could speak at an event.",
     "negative-no-answer": "No member should be returned; the collection was written to avoid an answer."
   },
-  "caution": "Expected members are the planted answers, not an exhaustive list. A system can find other well-supported members; check its evidence rather than scoring every extra member as wrong. Plans and offers stay plans.",
+  "caution": "Expected members combine the planted answers (support origin 'planted') with members found in a strict review sweep of the reference experiences (origin 'review'). The sets aim to be complete for clear matches but are not guaranteed exhaustive. A system can find other well-supported members; check its evidence rather than scoring every extra member as wrong. Plans and offers stay plans.",
   "queries": [
     {
       "id": "lnq-01",
@@ -17,7 +17,7 @@
       "expected_member_ids": [
         "ln001",
         "ln002",
-        "ln003"
+        "ln181"
       ],
       "support": {
         "ln001": {
@@ -29,7 +29,8 @@
             "ln-204-manager-conversation",
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln002": {
           "episode_keys": [
@@ -40,16 +41,18 @@
             "ln-205-email-thread",
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
-        "ln003": {
+        "ln181": {
           "episode_keys": [
-            "south-meadow-trucks-cleared"
+            "western-route-bank-shored"
           ],
           "source_ids": [
-            "ln-322-meeting-minutes"
+            "ln-219-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -60,7 +63,9 @@
       "expected_member_ids": [
         "ln004",
         "ln032",
-        "ln217"
+        "ln217",
+        "ln002",
+        "ln118"
       ],
       "support": {
         "ln004": {
@@ -72,7 +77,8 @@
             "ln-201-meeting-minutes",
             "ln-523-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln032": {
           "episode_keys": [
@@ -83,7 +89,8 @@
             "ln-031-news-article",
             "ln-201-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln217": {
           "episode_keys": [
@@ -94,7 +101,28 @@
             "ln-261-social-thread",
             "ln-523-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln002": {
+          "episode_keys": [
+            "verge-bridge-handrail-repair"
+          ],
+          "source_ids": [
+            "ln-296-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln118": {
+          "episode_keys": [
+            "westgate-mills-bridge-handrail-repair"
+          ],
+          "source_ids": [
+            "ln-255-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -104,7 +132,9 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln006",
-        "ln098"
+        "ln098",
+        "ln170",
+        "ln290"
       ],
       "support": {
         "ln006": {
@@ -116,7 +146,8 @@
             "ln-464-news-article",
             "ln-492-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln098": {
           "episode_keys": [
@@ -125,7 +156,28 @@
           "source_ids": [
             "ln-464-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln170": {
+          "episode_keys": [
+            "matched-learner-with-cookbook-collection"
+          ],
+          "source_ids": [
+            "ln-047-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln290": {
+          "episode_keys": [
+            "organized-tour-of-local-printing-works"
+          ],
+          "source_ids": [
+            "ln-370-webinar"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -135,7 +187,9 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln007",
-        "ln035"
+        "ln035",
+        "ln189",
+        "ln249"
       ],
       "support": {
         "ln007": {
@@ -145,7 +199,8 @@
           "source_ids": [
             "ln-476-social-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln035": {
           "episode_keys": [
@@ -154,7 +209,28 @@
           "source_ids": [
             "ln-285-social-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln189": {
+          "episode_keys": [
+            "salvaging-outdoor-concert-audio"
+          ],
+          "source_ids": [
+            "ln-215-social-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln249": {
+          "episode_keys": [
+            "failed-generator-at-outdoor-concert"
+          ],
+          "source_ids": [
+            "ln-358-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -164,7 +240,8 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln008",
-        "ln260"
+        "ln260",
+        "ln196"
       ],
       "support": {
         "ln008": {
@@ -176,7 +253,8 @@
             "ln-435-manager-conversation",
             "ln-490-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln260": {
           "episode_keys": [
@@ -185,7 +263,18 @@
           "source_ids": [
             "ln-474-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln196": {
+          "episode_keys": [
+            "mediated-drainage-dispute-between-neighbors"
+          ],
+          "source_ids": [
+            "ln-345-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -205,7 +294,8 @@
           "source_ids": [
             "ln-325-radio-interview"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln242": {
           "episode_keys": [
@@ -214,7 +304,8 @@
           "source_ids": [
             "ln-391-speaker-bio"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -235,7 +326,8 @@
             "ln-185-social-thread",
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -257,7 +349,8 @@
             "ln-476-social-thread",
             "ln-503-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln026": {
           "episode_keys": [
@@ -266,7 +359,8 @@
           "source_ids": [
             "ln-503-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -286,7 +380,8 @@
           "source_ids": [
             "ln-325-radio-interview"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln021": {
           "episode_keys": [
@@ -295,7 +390,8 @@
           "source_ids": [
             "ln-436-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -306,7 +402,10 @@
       "expected_member_ids": [
         "ln043",
         "ln066",
-        "ln186"
+        "ln186",
+        "ln209",
+        "ln195",
+        "ln013"
       ],
       "support": {
         "ln043": {
@@ -316,7 +415,8 @@
           "source_ids": [
             "ln-103-intake-email"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln066": {
           "episode_keys": [
@@ -325,7 +425,8 @@
           "source_ids": [
             "ln-252-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln186": {
           "episode_keys": [
@@ -334,7 +435,40 @@
           "source_ids": [
             "ln-019-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln209": {
+          "episode_keys": [
+            "apple-crate-return-system",
+            "reusable-strawberry-basket-rotation"
+          ],
+          "source_ids": [
+            "ln-013-newsletter-feature",
+            "ln-341-email-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln195": {
+          "episode_keys": [
+            "introduced-reusable-takeout-containers"
+          ],
+          "source_ids": [
+            "ln-377-grant-report"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln013": {
+          "episode_keys": [
+            "restored-set-of-cafe-mugs-with-mismatched-handle"
+          ],
+          "source_ids": [
+            "ln-501-radio-interview"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -344,7 +478,15 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln055",
-        "ln020"
+        "ln020",
+        "ln091",
+        "ln067",
+        "ln295",
+        "ln187",
+        "ln223",
+        "ln235",
+        "ln247",
+        "ln079"
       ],
       "support": {
         "ln055": {
@@ -354,7 +496,8 @@
           "source_ids": [
             "ln-370-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln020": {
           "episode_keys": [
@@ -363,7 +506,98 @@
           "source_ids": [
             "ln-410-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln091": {
+          "episode_keys": [
+            "hammerhead-outreach-days"
+          ],
+          "source_ids": [
+            "ln-423-panel-transcript"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln067": {
+          "episode_keys": [
+            "coordinated-accessible-clinic-bus",
+            "coordinated-bus-for-residents-clinic-visits"
+          ],
+          "source_ids": [
+            "ln-234-manager-conversation",
+            "ln-519-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln295": {
+          "episode_keys": [
+            "re-routed-around-bridge-closure",
+            "arranged-fare-discounts-for-volunteers"
+          ],
+          "source_ids": [
+            "ln-075-social-thread",
+            "ln-170-radio-interview"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln187": {
+          "episode_keys": [
+            "rerouting-due-to-bridge-inspection",
+            "securing-car-seat-donations"
+          ],
+          "source_ids": [
+            "ln-225-survey-response",
+            "ln-314-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln223": {
+          "episode_keys": [
+            "coordinated-hearing-aid-fittings-for-three",
+            "north-orchard-navigator"
+          ],
+          "source_ids": [
+            "ln-225-survey-response",
+            "ln-423-panel-transcript"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln235": {
+          "episode_keys": [
+            "backup-driver-network-for-holidays",
+            "shared-ride-for-two-dialysis-patients"
+          ],
+          "source_ids": [
+            "ln-176-manager-conversation",
+            "ln-347-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln247": {
+          "episode_keys": [
+            "moorland-village-vaccine-transport-list"
+          ],
+          "source_ids": [
+            "ln-517-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln079": {
+          "episode_keys": [
+            "mapped-bus-routes-to-new-health-centre"
+          ],
+          "source_ids": [
+            "ln-175-survey-response"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -373,7 +607,16 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln096",
-        "ln002"
+        "ln002",
+        "ln044",
+        "ln156",
+        "ln170",
+        "ln216",
+        "ln191",
+        "ln108",
+        "ln240",
+        "ln246",
+        "ln018"
       ],
       "support": {
         "ln096": {
@@ -383,7 +626,8 @@
           "source_ids": [
             "ln-373-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln002": {
           "episode_keys": [
@@ -392,7 +636,98 @@
           "source_ids": [
             "ln-249-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln044": {
+          "episode_keys": [
+            "drawer-runner-repair"
+          ],
+          "source_ids": [
+            "ln-102-panel-transcript"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln156": {
+          "episode_keys": [
+            "organizing-tool-safety-demo"
+          ],
+          "source_ids": [
+            "ln-286-survey-response"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln170": {
+          "episode_keys": [
+            "mentioned-as-quietly-encouraging-new-tutor"
+          ],
+          "source_ids": [
+            "ln-039-intake-email"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln216": {
+          "episode_keys": [
+            "can-line-changeover"
+          ],
+          "source_ids": [
+            "ln-373-post-event-debrief"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln191": {
+          "episode_keys": [
+            "taught-apprentice-basic-cutting"
+          ],
+          "source_ids": [
+            "ln-035-grant-report"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln108": {
+          "episode_keys": [
+            "taught-basic-lathe-safety-to-apprentice"
+          ],
+          "source_ids": [
+            "ln-146-social-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln240": {
+          "episode_keys": [
+            "apprentice-session-on-thread-cutting"
+          ],
+          "source_ids": [
+            "ln-063-post-event-debrief"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln246": {
+          "episode_keys": [
+            "bike-wheel-spoke-replacement-session"
+          ],
+          "source_ids": [
+            "ln-388-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln018": {
+          "episode_keys": [
+            "oriented-new-driver-using-landmark-photo-cards"
+          ],
+          "source_ids": [
+            "ln-323-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -402,7 +737,8 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln234",
-        "ln023"
+        "ln023",
+        "ln214"
       ],
       "support": {
         "ln234": {
@@ -412,7 +748,8 @@
           "source_ids": [
             "ln-483-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln023": {
           "episode_keys": [
@@ -421,7 +758,18 @@
           "source_ids": [
             "ln-449-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln214": {
+          "episode_keys": [
+            "installed-motion-sensor-lights-for-co-op"
+          ],
+          "source_ids": [
+            "ln-454-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -431,7 +779,10 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln237",
-        "ln248"
+        "ln248",
+        "ln059",
+        "ln215",
+        "ln285"
       ],
       "support": {
         "ln237": {
@@ -441,7 +792,8 @@
           "source_ids": [
             "ln-024-grant-report"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln248": {
           "episode_keys": [
@@ -450,7 +802,38 @@
           "source_ids": [
             "ln-496-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln059": {
+          "episode_keys": [
+            "hosted-fundraiser-haircuts-school-library"
+          ],
+          "source_ids": [
+            "ln-191-intake-email"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln215": {
+          "episode_keys": [
+            "wreath-frames-for-community-centre-fundraiser"
+          ],
+          "source_ids": [
+            "ln-153-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln285": {
+          "episode_keys": [
+            "collected-donations-for-new-mutes"
+          ],
+          "source_ids": [
+            "ln-086-social-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -460,7 +843,8 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln027",
-        "ln092"
+        "ln092",
+        "ln281"
       ],
       "support": {
         "ln027": {
@@ -470,7 +854,8 @@
           "source_ids": [
             "ln-202-press-release"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln092": {
           "episode_keys": [
@@ -479,7 +864,18 @@
           "source_ids": [
             "ln-406-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln281": {
+          "episode_keys": [
+            "addressed-squirrel-infestation-in-silo"
+          ],
+          "source_ids": [
+            "ln-120-radio-interview"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -489,7 +885,11 @@
       "kind": "vocabulary-gap",
       "expected_member_ids": [
         "ln157",
-        "ln289"
+        "ln289",
+        "ln144",
+        "ln253",
+        "ln265",
+        "ln267"
       ],
       "support": {
         "ln157": {
@@ -499,7 +899,8 @@
           "source_ids": [
             "ln-226-social-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln289": {
           "episode_keys": [
@@ -508,7 +909,48 @@
           "source_ids": [
             "ln-093-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln144": {
+          "episode_keys": [
+            "organized-ergonomic-mat-replacement"
+          ],
+          "source_ids": [
+            "ln-227-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln253": {
+          "episode_keys": [
+            "set-up-mobile-crew-shelter"
+          ],
+          "source_ids": [
+            "ln-193-grant-report"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln265": {
+          "episode_keys": [
+            "reported-slippery-platform-at-gate-quarter-stop"
+          ],
+          "source_ids": [
+            "ln-442-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln267": {
+          "episode_keys": [
+            "hotel-staff-bus-passes"
+          ],
+          "source_ids": [
+            "ln-379-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -517,7 +959,9 @@
       "query": "Mile 14 crossing",
       "kind": "exact-term",
       "expected_member_ids": [
-        "ln004"
+        "ln004",
+        "ln032",
+        "ln217"
       ],
       "support": {
         "ln004": {
@@ -529,7 +973,28 @@
             "ln-201-meeting-minutes",
             "ln-523-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln032": {
+          "episode_keys": [
+            "mile-14-inspection-report"
+          ],
+          "source_ids": [
+            "ln-201-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln217": {
+          "episode_keys": [
+            "mile-14-barriers-installed"
+          ],
+          "source_ids": [
+            "ln-523-panel-transcript"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -539,7 +1004,8 @@
       "kind": "exact-term",
       "expected_member_ids": [
         "ln007",
-        "ln028"
+        "ln028",
+        "ln158"
       ],
       "support": {
         "ln007": {
@@ -549,7 +1015,8 @@
           "source_ids": [
             "ln-352-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln028": {
           "episode_keys": [
@@ -558,7 +1025,18 @@
           "source_ids": [
             "ln-352-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln158": {
+          "episode_keys": [
+            "creating-audio-book-corner"
+          ],
+          "source_ids": [
+            "ln-416-intake-email"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -578,7 +1056,8 @@
           "source_ids": [
             "ln-374-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln135": {
           "episode_keys": [
@@ -587,7 +1066,8 @@
           "source_ids": [
             "ln-374-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -607,7 +1087,8 @@
           "source_ids": [
             "ln-205-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln181": {
           "episode_keys": [
@@ -616,7 +1097,8 @@
           "source_ids": [
             "ln-219-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -635,7 +1117,8 @@
           "source_ids": [
             "ln-046-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -656,7 +1139,8 @@
           "source_ids": [
             "ln-492-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln007": {
           "episode_keys": [
@@ -665,7 +1149,8 @@
           "source_ids": [
             "ln-491-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln008": {
           "episode_keys": [
@@ -674,7 +1159,8 @@
           "source_ids": [
             "ln-490-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -693,7 +1179,8 @@
           "source_ids": [
             "ln-275-survey-response"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -713,7 +1200,8 @@
             "ln-438-social-thread",
             "ln-450-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       },
       "note": "Identity case: Wilhelmina Thistlewaite is called Billie in informal sources."
@@ -733,7 +1221,8 @@
           "source_ids": [
             "ln-324-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       },
       "note": "Identity case: Lottie Wren and Marcus Wren share a surname and are unrelated."
@@ -753,7 +1242,8 @@
           "source_ids": [
             "ln-349-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -772,7 +1262,8 @@
           "source_ids": [
             "ln-041-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -791,7 +1282,8 @@
           "source_ids": [
             "ln-325-radio-interview"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -810,7 +1302,8 @@
           "source_ids": [
             "ln-272-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -821,7 +1314,15 @@
       "expected_member_ids": [
         "ln084",
         "ln288",
-        "ln276"
+        "ln276",
+        "ln060",
+        "ln202",
+        "ln204",
+        "ln300",
+        "ln108",
+        "ln118",
+        "ln228",
+        "ln252"
       ],
       "support": {
         "ln084": {
@@ -832,7 +1333,8 @@
             "ln-250-news-article",
             "ln-273-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln288": {
           "episode_keys": [
@@ -843,7 +1345,8 @@
             "ln-324-meeting-minutes",
             "ln-351-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln276": {
           "episode_keys": [
@@ -852,7 +1355,97 @@
           "source_ids": [
             "ln-200-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln060": {
+          "episode_keys": [
+            "implemented-new-mold-cooling-procedure"
+          ],
+          "source_ids": [
+            "ln-118-social-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln202": {
+          "episode_keys": [
+            "refrigerator-compressor-mount-weld"
+          ],
+          "source_ids": [
+            "ln-171-membership-intake-form"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln204": {
+          "episode_keys": [
+            "mill-conveyor-roller-fabrication",
+            "sawmill-guide-rail-machining"
+          ],
+          "source_ids": [
+            "ln-078-webinar",
+            "ln-236-speaker-bio"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln300": {
+          "episode_keys": [
+            "fabricated-custom-bike-rack",
+            "fabricated-replacement-parts-for-tractor",
+            "installed-task-lamp-over-lathe"
+          ],
+          "source_ids": [
+            "ln-145-email-thread",
+            "ln-224-post-event-debrief",
+            "ln-498-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln108": {
+          "episode_keys": [
+            "machined-replacement-latch-pins"
+          ],
+          "source_ids": [
+            "ln-371-intake-email"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln118": {
+          "episode_keys": [
+            "fabricated-new-grate-for-dairy-drain-channel",
+            "timber-verge-tool-shed-door-hinge"
+          ],
+          "source_ids": [
+            "ln-211-intake-email",
+            "ln-520-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln228": {
+          "episode_keys": [
+            "built-steel-frames-for-puppet-stage",
+            "fabricated-replacement-bellows"
+          ],
+          "source_ids": [
+            "ln-138-speaker-bio"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln252": {
+          "episode_keys": [
+            "oversaw-park-bench-casting"
+          ],
+          "source_ids": [
+            "ln-451-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -863,7 +1456,12 @@
       "expected_member_ids": [
         "ln026",
         "ln064",
-        "ln160"
+        "ln160",
+        "ln076",
+        "ln001",
+        "ln184",
+        "ln115",
+        "ln122"
       ],
       "support": {
         "ln026": {
@@ -873,7 +1471,8 @@
           "source_ids": [
             "ln-503-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln064": {
           "episode_keys": [
@@ -883,7 +1482,8 @@
           "source_ids": [
             "ln-467-survey-response"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln160": {
           "episode_keys": [
@@ -892,7 +1492,65 @@
           "source_ids": [
             "ln-034-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln076": {
+          "episode_keys": [
+            "matched-library-with-reading-program-funds",
+            "secured-gillikin-orchard-pruning-grant",
+            "streamlined-application-for-seed-exchange"
+          ],
+          "source_ids": [
+            "ln-071-grant-report",
+            "ln-267-news-article",
+            "ln-481-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln001": {
+          "episode_keys": [
+            "brickway-market-yield-reports"
+          ],
+          "source_ids": [
+            "ln-296-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln184": {
+          "episode_keys": [
+            "guided-group-through-budget-narrative",
+            "overtime-to-clear-application-backlog",
+            "simplified-application-for-library-friends"
+          ],
+          "source_ids": [
+            "ln-142-survey-response",
+            "ln-307-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln115": {
+          "episode_keys": [
+            "wizards-office-grant-application-help"
+          ],
+          "source_ids": [
+            "ln-074-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln122": {
+          "episode_keys": [
+            "secured-grant-for-new-audiobook-subscription"
+          ],
+          "source_ids": [
+            "ln-256-panel-transcript"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -913,7 +1571,8 @@
           "source_ids": [
             "ln-318-social-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln135": {
           "episode_keys": [
@@ -922,7 +1581,8 @@
           "source_ids": [
             "ln-374-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln243": {
           "episode_keys": [
@@ -931,7 +1591,8 @@
           "source_ids": [
             "ln-091-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -942,7 +1603,8 @@
       "expected_member_ids": [
         "ln125",
         "ln149",
-        "ln185"
+        "ln185",
+        "ln221"
       ],
       "support": {
         "ln125": {
@@ -952,7 +1614,8 @@
           "source_ids": [
             "ln-473-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln149": {
           "episode_keys": [
@@ -961,7 +1624,8 @@
           "source_ids": [
             "ln-383-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln185": {
           "episode_keys": [
@@ -970,7 +1634,18 @@
           "source_ids": [
             "ln-383-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln221": {
+          "episode_keys": [
+            "source-belt-replacement-during-harvest"
+          ],
+          "source_ids": [
+            "ln-334-survey-response"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -991,7 +1666,8 @@
           "source_ids": [
             "ln-112-speaker-bio"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln140": {
           "episode_keys": [
@@ -1000,7 +1676,8 @@
           "source_ids": [
             "ln-359-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln176": {
           "episode_keys": [
@@ -1009,7 +1686,8 @@
           "source_ids": [
             "ln-342-social-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1029,7 +1707,8 @@
           "source_ids": [
             "ln-063-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln233": {
           "episode_keys": [
@@ -1038,7 +1717,8 @@
           "source_ids": [
             "ln-076-newsletter-feature"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1059,7 +1739,8 @@
           "source_ids": [
             "ln-135-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln267": {
           "episode_keys": [
@@ -1068,7 +1749,8 @@
           "source_ids": [
             "ln-379-press-release"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln279": {
           "episode_keys": [
@@ -1077,7 +1759,8 @@
           "source_ids": [
             "ln-197-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1088,7 +1771,10 @@
       "expected_member_ids": [
         "ln106",
         "ln226",
-        "ln263"
+        "ln263",
+        "ln155",
+        "ln090",
+        "ln016"
       ],
       "support": {
         "ln106": {
@@ -1098,7 +1784,8 @@
           "source_ids": [
             "ln-507-speaker-bio"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln226": {
           "episode_keys": [
@@ -1107,7 +1794,8 @@
           "source_ids": [
             "ln-220-manager-conversation"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln263": {
           "episode_keys": [
@@ -1116,7 +1804,40 @@
           "source_ids": [
             "ln-471-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln155": {
+          "episode_keys": [
+            "organizing-group-maintenance-day",
+            "repaired-rear-derailleur-for-postal-worker"
+          ],
+          "source_ids": [
+            "ln-038-post-event-debrief",
+            "ln-100-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln090": {
+          "episode_keys": [
+            "organize-basic-bicycle-maintenance-clinic"
+          ],
+          "source_ids": [
+            "ln-298-grant-report"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln016": {
+          "episode_keys": [
+            "launched-weekend-youth-bicycle-safety-checks"
+          ],
+          "source_ids": [
+            "ln-228-nomination-letter"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1136,7 +1857,8 @@
           "source_ids": [
             "ln-308-grant-report"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln199": {
           "episode_keys": [
@@ -1145,7 +1867,8 @@
           "source_ids": [
             "ln-518-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1156,7 +1879,11 @@
       "expected_member_ids": [
         "ln004",
         "ln169",
-        "ln241"
+        "ln241",
+        "ln133",
+        "ln205",
+        "ln101",
+        "ln246"
       ],
       "support": {
         "ln004": {
@@ -1166,7 +1893,8 @@
           "source_ids": [
             "ln-135-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln169": {
           "episode_keys": [
@@ -1177,7 +1905,8 @@
             "ln-264-social-thread",
             "ln-523-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln241": {
           "episode_keys": [
@@ -1187,7 +1916,55 @@
             "ln-206-meeting-minutes",
             "ln-230-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln133": {
+          "episode_keys": [
+            "apple-harvest-cooler-transport",
+            "festival-marquee-delivery-delay",
+            "recovered-spilled-grain-sacks"
+          ],
+          "source_ids": [
+            "ln-012-manager-conversation",
+            "ln-086-social-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln205": {
+          "episode_keys": [
+            "detour-around-bridge-work",
+            "detour-map-tape-creation",
+            "shared-load-with-another-driver"
+          ],
+          "source_ids": [
+            "ln-042-survey-response",
+            "ln-105-post-event-debrief",
+            "ln-368-speaker-bio"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln101": {
+          "episode_keys": [
+            "consolidated-potato-shipment"
+          ],
+          "source_ids": [
+            "ln-150-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln246": {
+          "episode_keys": [
+            "delivered-urgent-printing-plates"
+          ],
+          "source_ids": [
+            "ln-458-post-event-debrief"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1198,7 +1975,9 @@
       "expected_member_ids": [
         "ln083",
         "ln239",
-        "ln027"
+        "ln027",
+        "ln203",
+        "ln270"
       ],
       "support": {
         "ln083": {
@@ -1208,7 +1987,8 @@
           "source_ids": [
             "ln-290-news-article"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln239": {
           "episode_keys": [
@@ -1217,7 +1997,8 @@
           "source_ids": [
             "ln-445-radio-interview"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln027": {
           "episode_keys": [
@@ -1226,7 +2007,28 @@
           "source_ids": [
             "ln-202-press-release"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln203": {
+          "episode_keys": [
+            "library-opening-finger-food"
+          ],
+          "source_ids": [
+            "ln-147-webinar"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln270": {
+          "episode_keys": [
+            "supplied-pies-for-timber-verge-community-meeting"
+          ],
+          "source_ids": [
+            "ln-110-intake-email"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1237,7 +2039,9 @@
       "expected_member_ids": [
         "ln227",
         "ln275",
-        "ln044"
+        "ln044",
+        "ln211",
+        "ln119"
       ],
       "support": {
         "ln227": {
@@ -1247,7 +2051,8 @@
           "source_ids": [
             "ln-088-grant-report"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln275": {
           "episode_keys": [
@@ -1256,7 +2061,8 @@
           "source_ids": [
             "ln-336-nomination-letter"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln044": {
           "episode_keys": [
@@ -1265,7 +2071,28 @@
           "source_ids": [
             "ln-102-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln211": {
+          "episode_keys": [
+            "coordinated-clinic-waiting-area-chairs"
+          ],
+          "source_ids": [
+            "ln-193-grant-report"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln119": {
+          "episode_keys": [
+            "repaired-wobbly-cafe-table-with-felt-pads"
+          ],
+          "source_ids": [
+            "ln-471-email-thread"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1275,7 +2102,17 @@
       "kind": "skill/sector/place",
       "expected_member_ids": [
         "ln182",
-        "ln268"
+        "ln268",
+        "ln134",
+        "ln172",
+        "ln074",
+        "ln220",
+        "ln194",
+        "ln100",
+        "ln110",
+        "ln222",
+        "ln244",
+        "ln256"
       ],
       "support": {
         "ln182": {
@@ -1285,7 +2122,8 @@
           "source_ids": [
             "ln-039-intake-email"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln268": {
           "episode_keys": [
@@ -1294,7 +2132,132 @@
           "source_ids": [
             "ln-050-manager-conversation"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln134": {
+          "episode_keys": [
+            "spectacle-lane-tenants-association-minutes"
+          ],
+          "source_ids": [
+            "ln-417-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln172": {
+          "episode_keys": [
+            "edmund-tinworth-assisted-with-flood-damage-recor",
+            "edmund-tinworth-compiled-transport-hearing-folde"
+          ],
+          "source_ids": [
+            "ln-160-survey-response",
+            "ln-304-grant-report"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln074": {
+          "episode_keys": [
+            "documented-lost-sign-painting-techniques",
+            "mentioned-for-tracking-down-rare-whistle",
+            "recorded-memories-of-clocktower-chimes",
+            "transcribed-interviews-for-bakery-history"
+          ],
+          "source_ids": [
+            "ln-003-press-release",
+            "ln-294-social-thread",
+            "ln-484-nomination-letter"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln220": {
+          "episode_keys": [
+            "located-old-bridge-load-rating-reports",
+            "located-original-sewer-map-for-quadling-project",
+            "reorganised-microfilm-cabinet-by-region"
+          ],
+          "source_ids": [
+            "ln-144-panel-transcript",
+            "ln-160-survey-response",
+            "ln-260-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln194": {
+          "episode_keys": [
+            "recorded-heatherford-basket-weaver",
+            "transcribed-milling-songs-collection",
+            "volunteer-school-bell-history"
+          ],
+          "source_ids": [
+            "ln-010-meeting-minutes",
+            "ln-069-manager-conversation"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln100": {
+          "episode_keys": [
+            "implemented-a-daily-scanning-quota",
+            "uncovered-a-mislabelled-box-of-deeds"
+          ],
+          "source_ids": [
+            "ln-127-radio-interview",
+            "ln-356-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln110": {
+          "episode_keys": [
+            "catalogued-old-postcard-collection",
+            "organized-photo-scanning-day-at-green-market",
+            "recorded-retired-mill-worker-history-session",
+            "transcribed-interviews-about-old-ferry-service"
+          ],
+          "source_ids": [
+            "ln-108-radio-interview",
+            "ln-339-meeting-minutes",
+            "ln-495-newsletter-feature",
+            "ln-496-meeting-minutes"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln222": {
+          "episode_keys": [
+            "hearsay-local-history-archive-transcription"
+          ],
+          "source_ids": [
+            "ln-413-survey-response"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln244": {
+          "episode_keys": [
+            "archive-of-old-bus-timetables",
+            "hearsay-about-missing-permit-forms"
+          ],
+          "source_ids": [
+            "ln-099-news-article",
+            "ln-517-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
+        },
+        "ln256": {
+          "episode_keys": [
+            "coordinated-archived-files-transfer"
+          ],
+          "source_ids": [
+            "ln-237-press-release"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1305,7 +2268,8 @@
       "expected_member_ids": [
         "ln114",
         "ln126",
-        "ln138"
+        "ln138",
+        "ln258"
       ],
       "support": {
         "ln114": {
@@ -1315,7 +2279,8 @@
           "source_ids": [
             "ln-388-press-release"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln126": {
           "episode_keys": [
@@ -1324,7 +2289,8 @@
           "source_ids": [
             "ln-266-manager-conversation"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln138": {
           "episode_keys": [
@@ -1333,7 +2299,18 @@
           "source_ids": [
             "ln-280-speaker-bio"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln258": {
+          "episode_keys": [
+            "created-workshop-participation-certificates"
+          ],
+          "source_ids": [
+            "ln-384-radio-interview"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1343,7 +2320,8 @@
       "kind": "skill/sector/place",
       "expected_member_ids": [
         "ln003",
-        "ln260"
+        "ln260",
+        "ln021"
       ],
       "support": {
         "ln003": {
@@ -1355,7 +2333,8 @@
             "ln-322-meeting-minutes",
             "ln-396-email-thread"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln260": {
           "episode_keys": [
@@ -1364,7 +2343,18 @@
           "source_ids": [
             "ln-474-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln021": {
+          "episode_keys": [
+            "reworked-holiday-visit-roster"
+          ],
+          "source_ids": [
+            "ln-410-news-article"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1387,7 +2377,8 @@
           "source_ids": [
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln002": {
           "episode_keys": [
@@ -1396,7 +2387,8 @@
           "source_ids": [
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln003": {
           "episode_keys": [
@@ -1405,7 +2397,8 @@
           "source_ids": [
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln018": {
           "episode_keys": [
@@ -1414,7 +2407,8 @@
           "source_ids": [
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln005": {
           "episode_keys": [
@@ -1423,7 +2417,8 @@
           "source_ids": [
             "ln-372-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1445,7 +2440,8 @@
           "source_ids": [
             "ln-463-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln246": {
           "episode_keys": [
@@ -1454,7 +2450,8 @@
           "source_ids": [
             "ln-463-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln049": {
           "episode_keys": [
@@ -1463,7 +2460,8 @@
           "source_ids": [
             "ln-463-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln294": {
           "episode_keys": [
@@ -1472,7 +2470,8 @@
           "source_ids": [
             "ln-463-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1492,7 +2491,8 @@
           "source_ids": [
             "ln-325-radio-interview"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln016": {
           "episode_keys": [
@@ -1501,7 +2501,8 @@
           "source_ids": [
             "ln-437-radio-interview"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       },
       "note": "Interviewees only; hosts are not expected answers."
@@ -1523,7 +2524,8 @@
           "source_ids": [
             "ln-272-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln034": {
           "episode_keys": [
@@ -1532,7 +2534,8 @@
           "source_ids": [
             "ln-272-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln292": {
           "episode_keys": [
@@ -1541,7 +2544,8 @@
           "source_ids": [
             "ln-272-webinar"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1552,7 +2556,8 @@
       "expected_member_ids": [
         "ln091",
         "ln223",
-        "ln047"
+        "ln047",
+        "ln127"
       ],
       "support": {
         "ln091": {
@@ -1562,7 +2567,8 @@
           "source_ids": [
             "ln-423-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln223": {
           "episode_keys": [
@@ -1571,7 +2577,8 @@
           "source_ids": [
             "ln-423-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln047": {
           "episode_keys": [
@@ -1580,7 +2587,18 @@
           "source_ids": [
             "ln-423-panel-transcript"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
+        },
+        "ln127": {
+          "episode_keys": [
+            "set-up-telehealth-check-ins-for-rural-patients"
+          ],
+          "source_ids": [
+            "ln-057-intake-email"
+          ],
+          "reference_lead": true,
+          "origin": "review"
         }
       }
     },
@@ -1601,7 +2619,8 @@
           "source_ids": [
             "ln-373-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln156": {
           "episode_keys": [
@@ -1610,7 +2629,8 @@
           "source_ids": [
             "ln-373-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln216": {
           "episode_keys": [
@@ -1619,7 +2639,8 @@
           "source_ids": [
             "ln-373-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1639,7 +2660,8 @@
           "source_ids": [
             "ln-324-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln035": {
           "episode_keys": [
@@ -1648,7 +2670,8 @@
           "source_ids": [
             "ln-324-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1667,7 +2690,8 @@
           "source_ids": [
             "ln-474-post-event-debrief"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1688,7 +2712,8 @@
           "source_ids": [
             "ln-350-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln209": {
           "episode_keys": [
@@ -1697,7 +2722,8 @@
           "source_ids": [
             "ln-350-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         },
         "ln053": {
           "episode_keys": [
@@ -1706,7 +2732,8 @@
           "source_ids": [
             "ln-350-meeting-minutes"
           ],
-          "reference_lead": true
+          "reference_lead": true,
+          "origin": "planted"
         }
       }
     },
@@ -1726,7 +2753,8 @@
           "source_ids": [
             "ln-422-survey-response"
           ],
-          "reference_lead": false
+          "reference_lead": false,
+          "origin": "planted"
         },
         "ln277": {
           "episode_keys": [
@@ -1735,7 +2763,8 @@
           "source_ids": [
             "ln-422-survey-response"
           ],
-          "reference_lead": false
+          "reference_lead": false,
+          "origin": "planted"
         }
       },
       "note": "Offers are plans, not completed talks."

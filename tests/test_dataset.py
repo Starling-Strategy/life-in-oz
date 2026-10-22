@@ -25,15 +25,15 @@ class DatasetTests(unittest.TestCase):
         result = validator.validate(ROOT)
         self.assertEqual(result["documents"], 576)
         self.assertEqual(result["roster_members"], 350)
-        self.assertEqual(result["evidence_anchors"], 2006)
-        self.assertEqual(result["reference_experiences"], 1379)
+        self.assertEqual(result["evidence_anchors"], 2009)
+        self.assertEqual(result["reference_experiences"], 1380)
         self.assertEqual(result["queries"], 62)
         self.assertEqual(result["by_collection"]["community-life"]["reference_experiences"], 156)
         self.assertEqual(result["by_collection"]["community-life"]["evidence_anchors"], 326)
         network = result["by_collection"]["leadership-network"]
         self.assertEqual(network["documents"], 523)
-        self.assertEqual(network["reference_experiences"], 1223)
-        self.assertEqual(network["evidence_anchors"], 1680)
+        self.assertEqual(network["reference_experiences"], 1224)
+        self.assertEqual(network["evidence_anchors"], 1683)
 
     def test_leadership_network_coverage(self):
         leads = json.loads((ROOT / "evaluation/leadership-network-experience-leads.json").read_text(encoding="utf-8"))

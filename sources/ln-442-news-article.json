@@ -57,19 +57,14 @@
     },
     {
       "id": "b010",
-      "speaker_id": "narrator",
-      "text": "These three actions—a colorful shelf system, a new library stop, a safer platform—share a common thread: they started with noticing a need close at hand and involved a single, practical step to address it. As Meadow Mutual Aid's community manager Rowan Bell observes, the circle's strength often lies in these modest, concrete interventions."
-    },
-    {
-      "id": "b011",
       "speaker_id": "manager",
       "text": "It's not always about mounting a huge campaign. It's about Phoebe seeing paint chips and thinking 'shelves,' Odile picking up the phone for her residents, Briony knowing which form to fill out. They saw a crack in the day and found a way to patch it. That's mutual aid in practice."
     },
     {
-      "id": "b012",
+      "id": "b011",
       "speaker_id": "narrator",
       "text": "The circle meets monthly to share such stories and coordinate larger projects, but members agree the small, independent fixes are what keep the network's spirit thriving, one color-coded shelf, one library van, and one non-slip strip at a time."
     }
   ],
-  "content_sha256": "d80f3b9a2ba454ff66327c219153a9c47f580f476318eee53a79a292b46bb447"
+  "content_sha256": "28ca5ceee224784a289c6b9e2a2aa668f1e283f775c6105328fd615e24d0e3d6"
 }

@@ -80,14 +80,14 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Reading Room Network Seeks to Preserve City's Craft Histories Before They Fade](sources/ln-003-press-release.txt) | `press_release` | 388 |
 | [Membership Intake Form: Poppyford Design Studio](sources/ln-004-membership-intake-form.txt) | `membership_intake_form` | 217 |
 | [Rowan Bell · Community Manager · call with Gilda Fernham · January 2024](sources/ln-005-manager-conversation.txt) | `manager_conversation` | 231 |
-| [Founders' Corner: Winter Projects Bring Warmth and Light](sources/ln-006-news-article.txt) | `news_article` | 617 |
+| [Founders' Corner: Winter Projects Bring Warmth and Light](sources/ln-006-news-article.txt) | `news_article` | 574 |
 | [How We Keep the Pantry Shelves Up and the Community Growing: A Meadow Mutual Aid Panel](sources/ln-007-panel-transcript.txt) | `panel_transcript` | 796 |
 | [Small Acts, Shared Gains: Meadow Mutual Aid Members Keep the Neighborhoods Running](sources/ln-008-news-article.txt) | `news_article` | 808 |
 | [Brickway to Clinic: What's Making Work Better?](sources/ln-009-radio-interview.txt) | `radio_interview` | 571 |
 | [Young Founders Circle Meeting Minutes – January 2024](sources/ln-010-meeting-minutes.txt) | `meeting_minutes` | 534 |
 | [Rowan Bell · Community Manager · call with Rafe Ashbourne · February 2024](sources/ln-011-manager-conversation.txt) | `manager_conversation` | 249 |
 | [Rowan Bell · Community Manager · call with Isla Poppywood · February 2024](sources/ln-012-manager-conversation.txt) | `manager_conversation` | 197 |
-| [Winter Work and Winking Alliances](sources/ln-013-newsletter-feature.txt) | `newsletter_feature` | 540 |
+| [Winter Work and Winking Alliances](sources/ln-013-newsletter-feature.txt) | `newsletter_feature` | 511 |
 | [Re: Coordination for the North Orchard clinic ramp](sources/ln-014-email-thread.txt) | `email_thread` | 621 |
 | [Grant Report: Emerald City Chamber Retail Support & Resilience](sources/ln-015-grant-report.txt) | `grant_report` | 411 |
 | [Gillikin Growers Circle: Winter Survey Responses](sources/ln-016-survey-response.txt) | `survey_response` | 671 |
@@ -104,10 +104,10 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Grant Report: Reading Room Network, March 2024](sources/ln-027-grant-report.txt) | `grant_report` | 293 |
 | [Emerald City Leadership Network Member Survey: Freelance Work Insights](sources/ln-028-survey-response.txt) | `survey_response` | 429 |
 | [Fwd: A couple small things from the Festival Committee](sources/ln-029-intake-email.txt) | `intake_email` | 270 |
-| [From the Wall to the Seed Packet: A Week in Gillikin's Circles](sources/ln-030-newsletter-feature.txt) | `newsletter_feature` | 437 |
+| [From the Wall to the Seed Packet: A Week in Gillikin's Circles](sources/ln-030-newsletter-feature.txt) | `newsletter_feature` | 373 |
 | [The Quiet Work of the Wizard's Office Liaisons](sources/ln-031-news-article.txt) | `news_article` | 684 |
 | [Fwd: Chamber info session & a quiet paperwork win](sources/ln-032-intake-email.txt) | `intake_email` | 281 |
-| [Emerald City Leadership Network Celebrates Young Founders' Quiet Wins](sources/ln-033-press-release.txt) | `press_release` | 405 |
+| [Emerald City Leadership Network Celebrates Young Founders' Quiet Wins](sources/ln-033-press-release.txt) | `press_release` | 347 |
 | [Wizard's Office Liaisons Quarterly Meeting: April 2024](sources/ln-034-meeting-minutes.txt) | `meeting_minutes` | 686 |
 | [Small Business Circle Grant Report – April 2024](sources/ln-035-grant-report.txt) | `grant_report` | 297 |
 | [Emerald City Community Radio: A Checklist for Solar and a Summary for Drivers](sources/ln-036-radio-interview.txt) | `radio_interview` | 556 |
@@ -129,7 +129,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Small Business Circle Roundup: Bikes, Beans, and Back-to-School Cuts](sources/ln-052-news-article.txt) | `news_article` | 486 |
 | [Plain Words and Public Works: A Liaison Panel](sources/ln-053-panel-transcript.txt) | `panel_transcript` | 900 |
 | [Brickway Transit Union Roundup: Detours, Deliveries, and a Weekend Blitz](sources/ln-054-news-article.txt) | `news_article` | 623 |
-| [Notices Translated, Switches Replaced: The Quiet Work of the Wizard's Office Liaisons](sources/ln-055-news-article.txt) | `news_article` | 679 |
+| [Notices Translated, Switches Replaced: The Quiet Work of the Wizard's Office Liaisons](sources/ln-055-news-article.txt) | `news_article` | 621 |
 | [Rowan Bell · Community Manager · call with Pavel Dunn · June 2024](sources/ln-056-manager-conversation.txt) | `manager_conversation` | 150 |
 | [Fwd: A couple of network-related clinic items](sources/ln-057-intake-email.txt) | `intake_email` | 165 |
 | [Gala Nomination: Linus Hazelridge for Community Resourcefulness](sources/ln-058-nomination-letter.txt) | `nomination_letter` | 242 |
@@ -151,8 +151,8 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Wizard's Office Liaisons Meeting Minutes](sources/ln-074-meeting-minutes.txt) | `meeting_minutes` | 503 |
 | [What are you doing when the system hiccups?](sources/ln-075-social-thread.txt) | `social_thread` | 515 |
 | [The Quiet Work: Small Fixes and Shared Tools Keep Things Growing](sources/ln-076-newsletter-feature.txt) | `newsletter_feature` | 596 |
-| [Young Founders Find Fresh Ways Forward](sources/ln-077-newsletter-feature.txt) | `newsletter_feature` | 591 |
-| [Winkie Works Guild Webinar: Craftsmanship in the Community](sources/ln-078-webinar.txt) | `webinar` | 1082 |
+| [Young Founders Find Fresh Ways Forward](sources/ln-077-newsletter-feature.txt) | `newsletter_feature` | 554 |
+| [Winkie Works Guild Webinar: Craftsmanship in the Community](sources/ln-078-webinar.txt) | `webinar` | 1070 |
 | [2024 Festival Committee Program: Contributor Bios](sources/ln-079-speaker-bio.txt) | `speaker_bio` | 255 |
 | [Meadow Mutual Aid: Report to the Oz Community Fund, August 2024](sources/ln-080-grant-report.txt) | `grant_report` | 586 |
 | [Meet Mattie Amberstead of Amberstead Flowers](sources/ln-081-speaker-bio.txt) | `speaker_bio` | 137 |
@@ -165,7 +165,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Small Business Circle Micro-Grant Report: September 2024](sources/ln-088-grant-report.txt) | `grant_report` | 396 |
 | [Meadow Mutual Aid Circle Meeting Minutes, September 2024](sources/ln-089-meeting-minutes.txt) | `meeting_minutes` | 876 |
 | [Young Founders Circle: Small Grant #24-09 Report](sources/ln-090-grant-report.txt) | `grant_report` | 493 |
-| [In the Spirit of the Season: Meadow Mutual Aid Members Share Practical Skills](sources/ln-091-newsletter-feature.txt) | `newsletter_feature` | 326 |
+| [In the Spirit of the Season: Meadow Mutual Aid Members Share Practical Skills](sources/ln-091-newsletter-feature.txt) | `newsletter_feature` | 295 |
 | [Green Streets & Good Plates: A Gillikin Growers Webinar](sources/ln-092-webinar.txt) | `webinar` | 1150 |
 | [Brickway Transit Union: Night Safety & Day-to-Day Problem Solving](sources/ln-093-webinar.txt) | `webinar` | 1033 |
 | [Fwd: Mill open day and a quick fix](sources/ln-094-intake-email.txt) | `intake_email` | 225 |
@@ -180,7 +180,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Fwd: A couple small wins from Blue Orchard](sources/ln-103-intake-email.txt) | `intake_email` | 348 |
 | [The Timber Verge Repair Co-op: A Webinar on Keeping Things Running](sources/ln-104-webinar.txt) | `webinar` | 1178 |
 | [Small Business Circle Check-in: October 2024](sources/ln-105-post-event-debrief.txt) | `post_event_debrief` | 498 |
-| [Meadow Mutual Aid: Sharing Skills, Feeding Community](sources/ln-106-panel-transcript.txt) | `panel_transcript` | 1187 |
+| [Meadow Mutual Aid: Sharing Skills, Feeding Community](sources/ln-106-panel-transcript.txt) | `panel_transcript` | 1077 |
 | [Boots, Lights, and a Door Seal](sources/ln-107-social-thread.txt) | `social_thread` | 242 |
 | [A Warm Room, a Voice Archive, and a Loaf of Bread: Meadow Mutual Aid on Community Radio](sources/ln-108-radio-interview.txt) | `radio_interview` | 639 |
 | [Emerald City Leadership Network: New Member Intake Form](sources/ln-109-membership-intake-form.txt) | `membership_intake_form` | 242 |
@@ -227,7 +227,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Gillikin Growers Cooperative & Network Partners Meeting Minutes](sources/ln-150-meeting-minutes.txt) | `meeting_minutes` | 652 |
 | [Post-Event Debrief: Meadow Mutual Aid Coordination Check-in, January 2025](sources/ln-151-post-event-debrief.txt) | `post_event_debrief` | 526 |
 | [Music in the common room, a health fair on the horizon](sources/ln-152-social-thread.txt) | `social_thread` | 248 |
-| [A Roundup of Quiet Efforts: From Warm Bread to Wire Wreaths](sources/ln-153-news-article.txt) | `news_article` | 674 |
+| [A Roundup of Quiet Efforts: From Warm Bread to Wire Wreaths](sources/ln-153-news-article.txt) | `news_article` | 647 |
 | [Reading Rooms in Winter: Connecting Through Script, Story, and Steps](sources/ln-154-webinar.txt) | `webinar` | 940 |
 | [The Receipt Box, the Lunch Crates, and the Collapsible Booth](sources/ln-155-newsletter-feature.txt) | `newsletter_feature` | 658 |
 | [Program Participant Bios](sources/ln-156-speaker-bio.txt) | `speaker_bio` | 158 |
@@ -237,9 +237,9 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Wizard's Office Liaisons Circle – Members' Survey Responses](sources/ln-160-survey-response.txt) | `survey_response` | 706 |
 | [Checking in from the Bluebell Clinic](sources/ln-161-email-thread.txt) | `email_thread` | 472 |
 | [Small Business Circle Survey Responses, January 2025](sources/ln-162-survey-response.txt) | `survey_response` | 567 |
-| [Nomination for Pia Oakridge](sources/ln-163-nomination-letter.txt) | `nomination_letter` | 272 |
-| [Wizard's Office Staff Look Beyond the Greenstone Gates](sources/ln-164-news-article.txt) | `news_article` | 446 |
-| [Reading Room Thread: Those Forms Aren't as Scary as They Look](sources/ln-165-social-thread.txt) | `social_thread` | 376 |
+| [Nomination for Pia Oakridge](sources/ln-163-nomination-letter.txt) | `nomination_letter` | 239 |
+| [Wizard's Office Staff Look Beyond the Greenstone Gates](sources/ln-164-news-article.txt) | `news_article` | 388 |
+| [Reading Room Thread: Those Forms Aren't as Scary as They Look](sources/ln-165-social-thread.txt) | `social_thread` | 375 |
 | [Rowan Bell · Community Manager · call with Yara Wheatley · February 2025](sources/ln-166-manager-conversation.txt) | `manager_conversation` | 244 |
 | [Keeping the Gate Open: Community and Hospitality in the Junction Quarter](sources/ln-167-radio-interview.txt) | `radio_interview` | 397 |
 | [Green Market Reading Room Update Call](sources/ln-168-manager-conversation.txt) | `manager_conversation` | 175 |
@@ -253,11 +253,11 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Rowan Bell · Community Manager · call with Odile Wickley and Gwen Rushton · February 2025](sources/ln-176-manager-conversation.txt) | `manager_conversation` | 213 |
 | [Brickway Transit Union Webinar: On the Ground](sources/ln-177-webinar.txt) | `webinar` | 1067 |
 | [Re: Timber Verge Co-op - February check-in](sources/ln-178-email-thread.txt) | `email_thread` | 351 |
-| [Chamber Members Put Ledgers, Loaves, and Leniency to Work](sources/ln-179-news-article.txt) | `news_article` | 666 |
+| [Chamber Members Put Ledgers, Loaves, and Leniency to Work](sources/ln-179-news-article.txt) | `news_article` | 631 |
 | [Tea and Currents: Keeping Community Spaces Running](sources/ln-180-radio-interview.txt) | `radio_interview` | 446 |
 | [Nomination for Ambrose Bramblefield, Founders' Gala](sources/ln-181-nomination-letter.txt) | `nomination_letter` | 261 |
 | [Rowan Bell · Community Manager · call with Albin Gatemere · February 2025](sources/ln-182-manager-conversation.txt) | `manager_conversation` | 170 |
-| [Meadow Mutual Aid: Building Resilience from the Ground Up](sources/ln-183-webinar.txt) | `webinar` | 1271 |
+| [Meadow Mutual Aid: Building Resilience from the Ground Up](sources/ln-183-webinar.txt) | `webinar` | 1251 |
 | [Reading Room Network Committee Meeting Minutes – February 2025](sources/ln-184-meeting-minutes.txt) | `meeting_minutes` | 562 |
 | [Whoever resoled our boots this week](sources/ln-185-social-thread.txt) | `social_thread` | 97 |
 | [Daphne Lark - School Meal Buyer, North Orchard Schools](sources/ln-186-speaker-bio.txt) | `speaker_bio` | 116 |
@@ -280,7 +280,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Fwd: Spring project ideas](sources/ln-203-email-thread.txt) | `email_thread` | 255 |
 | [Call notes: Hannah Bellamy on the storm below Brickway Junction](sources/ln-204-manager-conversation.txt) | `manager_conversation` | 144 |
 | [Western Route open to Timber Verge](sources/ln-205-email-thread.txt) | `email_thread` | 235 |
-| [Munchkin Country Storm Relief Coordination Meeting Minutes](sources/ln-206-meeting-minutes.txt) | `meeting_minutes` | 449 |
+| [Munchkin Country Storm Relief Coordination Meeting Minutes](sources/ln-206-meeting-minutes.txt) | `meeting_minutes` | 444 |
 | [Rowan Bell · Community Manager · call with Barnaby Stonefield · April 2025](sources/ln-207-manager-conversation.txt) | `manager_conversation` | 238 |
 | [Speaker Bios](sources/ln-208-speaker-bio.txt) | `speaker_bio` | 140 |
 | [Brickway Business Hour: Meadowstead on the Books](sources/ln-209-radio-interview.txt) | `radio_interview` | 456 |
@@ -328,7 +328,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Rowan Bell · Community Manager · call with Nico Poppycombe · June 2025](sources/ln-251-manager-conversation.txt) | `manager_conversation` | 176 |
 | [Young Founders: Building What's Next](sources/ln-252-webinar.txt) | `webinar` | 1325 |
 | [Re: Young Founders Circle - Sharing Projects](sources/ln-253-email-thread.txt) | `email_thread` | 428 |
-| [Gillikin Growers Strengthen Local Ties Through Shared Harvests and Cooler Fridges](sources/ln-254-press-release.txt) | `press_release` | 438 |
+| [Gillikin Growers Strengthen Local Ties Through Shared Harvests and Cooler Fridges](sources/ln-254-press-release.txt) | `press_release` | 401 |
 | [Rowan Bell · Community Manager · call with Jude Quadstead & Hattie Tinstead · June 2025](sources/ln-255-manager-conversation.txt) | `manager_conversation` | 250 |
 | [Repairing What We Share: A Timber Verge Panel](sources/ln-256-panel-transcript.txt) | `panel_transcript` | 972 |
 | [Community Panel: Keeping the Network Moving in South Oz](sources/ln-257-panel-transcript.txt) | `panel_transcript` | 1135 |
@@ -341,13 +341,13 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [A haulier, a union steward, and a foreman walk into a social board...](sources/ln-264-social-thread.txt) | `social_thread` | 346 |
 | [Wizard's Office Liaisons Circle Meeting Minutes](sources/ln-265-meeting-minutes.txt) | `meeting_minutes` | 786 |
 | [Ozma Tipwell · Community Manager · call with Ida Poppyford · June 2025](sources/ln-266-manager-conversation.txt) | `manager_conversation` | 228 |
-| [From Seed Lists to Sprouting Herbs: Growers Adapt to a Shifting Season](sources/ln-267-news-article.txt) | `news_article` | 690 |
+| [From Seed Lists to Sprouting Herbs: Growers Adapt to a Shifting Season](sources/ln-267-news-article.txt) | `news_article` | 632 |
 | [Timber Verge Repair Co-op June 2025 Roundup](sources/ln-268-post-event-debrief.txt) | `post_event_debrief` | 749 |
 | [Upcoming Gillikin printing lecture & a civic design chat](sources/ln-269-email-thread.txt) | `email_thread` | 485 |
 | [Nomination for the Festival Committee Appreciation Award](sources/ln-270-nomination-letter.txt) | `nomination_letter` | 259 |
-| [Network Roundup: Small Fixes and Shared Systems](sources/ln-271-newsletter-feature.txt) | `newsletter_feature` | 605 |
+| [Network Roundup: Small Fixes and Shared Systems](sources/ln-271-newsletter-feature.txt) | `newsletter_feature` | 572 |
 | [Wizard's Office permits: making them work for you](sources/ln-272-webinar.txt) | `webinar` | 1048 |
-| [Setting the Record Straight on Meadowbank Kitchen Handrails](sources/ln-273-newsletter-feature.txt) | `newsletter_feature` | 271 |
+| [Setting the Record Straight on Meadowbank Kitchen Handrails](sources/ln-273-newsletter-feature.txt) | `newsletter_feature` | 233 |
 | [Emerald City Leadership Network Membership Intake Form](sources/ln-274-membership-intake-form.txt) | `membership_intake_form` | 215 |
 | [Member Survey Response: South Copse General Store](sources/ln-275-survey-response.txt) | `survey_response` | 339 |
 | [Fwd: Two Ward Updates for Network Awareness](sources/ln-276-intake-email.txt) | `intake_email` | 232 |
@@ -370,7 +370,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [From Salvage to Standards: Timber Verge Repair Co-op Builds a Foundation](sources/ln-293-newsletter-feature.txt) | `newsletter_feature` | 497 |
 | [Neighbors Helping Neighbors: Reading Room Network in Action](sources/ln-294-social-thread.txt) | `social_thread` | 281 |
 | [Brickway Transit Union Member Survey Responses, July 2025](sources/ln-295-survey-response.txt) | `survey_response` | 476 |
-| [Small Business Circle Roundup: A Ferry Timetable, a Footbridge, and a Grant Deadline](sources/ln-296-news-article.txt) | `news_article` | 526 |
+| [Small Business Circle Roundup: A Ferry Timetable, a Footbridge, and a Grant Deadline](sources/ln-296-news-article.txt) | `news_article` | 483 |
 | [July Roundup: From Foggy Reroutes to Magnets on the Bench](sources/ln-297-newsletter-feature.txt) | `newsletter_feature` | 579 |
 | [Brickway Junction Makers Space: Grant Progress Report, August 2025](sources/ln-298-grant-report.txt) | `grant_report` | 335 |
 | [Rowan Bell · Community Manager · call with Bram Meadowholt · August 2025](sources/ln-299-manager-conversation.txt) | `manager_conversation` | 218 |
@@ -390,16 +390,16 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Fwd: Parade Photos & Space Hunt](sources/ln-313-intake-email.txt) | `intake_email` | 275 |
 | [Rowan Bell · Community Manager · call with Jago Winkleholt · August 2025](sources/ln-314-manager-conversation.txt) | `manager_conversation` | 277 |
 | [Places for the Hands](sources/ln-315-newsletter-feature.txt) | `newsletter_feature` | 494 |
-| [Meadow Mutual Aid Announces New Local Coordinators for Gillikin Falls, Lantern Row, and Blue Orchard](sources/ln-316-press-release.txt) | `press_release` | 435 |
+| [Meadow Mutual Aid Announces New Local Coordinators for Gillikin Falls, Lantern Row, and Blue Orchard](sources/ln-316-press-release.txt) | `press_release` | 370 |
 | [Gillikin Growers Cooperative Text Alert Saves Seedlings from Late Frost, Munchkin Dairy Farmer Credits Quick Action with Saving Cow and Calf](sources/ln-317-press-release.txt) | `press_release` | 380 |
-| [Chamber Members Share Recent Wins and Workarounds](sources/ln-318-social-thread.txt) | `social_thread` | 365 |
+| [Chamber Members Share Recent Wins and Workarounds](sources/ln-318-social-thread.txt) | `social_thread` | 338 |
 | [Around the Table and the Shelves](sources/ln-319-newsletter-feature.txt) | `newsletter_feature` | 391 |
 | [Fwd: August notes from Gillikin and the Wizard's Office](sources/ln-320-intake-email.txt) | `intake_email` | 199 |
 | [Fabric scraps find a home & compost bins sprout at Sycamore](sources/ln-321-email-thread.txt) | `email_thread` | 422 |
 | [Meadow Mutual Aid: special meeting of the mutual-aid committee](sources/ln-322-meeting-minutes.txt) | `meeting_minutes` | 150 |
 | [Rowan Bell · Community Manager · call with Brickway Transit Union members · August 2025](sources/ln-323-manager-conversation.txt) | `manager_conversation` | 326 |
 | [Festival Committee Meeting Minutes](sources/ln-324-meeting-minutes.txt) | `meeting_minutes` | 597 |
-| [On the Air at Dawn: Languages and Routes Through the Ice](sources/ln-325-radio-interview.txt) | `radio_interview` | 513 |
+| [On the Air at Dawn: Languages and Routes Through the Ice](sources/ln-325-radio-interview.txt) | `radio_interview` | 510 |
 | [Emerald City Leadership Network Membership Intake Form](sources/ln-326-membership-intake-form.txt) | `membership_intake_form` | 180 |
 | [Rowan Bell · Community Manager · call with Lena Thistlecombe · September 2025](sources/ln-327-manager-conversation.txt) | `manager_conversation` | 189 |
 | [Westgate Foundry Tooling Fund: Final Report, September 2025](sources/ln-328-grant-report.txt) | `grant_report` | 441 |
@@ -423,14 +423,14 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Wizard's Office Liaisons: Connecting Civic Resources with Community Projects](sources/ln-346-webinar.txt) | `webinar` | 972 |
 | [Quadling Health Access Coordinating Committee - September 2025 Minutes](sources/ln-347-meeting-minutes.txt) | `meeting_minutes` | 680 |
 | [Brickway Junction Dispatch: Keeping the Road Smooth](sources/ln-348-radio-interview.txt) | `radio_interview` | 499 |
-| [Small Fixes, Big Impact: Transit Workers Solve for Rain, Repairs, and Roadwork](sources/ln-349-news-article.txt) | `news_article` | 595 |
+| [Small Fixes, Big Impact: Transit Workers Solve for Rain, Repairs, and Roadwork](sources/ln-349-news-article.txt) | `news_article` | 550 |
 | [Gillikin Growers Cooperative Harvest Meeting Minutes](sources/ln-350-meeting-minutes.txt) | `meeting_minutes` | 439 |
 | [Lantern count discrepancy](sources/ln-351-email-thread.txt) | `email_thread` | 492 |
 | [Listening corner installation](sources/ln-352-email-thread.txt) | `email_thread` | 525 |
 | [Rowan Bell · Community Manager · call with Nell Heatherholt · October 2025](sources/ln-353-manager-conversation.txt) | `manager_conversation` | 168 |
 | [Membership Intake Form – Emeryham Machine Shop](sources/ln-354-membership-intake-form.txt) | `membership_intake_form` | 278 |
 | [Speaker Bios: Fall Craft & Repair Panel](sources/ln-355-speaker-bio.txt) | `speaker_bio` | 162 |
-| [Wizard's Office Liaisons Highlight Community Impact Across Oz](sources/ln-356-press-release.txt) | `press_release` | 392 |
+| [Wizard's Office Liaisons Highlight Community Impact Across Oz](sources/ln-356-press-release.txt) | `press_release` | 336 |
 | [RE: Violet Hills flour and a good tutoring trick](sources/ln-357-email-thread.txt) | `email_thread` | 441 |
 | [Festival Committee Check-in](sources/ln-358-manager-conversation.txt) | `manager_conversation` | 332 |
 | [Winkie Works Expands Reach: From Machine Shop Repairs to Supply Chain Plans](sources/ln-359-news-article.txt) | `news_article` | 468 |
@@ -447,7 +447,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Reading Rooms in Action: A Network Webinar](sources/ln-370-webinar.txt) | `webinar` | 1078 |
 | [Fwd: Silo pins and a calibration idea](sources/ln-371-intake-email.txt) | `intake_email` | 209 |
 | [When the Roads Close: A Panel on Getting Through](sources/ln-372-panel-transcript.txt) | `panel_transcript` | 1152 |
-| [Post-Apprentice Showcase Debrief: Winkie Works Guild, November 2025](sources/ln-373-post-event-debrief.txt) | `post_event_debrief` | 509 |
+| [Post-Apprentice Showcase Debrief: Winkie Works Guild, November 2025](sources/ln-373-post-event-debrief.txt) | `post_event_debrief` | 501 |
 | [A Clearer View: How a Reading Room’s Loaner Glasses Bring Notices into Focus](sources/ln-374-newsletter-feature.txt) | `newsletter_feature` | 514 |
 | [Mabry Rushcombe \| Rushcombe Costumes](sources/ln-375-speaker-bio.txt) | `speaker_bio` | 140 |
 | [Rowan Bell · Community Manager · call with Selwyn Bramblecombe · November 2025](sources/ln-376-manager-conversation.txt) | `manager_conversation` | 203 |
@@ -464,7 +464,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Festival Committee Meeting Minutes - November 2025](sources/ln-387-meeting-minutes.txt) | `meeting_minutes` | 419 |
 | [Young Founders Build Community Through Wheels and Wayfinding](sources/ln-388-press-release.txt) | `press_release` | 336 |
 | [Fwd: Brickway Shelter & Oven Manual Update](sources/ln-389-email-thread.txt) | `email_thread` | 371 |
-| [Keeping the Pages Turning: A Roundup of Quiet Work in the Reading Room Network](sources/ln-390-news-article.txt) | `news_article` | 609 |
+| [Keeping the Pages Turning: A Roundup of Quiet Work in the Reading Room Network](sources/ln-390-news-article.txt) | `news_article` | 548 |
 | [Program Participant Biographies](sources/ln-391-speaker-bio.txt) | `speaker_bio` | 220 |
 | [Network Members' Survey: Timber Verge Repair Co-op Focus](sources/ln-392-survey-response.txt) | `survey_response` | 672 |
 | [Re: Festival Committee Updates and a Proposal](sources/ln-393-email-thread.txt) | `email_thread` | 310 |
@@ -476,15 +476,15 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Gillikin Growers Circle: Finding the Fit](sources/ln-399-panel-transcript.txt) | `panel_transcript` | 863 |
 | [Gillikin Growers Monthly Meeting Minutes – December 2025](sources/ln-400-meeting-minutes.txt) | `meeting_minutes` | 575 |
 | [Winkie Works Guild Family Day - what worked](sources/ln-401-social-thread.txt) | `social_thread` | 266 |
-| [The Small Shop: Stationers, Stories, and Sheds](sources/ln-402-newsletter-feature.txt) | `newsletter_feature` | 582 |
+| [The Small Shop: Stationers, Stories, and Sheds](sources/ln-402-newsletter-feature.txt) | `newsletter_feature` | 532 |
 | [Meet Our December 2025 Guest Speakers](sources/ln-403-speaker-bio.txt) | `speaker_bio` | 336 |
 | [Meadow Mutual Aid Check-in · December 2025](sources/ln-404-manager-conversation.txt) | `manager_conversation` | 243 |
 | [Winkie Works Guild: December 2025 Grant Report](sources/ln-405-grant-report.txt) | `grant_report` | 305 |
 | [A Nomination for Barnaby Stonefield, Meadow Mutual Aid](sources/ln-406-nomination-letter.txt) | `nomination_letter` | 322 |
 | [Fwd: Reuse finds for your festival planning](sources/ln-407-intake-email.txt) | `intake_email` | 265 |
 | [Gillikin Growers: December 2025 Member Survey Responses](sources/ln-408-survey-response.txt) | `survey_response` | 697 |
-| [Local Upholsterers Patch Up Public Spaces, One Stitch at a Time](sources/ln-409-press-release.txt) | `press_release` | 345 |
-| [The Week's Quiet Work](sources/ln-410-news-article.txt) | `news_article` | 866 |
+| [Local Upholsterers Patch Up Public Spaces, One Stitch at a Time](sources/ln-409-press-release.txt) | `press_release` | 332 |
+| [The Week's Quiet Work](sources/ln-410-news-article.txt) | `news_article` | 819 |
 | [Bluebell Crossing Tenants Secure Group Savings on Air Filters, Exterminator Meeting Rescheduled](sources/ln-411-press-release.txt) | `press_release` | 263 |
 | [Rowan Bell · Community Manager · call with Magnus Greendale · January 2026](sources/ln-412-manager-conversation.txt) | `manager_conversation` | 218 |
 | [Young Founders Circle Members' Survey Responses](sources/ln-413-survey-response.txt) | `survey_response` | 485 |
@@ -493,7 +493,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Fwd: Two small projects from Gillikin this week](sources/ln-416-intake-email.txt) | `intake_email` | 196 |
 | [Emerald City Chamber Meeting Minutes – January 2026](sources/ln-417-meeting-minutes.txt) | `meeting_minutes` | 540 |
 | [Reading Room Network Program Bios](sources/ln-418-speaker-bio.txt) | `speaker_bio` | 166 |
-| [From Mills to Mills: Gillikin Growers Circle Members Keep the Wheels Turning](sources/ln-419-news-article.txt) | `news_article` | 589 |
+| [From Mills to Mills: Gillikin Growers Circle Members Keep the Wheels Turning](sources/ln-419-news-article.txt) | `news_article` | 519 |
 | [Timber Verge Repair Co-op Steering Committee Meeting Minutes](sources/ln-420-meeting-minutes.txt) | `meeting_minutes` | 636 |
 | [Festival Committee Roundtable: Making the Work a Party](sources/ln-421-panel-transcript.txt) | `panel_transcript` | 997 |
 | [Network Skills Survey: Responses from Doris Emerycombe and Kit Amberworth](sources/ln-422-survey-response.txt) | `survey_response` | 254 |
@@ -516,8 +516,8 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Bluebell Crossing Depot Crew Clears Backlog with Focused Maintenance Effort](sources/ln-439-press-release.txt) | `press_release` | 232 |
 | [On the Air: Building a Portable Puppet Theatre and Hoisting Banners Without a Lift](sources/ln-440-radio-interview.txt) | `radio_interview` | 515 |
 | [Westgate Foundry Small Tools & Materials Grant: Interim Report, March 2026](sources/ln-441-grant-report.txt) | `grant_report` | 358 |
-| [Small Solutions, Shared Streets: A Roundup from the Meadow Mutual Aid Circle](sources/ln-442-news-article.txt) | `news_article` | 675 |
-| [Wizard's Office Liaisons Bridge Gap Between Policy and Practice](sources/ln-443-news-article.txt) | `news_article` | 685 |
+| [Small Solutions, Shared Streets: A Roundup from the Meadow Mutual Aid Circle](sources/ln-442-news-article.txt) | `news_article` | 622 |
+| [Wizard's Office Liaisons Bridge Gap Between Policy and Practice](sources/ln-443-news-article.txt) | `news_article` | 632 |
 | [Winkie Works Guild - March 2026 Meeting Debrief](sources/ln-444-post-event-debrief.txt) | `post_event_debrief` | 405 |
 | [On the Air: Redfern Hill Repairs and Festival Fuel](sources/ln-445-radio-interview.txt) | `radio_interview` | 497 |
 | [Pedals, Paths, and Practical Fixes: Small Business Circle Webinar](sources/ln-446-webinar.txt) | `webinar` | 896 |
@@ -528,7 +528,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Westgate Foundry Adapts to Complete Timber Verge Order, Averts Crane Shutdown](sources/ln-451-press-release.txt) | `press_release` | 269 |
 | [Rowan Bell · Community Manager · call with Dov Wickwood · April 2026](sources/ln-452-manager-conversation.txt) | `manager_conversation` | 147 |
 | [Festival Committee Debrief - Spring Opening Coordination](sources/ln-453-post-event-debrief.txt) | `post_event_debrief` | 425 |
-| [Office Liaisons: A Week in the Work](sources/ln-454-news-article.txt) | `news_article` | 671 |
+| [Office Liaisons: A Week in the Work](sources/ln-454-news-article.txt) | `news_article` | 597 |
 | [Re: Winkie Works Guild - April Coordination](sources/ln-455-email-thread.txt) | `email_thread` | 209 |
 | [From Soil to Vase: A Winkie Works Guild Thread](sources/ln-456-social-thread.txt) | `social_thread` | 310 |
 | [A Nomination for the Founders' Gala: Ren Hazelham](sources/ln-457-nomination-letter.txt) | `nomination_letter` | 324 |
@@ -556,7 +556,7 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Young Founders Survey Responses, June 2026](sources/ln-479-survey-response.txt) | `survey_response` | 594 |
 | [Fwd: Winter prep notes from the farm and apiary](sources/ln-480-intake-email.txt) | `intake_email` | 234 |
 | [Rowan Bell · Community Manager · call with Heath Gatecombe, Tomas Saffronley, Nadia Stone · June 2026](sources/ln-481-manager-conversation.txt) | `manager_conversation` | 405 |
-| [Small Repairs, Big Difference: How Emerald City Network Members Keep Things Running](sources/ln-482-news-article.txt) | `news_article` | 604 |
+| [Small Repairs, Big Difference: How Emerald City Network Members Keep Things Running](sources/ln-482-news-article.txt) | `news_article` | 538 |
 | [Emerald City Network Notes: The Parade's Path, a Bakery's Panels, and a Golden Thread](sources/ln-483-news-article.txt) | `news_article` | 605 |
 | [A Nomination for the Founders' Gala](sources/ln-484-nomination-letter.txt) | `nomination_letter` | 334 |
 | [Brickway Transit Union Announces Depot Initiatives to Improve Service and Support](sources/ln-485-press-release.txt) | `press_release` | 361 |
@@ -569,13 +569,13 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Letter to the Founders' Gala Selection Committee](sources/ln-492-nomination-letter.txt) | `nomination_letter` | 322 |
 | [Rowan Bell · Community Manager · call with Maren Hedgemore · July 2026](sources/ln-493-manager-conversation.txt) | `manager_conversation` | 213 |
 | [Rowan Bell · Community Manager · call with Barnaby Haybourne · July 2026](sources/ln-494-manager-conversation.txt) | `manager_conversation` | 253 |
-| [The Practical Heart: Meadow Mutual Aid's Summer Steps](sources/ln-495-newsletter-feature.txt) | `newsletter_feature` | 775 |
+| [The Practical Heart: Meadow Mutual Aid's Summer Steps](sources/ln-495-newsletter-feature.txt) | `newsletter_feature` | 713 |
 | [Meadow Mutual Aid Steering Committee Meeting Minutes](sources/ln-496-meeting-minutes.txt) | `meeting_minutes` | 673 |
-| [Young Founders: Building Your Network & Getting Stuff Done](sources/ln-497-webinar.txt) | `webinar` | 1384 |
+| [Young Founders: Building Your Network & Getting Stuff Done](sources/ln-497-webinar.txt) | `webinar` | 1346 |
 | [Winkie Works Guild Members Showcase Craftsmanship in Community Projects](sources/ln-498-press-release.txt) | `press_release` | 357 |
 | [Small Business Circle: July Check-ins & Ideas](sources/ln-499-social-thread.txt) | `social_thread` | 403 |
 | [Sturdy desks and colourful waxes: two small ways our reading spaces got a little better this week](sources/ln-500-social-thread.txt) | `social_thread` | 293 |
-| [Kettle Canteen Hour: The Second Life of a Coffee Cup](sources/ln-501-radio-interview.txt) | `radio_interview` | 542 |
+| [Kettle Canteen Hour: The Second Life of a Coffee Cup](sources/ln-501-radio-interview.txt) | `radio_interview` | 530 |
 | [Network Roundup: July 2026](sources/ln-502-newsletter-feature.txt) | `newsletter_feature` | 523 |
 | [Where Does the Money Go? A Ward Budget, A Cooperative’s Receipts, and the Questions That Remain](sources/ln-503-newsletter-feature.txt) | `newsletter_feature` | 629 |
 | [Fwd: Quick note on van use and roadside assist](sources/ln-504-intake-email.txt) | `intake_email` | 255 |
@@ -584,10 +584,10 @@ Generated from `manifest.json`. Choose a collection before combining records. Ev
 | [Speaker Biographies: Timber Verge Repair Co-op Community Meet](sources/ln-507-speaker-bio.txt) | `speaker_bio` | 262 |
 | [Rowan Bell · Community Manager · call with Sable Gateby · August 2026](sources/ln-508-manager-conversation.txt) | `manager_conversation` | 197 |
 | [Re: Updates and Proposals from the Works Guild](sources/ln-509-email-thread.txt) | `email_thread` | 387 |
-| [From Straps to Stranded Guests: Small Business Owners Step Up](sources/ln-510-news-article.txt) | `news_article` | 623 |
+| [From Straps to Stranded Guests: Small Business Owners Step Up](sources/ln-510-news-article.txt) | `news_article` | 577 |
 | [Meadow Mutual Aid Speaker Bios](sources/ln-511-speaker-bio.txt) | `speaker_bio` | 199 |
 | [Reading Rooms Amplify Community Voices Through Radio Partnerships](sources/ln-512-press-release.txt) | `press_release` | 478 |
-| [Small Fixes, Big Relief: Three Repairs Keep Oz's Gears Turning](sources/ln-513-news-article.txt) | `news_article` | 566 |
+| [Small Fixes, Big Relief: Three Repairs Keep Oz's Gears Turning](sources/ln-513-news-article.txt) | `news_article` | 483 |
 | [Blue Orchard Community Fridge: September 2026 Grant Report](sources/ln-514-grant-report.txt) | `grant_report` | 420 |
 | [Rowan Bell · Community Manager · call with Lena Kilnfield · September 2026](sources/ln-515-manager-conversation.txt) | `manager_conversation` | 143 |
 | [Brickway Transit Survey: Driver Feedback](sources/ln-516-survey-response.txt) | `survey_response` | 248 |

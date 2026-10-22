@@ -43,13 +43,8 @@
     {
       "id": "b007",
       "speaker_id": "narrator",
-      "text": "Rowan Bell, Community Manager for the Emerald City Leadership Network, which includes Meadow Mutual Aid, commended the approach. 'These aren't grand gestures, but they are exactly what makes a mutual aid network work. It’s seeing a need—a broken handle, a failed fridge, a messy sink—and applying the skill or connection you have to solve it. It’s practical care, and it builds resilience block by block.'"
-    },
-    {
-      "id": "b008",
-      "speaker_id": "narrator",
       "text": "Meadow Mutual Aid connects local volunteers across the Emerald City and the four countries to share resources, skills, and time. The network operates through neighborhood circles focused on food access, childcare, elder support, and home repairs."
     }
   ],
-  "content_sha256": "98f3b73b98d07847d09631fc8d73a61d7a43704703f89a8e585264fc1ebf3ca5"
+  "content_sha256": "f6c82ee672f0a832896ae7b5a9dbda6e55aa61a95e28e8e85ac3184a7b5330f5"
 }

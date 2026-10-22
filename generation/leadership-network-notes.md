@@ -13,6 +13,15 @@ Working notes for the Emerald City Leadership Network collection added in 1.1.0.
 7. **Editorial pass.** Scripted checks looked for missing or extra cast members, invented names (bigrams, honorifics and an unknown-capitalized-word scan), banned phrases, brands, contact details, negative-query topics and invalid speaker labels. Failing documents were regenerated up to two times. A model lint listed any remaining personal names, brands and real-world places. A minimal-edit repair fixed them and was rejected if it changed more than 7% of a document. The agent then read a sample and the fixed documents and made hand edits. Eight documents that back StoryBank playground stories were adapted by hand from the playground's own fictional sources so their facts match exactly.
 8. **Annotation.** The coverage audit prompt (`coverage-audit-prompt.md`, unchanged from 1.0.0) ran on every document with only its identity list. Every proposed quote was located mechanically in its block. Leads were kept only for completed or reported episodes, matched to the member's briefed episode in that document, and merged across documents that retell the same episode. Plans produce no lead. Correction, disagreement and identity cases received hand-written summaries.
 
+## Review fixes
+
+An independent model review sampled 60 leads, 15 queries and 15 documents. Fixes applied:
+- Four lead summaries now keep the source's qualifications and full evidence (rehung gate, "light duties", "almost certain", completed cloak repair). Two retellings of one cloak repair were merged.
+- Expected answers: ln003 left lnq-01 (her incident was "not a storm"). Every reviewer suggestion was checked against its source and added. The same check then ran over all 62 questions: a loose model pass proposed candidates, a strict per-question pass filtered them, and the agent accepted or rejected each by hand. In total, 78 members were added to 25 questions, marked `origin: review`.
+- The repair step's mechanical substitution had produced "a family on the lane" in four documents; these were rewritten by hand, and an unresolved first name was anonymized.
+- A scripted sweep of each document's closing blocks found generic morals ("share a common thread", "not about grand gestures", "a useful reminder"). Pure-moral paragraphs were cut and mixed ones trimmed to their concrete outcome or next step, in 37 documents. In-character lines that carry a speaker's voice were kept.
+- Existing audit quotes were re-anchored in the edited blocks without new model calls; 4 quotes that sat inside removed moral text were dropped.
+
 ## Models
 
 The bake-off brief asked for free OpenRouter models. On this account, every listed free model was excluded by the zero-data-retention privacy setting, except `xingchen-agi/xing4.0-29b-a4b:free`. That model needed about seven minutes per document behind upstream rate limits and failed two of five bake-off documents. The account setting was not changed. Paid models were compared on the same five briefs:

@@ -414,8 +414,8 @@
     {
       "person_id": "ln069",
       "name": "Wynn Fernshaw",
-      "experience_leads": 3,
-      "source_documents": 3
+      "experience_leads": 4,
+      "source_documents": 4
     },
     {
       "person_id": "ln070",
@@ -1870,9 +1870,9 @@
           "source_id": "ln-206-meeting-minutes",
           "block_id": "b013",
           "quote": "We got word they were running low on feed by April 3rd.",
-          "context": "The place run by a neighbor, which is a lease operation on the old acreage of a family on the lane, wasn't on any of the main membership lists. And the small dairy run by the sisters south of Bluebell Crossing—they sell direct at the junction market, so they weren't on the commercial rolls. We got word they were running low on feed by April 3rd.",
-          "start": 292,
-          "end": 347
+          "context": "The place run by a neighbor, which is a lease operation on an old family acreage, wasn't on any of the main membership lists. And the small dairy run by the sisters south of Bluebell Crossing—they sell direct at the junction market, so they weren't on the commercial rolls. We got word they were running low on feed by April 3rd.",
+          "start": 274,
+          "end": 329
         },
         {
           "source_id": "ln-206-meeting-minutes",
@@ -2646,17 +2646,9 @@
           "source_id": "ln-165-social-thread",
           "block_id": "b002",
           "quote": "I just finished with the Spring Festival vendor permits. The original Emerald City guidelines were, let’s say, very precise. It is not easy. I worked on translations into three of our local dialects here.",
-          "context": "Samuel, that is wonderful. I know exactly that feeling—the official language on these things can make your head spin. I just finished with the Spring Festival vendor permits. The original Emerald City guidelines were, let’s say, very precise. It is not easy. I worked on translations into three of our local dialects here. The tricky bit was ‘temporary food service establishment.’ Sounds so clinical! We settled on phrases that mean more ‘family cooking stall.’ I heard back from a family on the lane yesterday—their application for a fried dough stand went through. First time they’ve ever tried. Not much to look at, but it opens the gate.",
+          "context": "Samuel, that is wonderful. I know exactly that feeling—the official language on these things can make your head spin. I just finished with the Spring Festival vendor permits. The original Emerald City guidelines were, let’s say, very precise. It is not easy. I worked on translations into three of our local dialects here. The tricky bit was ‘temporary food service establishment.’ Sounds so clinical! We settled on phrases that mean more ‘family cooking stall.’ I heard back from one of the families yesterday—their application for a fried dough stand went through. First time they’ve ever tried. Not much to look at, but it opens the gate.",
           "start": 118,
           "end": 322
-        },
-        {
-          "source_id": "ln-165-social-thread",
-          "block_id": "b002",
-          "quote": "I heard back from a family on the lane yesterday—their application for a fried dough stand went through. First time they’ve ever tried.",
-          "context": "Samuel, that is wonderful. I know exactly that feeling—the official language on these things can make your head spin. I just finished with the Spring Festival vendor permits. The original Emerald City guidelines were, let’s say, very precise. It is not easy. I worked on translations into three of our local dialects here. The tricky bit was ‘temporary food service establishment.’ Sounds so clinical! We settled on phrases that mean more ‘family cooking stall.’ I heard back from a family on the lane yesterday—their application for a fried dough stand went through. First time they’ve ever tried. Not much to look at, but it opens the gate.",
-          "start": 463,
-          "end": 598
         }
       ],
       "review_method": "model-proposed lead, mechanically anchored"
@@ -2705,14 +2697,6 @@
           "context": "The rules are clear: every patient gets their visit. So the ‘how’ had to change. The night before the big freeze, I got the road closure list from the county. It was long. I spread out my map—the paper one, with all the little farm tracks—and I just started drawing new lines. If Brickway South was closed, could we use the old timber verge from the west? If the bridge over Poppy Creek was iced, was there a footpath a car couldn’t use but a person with good boots could?",
           "start": 81,
           "end": 276
-        },
-        {
-          "source_id": "ln-325-radio-interview",
-          "block_id": "b007",
-          "quote": "I called every other nurse and aide on the service. ‘A neighbor, your car has chains, can you take the northern hill route? One of the aides, you live in Violet Hills, can you cover the three houses on Elm?’ We swapped patients, we swapped cars, we even had two of the younger aides walk the last half-mile to a family on the lane because their lane was impassable. But no one was missed. Not one.",
-          "context": "I redrew the rota. It wasn’t just me. I called every other nurse and aide on the service. ‘A neighbor, your car has chains, can you take the northern hill route? One of the aides, you live in Violet Hills, can you cover the three houses on Elm?’ We swapped patients, we swapped cars, we even had two of the younger aides walk the last half-mile to a family on the lane because their lane was impassable. But no one was missed. Not one.",
-          "start": 38,
-          "end": 435
         }
       ],
       "review_method": "model-proposed lead, mechanically anchored"
@@ -6710,7 +6694,7 @@
           "source_id": "ln-163-nomination-letter",
           "block_id": "b001",
           "quote": "Last fall, someone donated a vintage hand planer. It was rusty, the blade was dull, and the adjustment knob was seized. Most folks would’ve tossed it in the scrap pile. Pia took it home. She spent evenings cleaning every part, sharpening the iron, and oiling the mechanisms. She didn’t just make it work; she made it a pleasure to use.",
-          "context": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Pia Oakridge of the Timber Verge Repair Co-op for recognition at this year’s Gala.\n\nMy own bit of context: I’m an electrician from Yellow Kiln. Last month, the collective there got a new pottery kiln, and the three-phase hookup was a mess. I rewired it to current code, got the inspectors in, and it passed without a hitch. It’s running now. That’s the sort of straightforward, necessary work our co-op does—fixing what’s broken so other work can happen.\n\nBut what Pia does is different. She’s the steward of our tool library. Last fall, someone donated a vintage hand planer. It was rusty, the blade was dull, and the adjustment knob was seized. Most folks would’ve tossed it in the scrap pile. Pia took it home. She spent evenings cleaning every part, sharpening the iron, and oiling the mechanisms. She didn’t just make it work; she made it a pleasure to use.\n\nThat tool is now one of the most requested items in the library. People are using it for furniture projects, for trim work, for all sorts of fine woodworking. They come back raving about how smooth it cuts. Pia’s work turns a piece of forgotten history into a community asset. It’s not flashy, but it’s essential. She understands that a well-maintained tool doesn’t just perform a task—it teaches respect for the craft.\n\nIn a network that talks a lot about building and repairing, Pia Oakridge embodies the quiet, foundational work that makes the rest possible. She has my full support for this nomination.\n\nSincerely,\nCyrus Poppymere\nPoppymere Electrical\nTimber Verge Repair Co-op",
+          "context": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Pia Oakridge of the Timber Verge Repair Co-op for recognition at this year’s Gala.\n\nMy own bit of context: I’m an electrician from Yellow Kiln. Last month, the collective there got a new pottery kiln, and the three-phase hookup was a mess. I rewired it to current code, got the inspectors in, and it passed without a hitch. It’s running now. That’s the sort of straightforward, necessary work our co-op does—fixing what’s broken so other work can happen.\n\nBut what Pia does is different. She’s the steward of our tool library. Last fall, someone donated a vintage hand planer. It was rusty, the blade was dull, and the adjustment knob was seized. Most folks would’ve tossed it in the scrap pile. Pia took it home. She spent evenings cleaning every part, sharpening the iron, and oiling the mechanisms. She didn’t just make it work; she made it a pleasure to use.\n\nThat tool is now one of the most requested items in the library. People are using it for furniture projects, for trim work, for all sorts of fine woodworking. They come back raving about how smooth it cuts. The planer is booked out most weeks now.\n\nPia Oakridge has my full support for this nomination. I'm glad to bring the planer to the committee if you'd like to see it.\n\nSincerely,\nCyrus Poppymere\nPoppymere Electrical\nTimber Verge Repair Co-op",
           "start": 585,
           "end": 920
         }
@@ -7439,6 +7423,46 @@
     },
     {
       "person_id": "ln069",
+      "episode_key": "designed-modular-vests-for-street-performers",
+      "summary": "Wynn Fernshaw designed modular vests for street performers with magnet-attached swappable panels and made six prototypes, now being tried by a troupe in the Emerald City.",
+      "evidence": [
+        {
+          "source_id": "ln-143-grant-report",
+          "block_id": "b004",
+          "quote": "I made six prototype vests, each with five different panel sets.",
+          "context": "The modular vest project was something I'd been sketching for ages. Street performers—jugglers, musicians, the folks who do living statues along the Brickway—they need something durable, but they also want to change their look quickly between sets, or for different events. The grant let me buy the right fabrics in bulk: a sturdy canvas base, and then panels of silk, printed cotton, and even some flannel for cooler days. Each panel attaches with hidden magnets sewn into the seams, so a performer can swap from a red diamond pattern to a plain green in about thirty seconds. I made six prototype vests, each with five different panel sets. They’re with a troupe in the Emerald City right now, getting tested.",
+          "start": 578,
+          "end": 642
+        },
+        {
+          "source_id": "ln-143-grant-report",
+          "block_id": "b004",
+          "quote": "Each panel attaches with hidden magnets sewn into the seams",
+          "context": "The modular vest project was something I'd been sketching for ages. Street performers—jugglers, musicians, the folks who do living statues along the Brickway—they need something durable, but they also want to change their look quickly between sets, or for different events. The grant let me buy the right fabrics in bulk: a sturdy canvas base, and then panels of silk, printed cotton, and even some flannel for cooler days. Each panel attaches with hidden magnets sewn into the seams, so a performer can swap from a red diamond pattern to a plain green in about thirty seconds. I made six prototype vests, each with five different panel sets. They’re with a troupe in the Emerald City right now, getting tested.",
+          "start": 424,
+          "end": 483
+        }
+      ],
+      "review_method": "agent reviewed"
+    },
+    {
+      "person_id": "ln069",
+      "episode_key": "donated-scrap-fabric-to-school-art-class",
+      "summary": "Wynn Fernshaw passed a box of scrap fabric to a Blue Orchard school and reports that a teacher said the students used it for a collage and puppet-making unit.",
+      "evidence": [
+        {
+          "source_id": "ln-037-social-thread",
+          "block_id": "b001",
+          "quote": "She mentioned the students used that box of scrap fabric I’d passed along for their collage and puppet-making unit.",
+          "context": "Hello all. Wynn Fernshaw here. I’m finalizing the fabric order for the community pageant banners and was thinking about storage for the spools. Before I get into that, a quick, unrelated note: a teacher from the Blue Orchard school stopped me at the market. She mentioned the students used that box of scrap fabric I’d passed along for their collage and puppet-making unit. She said they were quite taken with the textures, especially the heavier brocade pieces. It was nice to hear.",
+          "start": 258,
+          "end": 373
+        }
+      ],
+      "review_method": "agent reviewed"
+    },
+    {
+      "person_id": "ln069",
       "episode_key": "ran-out-of-a-specific-gold-thread",
       "summary": "Wynn Fernshaw crafted the banner for the Quadling contingent in the Spring Parade but encountered a supply issue, having to substitute a slightly different shade of gold thread to complete it.",
       "evidence": [
@@ -7471,25 +7495,33 @@
     },
     {
       "person_id": "ln069",
-      "episode_key": "repaired-vintage-cloaks-for-winter-festival",
-      "summary": "Wynn Fernshaw repaired a set of vintage wool cloaks destined for the Festival’s heralds and lantern-bearers, reinforcing hems and replacing clasps.",
+      "episode_key": "repaired-vintage-wool-cloaks",
+      "summary": "Wynn Fernshaw restored twelve vintage wool cloaks for the Winterlight Festival, reinforcing the frayed hems and replacing missing clasps with matching salvaged ones; the grant report records the preservation project as complete.",
       "evidence": [
         {
           "source_id": "ln-115-press-release",
           "block_id": "b002",
-          "quote": "Fernshaw has repaired a set of vintage wool cloaks destined for the Festival’s heralds and lantern-bearers. The work involved reinforcing the worn hems with matching thread and replacing lost pewter clasps with salvaged ones from her own collection",
+          "quote": "Fernshaw has repaired a set of vintage wool cloaks destined for the Festival’s heralds and lantern-bearers.",
           "context": "A key element of the festival’s visual pageantry comes from the meticulous work of Wynn Fernshaw of Fernshaw Costumes in Blue Orchard, Munchkin Country. Fernshaw has repaired a set of vintage wool cloaks destined for the Festival’s heralds and lantern-bearers. The work involved reinforcing the worn hems with matching thread and replacing lost pewter clasps with salvaged ones from her own collection, ensuring the garments are both historically resonant and sturdy enough for a long evening’s procession.",
           "start": 153,
-          "end": 401
-        }
-      ],
-      "review_method": "model-proposed lead, mechanically anchored"
-    },
-    {
-      "person_id": "ln069",
-      "episode_key": "repaired-vintage-wool-cloaks",
-      "summary": "Wynn Fernshaw repaired and restored twelve vintage wool cloaks for the Winterlight Festival, reinforcing hems and attaching salvaged antique pewter clasps.",
-      "evidence": [
+          "end": 260
+        },
+        {
+          "source_id": "ln-143-grant-report",
+          "block_id": "b007",
+          "quote": "The grant has enabled the completion of the preservation project for the Winterlight Festival",
+          "context": "Funds were spent exclusively on materials: fabrics, threads, clasps, and findings. All design and labor was contributed by Fernshaw Costumes. The grant has enabled the completion of the preservation project for the Winterlight Festival and the creation of a new, market-ready product line. Next steps for Fernshaw Costumes involve gathering feedback from the performing troupe on the modular vests and preparing a small production run for sale in the spring.",
+          "start": 142,
+          "end": 235
+        },
+        {
+          "source_id": "ln-143-grant-report",
+          "block_id": "b006",
+          "quote": "I spent days carefully turning up each hem, reinforcing it with a hidden bias tape, and stitching it back down",
+          "context": "Those cloaks were a labor of love. The hems were frayed to nothing in places, and half the original clasps were gone. I spent days carefully turning up each hem, reinforcing it with a hidden bias tape, and stitching it back down so it’s stronger than the original but invisible from the outside. Finding clasps that matched the style was the real challenge—I had to sort through two buckets of old findings from a retiring tailor up in Gillikin. But we found enough. They’re not perfectly identical, which I think adds to the character. The festival director was thrilled; she said they haven’t looked this good in twenty years.",
+          "start": 118,
+          "end": 228
+        },
         {
           "source_id": "ln-143-grant-report",
           "block_id": "b005",
@@ -7499,7 +7531,7 @@
           "end": 149
         }
       ],
-      "review_method": "model-proposed lead, mechanically anchored"
+      "review_method": "agent reviewed"
     },
     {
       "person_id": "ln070",
@@ -9094,7 +9126,7 @@
           "source_id": "ln-033-press-release",
           "block_id": "b001",
           "quote": "Last weekend, she led a workshop on crafting simple three-legged stools. 'We used offcuts of ash from a local flooring company—beautiful wood that would’ve been scrap,' Haywick said briskly. 'Twelve people went home with a sturdy stool and the confidence to make another",
-          "context": "FOR RELEASE\n\nEMERALD CITY, Oz – April 2024 – The Emerald City Leadership Network today highlighted the practical, community-focused work of members from its Young Founders Circle. From accessible transit to sustainable shopping and hands-on skill-building, these founders demonstrate that impactful leadership often lies in thoughtful, everyday actions.\n\nLeif Emeryholt, a ticket office supervisor with Emerald City Tramways in Violet Hills, recently introduced a daily quiet hour at his station. From 2 to 3 p.m., the overhead lights are dimmed and intercom announcements are paused. 'We noticed many travelers, especially those navigating complex routes or managing anxiety, found the constant noise and glare overwhelming,' Emeryholt explained. 'This small adjustment creates a calmer point of service. Several regulars now plan their trips around that hour, and we’ve seen a noticeable decrease in tension at the counter during that time.'\n\nIn the heart of the Emerald City, Reuben Spindlecombe of the Spectacle Lane Refill Shop focuses on removing friction for customers seeking low-waste goods. Last month, a large shipment of jute garden twine arrived in a hopelessly tangled knot. 'It was a proper bird’s nest,' Spindlecombe said, his words tumbling out. 'Could have sent it back, but that’s waste. So I spent a slow Tuesday afternoon just… untangling. Rewound it all onto our meter spools. Now customers can buy exactly what they need, cleanly, and nothing’s wasted. It’s not glamorous, but it’s the job.'\n\nAcross the Munchkin Country in Brickway Junction, Dinah Haywick co-founded the Brickway Junction Makers Space to put tools and skills into community hands. Last weekend, she led a workshop on crafting simple three-legged stools. 'We used offcuts of ash from a local flooring company—beautiful wood that would’ve been scrap,' Haywick said briskly. 'Twelve people went home with a sturdy stool and the confidence to make another. It’s about demystifying the process. If you can measure, drill, and glue, you can build something that lasts.'\n\nRowan Bell, Community Manager for the Network, noted the common thread. 'These aren’t headline-grabbing ventures, but they are deeply considered. Leif creates accessibility through quiet, Reuben through perseverance, and Dinah through shared knowledge. They’re each building a slightly more usable, less wasteful, and more skilled Oz, one quiet hour, one spool of twine, one stool at a time.'\n\nThe Emerald City Leadership Network connects members across Oz through circles focused on transit, mutual aid, business, craft, and community health. The Young Founders Circle supports emerging enterprise leaders under 40.",
+          "context": "FOR RELEASE\n\nEMERALD CITY, Oz – April 2024 – The Emerald City Leadership Network today highlighted the practical, community-focused work of members from its Young Founders Circle. From accessible transit to sustainable shopping and hands-on skill-building, these founders demonstrate that impactful leadership often lies in thoughtful, everyday actions.\n\nLeif Emeryholt, a ticket office supervisor with Emerald City Tramways in Violet Hills, recently introduced a daily quiet hour at his station. From 2 to 3 p.m., the overhead lights are dimmed and intercom announcements are paused. 'We noticed many travelers, especially those navigating complex routes or managing anxiety, found the constant noise and glare overwhelming,' Emeryholt explained. 'This small adjustment creates a calmer point of service. Several regulars now plan their trips around that hour, and we’ve seen a noticeable decrease in tension at the counter during that time.'\n\nIn the heart of the Emerald City, Reuben Spindlecombe of the Spectacle Lane Refill Shop focuses on removing friction for customers seeking low-waste goods. Last month, a large shipment of jute garden twine arrived in a hopelessly tangled knot. 'It was a proper bird’s nest,' Spindlecombe said, his words tumbling out. 'Could have sent it back, but that’s waste. So I spent a slow Tuesday afternoon just… untangling. Rewound it all onto our meter spools. Now customers can buy exactly what they need, cleanly, and nothing’s wasted. It’s not glamorous, but it’s the job.'\n\nAcross the Munchkin Country in Brickway Junction, Dinah Haywick co-founded the Brickway Junction Makers Space to put tools and skills into community hands. Last weekend, she led a workshop on crafting simple three-legged stools. 'We used offcuts of ash from a local flooring company—beautiful wood that would’ve been scrap,' Haywick said briskly. 'Twelve people went home with a sturdy stool and the confidence to make another. It’s about demystifying the process. If you can measure, drill, and glue, you can build something that lasts.'\n\nThe Emerald City Leadership Network connects members across Oz through circles focused on transit, mutual aid, business, craft, and community health. The Young Founders Circle supports emerging enterprise leaders under 40.",
           "start": 1672,
           "end": 1942
         }
@@ -9606,7 +9638,7 @@
           "source_id": "ln-033-press-release",
           "block_id": "b001",
           "quote": "Leif Emeryholt, a ticket office supervisor with Emerald City Tramways in Violet Hills, recently introduced a daily quiet hour at his station. From 2 to 3 p.m., the overhead lights are dimmed and intercom announcements are paused.",
-          "context": "FOR RELEASE\n\nEMERALD CITY, Oz – April 2024 – The Emerald City Leadership Network today highlighted the practical, community-focused work of members from its Young Founders Circle. From accessible transit to sustainable shopping and hands-on skill-building, these founders demonstrate that impactful leadership often lies in thoughtful, everyday actions.\n\nLeif Emeryholt, a ticket office supervisor with Emerald City Tramways in Violet Hills, recently introduced a daily quiet hour at his station. From 2 to 3 p.m., the overhead lights are dimmed and intercom announcements are paused. 'We noticed many travelers, especially those navigating complex routes or managing anxiety, found the constant noise and glare overwhelming,' Emeryholt explained. 'This small adjustment creates a calmer point of service. Several regulars now plan their trips around that hour, and we’ve seen a noticeable decrease in tension at the counter during that time.'\n\nIn the heart of the Emerald City, Reuben Spindlecombe of the Spectacle Lane Refill Shop focuses on removing friction for customers seeking low-waste goods. Last month, a large shipment of jute garden twine arrived in a hopelessly tangled knot. 'It was a proper bird’s nest,' Spindlecombe said, his words tumbling out. 'Could have sent it back, but that’s waste. So I spent a slow Tuesday afternoon just… untangling. Rewound it all onto our meter spools. Now customers can buy exactly what they need, cleanly, and nothing’s wasted. It’s not glamorous, but it’s the job.'\n\nAcross the Munchkin Country in Brickway Junction, Dinah Haywick co-founded the Brickway Junction Makers Space to put tools and skills into community hands. Last weekend, she led a workshop on crafting simple three-legged stools. 'We used offcuts of ash from a local flooring company—beautiful wood that would’ve been scrap,' Haywick said briskly. 'Twelve people went home with a sturdy stool and the confidence to make another. It’s about demystifying the process. If you can measure, drill, and glue, you can build something that lasts.'\n\nRowan Bell, Community Manager for the Network, noted the common thread. 'These aren’t headline-grabbing ventures, but they are deeply considered. Leif creates accessibility through quiet, Reuben through perseverance, and Dinah through shared knowledge. They’re each building a slightly more usable, less wasteful, and more skilled Oz, one quiet hour, one spool of twine, one stool at a time.'\n\nThe Emerald City Leadership Network connects members across Oz through circles focused on transit, mutual aid, business, craft, and community health. The Young Founders Circle supports emerging enterprise leaders under 40.",
+          "context": "FOR RELEASE\n\nEMERALD CITY, Oz – April 2024 – The Emerald City Leadership Network today highlighted the practical, community-focused work of members from its Young Founders Circle. From accessible transit to sustainable shopping and hands-on skill-building, these founders demonstrate that impactful leadership often lies in thoughtful, everyday actions.\n\nLeif Emeryholt, a ticket office supervisor with Emerald City Tramways in Violet Hills, recently introduced a daily quiet hour at his station. From 2 to 3 p.m., the overhead lights are dimmed and intercom announcements are paused. 'We noticed many travelers, especially those navigating complex routes or managing anxiety, found the constant noise and glare overwhelming,' Emeryholt explained. 'This small adjustment creates a calmer point of service. Several regulars now plan their trips around that hour, and we’ve seen a noticeable decrease in tension at the counter during that time.'\n\nIn the heart of the Emerald City, Reuben Spindlecombe of the Spectacle Lane Refill Shop focuses on removing friction for customers seeking low-waste goods. Last month, a large shipment of jute garden twine arrived in a hopelessly tangled knot. 'It was a proper bird’s nest,' Spindlecombe said, his words tumbling out. 'Could have sent it back, but that’s waste. So I spent a slow Tuesday afternoon just… untangling. Rewound it all onto our meter spools. Now customers can buy exactly what they need, cleanly, and nothing’s wasted. It’s not glamorous, but it’s the job.'\n\nAcross the Munchkin Country in Brickway Junction, Dinah Haywick co-founded the Brickway Junction Makers Space to put tools and skills into community hands. Last weekend, she led a workshop on crafting simple three-legged stools. 'We used offcuts of ash from a local flooring company—beautiful wood that would’ve been scrap,' Haywick said briskly. 'Twelve people went home with a sturdy stool and the confidence to make another. It’s about demystifying the process. If you can measure, drill, and glue, you can build something that lasts.'\n\nThe Emerald City Leadership Network connects members across Oz through circles focused on transit, mutual aid, business, craft, and community health. The Young Founders Circle supports emerging enterprise leaders under 40.",
           "start": 355,
           "end": 584
         }
@@ -10150,9 +10182,9 @@
           "source_id": "ln-106-panel-transcript",
           "block_id": "b011",
           "quote": "So one quiet afternoon, three people showed up, asking if I had a minute. We sat around the old computer in the back. It's slow, but it works. One gentleman had been a farmhand for thirty years and had never written a resume; we just listed the farms and seasons. Another woman had done several different things—childcare, kitchen work, cleaning—and we grouped them into skills. It was just about getting it down on paper in a way that made sense to them.",
-          "context": "Oh, that was nothing so formal! Hannah, one of our regulars who helps out sometimes, mentioned to a few neighbors that I'd helped her daughter sort out a work history list last year. Word got around. So one quiet afternoon, three people showed up, asking if I had a minute. We sat around the old computer in the back. It's slow, but it works. One gentleman had been a farmhand for thirty years and had never written a resume; we just listed the farms and seasons. Another woman had done several different things—childcare, kitchen work, cleaning—and we grouped them into skills. It was just about getting it down on paper in a way that made sense to them. Hannah says the neighbors told her one of them got an interview at a stable not long after.",
-          "start": 200,
-          "end": 655
+          "context": "Oh, that was nothing so formal! One of our regulars who helps out sometimes mentioned to a few neighbors that I'd helped her daughter sort out a work history list last year. Word got around. So one quiet afternoon, three people showed up, asking if I had a minute. We sat around the old computer in the back. It's slow, but it works. One gentleman had been a farmhand for thirty years and had never written a resume; we just listed the farms and seasons. Another woman had done several different things—childcare, kitchen work, cleaning—and we grouped them into skills. It was just about getting it down on paper in a way that made sense to them. She says the neighbors told her one of them got an interview at a stable not long after.",
+          "start": 191,
+          "end": 646
         }
       ],
       "review_method": "model-proposed lead, mechanically anchored"
@@ -12008,8 +12040,16 @@
     {
       "person_id": "ln130",
       "episode_key": "repaired-leaning-gate-for-community-orchard",
-      "summary": "Kezia Meadowshaw reported building and installing a new garden gate for the Blue Orchard, including sourcing timber, setting posts, and re-hanging the gate.",
+      "summary": "Kezia Meadowshaw replaced the rotten posts of the Blue Orchard garden gate, setting new posts deep, and rehung the existing gate so it swings true; the grant paid for timber and hardware.",
       "evidence": [
+        {
+          "source_id": "ln-124-grant-report",
+          "block_id": "b002",
+          "quote": "Took the old gate down, set the new posts deep, and re-hung it so it swings true now.",
+          "context": "The money went exactly where I said it would. First job was the Blue Orchard garden gate. The old posts were so rotten you could poke a finger through them. I got good, straight timber from the mill over in Timber Verge—the co-op pointed me there. Took the old gate down, set the new posts deep, and re-hung it so it swings true now. Doesn’t sag or catch on the path. The gardening group was out there the next day, hauling in wheelbarrows without having to wrestle the gate open.",
+          "start": 248,
+          "end": 333
+        },
         {
           "source_id": "ln-124-grant-report",
           "block_id": "b005",
@@ -12027,7 +12067,7 @@
           "end": 31
         }
       ],
-      "review_method": "model-proposed lead, mechanically anchored"
+      "review_method": "agent reviewed"
     },
     {
       "person_id": "ln130",
@@ -13846,7 +13886,7 @@
           "source_id": "ln-163-nomination-letter",
           "block_id": "b001",
           "quote": "Last month, the collective there got a new pottery kiln, and the three-phase hookup was a mess. I rewired it to current code, got the inspectors in, and it passed without a hitch. It’s running now.",
-          "context": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Pia Oakridge of the Timber Verge Repair Co-op for recognition at this year’s Gala.\n\nMy own bit of context: I’m an electrician from Yellow Kiln. Last month, the collective there got a new pottery kiln, and the three-phase hookup was a mess. I rewired it to current code, got the inspectors in, and it passed without a hitch. It’s running now. That’s the sort of straightforward, necessary work our co-op does—fixing what’s broken so other work can happen.\n\nBut what Pia does is different. She’s the steward of our tool library. Last fall, someone donated a vintage hand planer. It was rusty, the blade was dull, and the adjustment knob was seized. Most folks would’ve tossed it in the scrap pile. Pia took it home. She spent evenings cleaning every part, sharpening the iron, and oiling the mechanisms. She didn’t just make it work; she made it a pleasure to use.\n\nThat tool is now one of the most requested items in the library. People are using it for furniture projects, for trim work, for all sorts of fine woodworking. They come back raving about how smooth it cuts. Pia’s work turns a piece of forgotten history into a community asset. It’s not flashy, but it’s essential. She understands that a well-maintained tool doesn’t just perform a task—it teaches respect for the craft.\n\nIn a network that talks a lot about building and repairing, Pia Oakridge embodies the quiet, foundational work that makes the rest possible. She has my full support for this nomination.\n\nSincerely,\nCyrus Poppymere\nPoppymere Electrical\nTimber Verge Repair Co-op",
+          "context": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Pia Oakridge of the Timber Verge Repair Co-op for recognition at this year’s Gala.\n\nMy own bit of context: I’m an electrician from Yellow Kiln. Last month, the collective there got a new pottery kiln, and the three-phase hookup was a mess. I rewired it to current code, got the inspectors in, and it passed without a hitch. It’s running now. That’s the sort of straightforward, necessary work our co-op does—fixing what’s broken so other work can happen.\n\nBut what Pia does is different. She’s the steward of our tool library. Last fall, someone donated a vintage hand planer. It was rusty, the blade was dull, and the adjustment knob was seized. Most folks would’ve tossed it in the scrap pile. Pia took it home. She spent evenings cleaning every part, sharpening the iron, and oiling the mechanisms. She didn’t just make it work; she made it a pleasure to use.\n\nThat tool is now one of the most requested items in the library. People are using it for furniture projects, for trim work, for all sorts of fine woodworking. They come back raving about how smooth it cuts. The planer is booked out most weeks now.\n\nPia Oakridge has my full support for this nomination. I'm glad to bring the planer to the committee if you'd like to see it.\n\nSincerely,\nCyrus Poppymere\nPoppymere Electrical\nTimber Verge Repair Co-op",
           "start": 202,
           "end": 399
         }
@@ -18080,7 +18120,7 @@
     {
       "person_id": "ln211",
       "episode_key": "adjusted-exercise-plans-for-mill-hand",
-      "summary": "Agnes Fernton revised a set of shoulder exercises for a mill hand from Timber Verge, suggesting the use of a common bag of flour as a weight substitute, which allowed the patient to recover at home and return to work nearly two weeks ahead of schedule.",
+      "summary": "Agnes Fernton revised a mill hand's shoulder exercises to use a common bag of flour as a weight, so he could continue his recovery safely at home; her bio says this contributed to his return to light duties nearly two weeks ahead of schedule.",
       "evidence": [
         {
           "source_id": "ln-240-speaker-bio",
@@ -18091,7 +18131,7 @@
           "end": 558
         }
       ],
-      "review_method": "model-proposed lead, mechanically anchored"
+      "review_method": "agent reviewed"
     },
     {
       "person_id": "ln211",
@@ -18490,14 +18530,6 @@
       "episode_key": "can-line-changeover",
       "summary": "Ivo Fernby presented a case study about a project at the Saffron Flats Can Works where he and his apprentice implemented a revised process sequence that reduced changeover time.",
       "evidence": [
-        {
-          "source_id": "ln-373-post-event-debrief",
-          "block_id": "b006",
-          "quote": "Ivo Fernby gave the final presentation. He described a specific project at the Saffron Flats Can Works where his second-year apprentice, a family on the lane, analyzed the line changeover process",
-          "context": "Ivo Fernby gave the final presentation. He described a specific project at the Saffron Flats Can Works where his second-year apprentice, a family on the lane, analyzed the line changeover process from producing one-gallon cans to half-gallons. Using a process map they developed together, a family on the lane identified two redundant steps in tool calibration.",
-          "start": 0,
-          "end": 195
-        },
         {
           "source_id": "ln-373-post-event-debrief",
           "block_id": "b007",
@@ -20768,7 +20800,7 @@
     {
       "person_id": "ln245",
       "episode_key": "lost-label-bean-identification",
-      "summary": "Identified an old bean variety from a member's unlabeled jar by matching it to sketches in personal garden journals.",
+      "summary": "Quill Orchardley used the bean sketches kept in a personal garden journal to tentatively identify a member's unlabeled heirloom beans as an old Gillikin Runner variety ('almost certain'); the beans are now labeled and will be grown out this season.",
       "evidence": [
         {
           "source_id": "ln-189-survey-response",
@@ -20787,7 +20819,7 @@
           "end": 589
         }
       ],
-      "review_method": "model-proposed lead, mechanically anchored"
+      "review_method": "agent reviewed"
     },
     {
       "person_id": "ln245",
@@ -25030,7 +25062,7 @@
       "review_method": "model-proposed lead, mechanically anchored"
     }
   ],
-  "total_leads": 1223,
+  "total_leads": 1224,
   "case_notes": [
     "Disagreement: the Festival Committee minutes record Kerensa Lanternstead's report of two hundred lantern frames; Lorna Plumshaw later writes that one hundred and fifty arrived. The thread ends unresolved and neither account is treated as correct.",
     "Correction: a Herald item says Tilda Poppyley installed the kitchen ramp handrails; a later newsletter correction says they were fabricated and delivered but not installed pending a permit. The lead follows the correction.",

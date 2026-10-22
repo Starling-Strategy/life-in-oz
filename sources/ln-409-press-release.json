@@ -37,7 +37,7 @@
     {
       "id": "b006",
       "speaker_id": "manager",
-      "text": "Golda and Yves exemplify what our Small Business Circle is about: applying your craft not just for commerce, but for community. They saw a need they were uniquely equipped to fill and did so without fanfare. It’s a powerful reminder that small businesses are the backbone of our neighborhoods."
+      "text": "Golda and Yves exemplify what our Small Business Circle is about: applying your craft not just for commerce, but for community. They saw a need they were uniquely equipped to fill and did so without fanfare."
     },
     {
       "id": "b007",
@@ -45,5 +45,5 @@
       "text": "The Emerald City Leadership Network connects members across Oz for collaboration and community projects. Its Small Business Circle focuses on peer support, shared resources, and local impact."
     }
   ],
-  "content_sha256": "c04266560a52f04d22918ffdc2c93926888c3213badadc8ab8b6420d62b9e293"
+  "content_sha256": "941a1a2d65b40ee6dfb089e918a68b215275752f57a988be714c7a5ecbbcc645"
 }

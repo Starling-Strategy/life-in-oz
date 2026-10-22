@@ -8,7 +8,7 @@ These files support experiments with **community-life** and **leadership-network
 For leadership-network:
 
 - `leadership-network-members.json`: reference identities for the 300-member roster.
-- `leadership-network-experience-leads.json`: 1,223 model-proposed, mechanically anchored experience summaries with 1,680 exact evidence anchors across 523 documents, plus case notes for the planted correction, disagreement and identity cases.
+- `leadership-network-experience-leads.json`: 1,224 model-proposed, mechanically anchored experience summaries with 1,683 exact evidence anchors across 523 documents, plus case notes for the planted correction, disagreement and identity cases.
 - `leadership-network-queries.json`: 62 target questions written before the documents, with supporting sources for each expected member.
 
 They do not cover the five book-adventures supplements. They are not exhaustive, independently human-validated ground truth. Mechanical validation checks references and quoted substrings; it cannot certify that every summary is entailed by its quotations. See the [two release corrections](release-corrections.md) for a preserved ambiguity and a removed stale caveat.

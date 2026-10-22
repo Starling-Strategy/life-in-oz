@@ -527,7 +527,7 @@
     "ln-523-panel-transcript"
   ],
   "total_documents": 523,
-  "total_words": 234872,
+  "total_words": 233110,
   "annotation_scope": "evaluation/leadership-network-experience-leads.json",
   "query_set": "evaluation/leadership-network-queries.json",
   "roster": "world/leadership-network-people.json",

@@ -53,13 +53,8 @@
     {
       "id": "b009",
       "speaker_id": "narrator",
-      "text": "Rowan Bell, Community Manager for the Emerald City Leadership Network, noted the common thread. “These actions aren’t grand gestures. They are the essential, skilled work that keeps daily life moving—clearing a bureaucratic logjam, connecting people to health resources, fixing a critical tool. The Liaisons circle exemplifies how local expertise, shared through the network, creates tangible reliability.”"
-    },
-    {
-      "id": "b010",
-      "speaker_id": "narrator",
       "text": "The Wizard’s Office Liaisons circle connects civic employees and community-based professionals across Oz to share knowledge and collaborate on projects that improve local systems and services."
     }
   ],
-  "content_sha256": "973fa75fd834ec5002c8f6ab8264bad6b491e85989e83059838dfea6573dab6c"
+  "content_sha256": "fd62610cdb0caab08a8bb8655f3997d5d587e5f98fba5dcdcfc1bc069434c145"
 }

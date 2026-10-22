@@ -25,9 +25,9 @@ You do not need to install anything to read these:
 | --- | ---: | ---: | ---: |
 | Fictional roster members | 50 | 300 | 350 |
 | Source documents, each in plain text and JSON | 53 | 523 | 576 |
-| Words in source prose, excluding headings and labels | 26,300 | 234,872 | 261,172 |
-| Reference experience summaries | 156 | 1,223 | 1,379 |
-| Exact passage references supporting those summaries | 326 | 1,680 | 2,006 |
+| Words in source prose, excluding headings and labels | 26,300 | 233,110 | 259,410 |
+| Reference experience summaries | 156 | 1,224 | 1,380 |
+| Exact passage references supporting those summaries | 326 | 1,683 | 2,009 |
 | Target demonstration questions | | 62 | 62 |
 
 The fictional community manager Rowan Bell and incidental speakers are not roster members. These counts describe the supplied files, not the number of people an application must extract or the number of facts it must find.

@@ -78,13 +78,8 @@
     {
       "id": "b014",
       "speaker_id": "narrator",
-      "text": "Rowan Bell, community manager for the Leadership Network, sees a common thread. “The liaisons aren’t just messengers. They’re problem-solvers who understand how systems are supposed to work, whether that system is a gear train, a bee colony, or a filing protocol. They find the point of failure and craft a practical, durable solution.”"
-    },
-    {
-      "id": "b015",
-      "speaker_id": "narrator",
       "text": "From the smell of beeswax in a Winkie barn to the metallic scent of cutting oil in a Gillikin workshop, the work of the liaisons remains decidedly, and effectively, grounded."
     }
   ],
-  "content_sha256": "a238de7a28fbaa4e78265e337b773b505815b17a2d9d9f4808c3e8f4a71d1745"
+  "content_sha256": "280d5f70a05c23c54ad69c28096fa3323dd603521c769b156a0cc1cc235d6a97"
 }

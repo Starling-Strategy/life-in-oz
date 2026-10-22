@@ -191,6 +191,8 @@ def validate(root=ROOT):
             check((q["kind"] == "negative-no-answer") == (not expected), "Negative query mismatch: " + q["id"])
             check(set(q["support"]) == set(expected), "Query support mismatch: " + q["id"])
             for pid, support in q["support"].items():
+                check(support.get("origin") in ("planted", "review"), "Unknown support origin: " + q["id"])
+                check(support["origin"] == "planted" or support["reference_lead"], "Review answer without lead: " + q["id"])
                 check(bool(support["source_ids"]), "Unsupported expected member: " + q["id"] + "/" + pid)
                 for sid in support["source_ids"]:
                     check(collection_membership.get(sid) == cid, "Query source outside collection: " + q["id"])

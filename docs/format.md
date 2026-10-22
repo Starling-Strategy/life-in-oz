@@ -35,7 +35,7 @@ In `member_coverage`, `source_documents` counts distinct documents cited by that
 
 ## Target questions
 
-`evaluation/leadership-network-queries.json` lists `queries`, each with `id`, `query`, `kind` (`vocabulary-gap`, `exact-term`, `skill/sector/place`, `speaker/convening` or `negative-no-answer`), `expected_member_ids` and `support`. For each expected member, `support` gives the planted `episode_keys`, the `source_ids` that carry them and whether a `reference_lead` exists. Offers and plans can be supporting sources without a reference lead. Negative questions have no expected members.
+`evaluation/leadership-network-queries.json` lists `queries`, each with `id`, `query`, `kind` (`vocabulary-gap`, `exact-term`, `skill/sector/place`, `speaker/convening` or `negative-no-answer`), `expected_member_ids` and `support`. For each expected member, `support` gives the `episode_keys`, the `source_ids` that carry them, whether a `reference_lead` exists, and an `origin`: `planted` for answers briefed into the documents, `review` for members added after a strict completeness sweep of the reference experiences. Offers and plans can be supporting sources without a reference lead. Negative questions have no expected members.
 
 ## Roster and recipes
 

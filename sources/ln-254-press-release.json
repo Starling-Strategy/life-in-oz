@@ -42,19 +42,14 @@
     },
     {
       "id": "b007",
-      "speaker_id": "manager",
-      "text": "These stories aren’t about grand gestures. They’re about the essential, everyday work that keeps our communities fed and connected—a clear agreement typed up, a fridge seal replaced, a distinctive bean shared. That’s the strength of the network."
-    },
-    {
-      "id": "b008",
       "speaker_id": "narrator",
       "text": "The Gillikin Growers circle meets monthly to share resources, troubleshoot challenges, and coordinate with other network circles like Meadow Mutual Aid and the Brickway Transit Union."
     },
     {
-      "id": "b009",
+      "id": "b008",
       "speaker_id": "narrator",
       "text": "About the Emerald City Leadership Network: The Emerald City Leadership Network is an association of adult members across the Emerald City and the Munchkin, Winkie, Quadling, and Gillikin countries. Members belong to circles focused on trades, civic life, and community support, working collaboratively on practical projects. Rowan Bell serves as the network’s community manager.\n\nMedia Contact: Rowan Bell, Community Manager, via the Emerald City Leadership Network intake desk."
     }
   ],
-  "content_sha256": "fec441aa090147931d0748c6020a6b22c1e1868568ead75e67acae9ee119aa1f"
+  "content_sha256": "04f5fe03c1e65c456a31034a97a552bde0b51cdae8b59fcb47cc9eb0de56247f"
 }
