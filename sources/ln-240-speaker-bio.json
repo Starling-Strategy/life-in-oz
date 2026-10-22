@@ -1,0 +1,36 @@
+{
+  "id": "ln-240-speaker-bio",
+  "title": "Speaker Bios: Quadling Health Access Network Roundtable",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln211",
+    "ln055",
+    "ln127",
+    "ln115"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Agnes Fernton is a physiotherapist at the Green Market Clinic in the Emerald City. With a focus on practical, accessible rehabilitation, she designs programs that work within the constraints of patients' daily lives and resources. Recently, she revised a set of shoulder exercises for a mill hand from Timber Verge, suggesting the use of a common bag of flour as a weight substitute. This simple adaptation allowed the patient to continue his recovery safely at home, contributing to his return to light duties nearly two weeks ahead of the initial schedule."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Ivo Tinton serves as a patient transport coordinator for Quadling Health Access, based in Clay Hollow. His patient, methodical approach is vital in connecting residents with consistent, reliable care, especially for those with recurring appointments. He recently established a standing weekly volunteer ride from Clay Hollow to the South Meadow renal clinic for two residents. By coordinating with a retired driver who owns a reliable sedan, Ivo created a sustainable solution that has provided stability and reduced the anxiety associated with their essential treatments."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Ines Spindleton is a physiotherapist at the Meadowbank Clinic in Munchkin Country. Her gentle, encouraging manner extends beyond one-on-one sessions to the thoughtful design of shared clinical spaces. During a quiet afternoon last month, she quietly rearranged the clinic's waiting area furniture. By organizing the chairs into smaller, distanced clusters and ensuring the availability of occasional armless seats, she subtly improved patient flow and created more welcoming and functional options for visitors using canes or other mobility aids."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Bea Reedcombe is a community health worker with Quadling Health Access, living in Hammerhead Rise. Her calm, direct approach is crucial in navigating the logistical gaps that can affect homebound residents. When a routine pharmacy shipment was delayed for three South Meadow residents, Bea coordinated an emergency delivery of glucose test strips and lancets. Her swift action ensured these individuals had the supplies they needed to manage their conditions without interruption, preventing potential health complications."
+    }
+  ],
+  "content_sha256": "2236d47d98da8593191131af74de29500f691e709abc8c2225f0d33c679e8274"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ln-283-social-thread",
+  "title": "Festival Committee chatter: transport, capes, and sponsors",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln199",
+    "ln261",
+    "ln165"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln165",
+      "text": "Hello everyone! A few threads to pull together here as we get ready for the slower season. First off, a wonderful idea from Ines."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln199",
+      "text": "Thank you, Willa. I've been thinking about the seniors in our neighborhood who have a hard time getting to appointments. I'm proposing we form a volunteer transport pool. I can coordinate with some of the local community drivers—the ones with flexible hours—to help get folks to Redfern Hill Dental Practice and other clinics. It wouldn't be just for Festival Committee events, but it feels like the kind of community care we try to support."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln261",
+      "text": "That's a lovely idea, Ines. It reminds me of something more mundane but equally necessary. The ceremonial woollen capes in the Spectacle Lane hall storage are looking a bit sad after the spring events. I propose we create a shared schedule for Committee members to take turns getting them properly dry-cleaned. We could sign up for one cape per month, splitting the cost and the trip to the cleaner's. It would keep them in good shape for years."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln165",
+      "text": "Perfect, Pim. I love that—shared responsibility for our shared things. And speaking of shared things, I'm turning my attention to next summer. I'm drafting a letter to local businesses to seek a sponsor for Quadling Music Day. The big need is covering the rental cost for a proper, reliable sound system. The borrowed equipment we used this year was generous, but it was pushing its luck. A dedicated sponsor would make all the difference."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln199",
+      "text": "Both sound like great projects. Willa, if your sponsor letter needs a paragraph about community health outreach, I'd be happy to contribute a few lines. Connecting music and wellbeing could resonate."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln261",
+      "text": "And I can provide a precise estimate for the annual dry-cleaning costs, if that would be helpful for your sponsorship package. It shows we're careful stewards of even the small things."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln165",
+      "text": "You two are the best. Let's do exactly that. Ines, I'll send you a draft next week. Pim, a cost estimate would be fantastic. I'll post the draft letter here for comments before I send anything out."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "a neighbor",
+      "text": "Just reading along—this transport pool idea is really needed. My aunt has missed two appointments this year because the trolley was full. Count me in to help coordinate on weekends."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln199",
+      "text": "That would be wonderful, thank you. I'll start a separate thread to organize that once we have a few more hands."
+    }
+  ],
+  "content_sha256": "f083c071ca315b91ada5e7ae33cfeb105f1949cba633549d9921e9cf8055aed4"
+}

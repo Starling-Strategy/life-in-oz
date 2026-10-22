@@ -1,0 +1,177 @@
+{
+  "id": "ln-362-webinar",
+  "title": "Building the Brickway: A Webinar with Young Founders",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln271",
+    "ln166",
+    "ln246",
+    "ln102",
+    "ln270"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone. Thanks for joining this network webinar. I’m Rowan Bell, your community manager. Tonight we’re talking with five founders from across the network about the work they’re doing—what’s launched, what’s in the pipeline, and the kind of thinking that goes into it. We have Ewan Stoneworth from Tinsmith Row Clinic, Mott Stonebourne from Timber Verge Repair Co-op, Selwyn Larkworth from Larkworth Cargo Bikes, Jasper Gatefield from Gatefield Tutoring, and Isla Emeryley from the Emeryley Food Truck. Let’s start with something concrete. Ewan, I understand your clinic recently faced a critical equipment issue?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln271",
+      "text": "We did. Our autoclave—the sterilizer—failed. The thermal regulator was gone. A new one was quoted at a price that would have meant closing the procedure room for three weeks while we waited for the part and the funds. I couldn’t see that working for our patients."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "What did you do instead?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln271",
+      "text": "I started calling around. I remembered a clinic in Violet Hills had shut down a few years back. I tracked down the person who managed the decommissioning. They still had the old equipment in storage. The regulator was a match, just needed a clean and a calibration. We had it installed in two days. Cost us a fraction of the new part and a thank-you basket for the Violet Hills crew. The closure was avoided."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "That’s resourcefulness. Mott, you’re also in the business of keeping things running. Similar story?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln166",
+      "text": "In a way. We were getting callbacks. Ovens we’d just repaired were overheating again. It was starting to look like a pattern, not bad luck. I pulled the service records and matched the serial numbers on the replacement thermostats we’d used. They were all from the same supplier batch."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "So you traced it to a faulty batch."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln166",
+      "text": "Exactly. I tested a few from our stockpile and confirmed it. Then I contacted our main supplier and the manufacturer directly. Sent them the data—dates, serials, failure symptoms. They’ve issued a recall notice for that batch now. It saves our members another service call and saves the co-op’s reputation for doing the job right the first time."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Switching gears to something still in development. Selwyn, you’re looking at a new service?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln246",
+      "text": "Yes, we’re in talks with the Reading Room Network. We see a gap. Their members reserve books, but for some—new parents, people with mobility challenges, anyone just swamped—getting to the library to pick them up is the hurdle. We’re proposing a pilot: we use our cargo bikes to do the delivery leg. It’s low-cost, it’s green, and it gets the books off the shelf and into hands."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "manager",
+      "text": "Is the Reading Room Network on board?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln246",
+      "text": "They’re interested. We’re working out the logistics—how to hand off the books securely, scheduling, a small fee structure. It’s a plan, not a done deal yet, but the conversations are positive. It fits their mission too."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "Jasper, you also have a plan that involves getting out into the community."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln102",
+      "text": "Right! The Emerald City street festival is coming up. I proposed a sidewalk science booth. The idea is to make learning visible and hands-on. We’d do simple physics experiments with stuff you can find at home—demonstrating center of gravity with a broomstick, air pressure with a bottle and a hard-boiled egg, that kind of thing."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "So this is an offer to the festival committee?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln102",
+      "text": "Exactly. It’s a proposal. I’ve sent them the outline. If they give us the space, we’ll run it. It’s marketing for the tutoring service, sure, but it’s also just a good way to spend an afternoon showing kids—and adults—that science isn’t just in a textbook. It’s when you tip a chair back too far and almost fall over."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "Isla, you took a different kind of idea out into the world recently, with a very concrete result."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln270",
+      "text": "I did! I’d been thinking about where to find a reliable lunch crowd. The Winkie Works Guild hall on payday seemed perfect. I reached out, got permission to park the truck outside for a trial run. I focused on one thing: steak and ale pies. Simple, hearty, portable. We opened at eleven. By twelve-thirty, we were sold out. Ninety minutes."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "Sold out. What did you learn from that?"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln270",
+      "text": "That location is everything, and knowing your customer’s rhythm. They get paid, they’re hungry, they want something substantial before heading home. It validated the spot. Now I’m looking at making it a regular stop, maybe every other payday, and scaling up the pie production for next time."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln246",
+      "text": "Isla, that’s smart. And it reminds me—your truck is mobile, my bikes are mobile. There might be something there if you ever need supplies ferried to a new location."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "ln270",
+      "text": "I’ll keep that in mind! A cargo bike delivery of flour and ale... could work."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln102",
+      "text": "It’s all about testing the idea, isn’t it? Ewan tested the idea of calling Violet Hills. Mott tested the thermostats. Isla tested the location. Selwyn and I are testing the interest. You don’t build the whole brickway before you know if people want to walk on it."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "ln271",
+      "text": "That’s a good way to put it. Sometimes the test is just making one phone call."
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln166",
+      "text": "Or checking the serial numbers."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "manager",
+      "text": "We’re coming up on time. Any final thoughts from the group on what it takes to move from an idea to something real?"
+    },
+    {
+      "id": "b027",
+      "speaker_id": "ln246",
+      "text": "Find the partner who has the other half of your puzzle. For me, that’s the Reading Room Network. They have the books and the members; I have the wheels."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "ln102",
+      "text": "Don’t wait for perfect. A broomstick and an egg are enough to start."
+    },
+    {
+      "id": "b029",
+      "speaker_id": "ln270",
+      "text": "Go where the people are, literally. Park the truck and see what happens."
+    },
+    {
+      "id": "b030",
+      "speaker_id": "ln271",
+      "text": "Look for the retired solution before you buy the expensive new one."
+    },
+    {
+      "id": "b031",
+      "speaker_id": "ln166",
+      "text": "When things fail, look for the pattern. It’s usually trying to tell you something."
+    },
+    {
+      "id": "b032",
+      "speaker_id": "manager",
+      "text": "Thank you all. That was incredibly practical. And thank you to everyone listening. The recording and notes will be in the network digest. Goodnight."
+    }
+  ],
+  "content_sha256": "a5ef151295d947750c9b00ccd2b98105475c20d1b0a05c77be6d4cfcfcff8180"
+}

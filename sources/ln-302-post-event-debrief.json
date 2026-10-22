@@ -1,0 +1,60 @@
+{
+  "id": "ln-302-post-event-debrief",
+  "title": "August Liaisons Roundup: Small Repairs, Big Impacts",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln032",
+    "ln210",
+    "ln116"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Post-event debrief: Wizard's Office Liaisons check-in, 28 August 2025. Attended by Owen Flint, Dilys Cinderham, Heath Pepperworth, and myself. Informal conversation over coffee at the Reading Room Network hub in Brickway Junction. Goal was to share recent concrete work and see where connections live. No formal agenda."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Owen Flint went first. He described a routine inspection of the old mill crossing in Reed Flats. He said he found a broken cast-iron grate, about a two-foot section cracked clean through. He didn't say it was dangerous, just showed us a photo on his device: the break was sharp, the gap underneath was dark. He tagged it with a yellow hazard ribbon from his kit and logged the exact coordinates and a description of the fracture into the public works repair system that same afternoon. He mentioned the replacement was fitted two weeks later. He seemed satisfied the process worked as it should."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln032",
+      "text": "It was a standard 24-by-36 grate. The replacement is identical, but the new iron hasn't weathered yet. You can see the difference in the photo."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Dilys Cinderham was next. She talked about her riders coming in soaked and grumpy during the first of the autumn downpours. She said she'd had enough of the 'damp and dismal brigade.' She didn't just look for any rain gear; she sourced a specific type of durable, high-visibility rain cape with sealed seams and reflective strips. She issued a set to every one of her cargo bike riders. She demonstrated how it clips clear of the bike's mechanisms. The riders have reported being drier and, more importantly, feeling more visible to wagon drivers in the grey city rain."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln210",
+      "text": "It’s not magic, it’s just good kit. Dry riders are faster riders, and visible riders are safe riders. Morale shot up. Now we look like a proper fleet, even in a downpour."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Heath Pepperworth spoke last. His work was about the pantry's bread supply. He said they were relying on irregular donations, sometimes going a week without any fresh baked goods. He quietly visited three Munchkin Country bakeries near Brickway Junction and worked out a schedule. He now does a regular pickup route himself, every Tuesday and Friday morning, collecting their day-old bread and pastries. This ensures the pantry has fresh baked goods for distribution twice a week without fail. He said it’s made a noticeable difference in what people can take home."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln116",
+      "text": "It’s a simple loop. The bakers know to expect me. It means we can always offer a loaf or a bun with the staples. It feels more… complete."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "The connections weren't forced, but they emerged. Dilys asked Owen if the public works depot near Spectacle Lane ever has surplus high-vis material. Owen said he'd check the inventory and let her know. Heath wondered if any of Dilys's riders might be able to do an occasional bulk flour run from the mill, if the pantry's own wagon was out. Dilys said she'd put the word out with her team. Owen noted that the repaired mill crossing would make that route smoother for any vehicle."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Open actions for me: Follow up with Owen in a week about the depot inventory check. Connect Heath with the specific Cinderham rider who covers the mill road route once Dilys identifies them. No major changes needed for the format; the casual, show-and-tell structure worked. The concrete details (the photo, the cape clips, the pickup days) kept it grounded. Next check-in scheduled for late October."
+    }
+  ],
+  "content_sha256": "86c2a6275189844128b3dcef8ba2679d15370ea3b8f26a2ab446fa8f95a47e33"
+}

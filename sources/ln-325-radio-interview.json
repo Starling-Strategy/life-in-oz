@@ -1,0 +1,74 @@
+{
+  "id": "ln-325-radio-interview",
+  "title": "On the Air at Dawn: Languages and Routes Through the Ice",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln009",
+    "ln010"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln009",
+      "text": "Good morning, Violet Hills and all of Gillikin. This is Jellia Jamb, and you’re listening to Community Pulse on Violet Hills Radio. It’s just after dawn, and I’ve been here since… well, before the sun. We had a bit of a night. The county sent out new flood evacuation notices for the lowland creeks, and they needed them in Munchkin, Winkie, Quadling, and our own Gillikin dialects by sunrise. So, that was my evening. Wrote them, read them on the air at five, and I’m hoping everyone who needed to hear them did."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln009",
+      "text": "But that’s my small part. Today, I’m joined by someone whose work is all about making sure people are seen, no matter what the weather does. Please welcome Nora Northcott, a visiting nurse with the North Orchard service. Nora, thank you for coming in so early."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln010",
+      "text": "Thank you, Jellia. It’s my usual time, to be honest. I plan my routes before dawn."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln009",
+      "text": "Of course. Now, we all remember that week in February—the ice week. The roads were… well, they were not roads. They were sheets of glass. And I understand your service didn’t miss a single patient visit. How did you even start?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln010",
+      "text": "The rules are clear: every patient gets their visit. So the ‘how’ had to change. The night before the big freeze, I got the road closure list from the county. It was long. I spread out my map—the paper one, with all the little farm tracks—and I just started drawing new lines. If Brickway South was closed, could we use the old timber verge from the west? If the bridge over Poppy Creek was iced, was there a footpath a car couldn’t use but a person with good boots could?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln009",
+      "text": "You redrew the map."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln010",
+      "text": "I redrew the rota. It wasn’t just me. I called every other nurse and aide on the service. ‘A neighbor, your car has chains, can you take the northern hill route? One of the aides, you live in Violet Hills, can you cover the three houses on Elm?’ We swapped patients, we swapped cars, we even had two of the younger aides walk the last half-mile to one farmhouse because the lane was impassable. But no one was missed. Not one."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln009",
+      "text": "And the patients? Were they surprised to see anyone?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln010",
+      "text": "Some were. One woman at the end of a long farm lane—she said, ‘I told my daughter not to worry, that you people would find a way.’ She had tea waiting. It’s… it’s the rule. They expect us. So we come."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln009",
+      "text": "A rule kept by redrawing the lines. It reminds me of my night, in a way. Taking one message and finding the right words, the right paths, so it reaches everyone who needs it. Nora, thank you for your work, and for coming to tell us about it."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln010",
+      "text": "Thank you for having me, Jellia."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln009",
+      "text": "That was Nora Northcott of North Orchard Visiting. For Community Pulse, I’m Jellia Jamb. Stay safe out there, and if you’re near the creeks, keep an ear on those notices. We’ll be back after this."
+    }
+  ],
+  "content_sha256": "624d7157b13c931d0ed346f77a2e200152281427cbc945c758286b7cc673e1a3"
+}

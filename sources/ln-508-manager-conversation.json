@@ -1,0 +1,54 @@
+{
+  "id": "ln-508-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Sable Gateby · August 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln039",
+    "ln289"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Called to check in on the union’s depot support work and any emergent issues."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln289",
+      "text": "The Green Market crews pulled together for the Junction’s coffee urn. The old one gave out mid-shift last week—just sputtered and died. No one’s at their best without a steady pot. We passed the hat, got enough for a solid second-hand commercial model. It’s being delivered tomorrow."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "That’s quick. Any pushback on using union funds?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln289",
+      "text": "None. It’s a depot essential. Morale and safety. The crews see it that way."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Heard there was also a routing fix out there recently?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln289",
+      "text": "Quentin Birch, over at the parcel depot. He caught a crate yesterday that was labeled for Junction but the invoice listed parts for small-scale threshers. Doesn’t match our delivery zone. He pulled the rural map, figured it was meant for the hamlet depot up near the northern corn plots. Got it on the right wagon before the last run. Saved a whole lot of back-and-forth."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Impressive catch. Any wider pattern with mislabeling?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln289",
+      "text": "Quentin says it’s occasional. The new adhesive on some of the shipping labels isn’t holding in damp weather. He’s keeping a log. I’ll bring it up at the next regional logistics meeting."
+    }
+  ],
+  "content_sha256": "2697345f863f92de5031bd4b54a8701b481ef668999f30a05bc8ec29f9da5fbe"
+}

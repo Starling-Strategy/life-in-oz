@@ -1,0 +1,49 @@
+{
+  "id": "ln-255-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Jude Quadstead & Hattie Tinstead · June 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln118",
+    "ln274"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan connected Jude Quadstead and Hattie Tinstead of the Timber Verge Repair Co-op via speakerphone."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Jude reported on the Westgate Mills footbridge project. He said the section of handrail near the southern approach was corroded through. He cut out the bad piece, welded in a new steel section, and spent half a day grinding the seams smooth. His only note was that the foot traffic was heavier than he expected, so he roped off the work area with yellow cord he had in his truck."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln118",
+      "text": "It’s solid now. No more catching your sleeve on rust."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Hattie described the lawnmower clinic. She said fourteen people showed up at the tool library yard last Saturday. She demonstrated using the file on the primary bevel, then the honing stone for the edge. She said she walked everyone through the steps, hands-on. Twelve people left with sharpened blades; two had mowers with damaged blades that needed replacement instead."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln274",
+      "text": "The key is keeping the angle consistent. Most folks get the hang of it once they feel the burr form. We had a good pile of grass clippings by the end for testing."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln118",
+      "text": "Sounds like a good day."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Rowan asked if there were plans for similar clinics. Hattie said she’s thinking about a basic wrench and socket set tutorial for fall, but it’s just an idea for now. Jude said he’s got his eye on some loose bolts on the mill’s loading dock stairs, but he needs to check with the foreman before he touches them."
+    }
+  ],
+  "content_sha256": "1efbab12860e298c29c389497e7156a3743bc0c9222ba50f5e0d48deaee8cc64"
+}

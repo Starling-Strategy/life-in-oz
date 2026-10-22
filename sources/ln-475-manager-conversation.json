@@ -1,0 +1,33 @@
+{
+  "id": "ln-475-manager-conversation",
+  "title": "Eastfield Water Canal Marking and Temporary Fix",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln025"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Jonas Pike · May 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Jonas Pike reported two recent tasks concerning the Eastfield canal. First, he identified a persistent seep along the canal wall. He marked its location with bright chalk-marking paint so the repair crew could easily find it. The crew came the following week to address it."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Second, he described a separate issue at a junction valve. There was a persistent leak there. He wrapped the spot with a strip of inner tube and secured it with a hose clamp. He said that temporary fix held for three weeks until the replacement part arrived."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Jonas noted the weather’s been dry, which made the seep easier to spot. He said the inner tube was from an old wheelbarrow tire."
+    }
+  ],
+  "content_sha256": "cd59f2fa665bcd89ae3431eefbd2133f87f950d1ed3dbe69890d706a38441dca"
+}

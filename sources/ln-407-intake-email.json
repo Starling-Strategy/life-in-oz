@@ -1,0 +1,19 @@
+{
+  "id": "ln-407-intake-email",
+  "title": "Fwd: Reuse finds for your festival planning",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln035",
+    "ln237"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln035",
+      "text": "From: Tessa Finch\nTo: ECLN Intake\nSubject: Fwd: Reuse finds for your festival planning\nDate: 12 December 2025\n\nHi Rowan,\n\nI know the Festival Committee circle is always looking for cost-saving ideas for decorations and equipment. I saw Marlo Kilncombe's note in the last digest about the bunting and it reminded me of our own recent salvage project with the Players. Thought both bits might be useful for the network's files.\n\nBest,\nTessa\n\n---------- Forwarded message ----------\nFrom: Tessa Finch\nTo: Bell Market Players Board\nDate: 15 November 2025\nSubject: Practice mirror secured\n\nAll,\n\nA quick update: the closing dance school over on Lullaby Lane was clearing out. I was able to secure their large rehearsal mirror—it’s a bit tarnished on the silvering at the very edges, but perfectly serviceable. Had one of our carpenters reinforce the wooden frame, and we mounted it in the practice space yesterday afternoon. It’s up and stable. This saves us the entire budget line for a new one.\n\nLet me know if the angle needs any adjustment.\n\n-Tessa\n\n----------\n\nFrom: Marlo Kilncombe\nTo: Hammerhead Rise Festival Volunteers\nDate: 5 May 2025\nSubject: Decorations are up!\n\nHello everyone,\n\nJust a note to say the main square is looking wonderfully festive! I connected with the Stitch & Mend collective over in the southern marshes and sourced several long strings of colourful bunting made entirely from their recycled fabric scraps. The cost was a fraction of new materials, and the effect is perfect. It’s all strung up between the lantern posts now. Do take a look if you’re passing through.\n\nCheers,\nMarlo"
+    }
+  ],
+  "content_sha256": "abaa526a77255f79590923e470e43205ae4bc7fd7031dd4e246e16a020a3b57c"
+}

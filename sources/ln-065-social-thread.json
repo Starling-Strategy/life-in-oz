@@ -1,0 +1,46 @@
+{
+  "id": "ln-065-social-thread",
+  "title": "Reading Room Network Weekly Thread",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln278",
+    "ln038",
+    "ln098",
+    "ln218"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln278",
+      "text": "Hello everyone. I’ve been thinking about ways to bring a bit of our Reading Room spirit into the school’s main hallway. I’m planning to set up a poetry corner on the big blank wall by the office. I’ve got an old wooden notice board from the art room that’s just gathering dust. My idea is to attach some simple clip-on frames so we can rotate student poems in and out easily. Nothing fancy, just a quiet spot for words. Has anyone done something similar? I’d love thoughts on how to make it feel inviting without being a distraction."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln038",
+      "text": "Tamsin, that sounds lovely. A bit of gentle beauty in a busy place. On the practical side, I had a small win here at the Junction Quarter rooms last week. The main classroom door’s hydraulic closer gave out—just wouldn’t hold the door open anymore. I found a replacement part in the supply closet and fitted it myself. It took me the better part of an afternoon with just a screwdriver and a wrench, but it’s working smoothly now. Saves us calling in a contractor and the associated wait. Sometimes the simplest fixes are the most satisfying."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln098",
+      "text": "Esther, that’s wonderful. It’s so important to feel capable in our own spaces. It reminds me that our reading skills help in all sorts of places. Just yesterday, I was at the canteen where I sometimes volunteer, and the head chef was quite distressed. He’d received a new supplier contract and was worried about a clause regarding delivery timelines; he thought missing a delivery by even an hour would incur a large fee. We sat down together, and I helped him parse the language. It turned out the clause specified a two-hour grace period for deliveries, not an instant penalty. He was so relieved—it prevented a lot of unnecessary stress and a potential late fee over a misunderstanding."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln218",
+      "text": "Thea, that’s exactly it—literacy as a practical tool. I’ve been up to my elbows in flour and paper this week. We had a ‘Foundations of Yeast Bread’ class scheduled, and I wanted everyone to have a proper recipe booklet to take home, something that could survive a kitchen counter. I typed up all twelve pages, found a durable card stock for the cover, and spent an evening at the printer. Thirty copies, all stapled and ready. They looked quite professional, if I do say so. The students were delighted to have something solid to reference, not just a scrap of paper. It’s that bit of extra care that makes the learning stick."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln278",
+      "text": "These stories are making me smile. Edith, the card stock cover is such a good idea—it shows respect for the work. And Thea, what a difference a careful reading makes. It’s all connected, isn’t it? Building, fixing, clarifying, providing. I’ll let you all know how the poetry corner comes along. Maybe we can feature a poem about bread or a well-hinged door."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln038",
+      "text": "Or a contract written clearly enough for anyone to understand. Count me in for the unveiling, Tamsin."
+    }
+  ],
+  "content_sha256": "302b7c2bc97cc0b87bf5e6968ebf89bad566debfcb4a27c2a8a5c95f59939782"
+}

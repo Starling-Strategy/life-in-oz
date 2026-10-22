@@ -1,0 +1,19 @@
+{
+  "id": "ln-484-nomination-letter",
+  "title": "A Nomination for the Founders' Gala",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln074",
+    "ln170"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln074",
+      "text": "To the Founders' Gala Nomination Committee,\n\nI am writing to nominate Maren Crowmere for recognition at this year's Gala. I know we're all asked to think about impact, and sometimes that's a grand gesture. More often, it's the quiet work that keeps the wheels turning. My own recent work has been in the Lantern Row Reading Room, where I had the privilege of recording an oral history with a retired sign painter from the Brickway district. We talked for nearly two hours about mixing paints that last through the Emerald City's damp winters and how to hold a lettering brush for a clean serif. It felt important, capturing a craft that isn't really taught in the same way anymore. But that recording now sits in a drawer, waiting for someone to organize it, to make it accessible. That's where Maren's work comes in.\n\nWhile I was occupied with that one conversation, Maren was in the Gate Quarter Reading Room, dealing with the flood of donations that always comes after the spring cleaning festivals. She took on three full boxes of magazines—gardening, mechanics, crafts—that had been left on the step. She didn't just stack them. She sorted them by year and topic, repaired torn spines with tape, and shelved them in the periodicals section. Now, when someone comes in looking for ideas to fix a bicycle chain or plan a window box, those resources are right there, easy to find.\n\nThis is Maren's gift. She sees the immediate need—the clutter on the floor, the patron looking frustrated—and she addresses it with a clear, patient focus. She makes the knowledge we work so hard to preserve actually usable. My recording is a potential resource; Maren's sorting made resources available that same afternoon. She builds the practical foundation that lets the rest of us do our more specialized work. For her consistent, essential contribution to making the Reading Rooms functional and welcoming places, I wholeheartedly nominate Maren Crowmere.\n\nSincerely,\nZinnia Pepperdale\nOral History Volunteer, Reading Room Network"
+    }
+  ],
+  "content_sha256": "c69d9a37e30b6859157abf522b5292d5ae5f6759913a0c7cdfc1076e1f4a451a"
+}

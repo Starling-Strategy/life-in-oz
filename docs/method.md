@@ -19,6 +19,10 @@ Five later short documents recast recognizable arrival, trail-clearing, ravine-c
 
 The complete generation history of those supplements is not included, and the community-life evaluation does not cover them.
 
+## The leadership-network collection
+
+The 1.1.0 collection was made differently: target questions first, then a 300-member roster, episode seeds, deterministic document briefs, a 30-member pilot, generation, scripted and model-assisted editorial checks, hand edits and a model coverage audit with mechanical anchoring. Eight documents behind StoryBank's Emerald City playground stories were adapted by hand from that product's own fictional sources. The [generation notes](../generation/leadership-network-notes.md) record the models, bake-off and limits.
+
 ## Repeat the approach, not the exact output
 
 The [generation folder](../generation/README.md) contains adaptable briefs and prompts. It does not include provider credentials, raw responses or an automated paid runner. Model behavior changes, and creative generation without a fixed seed will not reproduce these files exactly. The released edition itself is the stable test input.

@@ -1,0 +1,20 @@
+{
+  "id": "ln-033-press-release",
+  "title": "Emerald City Leadership Network Celebrates Young Founders' Quiet Wins",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln097",
+    "ln186",
+    "ln090"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\n\nEMERALD CITY, Oz – April 2024 – The Emerald City Leadership Network today highlighted the practical, community-focused work of members from its Young Founders Circle. From accessible transit to sustainable shopping and hands-on skill-building, these founders demonstrate that impactful leadership often lies in thoughtful, everyday actions.\n\nLeif Emeryholt, a ticket office supervisor with Emerald City Tramways in Violet Hills, recently introduced a daily quiet hour at his station. From 2 to 3 p.m., the overhead lights are dimmed and intercom announcements are paused. 'We noticed many travelers, especially those navigating complex routes or managing anxiety, found the constant noise and glare overwhelming,' Emeryholt explained. 'This small adjustment creates a calmer point of service. Several regulars now plan their trips around that hour, and we’ve seen a noticeable decrease in tension at the counter during that time.'\n\nIn the heart of the Emerald City, Reuben Spindlecombe of the Spectacle Lane Refill Shop focuses on removing friction for customers seeking low-waste goods. Last month, a large shipment of jute garden twine arrived in a hopelessly tangled knot. 'It was a proper bird’s nest,' Spindlecombe said, his words tumbling out. 'Could have sent it back, but that’s waste. So I spent a slow Tuesday afternoon just… untangling. Rewound it all onto our meter spools. Now customers can buy exactly what they need, cleanly, and nothing’s wasted. It’s not glamorous, but it’s the job.'\n\nAcross the Munchkin Country in Brickway Junction, Dinah Haywick co-founded the Brickway Junction Makers Space to put tools and skills into community hands. Last weekend, she led a workshop on crafting simple three-legged stools. 'We used offcuts of ash from a local flooring company—beautiful wood that would’ve been scrap,' Haywick said briskly. 'Twelve people went home with a sturdy stool and the confidence to make another. It’s about demystifying the process. If you can measure, drill, and glue, you can build something that lasts.'\n\nThe Emerald City Leadership Network connects members across Oz through circles focused on transit, mutual aid, business, craft, and community health. The Young Founders Circle supports emerging enterprise leaders under 40."
+    }
+  ],
+  "content_sha256": "d4b664b67e03c9efb7d7753416aa84b9058589f51d377c57d333e9d6fb93f2c7"
+}

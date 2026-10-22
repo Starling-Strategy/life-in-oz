@@ -1,0 +1,50 @@
+{
+  "id": "ln-222-social-thread",
+  "title": "Stage access confirmed, plus a scrap wood round-up and a proposal for a silent film night",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln213",
+    "ln146",
+    "ln057"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln213",
+      "text": "Good news from the Parks Office. I’ve confirmed that our Festival Committee volunteer teams will have access to the Quadling Green from 6:00 AM on setup day, two hours before the official park opening. This gives us the window we needed to position the main and acoustic stages without the morning rush. Team leads, please coordinate with your crews for an early arrival; I’ll send the signed permit to the committee list."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln057",
+      "text": "Follow-up from the Winter Lights teardown: we collected three full carts of usable scrap wood from the stage and booth dismantling. The straight, clear off-cuts have been delivered to the Timber Verge tool library for their community projects. The smaller, more varied pieces went to the Junction Quarter school’s woodshop class—their instructor was very pleased."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln146",
+      "text": "That's efficient work, Tamsin. It reminds me of a proposal I’d like to put before the committee. With the longer evenings, I was thinking of a one-night event at the Spectacle Lane Reading Room. We could screen a silent film from the archive and have a local pianist provide live accompaniment. It would be a quiet, different kind of festival-adjacent gathering. I’m happy to source the film and handle the room logistics if there’s interest."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln213",
+      "text": "Tamsin, thank you for organizing that donation; it’s a thoughtful close to the cycle. Toby, your proposal sounds intriguing. A seated, indoor event could be a nice complement to the open-air Bloom festival. Would you be willing to draft a brief outline—estimated costs, capacity, and a potential date—for the next agenda? I’d suggest we discuss it then."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "a reading room regular",
+      "text": "A silent film night sounds wonderful. My grandparents used to talk about those. Count me in as an attendee, for sure."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln057",
+      "text": "Glad the wood found a good home. Toby, if your event needs any simple staging or a platform for the piano, let me know. We might have some bits left that are too nice to scrap."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln146",
+      "text": "I appreciate that, Tamsin. I’ll see what the space requires. Lorna, I’ll prepare that outline and circulate it to the committee before the meeting."
+    }
+  ],
+  "content_sha256": "91a3ffc25ea0253452f43f2f4c1aa16a47ea2e5c2762075e8fc88f7dfa65edb7"
+}

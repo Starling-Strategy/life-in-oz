@@ -1,0 +1,58 @@
+{
+  "id": "ln-385-meeting-minutes",
+  "title": "Small Business Circle Meeting Minutes – November 2025",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln152",
+    "ln037",
+    "ln041",
+    "ln107",
+    "ln096",
+    "ln167"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Small Business Circle Monthly Meeting\nDate: 16 November 2025\nPresent: Rowan Bell (Community Manager, chair), Xan Poppyshaw (Reed Flats Community Fridge), Peter Ash (Ash Family Produce), Isaac Holt (Holt Alterations), Fennel Wheatstead (South Copse Bicycle Shop), Hugo Peppermere (Winkie Works Guild), Mattie Amberstead (Amberstead Flowers)\n\n1. Welcome and check-in\nRowan Bell opened the meeting at 7:05 p.m. Each member shared a brief update on their work from the past month."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln152",
+      "text": "The fridge in Reed Flats developed a faint hiss. I traced it to a worn door seal. I sourced a new rubber gasket from a supplier in Blue Orchard and installed it last week. The hiss stopped, and the seal is tight again. It’s running much more efficiently."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln037",
+      "text": "Yeah, good. So, last market day, I had a whole flat of raspberries that got a bit bruised in transport—nothing spoiled, but not pretty enough for the regular stall. A local jam maker came by just as I was packing up. We agreed on a reduced rate for the whole lot. Saved them from the compost, and she was thrilled."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln041",
+      "text": "The Timber Verge community hall’s autumn concert required the stage curtains to be hemmed. They were heavy velvet. I took them up and added weighted tape along the new hem so they would hang straight and not billow when closed. They functioned correctly for the performance."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln107",
+      "text": "A collector brought in a vintage postal service bicycle frame. It required a full restoration. I sourced period-correct handlebar grips from a contact in the Gillikin Country and repainted the frame in its original green. The project was completed to the client’s specifications."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln096",
+      "text": "We have a promising apprentice in decorative ironwork. I negotiated a two-week placement for her at an architectural metalwork firm in the Emerald City. It begins in early December. This provides exposure to larger-scale projects and different techniques."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln167",
+      "text": "The Reed Flats Primary School asked for simple flower bundles for their spring play. I prepared sixty bundles of daffodils, each tied with green twine. They were picked up just half an hour before the curtain rose. The children carried them on stage."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "2. Discussion: Managing Supply and Material Costs\nPeter Ash initiated a discussion on fluctuating produce prices. Isaac Holt noted the rising cost of quality thread and lining fabrics. Fennel Wheatstead shared that certain vintage parts have become scarce, requiring more time to source. The group agreed to continue sharing supplier contacts and bulk-purchase opportunities where feasible.\n\n3. Update on Network Grant for Tool Libraries\nRowan Bell provided an update: a grant application to support small tool libraries in Munchkin and Quadling countries is under review by the Wizard’s Office. No decision is expected before the new year.\n\n4. Skills-Share Proposal\nHugo Peppermere proposed organizing a quarterly skills-share workshop, perhaps focusing on basic bookkeeping or customer service scenarios. Peter Ash expressed interest in the bookkeeping topic. Mattie Amberstead suggested including a session on simple, cost-effective display techniques.\nACTION: Hugo Peppermere and Mattie Amberstead will draft a proposal for the first workshop topic and potential dates, to be circulated by the end of December.\n\n5. Next Meeting and Close\nThe next meeting is scheduled for 21 December 2025 at 7:00 p.m. The meeting adjourned at 8:20 p.m.\nMinutes recorded by Rowan Bell, Community Manager."
+    }
+  ],
+  "content_sha256": "24b47429d5f64236892df34517ba25874f69e2abcccb4bdb0a12b8d8ed4bc2a0"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ln-084-email-thread",
+  "title": "Festival Committee Email Thread: Lighting & Health Updates",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln249",
+    "ln091"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln249",
+      "text": "From: Milo Winkleham (Lighting Tech, Festival Committee)\nTo: Festival Committee\nSubject: Re: Autumn Outreach - Item Updates\nDate: September 16, 2024\n\nAll,\n\nChecking in on the Violet Hills garden autumn evening. I saw the note about needing some ambient lighting for the path near the pumpkin patch after sunset.\n\nI’ve offered to advise them on a simple string of solar-powered path lights. The key is placement—you want the panels where they’ll get a full day’s sun, not under the apple boughs. I can walk their volunteers through the mounting and battery setup. It’s a straightforward job, and the fixtures are low-profile enough they can leave them up year-round if they want.\n\nLet me know when their garden lead wants to connect. I’m free most evenings this month.\n\nMilo"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln091",
+      "text": "From: Enid Hazelstead (Quadling Health Access)\nTo: Festival Committee\nSubject: Re: Autumn Outreach - Item Updates\nDate: September 18, 2024\n\nHello everyone,\n\nMilo, that’s a lovely offer for Violet Hills.\n\nOn our end, the annual flu shot clinic in Hammerhead Rise is done. We tried something new this year. I compiled a printed, large-print roster with fifteen-minute time slots for the whole access day. We posted copies at the community board and the library a week ahead. People could come by my desk, look at the sheet, and put their name in a slot that worked for them.\n\nIt made a real difference. On the day, there was no usual morning queue snaking out the door. People arrived closer to their time, the nurses had a steady flow, and the whole atmosphere was much calmer. An older passenger told me it was the first time she didn’t have to stand for an hour waiting. We’ll definitely do the roster again.\n\nWarmly,\nEnid"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell (Community Manager, ECLN)\nTo: Festival Committee\nSubject: Re: Autumn Outreach - Item Updates\nDate: September 19, 2024\n\nThanks, Milo and Enid.\n\nMilo, I’ll connect you with the Violet Hills coordinator directly. Please let me know if you need any materials sourced through the committee’s small projects fund.\n\nEnid, that’s a brilliant and simple solution. Eliminating that queue is a huge quality-of-life win. Could you share a blank template of that roster with the network? I’m sure other communities with seasonal clinics would appreciate it.\n\nRowan"
+    }
+  ],
+  "content_sha256": "859889a62128ad5d58ffa08ca80c3460e599d82896bc741574d988484dc8b0a5"
+}

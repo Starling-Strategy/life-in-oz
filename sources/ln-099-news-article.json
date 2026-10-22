@@ -1,0 +1,65 @@
+{
+  "id": "ln-099-news-article",
+  "title": "Behind the Green Desk: The Quiet Work of Wizard’s Office Liaisons",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln116",
+    "ln160",
+    "ln244"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY – While the broad avenues of the city and the winding Brickway of Munchkin Country are often the focus of public attention, a great deal of the work that keeps communities connected happens at the desks and in the storerooms of the Wizard’s Office. The Emerald City Leadership Network’s Wizard’s Office Liaisons circle includes members whose daily tasks, from managing pantry donations to organizing civic archives, form the steady foundation of local service."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Brickway Junction, pantry manager Heath Pepperworth recently demonstrated the kind of immediate, practical care that defines his role. A local market gardener arrived with a sizable donation of produce that had passed its prime for commercial sale—boxes of slightly soft tomatoes and bunches of leafy greens beginning to wilt. Rather than turning the donation away or letting it spoil in a backlog, Pepperworth dedicated an hour to sorting through it all on the pantry’s back table."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln116",
+      "text": "You have to move quickly with things like this. I separated out what was still perfectly good for cooking—the tomatoes were fine, just a bit tender—from anything that was too far gone. The leafy stuff, if it’s still crisp enough, needs to go out that same day. We had it bundled and on the shelves by the afternoon shift change."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "By prioritizing swift distribution, Pepperworth ensured the food reached households without delay, a small but critical act of resourcefulness that mirrors the broader, systems-oriented work of his colleagues within the Wizard’s Office itself."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Inside the Office, community grants officer Dilys Clovermore focuses on empowering others to access resources. According to colleagues who attended a recent session, Clovermore ran a workshop for first-time applicants on how to build a simple, realistic project budget. Attendees described the atmosphere as calm and the guidance as exceptionally clear, demystifying a process that often feels daunting."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln160",
+      "text": "It’s about breaking it down into steps you can actually see. We talk about lining up your costs—materials, time, space—right alongside what you hope to do. The goal isn’t a perfect spreadsheet; it’s a plan that makes sense to the people who’ll be doing the work."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "This methodical, reassuring approach is credited with helping several small community groups from the Gillikin and Quadling countries submit their first successful funding applications this season."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in the Gate Quarter depot’s administrative annex, council aide Willa Rushwick recently tackled a project of historical preservation and practical necessity: a cabinet overflowing with obsolete bus timetables. The schedules, some dating back decades, had been kept in no particular order, making it difficult to find recent references or clear space for current documents."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln244",
+      "text": "It was a bit of an archeological dig. The oldest ones are fascinating—you can see how the routes have shifted over the years—but for day-to-day use, we only need the last decade or so for reference in planning disputes or resident inquiries. I organized them by year, recycled the duplicates and the very oldest, and kept the most recent ten years neatly filed. The cabinet actually closes now."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Rushwick’s afternoon of sorting preserved useful records while creating much-needed space, a task that, like the others, required a professional, calm, and methodical touch. These three episodes—managing perishable donations, teaching budget literacy, and organizing public records—may seem disconnected. Yet together they illustrate the varied, essential labor of liaison members: they are the stewards of resources, the translators of process, and the keepers of institutional memory, ensuring the machinery of community life runs a little more smoothly for everyone."
+    }
+  ],
+  "content_sha256": "617e902a33d928e4a84ade6c49a8e0274a523003313045866413acb85102feab"
+}

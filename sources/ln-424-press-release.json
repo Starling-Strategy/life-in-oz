@@ -1,0 +1,48 @@
+{
+  "id": "ln-424-press-release",
+  "title": "Quadshaw Metalworks Steps Up With Library Cart Repair, Boarding House Safety Fix",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln132"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nFebruary 2026, Hammerhead Rise, Quadling Country – Quadshaw Metalworks, the small fabrication shop operated by Lorna Quadshaw, has completed two recent community repairs, one supporting literacy access and another improving resident safety."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The mobile library's book carts, vital for bringing materials to neighborhoods without a brick-and-mortar branch, had developed a persistent wobble in their handles from constant use. Lorna Quadshaw fabricated and fitted a set of reinforced steel brackets to stabilize the carts."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln132",
+      "text": "The old filing cabinet was just sitting there, good steel going to waste. Cut it, bent it, slapped it on. Now those carts are solid. Librarian shouldn't have to wrestle a wobbly cart on top of everything else."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In a separate project, residents of a Gate Quarter boarding house reported a rusted-through section of a fire escape grate, creating a potential hazard. Lorna replaced the compromised panel with a newly welded section during a quiet Sunday afternoon, minimizing disruption to the tenants."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln132",
+      "text": "Heard about it through the grapevine. Rust had eaten right through. Had the stock, had a free afternoon. Went over, burned it in. It's not a glamour job, but you don't want someone putting a foot through that on their way down."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Both projects utilized scrap and on-hand materials, reflecting Quadshaw Metalworks' practical approach. The Emerald City Leadership Network, which connects members across Oz for collaborative community work, includes Lorna Quadshaw and Quadshaw Metalworks among its members."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Emerald City Leadership Network is an association of adult members across the Emerald City and the Munchkin, Winkie, Quadling and Gillikin countries, focused on practical collaboration and community support through circles like the Brickway Transit Union, Meadow Mutual Aid, and the Small Business Circle."
+    }
+  ],
+  "content_sha256": "c2427af697a64d0445a7f083417f35e316053f1c8a369d380af8629bfca4f967"
+}

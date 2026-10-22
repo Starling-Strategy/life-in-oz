@@ -1,0 +1,46 @@
+{
+  "id": "ln-086-social-thread",
+  "title": "Festival Season Logistics & Melodies",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln234",
+    "ln285",
+    "ln177",
+    "ln133"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln133",
+      "text": "Anyone from the Festival Committee around? Quick heads-up on the marquee situation. Our main 30x40 from Quadling was supposed to be on my rig yesterday, but the culvert on Old Brickway Spur washed out after that last downpour. No way through with the load. Got on the horn to a farmer near the crossing – he had a flatbed wagon and a pair of very patient oxen. We transferred the sections and he ferried them the last mile to the festival grounds. It’s all there, just a day behind schedule. Good reminder to have a Plan B (or C) for rural routes this time of year."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln177",
+      "text": "Isla, you’re a master of the unexpected key change! Glad it got there. Speaking of music, our little Spectacle Lane ensemble just had a lovely gig. A neighbor was getting married in their garden and wanted a bit of pomp. The usual wedding marches felt a bit... stiff for an afternoon among the apple trees. So I cooked up a simplified, cheerful brass arrangement of the old Gillikin country wedding tune. All the joy, half the counterpoint. The band learned it in one rehearsal, and it was perfect. Got me thinking – maybe we should have a ‘portable repertoire’ ready for outdoor festival spots?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln285",
+      "text": "Linus, that’s a wonderful idea! A lighter, adaptable setlist is essential for those pop-up stages. It reminds me – our Heatherford band just managed to quiet our more… enthusiastic trombonists. At our last indoor concert, we passed a copper collection bowl. The clinking was almost a percussion section of its own! It raised enough to buy four new brass mutes. The difference is already noticeable; the blend in the lower register is much smoother. Modest, I know, but it shows how a shared effort can tune up the whole group."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln234",
+      "text": "Alma, that’s brilliant! Harnessing the energy of the crowd for a direct upgrade. It’s like redirecting photons. Speaking of power, we just finished a project over at the Timber Verge Repair Co-op. Their vehicle carport had a perfect south-facing roof, just begging for panels. We installed a small solar array that’s now powering their workshop lighting and all their small tools – sanders, drills, battery chargers. It’s not a huge system, but it takes a steady draw off their grid, especially during long repair sessions. More reliable light for them, a tiny bit less strain on the city lines. Simple, effective."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln177",
+      "text": "Basil, that’s the kind of practical harmony I like to hear! Solar power providing the steady backbeat for their work. Isla, your wagon workaround, Alma’s mute fund, Basil’s panels… feels like we’re all working in different sections of the same orchestra lately. Maybe the Festival Committee should take note – the best solutions often come from the players on the ground, not just the sheet music from the top."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln133",
+      "text": "Agreed, Linus. It’s all logistics in the end. Power, transport, equipment, people. Keep the lines open and have a good local contact list. That farmer’s name is going in my book."
+    }
+  ],
+  "content_sha256": "a62fe35d734af9354e50a1bda92d7177409debe3e317653e1d54960726b3a126"
+}

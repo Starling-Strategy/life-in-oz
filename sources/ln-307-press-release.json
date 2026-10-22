@@ -1,0 +1,59 @@
+{
+  "id": "ln-307-press-release",
+  "title": "Wizard's Office Clears Grant Backlog, Proposes New Support for Rural Applicants",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln184",
+    "ln256"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Emerald City, August 2025 – The Wizard's Office Community Grants team announced today the completion of a significant pre-review push to process pending applications and detailed a new initiative aimed at supporting rural community groups."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Community Grants Officer Frey Hazeldale recently addressed a backlog of forty-three micro-grant applications, ensuring all were ready for the quarterly review committee. \"The quarterly deadline was firm, and these groups were counting on a decision,\" Hazeldale said. \"It meant two evenings and a Saturday here at the office, but seeing that stack cleared and knowing the committee can now move forward makes it worthwhile.\" The grants, which support small-scale community projects, are a critical resource for local circles across Oz."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln256",
+      "text": "We see a lot of enthusiasm from mutual-aid groups in the counties, but sometimes the application process itself can be a barrier, especially for volunteers who haven't done it before."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "said Wynn Thistlewick, Community Grants Officer based in Munchkin Country. To lower that barrier, Thistlewick is proposing a new quarterly grant-writing workshop to be hosted at the Wizard's Office."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln256",
+      "text": "The idea is to walk first-time applicants, particularly from rural mutual-aid groups, through the forms step-by-step. We can answer questions in real time and help them present their project's needs clearly. A well-prepared application saves everyone time and gets resources where they're needed faster."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The workshop plan is currently being finalized for presentation to the grants administration. It would focus on the specifics of the micro-grant program, with an emphasis on the types of projects common in the Winkie, Quadling, Gillikin, and Munchkin communities."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln184",
+      "text": "Wynn's workshop idea is a smart, proactive approach. It aligns perfectly with our goal of making these funds accessible. My recent work on the backlog was about meeting our commitment to the applicants already in the queue; this is about building a better on-ramp for the next wave."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "The Wizard's Office Community Grants program provides small-scale funding to member circles of the Emerald City Leadership Network for projects benefiting local communities."
+    }
+  ],
+  "content_sha256": "367f2c5ef3e7998ecc92aa784b0fedd25066b5a58e81eb2f405eaad36f930823"
+}

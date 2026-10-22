@@ -1,0 +1,53 @@
+{
+  "id": "ln-301-grant-report",
+  "title": "Grant Report: Thistleworth & Co. Accountants, Emerald City Leadership Network",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln087"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nAugust 2025\nRedfern Hill, Quadling Country"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Thistleworth & Co. Accountants, a member firm of the Emerald City Leadership Network, has completed two pro bono accounting reviews funded through the network's Professional Service Grant program. The grant supported 15 hours of partner time for advisory work with small community organizations."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "The first engagement was with the Redfern Hill Community Garden. Hal Thistleworth volunteered to audit their previous fiscal year's accounts. The garden had received a seed grant from the Quadling Agricultural Trust and their volunteer treasurer was struggling with the final expenditure report. Hal's review uncovered a simple double-entry error: a purchase of irrigation fittings had been recorded twice, once under 'materials' and again under 'infrastructure.' This had thrown off their grant reconciliation by a significant amount. Hal provided corrected statements and a one-page guide for the treasurer to prevent similar errors."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln087",
+      "text": "It was a straightforward fix, but it had created a real headache for them. They were worried they'd have to return grant funds. We got the numbers straight, and they submitted their final report on time."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The second review was for a new catering cooperative based in Munchkin Country. Hal examined their quarterly books over a three-month period. He identified a consistent under-billing for delivery mileage. The cooperative's driver was calculating trips based on the main Brickway distances but was not accounting for the last-mile detours down smaller farm lanes. This meant they were not recovering their full fuel and vehicle maintenance costs. Hal worked with them to adjust their billing template and implement a simple mileage log."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln087",
+      "text": "They were essentially subsidizing every delivery by a few silver coins. It adds up. Now their pricing covers their actual costs, which is fundamental for a new co-op's survival."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The grant funds have been fully expended. Both organizations have expressed significant relief and now possess clearer financial practices. The work aligns with the network's goal of applying professional expertise to strengthen community enterprises."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Network connects professionals and community organizers across Oz to share skills and support local projects through grants and volunteer partnerships."
+    }
+  ],
+  "content_sha256": "2c023090dc6ef5dce465c8817474465971f136bb850032e226bf4203d5ec66e3"
+}

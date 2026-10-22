@@ -1,0 +1,55 @@
+{
+  "id": "ln-226-social-thread",
+  "title": "Rest Room Access at Gate Quarter, Colored Dots, and a Flickering Signal",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln157",
+    "ln039",
+    "ln085"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln157",
+      "text": "For anyone wondering, the rest room at Gate Quarter is now open to drivers on break. It took collecting a month’s worth of logs showing the detour to the public facilities, but they finally turned over the key. Modest, I know, but it’s something."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "bus driver",
+      "text": "About time. That public one is three blocks down and always has a line."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln039",
+      "text": "Good to hear, Albin. On a completely different front, I’ve started putting a small colored dot on parcels that have been sitting in our holding area for seven days. It’s just a visual cue for the clerks, but it’s cut the backlog by about a third. Less digging around for the lost ones."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln085",
+      "text": "That’s clever, Quentin. Reminds me, I finally got around to reporting that pedestrian crossing signal near Bell Market. The one that flickers out for ten seconds every cycle. Sent the timestamps from my logbook to the Wizard’s Office last week. We’ll see if it gets fixed."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln157",
+      "text": "Logbooks. That’s the trick. They can argue with your opinion, but they can’t argue with a date and a time written down every day for a month."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln039",
+      "text": "Exactly. A dot on a box, a line in a book. It’s the small, stubborn records that get things moving."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "bus driver",
+      "text": "Hoping that signal gets sorted. Makes the turn there feel unsafe, especially when it’s raining."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln085",
+      "text": "That’s the hope. I’ll keep an eye on it and note if there’s a change."
+    }
+  ],
+  "content_sha256": "000446425cab125764c9c437124577876074d6fcdca8cf363ac305825b50fc05"
+}

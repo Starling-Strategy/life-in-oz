@@ -1,0 +1,50 @@
+{
+  "id": "ln-073-social-thread",
+  "title": "What did you do this week?",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln179",
+    "ln203",
+    "ln227"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln179",
+      "text": "Finally pulled the trigger on that bulk detergent order with the other laundries over in Hammerhead and Clearwater. Took a few weeks of back-and-forth to get everyone aligned on a supplier, but we locked it in. Got a pallet of the eco-friendly powder delivered and split it four ways. The savings aren't world-changing, but it's a good chunk off the quarterly supply bill for all of us. More importantly, my storage room smells like a pine forest now, which is a nice change."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln203",
+      "text": "That's wonderful, Rhoda. Collaboration like that makes such a difference. My week was a bit more... immediate. The Eastfield Fall Festival committee asked if I could do a simple hot dish for their opening evening. I didn't have the capacity to do a full catering setup, so I just used my own front porch. Made a giant pot of beef and barley stew, set up a ladle and a stack of containers people brought themselves. Served about fifty folks over two hours. It was cozy. My porch still smells of rosemary and thyme."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln227",
+      "text": "Both of those sound lovely. My hands have been full with vinyl and staples. The awning maker down the lane from my shop donated a roll of heavy-duty, wipeable vinyl—a deep green, actually quite nice. The benches at our Blue Orchard farmers' market were in a sorry state, all splinters. So I spent a few days stripping the old wood back and recovering all three stalls with it. It's not glamorous work, but it should hold up to rain and spilled apple cider better than bare wood ever did."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "neighbor",
+      "text": "Golda, those benches look fantastic! My knees thank you. No more catching my stockings."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln179",
+      "text": "Ha! Practical fixes are the best kind. And Lux, serving from your own porch—that's the spirit. Sometimes the simplest setup is the right one."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln203",
+      "text": "It really was. Sometimes I overthink the service aspect. This reminded me that good food and a warm welcome are the main ingredients. Speaking of, Rhoda, would that detergent supplier be interested in catering to commercial kitchens for our linens? Might be a next-step conversation."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln179",
+      "text": "Now there's a thought. Let me find their card—I've got it buried under a stack of invoices somewhere. I'll send you a note."
+    }
+  ],
+  "content_sha256": "e7dc11148aa0fcd1aa7a33646deb11268e506aaa0b7446c5c20db9bf8e2dbe21"
+}

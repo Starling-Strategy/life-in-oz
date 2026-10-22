@@ -1,0 +1,98 @@
+{
+  "id": "ln-354-membership-intake-form",
+  "title": "Membership Intake Form – Emeryham Machine Shop",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln276"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network – Membership Application"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Submitted: October 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Applicant Name:"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln276",
+      "text": "Magnus Emeryham"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Organization / Affiliation:"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln276",
+      "text": "Emeryham Machine Shop. Owner-operator."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Primary Location:"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln276",
+      "text": "Tinsmith Row, Winkie Country."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Describe your work and why you're interested in joining the network:"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln276",
+      "text": "General machining, custom fabrication, repair. Lathe, mill, welding. I see things break. I fix them. The network seems like it connects the people who need fixing with the people who can fix it. Efficient."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Please share one or two recent examples of your work that benefited another person, business, or community effort in Oz."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln276",
+      "text": "Two last week. First, Gillikin Growers called. Their big cider press had a worn bronze bushing seized up. They had a bin of apples waiting. I turned a new one on the lathe from stock bronze. Took about three hours. They picked it up, press ran fine."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln276",
+      "text": "Second was a dairy farm down in Quadling Country. Their main barn door hinge pin sheared off. Big steel rod. Door wouldn't move. They called late, needed it for morning milking. I turned a new pin from a rod of mild steel on the lathe, matched the taper. Drove it over myself. They got the door hung by midnight."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "What skills or resources could you offer to other network members?"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln276",
+      "text": "Metalwork. Machining. Fast turnaround on custom parts. I've got a good stock of common metals – bronze, steel, aluminum. Can sometimes advise on a design if it's going to keep breaking."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "narrator",
+      "text": "What are you hoping to find or learn through the network?"
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln276",
+      "text": "Who else is making things. Who needs things made. Better ways to get materials. Maybe find a source for decent tool steel without going through three brokers."
+    }
+  ],
+  "content_sha256": "08aa9cbb956e9ff0002f902b95d3a93489867b67c5e87e9161c777e8bdebcfe9"
+}

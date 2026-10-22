@@ -1,0 +1,81 @@
+{
+  "id": "ln-055-news-article",
+  "title": "Notices Translated, Switches Replaced: The Quiet Work of the Wizard's Office Liaisons",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln174",
+    "ln136",
+    "ln214",
+    "ln124"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Gazette\n\nJune 2024\n\nWhile the broad, green avenues of the Emerald City often grab the headlines, the work that keeps the city—and the wider land of Oz—running smoothly is often done in small rooms, on library ladders, and through careful translation. This month, members of the Emerald City Leadership Network's Wizard's Office Liaisons circle demonstrated just that, with projects spanning from public health outreach to the quiet hum of library lamps."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Lost in Translation, Found in Flyers\n\nWhen a Quadling community health center needed to spread the word about its upcoming flu shot clinics, they faced a language barrier. The standard notices from the Wizard's Office weren't reaching Munchkin-, Winkie-, and Gillikin-speaking neighborhoods. That's where Teo Orchardwood of Orchardwood Translations stepped in."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln174",
+      "text": "The original text was very… administrative. You know, ‘Clinic hours are as follows.’ But in Munchkin dialect, you’d more naturally say, ‘Come when the sun is high,’ for the afternoon slots. It’s not just word-for-word; it’s about making the invitation clear. The goal was to get the ‘why’ and the ‘when’ across without any bureaucratic residue clinging to it."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Orchardwood translated a set of informational flyers into the three target languages. The health center reported that the new materials, posted in local shops and community boards, led to a noticeable increase in inquiries from families who had previously felt the information wasn't for them."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "When the Water Main Breaks\n\nCoordination is key when a public utility fails. Last month, a burst water main in the Fountain District required a boiled-water notice to go out immediately to three adjacent Emerald City neighborhoods. Magnus Greendale, a public notices editor at the Wizard's Office, activated an unusual distribution network."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln136",
+      "text": "We couldn't wait for the daily post. The pharmacy noticeboards—everyone passes them, everyone trusts them. I called three shopkeepers directly. They had the notices up within the hour. It's about using the channels people already use, not just the ones we officially have. Frankly, it saved our reception desk a half-day of panic calls."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Greendale coordinated the rapid printing and hand-delivery of notices to pharmacies in the affected zones, ensuring the information was public long before the official mail run."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "A Light Touch in the Library\n\nOver in the Violet Hills lending library, the individual study carrels offered peace, but their lamps offered frustration. The old toggle switches were failing, leaving readers in the dark. Ansel Greenbourne of Greenbourne Electrical took on the repair."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln214",
+      "text": "It was twenty-four switches, all the same failure point. The toggle mechanism wears out; the lever gets loose, the contact gets intermittent. I replaced them all with a rocker-style switch. It’s a simpler mechanism, fewer moving parts. It should cut down on the maintenance calls by at least half. Did the wiring while the library was closed on Restday."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Greenbourne completed the swap in a single day. The library curator reported that the new switches have a more positive action and, so far, have required no follow-up attention."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Clearing Up the Permit Fog\n\nBack at the Wizard's Office, another editor, Pim Rushby, tackled a different kind of clutter: information overload on public notices. The standard template for street festival permits was a dense block of text, leading to a stream of calls to the reception desk asking for basic details like dates and road closures."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln124",
+      "text": "The old template buried the lead. People don't need the legal code reference first; they need to know which street is closed and when. I broke it into clear sections: Purpose, Affected Area, Dates & Times, Contact. Bold headers, more white space."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Rushby's redesign has been in use for two months. The reception desk reports a measurable decrease in calls asking for basic clarifications, allowing them to focus on more complex inquiries."
+    }
+  ],
+  "content_sha256": "5b3bb1f246b79dd54698b078f02e8b7356eb9f21250f45786fa5b2e4ff89e099"
+}

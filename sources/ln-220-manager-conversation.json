@@ -1,0 +1,60 @@
+{
+  "id": "ln-220-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Beryl Cloverton, Ember Thistlewood, Hattie Tinstead · April 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln202",
+    "ln226",
+    "ln274"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Check-in on Timber Verge activities. Beryl shared her latest job: the cafe on Yellow Kiln's main square had that ice maker leaking again, a real nuisance for them. Beryl traced it to a cracked water inlet seal. She said the part wasn't in any of the usual catalogs; she had to call an older-model supplier in the Emerald City. Got it shipped and installed. The cafe owner was relieved it wasn't the whole unit."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln202",
+      "text": "Sometimes the trick is remembering the parts that came before the parts. That old supplier had it on a shelf. The owner just about hugged me when the drip stopped."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Ember reported on the bicycle repair class. She ran it over four Tuesday evenings at the co-op's workshop space. Covered puncture repair and brake adjustments."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln226",
+      "text": "We had eight people, mostly from Bell Market. Good group. The key is showing them how to find the leak, not just patch over it. And brake alignment—everyone thinks it's harder than it is. By the last week, they were all doing their own tweaks."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Hattie discussed an idea for the Tinsmith Row tool library. She wants to propose a formal partnership with the local hardware store."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln274",
+      "text": "I'm drafting a letter to the store owner. The idea is, when someone comes in needing a specialized tool—say, a pipe threader or a large wood plane—the store could refer them to our library. In return, we'd happily promote their consumables: sandpaper, glue, blades, that sort of thing. It keeps the traffic flowing for them and gets tools into more hands. I haven't approached them yet; I want the co-op's thoughts first."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln202",
+      "text": "Sounds sensible. That hardware store sells the good glue. We could use a note about what brands they stock."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln226",
+      "text": "Agreed. And for the bike side, they sell the patch kits and brake pads. A referral system could work."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Hattie will bring a draft proposal to the next co-op meeting. Beryl will keep an eye out for other older-model part sources. Ember is considering another class series, maybe on gear maintenance, but that's still just a thought."
+    }
+  ],
+  "content_sha256": "92d2cd385f4e948e7f528d2639f85a967512dba4170431941bec2069f035267c"
+}

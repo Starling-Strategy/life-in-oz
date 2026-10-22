@@ -1,0 +1,29 @@
+{
+  "id": "ln-309-email-thread",
+  "title": "Testing a detour, and a tweak in the can works",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln144",
+    "ln121"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln144",
+      "text": "From: Iolo Winkleton\nTo: Rowan Bell\nSubject: Winkie Works update\nDate: August 7, 2025\n\nRowan,\n\nQuick note on the Guild side of things here at the Flats. We had a persistent thing on the peach line: labels going on crooked or getting bunched up. Not a huge number, but enough to annoy everyone and waste stock. It was the applicator pressure—just a hair off. I got in early last Wednesday, shut the line down for twenty minutes, and recalibrated the whole assembly. Simple fix, really. We've seen about fifteen percent fewer misapplied labels since. Means less stop-and-start for the crew, less waste in the rework bin.\n\nAlso, Pella Crowshaw from Transit was out here a couple weeks back about the River Road closure. Real heads-up work. Helped us map a detour for the local buses that didn't put them too far off schedule. Our folks getting to the early shift appreciated it.\n\nThat's it from the floor.\n\nIolo"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln121",
+      "text": "From: Pella Crowshaw\nTo: Iolo Winkleton, Rowan Bell\nSubject: Re: Winkie Works update\nDate: August 9, 2025\n\nIolo,\n\nThanks for the kind words. The detour planning was a good collaboration. When the pipe repair notice went up, I knew River Road being out would add twenty minutes to my usual 7-A route if we used the official signed diversion. I reached out to your Guild rep, and Iolo here was kind enough to walk the alternative with me after his shift—using the old service road behind the Can Works and cutting through Westgate Mills. We did three test runs at different times to check for bottlenecks.\n\nThe Works Guild then got the temporary signs posted. For that whole week of closure, we kept to within five minutes of the schedule. Only had one passenger miss her connection, and we sorted her a lift with another driver. It felt good to not just throw our hands up at a road closure.\n\nAnd Iolo, fifteen percent less waste is nothing to sneeze at. That's a quiet win that adds up.\n\nBest,\nPella"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell\nTo: Iolo Winkleton, Pella Crowshaw\nSubject: Re: Winkie Works update\nDate: August 11, 2025\n\nIolo, Pella,\n\nThank you both for this. Exactly the kind of cross-circle pragmatism the network exists to share.\n\nIolo, I'll make a note of that calibration fix. A small technical adjustment with a measurable impact on waste—that's a great example for the next Guild skills swap.\n\nPella, the proactive detour work is a textbook case of service adaptation. Minimizing disruption for a whole route takes foresight. Glad the Guild could partner on the signage.\n\nI'll circulate a brief summary to the Transit Union and Works Guild leads, with your permission.\n\nRowan"
+    }
+  ],
+  "content_sha256": "73d37fdd28bde8fa59d3a9c49d5f4f6703e3097d1145a8c97c12ba43e0ef3bcf"
+}

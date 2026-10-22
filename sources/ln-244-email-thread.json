@@ -1,0 +1,24 @@
+{
+  "id": "ln-244-email-thread",
+  "title": "Fwd: Trellis and Fluoride",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln192",
+    "ln139"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln139",
+      "text": "From: Silas Plumley\nTo: Emerald City Leadership Network Intake Desk\nSubject: Fwd: Trellis and Fluoride\nDate: 22 May 2025\n\nHi Rowan,\n\nWilfred from the Winkie Works Guild mentioned this to me at the last call. I thought it was a fine example of a small thing that makes a difference, and I wanted to share it with the network. He also asked me to mention my own idea, which is still just an idea.\n\nBest,\nSilas"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Silas Plumley\nTo: Silas Plumley\nDate: 22 May 2025\nSubject: Trellis and Fluoride\n\nNotes from my conversation with Wilfred Spindlebourne, 21 May.\n\nWilfred said he used leftover rebar from a foundry job to make a metal trellis for his neighbor’s climbing beans. It was just a few pieces cut and bent to a good shape, welded at the joints. He said the beans grew right up it all season, no trouble with the wind. The neighbor was pleased.\n\nI mentioned my own thought, about maybe doing fluoride varnish treatments at a busy Winkie Country food pantry. Not a full clinic, just a quick application on distribution days. Wilfred listened and said it sounded like a solid plan. He asked if I’d need any special permission from the pantry folks. I said I haven’t asked them yet. It’s still just an idea I’m turning over."
+    }
+  ],
+  "content_sha256": "b9b1d4e537fcb194388de484a9f579de19b492798e5ff300ae0eddea97afdaf4"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "ln-254-press-release",
+  "title": "Gillikin Growers Strengthen Local Ties Through Shared Harvests and Cooler Fridges",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln053",
+    "ln236",
+    "ln173"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\n\nEMERALD CITY, OZ – JUNE 2025 – This harvest season, members of the Emerald City Leadership Network’s Gillikin Growers circle are demonstrating how shared resources and clear agreements build a more resilient food system across Oz. From cooperative governance to community fridge repairs and festival highlights, their work is rooted in practical, neighborly action."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Bluebell Crossing, Munchkin Growers Cooperative treasurer Nimmie Meadowbright is focusing on the details that make sharing work. \"A smooth harvest depends on clear expectations,\" Meadowbright said. She is currently revising the co-op’s member agreement, working from a draft typed on the cooperative’s shared office computer, to specify delivery windows for member harvests. \"When everyone knows the 'when,' it saves time and produce,\" she added, emphasizing the practical benefits of the planned update."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln236",
+      "text": "The fridge is running quieter now. The old seal was letting in a thumb-width of warm air, making the motor work double-time."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Linus Hazelridge, keeper of the Timber Verge community fridge in Winkie Country, recently addressed an issue of energy waste. He identified and replaced a worn rubber seal on the fridge’s main door, a simple repair that has already reduced the appliance’s excessive energy consumption. The fix ensures donated food stays cooler and more reliably available to neighbors."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln173",
+      "text": "The beans are a sturdy climber, with purple and cream stripes—like little banners. Seeing them listed in the festival program felt like watching a seedling you’ve nurtured finally unfurl its true leaves."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "At the recent Gillikin Harvest Festival, market gardener Posy Oakdale of Heatherford contributed several kilos of her unique striped beans to the annual stew competition. Her variety was noted in the official festival program, an acknowledgment that brought new faces and curious customers to her Oakdale Gardens stall. \"It was about sharing the flavor,\" Oakdale said, \"but it also rooted my work in the wider community.\""
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The Gillikin Growers circle meets monthly to share resources, troubleshoot challenges, and coordinate with other network circles like Meadow Mutual Aid and the Brickway Transit Union."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Emerald City Leadership Network is an association of adult members across the Emerald City and the Munchkin, Winkie, Quadling, and Gillikin countries. Members belong to circles focused on trades, civic life, and community support, working collaboratively on practical projects. Rowan Bell serves as the network’s community manager.\n\nMedia Contact: Rowan Bell, Community Manager, via the Emerald City Leadership Network intake desk."
+    }
+  ],
+  "content_sha256": "04f5fe03c1e65c456a31034a97a552bde0b51cdae8b59fcb47cc9eb0de56247f"
+}

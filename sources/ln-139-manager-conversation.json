@@ -1,0 +1,33 @@
+{
+  "id": "ln-139-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Gilda Lanternmore · January 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln103"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Gilda Lanternmore reported two items."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "First, she confirmed she renewed the arrangement with the Meadowbank library. Starting this month, they'll deliver a rotating selection of large-print books and audiobooks monthly. She said it's a relief for residents who can't easily get to the library, especially those with vision trouble."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Second, she is preparing a grant application. The application is for a local charitable trust, seeking funds for a monthly supply of hearing aid batteries. The target is low-income residents. She said the cost adds up and it's a barrier for some."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "She mentioned she's still gathering the final cost estimates and resident income information for the application. No draft is submitted yet."
+    }
+  ],
+  "content_sha256": "02e8756b7041a123e76ac72419d27c1bae9faf637940136d0dcd4d6b01051b43"
+}

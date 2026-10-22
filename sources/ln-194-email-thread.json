@@ -1,0 +1,35 @@
+{
+  "id": "ln-194-email-thread",
+  "title": "Saturday shop-keeping and other small victories",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln219",
+    "ln159",
+    "ln134"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln219",
+      "text": "From: Ursa Bramblestead, Bramblestead Stationers\nTo: Emerald City Chamber Small Business Circle\nSubject: A quiet week's doings\nDate: March 10, 2025\n\nDear colleagues,\n\nI trust this finds you well. It has been a rather routine week here at the shop, though I did host our little fountain pen maintenance demonstration on Saturday last. A modest crowd of fifteen turned up, which was just right for the space. We covered the proper cleaning of nibs and the importance of using a good, non-clogging ink. I was pleasantly surprised to see several attendees later purchase some of our finer bottled inks—the ones from the Gillikin glassworks. It seems a bit of practical knowledge still encourages a bit of practical shopping.\n\nI heard a lovely snippet from Ewan Meadowton about his work with the old menus, which sounds fascinating. And Ren, I must say, your description of the new lighting in your back aisle gave me an idea for my own stockroom. Might you share the name of your supplier?\n\nWarmly,\nUrsa"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln159",
+      "text": "From: Ren Hazelham, Hazelham Hardware\nTo: Emerald City Chamber Small Business Circle\nSubject: Re: A quiet week's doings\nDate: March 10, 2025\n\nUrsa,\n\nGlad your demo went well. Fifteen people on a Saturday morning sounds like a triumph of patience.\n\nThe LED strips are from a general supplier; I’ll send you the details off-list. They’re motion-activated and significantly brighter than the old bulbs. The back plumbing aisle is no longer a cave where customers (and I) fumble for elbow joints. A simple fix, but it has already stopped two near-accidents with stacked pipe fittings.\n\nEwan’s menu project is a useful bit of preservation. It’s good to have a record of what a plate of fried greens and mushroom pie cost in the old days, if only to groan about current prices.\n\nRen"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln134",
+      "text": "From: Ewan Meadowton, Reading Room Network Volunteer\nTo: Emerald City Chamber Small Business Circle\nSubject: Re: A quiet week's doings\nDate: March 11, 2025\n\nHello Ursa, Ren, all,\n\nThank you for the kind words about the menu project. It was quite a task, but a pleasant one. I managed to compile and describe fifty handwritten menus from eateries that once thrived in the old Bell Market. You can see the shift in popular dishes—the rise of the spiced root bake in the late sixties, for instance—and of course, the steady creep of prices. A cup of tea for two coppers! It’s a slice of social history, really, told through supper specials.\n\nUrsa, your pen demonstration sounds wonderful. The care of good tools is a theme that resonates across all trades, doesn’t it? And Ren, better lighting is never a small thing. I’ve spent too many hours in dim archives to disagree.\n\nBest,\nEwan"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln219",
+      "text": "From: Ursa Bramblestead, Bramblestead Stationers\nTo: Emerald City Chamber Small Business Circle\nSubject: Re: A quiet week's doings\nDate: March 11, 2025\n\nDear Both,\n\nRen, thank you—I shall look for your note. And you’re quite right about the prices; it does put things in perspective.\n\nEwan, your point about the care of tools is well-made. It is the same principle, whether for a pen nib or a pipe wrench. Perhaps that’s a thread for a future Chamber chat: the maintenance of the things that serve us.\n\nWith regards,\nUrsa"
+    }
+  ],
+  "content_sha256": "a6dca8aa4e6c8bd73615eed5d3e3a180531e52da684b4562ed15d1b79841d8f7"
+}

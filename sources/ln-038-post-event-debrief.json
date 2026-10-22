@@ -1,0 +1,50 @@
+{
+  "id": "ln-038-post-event-debrief",
+  "title": "Small Business Circle Blue Orchard Debrief – April 2024",
+  "format": "post_event_debrief",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln155",
+    "ln095",
+    "ln023"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell, Community Manager. Debrief after the April Small Business Circle gathering at Blue Orchard Bicycle Shop.\n\nHosting: Wade Plumwood hosted. He’d cleared the courtyard and set up a few workstands. The vibe was relaxed, people drifted in and out. Good turnout from the circle and a few locals who saw the sign."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "What got done:\n- Wade ran his free ‘chain and brake check’ afternoon. He showed a dozen people, mostly folks who use bikes for errands or getting kids to school, how to clean a chain, check pad wear, and adjust cable tension. One older passenger was thrilled she could now tell when her brake pads needed replacing. Wade was patient, but his dry humor came out when someone asked if they could use cooking oil on a chain. (Answer: a firm no.)"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "- Jory Saffronstead handled the dinner décor. She’d foraged fiddleheads, pine boughs, and some early, tough little wildflowers from the verges along the Brickway. Each table got a low ceramic bowl with the greens and just one or two bright blooms from her shop stock—she called them ‘the punctuation.’ It looked abundant but she said the cost was under the budget, ‘like a well-pruned shrub that looks fuller after.’"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "- Pavel Dunn didn’t come empty-handed. He’d been bugged for weeks by a wobble in his bakery’s central prep table. Before the meeting, he brought over a metal bracket, shimmed the short leg with a sliver of hardwood, and bolted the bracket across the joint. He gave it a good shove during dinner to demonstrate—no sway. ‘It’s not baking,’ he said, ‘but a steady table means steady dough. Should’ve done it months ago.’"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Conversation highlights:\nTalk drifted to shared suppliers (flour, bicycle parts, floral wire), the upcoming Blue Orchard Spring Fair, and the perennial challenge of late payments from a few bigger Emerald City clients. Wade mentioned the Chamber circle might have a template for that. Jory wondered aloud if the Growers circle would have spare compost for her cutting garden. Pavel mostly listened, but nodded vigorously about the payment issue."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Open actions/For next time:\n- Rowan to connect Wade with the Chamber circle lead re: payment template.\n- See if the Gillikin Growers circle coordinator can share compost contacts with Jory.\n- Next host: Pavel offered the bakery for a morning meeting in June, ‘before the ovens get too hot.’ We’ll confirm date.\n- Idea floated: a ‘tool library’ for less common shop items (post hole digger, heavy-duty staple gun). Wade said he’d think on what might be useful to share vs. what you just need to own. No commitment, just a thought."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Overall: Solid, practical meet-up. Less about big ideas, more about fixing immediate annoyances (wobbly tables, squeaky brakes) and sharing local resources. The free workshop felt like a real service to the wider Blue Orchard community, not just the circle."
+    }
+  ],
+  "content_sha256": "1546c94651add546c4107b231ab246c3088b9270e53698b00bbcec3f7b425756"
+}

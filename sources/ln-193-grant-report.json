@@ -1,0 +1,60 @@
+{
+  "id": "ln-193-grant-report",
+  "title": "Quadling Health Access: Small Grants Report, March 2025",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln259",
+    "ln253",
+    "ln211"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Quadling Health Access, March 2025 – This report summarizes the use of the Emerald City Leadership Network's 2024-25 small grants fund allocated to projects under the Quadling Health Access circle. The fund's intent was to support member-led initiatives addressing immediate, tangible improvements to health and safety infrastructure and patient comfort within our communities."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln259",
+      "text": "The grant allowed us to be proactive rather than reactive. When our routine monthly check flagged that over half our emergency exit light battery packs were within six weeks of their expiry date, we could order and replace every single unit at once. It wasn't just about the lights; it was the peace of mind for the night staff and our residents' families, knowing the path out is clearly marked no matter what."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "At South Copse Care Home, administrator Emrys Crowham used grant funds to purchase replacement battery packs and LED units. All twenty-seven emergency exit lights and associated backup systems were tested and updated in a single coordinated effort, ensuring full compliance and safety for the home's sixty residents and staff."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln253",
+      "text": "The crew was drinking tepid water from their canteens, taking breaks leaning on the truck or sitting on the curb. It's hard on the body, and it slows the work. We had this old cargo trailer retired from service—solid frame, good roof. The grant covered the cost of a large water dispenser with a cooling unit, a proper bench that bolts to the wall, and the fuel to move it between our two long-distance paving sites east of Redfern Hill. Now it's a proper shelter. Morale's up, and we're hydrating properly in the heat."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Orla Amberholt of Brickway Works directed her grant portion to materials and transport, converting a decommissioned works trailer into a mobile break station. It now serves crews on extended road projects, providing shade, cooled drinking water, and a seated rest area, directly addressing heat stress prevention for a crew of fifteen."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln211",
+      "text": "It was a small thing, but it kept bothering me. The vinyl on the older chairs in our main waiting area had cracked and was starting to peel at the seams. It would catch on people's clothes, especially lighter fabrics, which is uncomfortable and undignified. The grant let me buy a full bolt of a heavy-duty, wipeable fabric from a craftsman in the Quadling marshes. We held an evening where a few of us from the clinic and two patients' family members recovered all twelve chairs. The difference in the room is immediate. It's quieter, more comfortable, and it looks cared-for."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Agnes Fernton, a physiotherapist at Green Market Clinic, applied her grant to materials. She purchased fabric and supplies, organizing a volunteer session to re-cover a dozen worn waiting room chairs. The project improved patient comfort and renewed the clinic's public seating area."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Funds Expended:\n- Emergency lighting & battery units: 275 gilders\n- Water dispenser, bench fittings, and transport fuel: 180 gilders\n- Upholstery fabric and supplies: 95 gilders\nTotal: 550 gilders.\n\nAll funded projects are complete and in active use. The remaining balance of the small grants fund has been returned to the network's general pool. The Quadling Health Access circle extends its thanks to the Emerald City Leadership Network for facilitating these practical improvements."
+    }
+  ],
+  "content_sha256": "b8f29667d0b2e8b92a67592829a13cc879d4c532494e3ba90d7765e2c707ec7f"
+}

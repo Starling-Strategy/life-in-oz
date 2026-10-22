@@ -1,0 +1,49 @@
+{
+  "id": "ln-317-press-release",
+  "title": "Gillikin Growers Cooperative Text Alert Saves Seedlings from Late Frost, Munchkin Dairy Farmer Credits Quick Action with Saving Cow and Calf",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln209",
+    "ln113"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nEMERALD CITY, Oz — August 2025 — The Gillikin Growers Cooperative, a member of the Emerald City Leadership Network, credits a simple member-initiated text alert system with preventing significant crop loss during an unexpected late frost this past season. Meanwhile, across the country in Munchkinland, a longstanding network member's swift call for help ensured a positive outcome during a difficult livestock birth."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln209",
+      "text": "The forecast looked clear, but the temperature drop was sharper than anyone predicted. I sent the alert around sunset. By midnight, most members on the list had acknowledged it. By morning, you could see the row covers out in the fields, little ghostly shapes protecting the tenderest shoots. It wasn't a major intervention, just a heads-up, but seeing those covers in the dawn light… it meant the early peas and the first lettuce would be okay."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Oren Tinshaw, the cooperative's buyer, initiated the informal alert system after noticing a gap in local weather advisories for small-scale, frost-sensitive crops. The system relies on voluntary participation and requires no special technology beyond a standard messaging device."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln113",
+      "text": "It was one of those nights where you know you're in for the long haul. The calf was turned wrong. My usual tricks weren't working, and the cow was tiring. Calling the vet wasn't a heroic thing; it was the only sensible thing left to do. We were out there in the barn until the sky started to lighten. Seeing them both on their feet later, the calf nursing… well, that's the job. That's the whole point of the job."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Hollis Cinderton, a dairy farmer in Reed Flats, emphasizes the importance of knowing when to call in specialized help. The local large-animal veterinarian was able to assist, and after a long night, both cow and calf recovered fully."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "What connects Oren's foresight and Hollis's judgment is a deep, practical commitment to their work and their community. They're both using the tools and relationships they have to solve real, immediate problems. That's the kind of grounded leadership the network exists to support and share."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Network connects adult members across Oz's four countries and the Emerald City through practical circles focused on trades, civic life, and mutual aid. Members share resources, knowledge, and support for common challenges."
+    }
+  ],
+  "content_sha256": "a11adbb7a84d8a7700265c5d461446a27c3964eb3ba16bd4e504b4fdaa9ba551"
+}

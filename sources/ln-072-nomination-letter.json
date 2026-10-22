@@ -1,0 +1,19 @@
+{
+  "id": "ln-072-nomination-letter",
+  "title": "Nomination for Iolo Winkleton - Winkie Works Guild Member of the Year",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln275",
+    "ln144"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln275",
+      "text": "To the Founders’ Gala Selection Committee,\n\nI’m writing to nominate Iolo Winkleton for recognition at this year’s event. I’m Yves Brambleholt, of Brambleholt Upholstery, and I’ve only been a member of the Winkie Works Guild for a couple of years. But in that time, the person I’ve seen who most embodies the guild’s purpose—making the work easier and better for everyone—is Iolo.\n\nMy own recent contribution is a small one: I provided a quote to reupholster the worn pew cushions at a small Quadling church, suggesting a foam core wrapped in brushed cotton for durability. It’s a job I’m planning to do, and it’s the sort of quiet maintenance work that keeps a community space usable. But Iolo’s work made me think about what ‘usable’ really means on the floor of a busy shop.\n\nIolo reorganized the entire maintenance tool crib at the Saffron Flats Can Works. He hung all the wrenches on a perforated board, labeled clearly. I heard from a mechanic who works there that it cut the average time they spend searching for a tool by more than half. That’s minutes saved every day, for every person on a shift. That’s less frustration, fewer jobs started late because someone was hunting for the right size. It’s a simple, physical solution that shows deep respect for his coworkers’ time and effort.\n\nIolo doesn’t make a fuss. He just sees something that isn’t working as well as it could and fixes it. That’s the spirit I think the guild exists to celebrate. He’s made the work at the can works measurably better, and that deserves recognition.\n\nSincerely,\nYves Brambleholt\nBrambleholt Upholstery"
+    }
+  ],
+  "content_sha256": "2e4301156104683c81408c5ed0433899c00783f2aaa04434797e9e37188f8fad"
+}

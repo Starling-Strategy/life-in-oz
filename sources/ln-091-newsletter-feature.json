@@ -1,0 +1,44 @@
+{
+  "id": "ln-091-newsletter-feature",
+  "title": "In the Spirit of the Season: Meadow Mutual Aid Members Share Practical Skills",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln243",
+    "ln087"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "As the harvest season arrives in the Meadow, the spirit of mutual aid often looks less like grand gestures and more like a quiet, practical skill shared with a neighbor. This month, we’re highlighting two very different, very useful examples from members of the Meadow Mutual Aid circle."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "For Saffi Orchardmere, owner of Orchardmere Opticians in Bell Market, mutual aid is about empowering her customers with a little bit of knowledge. This summer, she started including a small, simple spectacle repair kit with every pair of glasses sold. It contains a tiny screwdriver and a few spare screws for hinges."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln243",
+      "text": "It’s a tiny thing, but a loose hinge can feel like a major catastrophe when you can’t see clearly. Now, instead of someone having to make a special trip into the shop for a two-minute adjustment, I show them how to do it themselves while they’re here. It saves them time, and it gives them a bit of confidence. I’ve had customers come back and tell me they fixed their partner’s glasses, too."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Quadling Country, Hal Thistleworth applied his professional expertise to a very down-to-earth problem. A new catering van owner in Munchkin Country, overwhelmed by the logistics of their business finances, was connected to Hal through the Meadow network."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln087",
+      "text": "They were focused entirely on day-to-day cash. The conversation turned to the van and the propane equipment, which are significant investments. We sat down and worked out a realistic depreciation schedule for those assets. It’s not the most glamorous part of starting a business, but it gives you a much clearer picture of your true costs over time, which helps with everything from pricing to planning for repairs."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The van owner reportedly left the conversation with a spreadsheet and a much calmer outlook."
+    }
+  ],
+  "content_sha256": "c6cea2683808f1944a563043691aff1594f8a51b7e1241fe4728a6c8142e0355"
+}

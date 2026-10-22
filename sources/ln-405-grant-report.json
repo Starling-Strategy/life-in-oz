@@ -1,0 +1,39 @@
+{
+  "id": "ln-405-grant-report",
+  "title": "Winkie Works Guild: December 2025 Grant Report",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln144",
+    "ln168"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR THE WINKIE WORKS GUILD OPERATING GRANT\nREPORTING PERIOD: DECEMBER 2025\n\nThis report details the use of grant funds designated for operational resilience and peer support within the Winkie Works Guild. The focus was on minimizing production disruptions and supporting member well-being during high-pressure periods."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "During a critical packaging run at the Saffron Flats Can Works, the night shift faced a long, cold stretch. Coworkers report that floor lead Iolo Winkleton quietly arranged for a local diner to deliver hot soup and rolls for the crew. The grant covered the cost of this meal. While Iolo himself hasn't mentioned it, the gesture was noted by several team members who said it made a real difference in morale during those late hours."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln168",
+      "text": "Our weekly molding sand shipment was held up at the Brickway crossing. A full shift was about to stand idle. I called the supplier and our transport contact, and we managed to reroute a half-load from a different order. It got here a day early. The grant covered the extra transport fees. The line kept running."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Minna Winkleworth's swift action at the Westgate Foundry prevented a full shift from standing idle, saving approximately thirty-two hours of lost production time. The early delivery of specialty molding sand, facilitated by the grant covering expedited transport, allowed the foundry to maintain its schedule without compromise."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "FUNDS EXPENDED:\n- Emergency meal provision for shift crew: 45 Ozian dollars.\n- Expedited transport fees for molding sand: 28 Ozian dollars.\n- Total: 73 Ozian dollars of the allocated grant.\n\nUNFINISHED WORK / OPEN ACTIONS:\nThe remaining grant balance is earmarked for a planned review of shared equipment maintenance schedules across guild workshops, scheduled for early next quarter. The guild intends to document common pinch points and establish a small reserve fund for preventative repairs, using the grant as seed money."
+    }
+  ],
+  "content_sha256": "730072db6c15ffa5f95a36bfa36febd26cb72652a1a4880053dd396fa4e201a8"
+}

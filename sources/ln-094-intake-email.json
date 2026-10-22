@@ -1,0 +1,33 @@
+{
+  "id": "ln-094-intake-email",
+  "title": "Fwd: Mill open day and a quick fix",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln125"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln125",
+      "text": "Rowan,\n\nFigured the network might want to know about a couple things here at the mill. I'm forwarding the note the teacher sent after the kids' visit, and I've added my own note about the belt situation below.\n\n- Dacey"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------\nFrom: Dacey Barleybourne, Gillikin Falls Grain Mill\nTo: Emerald City Leadership Network Intake\nDate: 15 October 2024\nSubject: Mill items"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln125",
+      "text": "Open day for the Gillikin Falls primary school last week. Had about twenty kids through. Showed them wheat, rye, and corn samples, let them feel the difference. Walked them through the grindstones—the old ones, not the electric—so they could see how grain becomes flour. A lot of 'ooh' and 'ahh' when the flour came out. Teacher said it tied into their harvest unit.\n\nSeparately, during the peak run last Tuesday, I heard a wrong sort of hum from the main sifter. Drive belt was fraying, about two threads from snapping. Shut it down, pulled the spare from the storeroom, and had it swapped in under an hour. No halt in production. We got the full Glimmer Hill order out on schedule."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Attached: A scanned drawing from a student, depicting a large mill wheel and a stick figure labeled 'The Miller'. A handwritten note from the teacher reads, 'Thank you for a wonderful, hands-on morning. The children haven't stopped talking about it.'"
+    }
+  ],
+  "content_sha256": "7d0aca45a436b4951c96b86177a14a0dd34ee3f56337605188b7f1d1a79b1d6b"
+}

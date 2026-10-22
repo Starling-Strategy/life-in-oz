@@ -1,0 +1,48 @@
+{
+  "id": "ln-516-survey-response",
+  "title": "Brickway Transit Survey: Driver Feedback",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln121"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Members' Survey: September 2026\nTheme: Brickway Transit\nRespondent: Pella Crowshaw, Bus Driver"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Question: What are the most effective ways to improve communication with passengers?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln121",
+      "text": "Well, the brochures they're talking about would help. I've volunteered to help the union assemble and hand them out once they're printed. The draft I saw was clear—things about keeping aisles clear, using the stop request cord properly, that sort of thing. But the printing order isn't finalized yet, so it's all on hold. When we do get them, handing them out at the main depot seems right, catch people when they're starting their day."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Question: Can you share an experience that highlights a successful interaction on your route?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln121",
+      "text": "This was just last week. After my final run, I was doing my sweep of the back seats and found a small brown prescription bottle. I turned it in to the lost-and-found at the depot right away. The next morning, I heard from the clerk that an older passenger had come in, terribly worried, and they were able to return it to her. She was apparently very relieved. It doesn’t sound like much, but you see how important it is for people."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Question: What is one change, large or small, that would make your job easier or safer?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln121",
+      "text": "Having those brochures actually printed and in hand would be a start. It's a plan, but plans need to become things. Otherwise, it's just the day-to-day of watching the road and your passengers."
+    }
+  ],
+  "content_sha256": "88703eba8de21961d93a7687dd7ad0c84b8bad08a31e5c38bae291b053b41a3a"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "ln-417-meeting-minutes",
+  "title": "Emerald City Chamber Meeting Minutes – January 2026",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln051",
+    "ln134",
+    "ln075"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Chamber\nMeeting Minutes\nDate: 15 January 2026\nPresent: Florence Gray, Ewan Meadowton, Selwyn Bramblecombe, Rowan Bell (Community Manager).\n\n1. Welcome and Opening Remarks\nRowan Bell called the meeting to order at 7:00 PM in the Chamber’s meeting room at the Central Exchange. The agenda was approved."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Thank you all for coming on a cold evening. Let’s start with a round of updates from your corners of the city."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln051",
+      "text": "Well, it wasn’t strictly business, but it felt like good community work. Last Sunday, I used the shaded alley beside the grocery for a plant swap. I dragged out some old wooden crates for people to set their things on. We had over thirty folks come through. I finally got rid of all my overgrown mint and thyme, and came home with a lovely little jade cutting and some lavender. The alley was perfect—cool and out of the way."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "ACTION: Florence Gray to share details of the plant-swap format with the Chamber newsletter for possible replication in other neighborhoods."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln134",
+      "text": "My project was a bit more… archival. The Spectacle Lane tenants association had a decade’s worth of meeting minutes, all handwritten in various notebooks. They asked if I could help make them easier to reference. So I’ve been typing them up, making them searchable. It’s slower going than I’d like—some of the handwriting is quite a puzzle—but it’s satisfying to see the stack of finished years grow."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln075",
+      "text": "That sounds immensely valuable, Ewan. My own contribution this month was rather specific. A violinist came into the shop, quite distressed. Her glasses would slide down her nose during performances under the hot stage lights, right when she needed to see the music most. It wasn’t a prescription change, but an adjustment. I spent a good twenty minutes carefully bending the temple arms and reshaping the nose pads to fit the unique contours of her face and the angle at which she holds her head. She collected them yesterday and reported back that they stayed perfectly in place through a three-hour rehearsal."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "2. Discussion of Chamber Support for Local Events\nFlorence’s plant swap sparked a conversation about how the Chamber can provide subtle support for member-initiated gatherings without adding bureaucratic overhead."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln075",
+      "text": "The value is in the informality. If we make it an official Chamber event, it loses the neighborly feel. But perhaps we could maintain a simple list of members willing to host such things, and a small fund for basic supplies like signage or a few extra tables?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln134",
+      "text": "I agree. And it connects to what I’m doing with the minutes, in a way. It’s about preserving and facilitating the things people are already doing for each other, not creating new structures on top."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Noted. I’ll draft a one-page proposal for a micro-grant and resource list for the next meeting."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "ACTION: Rowan Bell to draft proposal for member-led event support.\n\n3. Other Business\nEwan Meadowton inquired about the Chamber’s archive of past meeting minutes and whether a similar transcription project might be useful. Selwyn Bramblecombe offered to consult on an optometry health bulletin for the newsletter.\n\n4. Next Meeting\nThe next meeting is scheduled for 19 February 2026, 7:00 PM, at the Central Exchange.\n\nMeeting adjourned at 8:20 PM.\nMinutes recorded by Rowan Bell."
+    }
+  ],
+  "content_sha256": "5651ec7749b7fae051334fc574d44a606f88af3a65a4572f980d632cb08dfd09"
+}

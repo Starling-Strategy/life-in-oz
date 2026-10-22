@@ -1,0 +1,54 @@
+{
+  "id": "ln-025-newsletter-feature",
+  "title": "From Ash Branches to Milk Churns: Small Fixes with Big Impact",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln042",
+    "ln046"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "In a network built on mutual aid, sometimes the most impactful work happens in the quiet corners: a compost heap in South Meadow and a school kitchen in North Orchard. This month, we're highlighting two members whose resourcefulness saved their circles time, money, and waste."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Daphne Lark, who buys food for the North Orchard schools, looked at the mountain of single-use containers coming from the local dairies and saw an opportunity. 'We were throwing away perfectly good packaging every single day,' she said. 'The dairies were paying for it, we were paying to have it hauled away, and it just felt wrong.'"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln042",
+      "text": "I got on the horn with the folks at Three Pines, High Ridge, and the Co-op dairy. Asked if they'd be willing to go back to the old way—stainless steel churns we could return and refill. Took some schedule-juggling, but we worked out a rotation. Now their delivery wagons just swap out the empties for full ones."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The result? A forty percent drop in the schools' single-use container waste, and happier dairy managers who no longer have to budget for disposable liners. The churns were already in storage, so the only cost was the time to coordinate the system."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, down in Quadling Country, Henry Dale faced a more hands-on problem. The manual turner at the South Meadow community compost pile snapped at the handle, bringing the weekly turning to a halt. Ordering a replacement would have taken weeks and cost more than the community fund had to spare."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln046",
+      "text": "The tool itself was fine—just the handle gave out. There's a stand of ash by the creek that came down in that big wind last fall. Seasoned nicely by now. I cut a section that felt right in the hand, shaped it down to fit the socket, and used some epoxy and a metal band to lock it in place. Good as new, maybe better. Teaches you to work with what you've got."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The repair took an afternoon and used materials either on hand or sourced from the fallen tree. The compost pile was back in action the next day, and neighbors dropping off their food scraps got a brief lesson in why not everything needs to be bought new."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "These stories aren't about grand innovations, but about seeing the value in what's already there—whether it's a stack of old churns in a storeroom or a branch on the ground. It's a kind of thrift that builds resilience, one sturdy handle and one returned container at a time."
+    }
+  ],
+  "content_sha256": "067120c5b9cd6fe1088ebb491e25306da0394ead415776c789db234b0336a4b4"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ln-448-speaker-bio",
+  "title": "Vera Porcelain",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln013"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Vera Porcelain runs Porcelain Mends, a studio specializing in the repair of ceramic, porcelain, and pottery in Clay Hollow, Quadling Country. Her work is a quiet art of restoration, bringing valued pieces back to use without a trace. Recently, when the shared kiln that serves many local artisans in Clay Hollow malfunctioned, Vera’s schedule was disrupted by a week. Rather than delay her clients, she organized a batch of pieces needing firing and transported them to a repair shop in the next valley, ensuring her commitments were met. In a separate project, she was entrusted with a large, borrowed punch bowl for the Clay Hollow harvest festival’s opening ceremony; its ceramic spout had shattered. Vera meticulously reconstructed it using a series of internal ceramic dowels and a food-grade sealant, a repair so sound the bowl was used without hesitation for the festival’s toast."
+    }
+  ],
+  "content_sha256": "10357e67bc4a05eb25b7f400d4d714b70920c1ab4a1217afb3a92a96aaf423a2"
+}

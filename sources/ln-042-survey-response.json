@@ -1,0 +1,48 @@
+{
+  "id": "ln-042-survey-response",
+  "title": "Network Survey: Member Check-in – Brambleshaw Haulage",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln205"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network – Members' Survey – May 2024"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Question 1: What's a recent challenge you navigated at work, and how did you handle it?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln205",
+      "text": "The Brickway bridge at Tallow Creek was closed for repairs last week. Had a pallet of kiln parts for the pottery co-op in Blue Orchard, due that afternoon. Main route was a hard stop. I remembered an old farm service road that cuts behind the Glimmerfield orchards—bumpy as all get-out, but it’s solid ground and comes out past the closure. Took it slow, added an hour, but the parts got there on time. Clerk at the co-op said they’d have had to halt three firings without them."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Question 2: Are there any small changes you're considering to make your daily work easier or safer?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln205",
+      "text": "Seat cushions. These long runs to Gillikin and back, my back knows every mile. The stock seat’s shot. I’m looking into getting a custom cushion made—one of the upholsterers in the Emerald City market does them for truckers. Measured the cab last week. It’s not cheap, but neither is a week laid up. Just figuring out the fill; need support but it can’t be stone."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Question 3: Is there anything the network or your circle could do to support your work?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln205",
+      "text": "Mostly just hearing about these detours and closures sooner. Someone usually knows before the signs go up."
+    }
+  ],
+  "content_sha256": "e1470f2ccece8a948803a27ab1288f7dee74728b7ce3518d67c2cc6e719ba904"
+}

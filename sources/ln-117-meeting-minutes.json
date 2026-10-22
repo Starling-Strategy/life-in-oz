@@ -1,0 +1,21 @@
+{
+  "id": "ln-117-meeting-minutes",
+  "title": "Festival Committee Monthly Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln261",
+    "ln050",
+    "ln129",
+    "ln225"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Festival Committee\nMeeting Minutes\nDate: November 26, 2024\nPresent: Rowan Bell (Community Manager, Secretary), Pim Plumstead, Julian Park, Quill Tincombe, Mabry Rushcombe\n\n1. Welcome and Updates\n   Rowan Bell welcomed members and called the meeting to order at 6:05 PM at the Chamber Hall annex. The minutes from the October meeting were approved.\n\n2. Project Reports\n   2.1. Accessibility in Performance Costumes\n   Pim Plumstead reported on adapting a knight's tabard for a wheelchair-using actor in the upcoming Brickway Players production. The standard side seams were replaced with a series of magnetic closures, allowing the actor to remove and replace the costume unaided during a standard 15-minute intermission. A prototype was completed last week and approved by the actor and the stage manager. Pim noted the magnets are sewn into a reinforced channel and covered with a matching fabric flap for safety and aesthetics.\n\n   2.2. Puppet Repair Clinic\n   Quill Tincombe summarized the free puppet repair clinic held on November 12 at the Lantern Row community center. He repaired seventeen puppets over four hours, with common issues being torn seams on felt animals and loose wooden dowel joints on marionettes. Quill mentioned one parent brought in a puppet that had been chewed by a family pet, which required a full replacement of the head's internal stuffing and a careful patch job. He used materials from his own workshop and said the event was 'a lovely bit of chaos, with children watching wide-eyed as their friends came back to life.'\n\n3. New Proposals and Planned Work\n   3.1. Modular Storage System\n   Julian Park presented initial sketches for modular storage racks designed for the Committee's shared warehouse space. The concept involves interlocking wooden frames that can be configured to hold folded tents, tables of varying lengths, and rolled banners. Julian is planning to source reclaimed timber from the Timber Verge Repair Co-op and hopes to have a working prototype by mid-December for committee feedback. This is a planned project awaiting final measurements of the warehouse bay.\n\n   3.2. Community Banner Workshop\n   Mabry Rushcombe proposed a public workshop to create a large patchwork banner commemorating the Emerald City's founding anniversary. The plan is to invite residents to bring fabric scraps and contribute a stitched square under guidance. Mabry envisions the banner being completed over a series of weekend sessions in Gate Quarter early next year and displayed during the anniversary festivities. This is a planned initiative; Mabry will draft a materials list and potential venue options for the next meeting.\n\n4. Logistics and Scheduling\n   The next Festival Committee meeting is scheduled for December 17, 2024. Rowan Bell will check the availability of the Chamber Hall annex.\n   Action Items:\n   - Julian Park: Finalize warehouse measurements and produce a cost estimate for the modular storage prototype by Dec 10.\n   - Mabry Rushcombe: Develop a draft schedule and material requirements for the banner workshop for review at the next meeting.\n   - Rowan Bell: Circulate contact information for the Brickway Transit Union regarding potential transport of banner materials.\n\n5. Other Business\n   Pim mentioned that Spectacle Lane has a surplus of green velvet off-cuts from a recent project and offered them for the banner workshop. Mabry accepted the offer.\n   Quill inquired about liability insurance for public repair clinics; Rowan agreed to look into the network's coverage.\n   Meeting adjourned at 7:20 PM.\n\nRespectfully submitted,\nRowan Bell\nCommunity Manager, Emerald City Leadership Network"
+    }
+  ],
+  "content_sha256": "4864bf45c72bc10e4d50c907348f30d815cb031fa39681736825ec98e4ce07cd"
+}

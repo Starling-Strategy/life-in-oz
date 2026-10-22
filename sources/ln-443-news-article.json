@@ -1,0 +1,85 @@
+{
+  "id": "ln-443-news-article",
+  "title": "Wizard's Office Liaisons Bridge Gap Between Policy and Practice",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln180",
+    "ln137",
+    "ln220"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY, March 2026—While the Wizard’s Office often conjures images of policy memos and filing cabinets, the network of its community liaisons proves the real work is far more hands-on. From a cider press in Gillikin to a bee swarm in Winkie Country, members of the Emerald City Leadership Network’s Wizard’s Office Liaisons circle are applying their unique skills to solve practical problems, both inside the archives and out."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Violet Hills, the annual community cider pressing at the old orchard on Maroon Lane was in jeopardy. The press’s main drive gear, cast nearly fifty years ago, had finally cracked. Replacement parts weren’t available, and the local machinist was booked for months."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Enter Juniper Hazelby, a lathe operator at Westgate Foundry and a Wizard’s Office Liaison. After inspecting the broken pieces, she took detailed measurements back to her home workshop. Using scrap steel from the foundry, she fabricated a new gear and matching pinion over three evenings."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln180",
+      "text": "The original was pot metal, brittle. I made the new one from a harder steel alloy. Had to recalculate the tooth profile from the fragments—say that again? The tooth profile. The shape of the gear teeth. It wasn’t a standard pitch. Got it right on the third test cut."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The orchard’s coordinator confirmed the press ran smoothly for the pressing event, which produced over eighty gallons of cider. Hazelby waved off any special thanks, noting it was a straightforward job for someone with the right tools."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, a quieter rescue took place across the country. According to reports from neighbors, beekeeper and liaison Otis Orchardholt was called to a distressed property in central Winkie Country. A homeowner had discovered a honeybee colony had taken up residence inside the barn’s eastern eaves and was preparing to seal the entrance, which would have doomed the swarm."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln137",
+      "text": "I heard about it from a friend of the family. They described the sound—a low, warm hum, and the scent of honey and wax already faint on the air even from the ground. Sealing them in would have been a loss, and a mess later. I offered to see if they could be persuaded out."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Using a small smoker and a specially designed screened box, Orchardholt reportedly worked for most of an afternoon. By gently encouraging the queen to move, the rest of the colony followed. He safely relocated the swarm to one of his apiary yards in Redfern Hill."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln137",
+      "text": "They were a healthy bunch, likely from a wild colony. The comb they’d started building had the deep, gold color of old poplar pollen. They’re settled now, with plenty of early bloom to forage."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Back in the Emerald City, the work is more about prevention than intervention. Cyrus Spindlefield, a records clerk in the Wizard’s Office archives, has drafted a new standard for labelling the storage boxes that arrive daily from every department."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln220",
+      "text": "The current system relies on the memory of the person who boxes the files, or sometimes a department-specific code. If that person retires or transfers, the box becomes a mystery. It can take weeks to properly identify the contents for cataloguing."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Spindlefield’s proposed label mandates three clear lines: a brief content description, the inclusive date range of the materials, and the originating department. He’s circulating the draft among senior clerks for feedback, hoping to implement it as an official office policy by the end of the fiscal year."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln220",
+      "text": "It’s a small fix, but consistency prevents future misfiling. If every box from, say, the Brickway Transit office has the same information in the same place, we save hours of investigation. It makes the archive usable, not just a warehouse."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "From the smell of beeswax in a Winkie barn to the metallic scent of cutting oil in a Gillikin workshop, the work of the liaisons remains decidedly, and effectively, grounded."
+    }
+  ],
+  "content_sha256": "280d5f70a05c23c54ad69c28096fa3323dd603521c769b156a0cc1cc235d6a97"
+}

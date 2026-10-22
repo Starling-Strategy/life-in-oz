@@ -1,0 +1,88 @@
+{
+  "id": "ln-440-radio-interview",
+  "title": "On the Air: Building a Portable Puppet Theatre and Hoisting Banners Without a Lift",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln273"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good morning, listeners. This is Community Builders on Emerald City Radio. I’m your host, and today we’re talking about the unsung heroes who make our city’s festivals and fairs not just happen, but shine. Joining me in the studio is Ulric Stoneshaw, a stage carpenter with the Emerald City Leadership Network’s Festival Committee. Ulric, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln273",
+      "text": "Appreciate the invite."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Let’s start with the puppet theatre. I understand you recently built one for a traveling children’s troupe. What was the challenge there?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln273",
+      "text": "Needed to travel. The troupe moves between the city squares and out to the Meadow neighborhoods. Can’t be hauling a heavy wooden proscenium on a cart. So I started with an old market stall frame—the collapsible kind from the south Brickway market. Stripped it down, reinforced the joints. For the walls, used dyed canvas. Heavy-duty, but you can roll it up tight. Dyed it a deep red. Gives a nice backdrop, hides the backstage clutter. They can set it up in about ten minutes now, two people. Fits on their cart with all the puppets."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "A market stall frame. That’s a clever repurpose. Did the troupe have any special requests?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln273",
+      "text": "Wanted a shelf inside for props. And a cut-out in the canvas for a little window, so the puppeteer can see the audience. Simple things. Made it work."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "It sounds like it was a success. Now, shifting gears completely—I’ve heard from others on the Festival Committee about your work for the harvest fair last year. Something about hoisting banners without a lift platform?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln273",
+      "text": "Right. The big welcome banners for the fair. Usually, you’d need a lift to get them up between the lampposts on the main avenue. Lift was booked for another job. So, we had to think different. Used a system of pulley blocks and rope. Rigged a temporary line between the posts. You raise the banner from the ground, secure it, then tighten the whole line. Takes a steady hand and a good knot, but it’s safe. Did it with a crew of three. No lift needed."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "And this is something you devised yourself?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln273",
+      "text": "Adapted it, really. It’s basic rigging. Just applied it to banners instead of scenery. The key is the blocks—reduce the weight you’re pulling. Lets one person do the hoisting while two guide the banner, keep it from twisting."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "It seems so obvious when you explain it, but I imagine it saved a lot of hassle and cost."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln273",
+      "text": "Got the banners up. That was the job."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "A pragmatic answer. Your work with the Festival Committee often involves these kinds of practical, on-the-ground solutions. What’s the most satisfying part of it for you?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln273",
+      "text": "Seeing it used. The puppet show’s running, kids are laughing. The banners are hung, fair looks a bit more welcoming. You walk away, it’s done. That’s it."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "Ulric Stoneshaw, thank you for sharing a bit of the behind-the-scenes work that makes our community events possible. That’s all the time we have for today. Community Builders is produced in partnership with the Emerald City Leadership Network. For our listeners, I’m your host. Have a good morning."
+    }
+  ],
+  "content_sha256": "9ee718440d63beaf23d64aaf6bc7c46ce28edb473aefed3ce3ed802ed76b37a5"
+}

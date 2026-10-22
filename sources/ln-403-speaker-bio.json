@@ -1,0 +1,36 @@
+{
+  "id": "ln-403-speaker-bio",
+  "title": "Meet Our December 2025 Guest Speakers",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln194",
+    "ln126",
+    "ln097",
+    "ln077"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Hazel Violetbourne is an oral history volunteer with the Reading Room Network in Heatherford. Her curiosity and attention to detail make her a natural gatherer of stories. Recently, she organized a storytelling booth at the Heatherford farmers market, where elders shared brief, vivid anecdotes about local landmarks like the old millstone and the whispering grove while shoppers browsed nearby stalls for apples and honey. The event created a gentle, welcome pause in the market's bustle, linking the community's past to its present commerce."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Ida Poppyford is the enthusiastic founder of Poppyford Design Studio in Lantern Row. Her rapid-fire ideas often spark collaborative projects across the city. She has been asked to develop some initial concept sketches for a fundraising campaign aimed at renovating the Lantern Row library's beloved but worn children's section. She's currently gathering inspiration and refining her approach, waiting on the final budget details from the library committee before her pencils really hit the paper."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Leif Emeryholt brings calm, clear precision to his role as a ticket office supervisor for Emerald City Tramways, a skill honed in Violet Hills. Understanding that clarity prevents confusion, he recently coordinated the posting of revised paper fare tables at every tram depot kiosk two full weeks before a scheduled price adjustment. This proactive step gave station staff across the city ample time to familiarize themselves with the new rates and answer passenger questions confidently, smoothing the transition for everyone who relies on the Brickway."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Bram Poppyworth is a pragmatic soil adviser with Gillikin Growers, whose slightly hurried, earthy advice is deeply rooted in practice. He believes in showing, not just telling. Last month, he ran a hands-on workshop at a community plot on the outskirts of Violet Hills, kneeling with a group of growers to demonstrate how to sow winter rye and vetch as cover crops. He explained how these plants protect and nourish the soil through the cold months, leaving the participants with dirty hands, full seed bags, and a clear plan for their own garden beds."
+    }
+  ],
+  "content_sha256": "dafc3e469aaf66c25a98379dd05a0168a92e5fab436da1d82b0afed03bb63733"
+}

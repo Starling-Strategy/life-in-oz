@@ -1,0 +1,33 @@
+{
+  "id": "ln-191-intake-email",
+  "title": "Fwd: Two things from the shop",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln059"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln059",
+      "text": "Rowan—Hope you're having a good week. A couple things here from the barbershop I thought the network might like to hear about. See the forwarded note and poster below.\n\nBest,\nMarlo"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln059",
+      "text": "To the Reed Flats Community,\n\nA big thank you to everyone who came out for the 'Fundraiser Fade' this past Tuesday. We were busy from open to close. I'm pleased to say we raised enough to get two brand-new, sturdy bookshelves for the school library. The librarian said they'll be in place by next week, just in time for the spring book drive.\n\nOn a different note, you might have noticed the new view in the shop window. I've started a rotating display for local artists. We kicked it off with a set of lovely little landscape paintings of the Flats by an artist who lives just down the lane. It's been a nice conversation starter, and I've seen a few new faces pop in just to take a closer look at the art.\n\nIf you know an artist looking for a spot to show their work for a few weeks, send them my way.\n\nSincerely,\nMarlo Meadowmere\nMeadowmere's Barbers"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "[Attached: A simple poster for the 'Fundraiser Fade' event with the date and 'All proceeds to the Reed Flats School Library.']"
+    }
+  ],
+  "content_sha256": "ae7352b1608374811599ec4dacdc8741a2a3c0421a9c7bfe8ae71341789ee828"
+}

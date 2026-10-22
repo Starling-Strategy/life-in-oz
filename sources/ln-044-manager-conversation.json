@@ -1,0 +1,48 @@
+{
+  "id": "ln-044-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Xan Poppyshaw · May 2024",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln152"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Called Xan to check in on the Reed Flats community fridge. Spoke for about fifteen minutes."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Xan mentioned a recent issue with donated items. A neighbor had left several glass jars of homemade peach preserves. Xan said the fridge rules, which are posted clearly, only allow commercially sealed goods for safety reasons."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "She spent an afternoon tracking down the person who left them—turned out to be a new family a few streets over. Xan returned the jars politely, explaining the policy. She said the neighbor was understanding, if a little disappointed."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Separately, we talked about the weather. Xan said last week's heavy rains made the brick path to the fridge slick and muddy."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "She'd salvaged a green canvas awning from a shop that was renovating in town. Last weekend, she mounted it over the fridge's entrance with some help from a passerby who held the ladder."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Xan reported that it worked perfectly during the next downpour. The pathway stayed dry, and people didn't have to juggle groceries under an umbrella. She sounded pleased it made the access safer."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "No specific asks from the network at this time. She said the fridge is running smoothly, stock is turning over well."
+    }
+  ],
+  "content_sha256": "136be032f2e6072a262ddbaa0e74106a9f8a89f469b237ba8769d0a4ddf1a4c6"
+}

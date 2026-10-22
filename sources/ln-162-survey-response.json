@@ -1,0 +1,96 @@
+{
+  "id": "ln-162-survey-response",
+  "title": "Small Business Circle Survey Responses, January 2025",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln050",
+    "ln131",
+    "ln029",
+    "ln287"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "From the network’s quarterly members' survey. Responses from members of the Small Business Circle."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. What’s one thing you’ve done recently that felt like good community work, even if it wasn’t part of your job?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln050",
+      "text": "There’s a signpost down at the crossroads by the old mill. The main post was splintered—looked like something heavy clipped it. I had some oak left from a job. Took the signs down, cut out the bad section, spliced in the new wood, and got all the arms rehung. Wanted it done before the weekend when all the market traffic comes through. People were already stopping, squinting at their maps."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln131",
+      "text": "A client—she’s a mosaic artist—was confused about when she’d need to register for the sales levy. She keeps her records in sketchbooks, which is lovely but not a ledger. I brought in a box of her own broken tile samples and laid out a ‘quarter’ on my desk: this pile is your first month’s sales, this pile your second. When the piles reached a certain height, that was the threshold. It made the abstract concrete for her. She’s all set now."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln029",
+      "text": "Not sure I’ve done anything worth mentioning lately. Just keeping my own deliveries on schedule is community work enough, I think."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln287",
+      "text": "I had to cover a small late fee for a client last quarter. I missed a filing deadline by one day because of a family situation. It was my responsibility, so I paid the fee. I’ve since put a new system in place with a second reminder alert."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "2. What’s a common challenge your clients or neighbors face that the network could help with?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln050",
+      "text": "Wayfinding. Especially for newer businesses off the Brickway. Good, clear signage isn’t just a board with a name—it’s about visibility from a distance, weathering, and who maintains it when a storm knocks it askew. A shared resource for durable materials or a simple maintenance schedule could help."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln131",
+      "text": "Cash flow forecasting. It’s the engine of the business, but so many creative folks see it as a mysterious black box. If the network had a simple, visual tool—like a seasonal calendar showing income peaks and troughs common to different trades—it would start conversations earlier. Prevention is always more cost-effective than a correction."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln029",
+      "text": "Reliable transport for goods. A van with a flat tire or a dead battery can ruin a day’s deliveries. I hear some folks around Clay Hollow have been helping each other out with jump-starts when they can, but something more organized, like a shared roadside assistance contact list for suppliers, would be a weight off everyone’s mind."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln287",
+      "text": "Managing administrative deadlines during personal emergencies. It’s a small thing until it isn’t. A simple buddy system within circles, where you have a go-to person to send a single ‘check these two dates for me’ message, could prevent a lot of small penalties and a great deal of stress."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "3. What’s one skill you have that you’d be willing to share in a workshop?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln050",
+      "text": "Basic joinery for outdoor fixtures. How to make a sign bracket that won’t sag in the rain in an afternoon."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln131",
+      "text": "Translating creative bookkeeping into formal ledgers. Turning sketches of income into columns a tax preparer can use."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln029",
+      "text": "Packing fragile clay goods for safe transport. It’s all about the bracing and the box within a box."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln287",
+      "text": "Setting up calendar alerts and reminder cascades. Making the due date the last thing you think about, not the first."
+    }
+  ],
+  "content_sha256": "be99665e5710f57374e9d075f994b453fdae653ea218caea8caeb9ffe6161adc"
+}

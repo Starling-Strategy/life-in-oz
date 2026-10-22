@@ -1,0 +1,29 @@
+{
+  "id": "ln-218-email-thread",
+  "title": "Fwd: Cover Crops and Leaf Collection",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln197",
+    "ln046"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln197",
+      "text": "From: Ivy Hedgeton, Soil Adviser, Gillikin Growers\nTo: Henry Dale, Compost Caretaker, South Meadow Community Compost\nSubject: Cover Crops and Leaf Collection\nDate: April 14, 2025\n\nHenry,\n\nI hope your compost heaps are coming along nicely with this spring thaw. I’ve been thinking about your work with the fall leaf collection—people in the network are still talking about how smoothly that went.\n\nSpeaking of networks, I’m hearing some chatter about my own recent efforts. Apparently, others are reporting that I prepared a detailed report on a three-season cover crop trial for the Growers. The hearsay is accurate: the report shows improved water retention in our test plots compared to bare fallow fields. The specifics on clover and vetch blends are quite promising, though I’d love a compost expert’s eye on the soil structure notes before we share it wider. Could we find a time to compare notes?\n\nAll best,\nIvy"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln046",
+      "text": "From: Henry Dale, Compost Caretaker, South Meadow Community Compost\nTo: Ivy Hedgeton, Soil Adviser, Gillikin Growers\nSubject: Re: Cover Crops and Leaf Collection\nDate: April 16, 2025\n\nIvy,\n\nGood to hear from you. The heaps are indeed breathing again, thanks in large part to that leaf stockpile. It was a good project last fall. We coordinated with about forty South Meadow residents—they bagged and delivered dry leaves over two weekends. We now have a solid stockpile of clean carbon material laid by under tarps, enough to balance our kitchen scraps well into next winter. It’s straightforward work, but having the community on board made all the difference.\n\nI’d be very interested to see your cover crop report. Improved water retention sounds like exactly what we need to build more resilient soil here, too. My schedule is flexible; name a day next week and I’ll make time.\n\nYours,\nHenry"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln197",
+      "text": "From: Ivy Hedgeton, Soil Adviser, Gillikin Growers\nTo: Henry Dale, Compost Caretaker, South Meadow Community Compost\nSubject: Re: Cover Crops and Leaf Collection\nDate: April 17, 2025\n\nHenry,\n\nNext week works perfectly. How about Tuesday morning? I can come to South Meadow, see your setup, and we can go over the data.\n\nIt’s encouraging to hear how you managed the collection—forty households is no small feat. That kind of coordinated carbon sourcing is a model. I’ll bring the report and some samples from the test plots.\n\nLooking forward,\nIvy"
+    }
+  ],
+  "content_sha256": "4ae7530591010562cceea65860b519f4cecee1f63823b7710d36fd5d2896c895"
+}

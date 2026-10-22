@@ -1,0 +1,99 @@
+{
+  "id": "ln-425-radio-interview",
+  "title": "On the Shelf and On the Road: Practicality in Bell Market and Blue Orchard",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln062",
+    "ln155"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good morning, and welcome back to Oz Community Radio. I’m your host for this segment, and I’m joined today by two members of the Emerald City Leadership Network’s Small Business Circle. With me from Bell Market in the Emerald City is Nell Violetby, school librarian at Bell Market school. And connecting from Blue Orchard in Munchkin Country is Wade Plumwood, owner of the Blue Orchard Bicycle Shop. Welcome to you both."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln062",
+      "text": "Thank you, it’s lovely to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln155",
+      "text": "Thanks for having us. Always happy to take a break from untangling a chain."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "host",
+      "text": "Let’s start with you, Nell. Your work is in a school, not a shop, but you’ve brought a business-like focus to practicality in the library. I’ve heard a few other librarians mention something interesting about your nonfiction section. Can you tell us about that?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln062",
+      "text": "Oh, yes. Well, my colleagues have mentioned it to me, so I suppose it’s gotten around. The standard system, the standard numbers, is wonderfully precise, of course. But for our students, it sometimes puts a book on fixing a leaky faucet quite far from a book on building a birdhouse. So, we tried a small experiment. On one set of shelves, we rearranged things by practical themes instead. We have a section now for ‘fixing things,’ another for ‘growing food,’ one for ‘understanding weather.’"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "host",
+      "text": "And how did that go over?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln062",
+      "text": "The students found it much easier to browse. They’d come in looking for help with a specific project and could see all the related possibilities right there. It wasn’t about abandoning the system, just making a more intuitive path alongside it."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln155",
+      "text": "That’s smart. It’s like having the right tool on the top layer of the toolbox instead of buried at the bottom. Saves time and frustration."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "A perfect segue. Wade, your toolbox is full of bicycles. And you’re thinking about accessibility, too, but for your community’s transportation. What’s on your mind?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln155",
+      "text": "Right. We get a lot of folks who are curious about using a utility bike for their errands—the ones with the big baskets or even the small cargo boxes—but they’re hesitant to commit to buying one outright. Especially as we head into what’s traditionally a slower season for us, after the harvest rush. So, I’m planning to offer a discounted monthly rental rate on those utility bikes. The idea is to lower the barrier, let people try it out for a month of real life, see if it fits into their routine without the big upfront cost."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "To encourage year-round use?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln155",
+      "text": "Exactly. If we only think of bikes as fair-weather toys, they stay in the shed half the year. But if someone’s rented one for a month in, say, Graywind, they might discover that running down to the milliner’s or picking up groceries is perfectly doable, even pleasant, with the right gear. Then maybe they become a year-round rider, or even a buyer down the line."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln062",
+      "text": "That’s such a good idea. It’s about meeting people where they are. Like putting the ‘fixing things’ books all together. You’re providing the tool and a low-pressure way to learn how to use it."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln155",
+      "text": "I’ll take that. Coming from the person who literally wrote the book on it."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "It sounds like practicality and accessibility are the threads connecting your work, even in such different fields. Nell Violetby and Wade Plumwood, thank you both for sharing your time and your ideas with us today."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln062",
+      "text": "Thank you."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln155",
+      "text": "Our pleasure. Now, back to that chain."
+    }
+  ],
+  "content_sha256": "4413042ecf3e0a3ee2deeda7fbe4ff774a03f2758a80cb0341cc5a40395514da"
+}

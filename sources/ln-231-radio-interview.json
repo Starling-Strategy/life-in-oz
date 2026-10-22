@@ -1,0 +1,63 @@
+{
+  "id": "ln-231-radio-interview",
+  "title": "Catching Up with the Festival Committee's Willa Rushley",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln165"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good evening, folks, and welcome back to Oz After Hours on Quadling Community Radio. I’m your host. With the summer festival season coming into view, we like to check in with the folks who make the magic happen—or, I should say, the logistics happen. Joining us from the Festival Committee of the Emerald City Leadership Network is events producer Willa Rushley. Willa, thanks for taking the time."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln165",
+      "text": "Oh, it’s my absolute pleasure! Thanks for having me. We’re right in the thick of it, and I always love a chance to talk about the work."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Let’s start with the basics. Food is a huge part of any festival. I understand you’ve just sorted out a major piece of that puzzle for this year."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln165",
+      "text": "We have! This was a real win. You know the challenge—we’ve got dozens of volunteer cooks and bakers from all four countries, but no central, approved kitchen space for the volume we need. Well, I’ve been chatting with the managers at the Quadling Community Center for months. Just last week, we finally shook hands on an agreement. They’re letting us use their industrial kitchen for the three days leading up to the festival, all their big ovens and prep tables, in exchange for a prominent credit in our printed program. It’s perfect. It means our Gillikin pie teams and our Winkie stew crews won’t be tripping over each other in home kitchens. It’s safe, it’s efficient, and it builds a great partnership."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "That sounds like a huge relief. Now, shifting gears—last year’s festival had its share of, let’s call them, dynamic weather moments. I heard a story about some quick thinking when the clouds opened up."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln165",
+      "text": "(Laughs) Dynamic is one word for it! Yes, that was during the Saturday afternoon concert series out in the meadow. The sky just… let go. Total downpour. We had a Munchkin folk trio about to go on, and a crowd starting to scatter. The scheduled rain plan was a tent that frankly would have sounded like a drum circle. But there’s that big old timber barn belonging to the Redfern Hill farming co-op just a stone’s throw from the meadow. I ran over, found the caretaker—who was already watching the weather—and got a thumbs-up. In about twenty minutes, we had the crew moving the sound equipment, we rolled in hay bales from the barn’s own stock for seating, and one of our electricians strung up a line of temporary work lights. The band played, the barn was packed, and it turned into this wonderfully cozy, impromptu hoedown. The smell of hay and damp earth… it was better than the original plan."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "From crisis to feature. That’s the kind of adaptability that defines a good event. What’s the lesson you took from that?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln165",
+      "text": "The lesson is to know your surroundings better than your schedule. And to have a team that doesn’t wait for permission when the rain starts. We looked at that barn every day during setup and thought, ‘Huh, that’s a big space.’ When the rain came, it wasn’t a mystery building; it was the solution. And the hay bales? Free, dry, and suddenly very popular seating."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "Willa Rushley, events producer for the Festival Committee. Thanks for sharing those stories. We’re all looking forward to seeing what you and the team pull off this year."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln165",
+      "text": "Thank you! We can’t wait to share it with everyone."
+    }
+  ],
+  "content_sha256": "9202cbd9a80b040943b032c6cee8a1c556c4aae862bafa73df6bf7a3f353aaf7"
+}

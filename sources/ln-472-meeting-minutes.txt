@@ -1,0 +1,59 @@
+Wizard's Office Liaisons Circle: May 2026 Meeting Minutes
+
+SYNTHETIC SOURCE — original fictional text; no real event or publication.
+Format: meeting_minutes
+Theme: Wizard's Office Liaisons
+
+Emerald City Leadership Network
+Wizard's Office Liaisons Circle
+Meeting Minutes, May 2026
+
+Present: Nadia Stone, Delphine Saffronmere, Juniper Hazelby, Pim Rushby, Ansel Greenbourne, Rowan Bell (manager)
+
+1. Welcome and Updates
+Rowan Bell opened the meeting, noting the focus on practical updates and coordination between the Wizard's Office and member circles.
+
+Nadia Stone:
+Nadia Stone reported on a recent landowner meeting near South Copse regarding a disputed drainage ditch. She produced a clear, scaled sketch of the alignment based on old survey markers and the current topography. She noted that the sketch helped clarify the official record during the meeting, though she emphasized the measurements were approximate to the nearest half-rod, not round numbers.
+
+2. Member Updates
+Members shared recent work and observations.
+
+Delphine Saffronmere:
+Delphine Saffronmere mentioned that her car has been unusable for distant tutoring appointments. She did not report on a specific action, but others noted that she has been seen learning to fix a punctured tyre on her bicycle. Delphine acknowledged the situation pragmatically, saying, 'You adapt with what's at hand.'
+
+Juniper Hazelby:
+Juniper Hazelby reported on a request from the Brickway Transit Union liaison. An older model of Emerald City bus was sidelined due to a missing, out-of-stock brake component. Juniper said, 'They needed a small shuttle retainer, about this big.' She held up her fingers to indicate the size. 'The drawing was clear, but the tolerances were tight. I machined it on the lathe from a bar of hardened bronze. Got the profile right on the third try. That got several vehicles back in service in two days.'
+
+Pim Rushby:
+Pim Rushby provided a brief, factual update. 'In advance of the spring thaw, I systematically checked all the Wizard's Office public notice boilerplate for emergency contact numbers. I found two outdated listings for the Quadling Country flood watch line. Both have been updated in the templates as of last week.'
+
+Ansel Greenbourne:
+Ansel Greenbourne described work at a Munchkin Country community hall. 'They had a persistent circuit breaker trip on one of the heating circuits. I traced it back to a degraded section of wire feeding a wall-mounted heating element. The insulation was brittle and had cracked, causing a ground fault. I cut out the bad section, spliced in a new piece with proper crimp connectors, and sealed it with heat-shrink. Restored heat the afternoon before a scheduled community meeting.'
+
+3. Coordination and Discussion
+Discussion turned to how the Liaisons circle can better surface small, practical needs from other circles to the Wizard's Office and vice-versa.
+
+Nadia Stone:
+Nadia suggested a simple log of 'small fixes' that could inform future procurement or template updates, stressing the need for accurate, non-rounded data.
+
+Juniper Hazelby:
+Juniper asked Pim to repeat the process for updating the boilerplate, wanting to understand if similar outdated technical references might exist in maintenance manuals. 'Say that again about the templates?' she asked.
+
+Pim Rushby:
+Pim explained it was a manual text search of standard document sections, confirming it was a clerical, not a technical, review process.
+
+Ansel Greenbourne:
+Ansel noted that many recurring electrical issues in older halls stem from aging cloth-insulated wire, a problem not captured in most current inspection checklists.
+
+Rowan Bell — community manager:
+Rowan Bell proposed compiling these observations into a one-page brief for the next cross-circle meeting. Delphine agreed to help draft the brief, citing her experience in making complex information accessible.
+
+4. Actions and Decisions
+- ACTION (Rowan Bell): Compile member updates and observations into a draft one-page brief.
+- ACTION (Delphine Saffronmere): Review and help finalize the brief for clarity.
+- ACTION (All): Report any similar small-scale, practical fixes or outdated reference issues to Rowan by the end of the month for inclusion.
+- DECISION: The brief will be shared at the June cross-circle meeting as a discussion starter on improving resource alignment.
+
+Meeting concluded at 7:45 p.m.
+Minutes recorded by Rowan Bell.

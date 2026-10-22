@@ -1,0 +1,28 @@
+{
+  "id": "ln-251-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Nico Poppycombe · June 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln164"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Nico said the volunteer flour repack went well last week. Had six people show up, which was the perfect number for the job. They took the whole fifty-pound sack and bagged it up into two-pound portions. Said it took about two hours, start to finish, and now the bags are ready to go out with the regular deliveries."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Also mentioned coordinating an extra delivery run just yesterday. The Gillikin Growers had a surplus of root vegetables and apples that were on the edge. Rather than let them spoil, Nico organized a van and a couple of volunteers to take them straight to the Brickway Senior Residence. Said they were able to distribute all of it, and the residents were really pleased to get the fresh produce."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Nico said the main challenge is just coordinating people and vehicles on short notice when a surplus comes in, but that it's worth it. Plans to keep an eye out for more opportunities like that, and to maybe set up a more regular 'surplus alert' system with the Growers circle."
+    }
+  ],
+  "content_sha256": "bcbcd17936a5cdeb32bdfe8a4fb05d090fe17cc12182155487f36575676b1d17"
+}

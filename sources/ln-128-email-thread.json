@@ -1,0 +1,39 @@
+{
+  "id": "ln-128-email-thread",
+  "title": "Meadow Mutual Aid Newsletter - December 2024 Thread",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln176",
+    "ln193"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Meadow Mutual Aid Circle\nSubject: December 2024 Updates & Mutual Aid Highlights\nDate: December 5, 2024\n\nHello Meadow Mutual Aid members,\n\nAs we head into the colder months, I wanted to share a couple of bright spots from our circle. These efforts really show the 'mutual' in mutual aid—finding ways to stretch our shared resources and care for the tools that serve our community.\n\nFirst, from Sable at the Eastfield Childcare Co-op:\n\nRowan"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln176",
+      "text": "From: Sable Orchardfield, Eastfield Childcare Co-op\nTo: Rowan Bell, Community Manager\nSubject: Re: December 2024 Updates & Mutual Aid Highlights\nDate: December 6, 2024\n\nHi Rowan,\n\nThanks for reaching out. We did manage to get our winter hall situation settled. We were looking at the rental costs for the community hall where we run our afternoon programs, and it was going to be a real pinch with our budget. So we sat down with the hall committee and proposed a trade: we'd take over the basic cleaning after our sessions and handle our own setup and breakdown if they could reduce our rate. They agreed. It’s a fair swap—we save on fees, and they save on custodial hours. It means our parents and volunteers pitch in a little extra at the end of the day, but we’re all happy to do it to keep the co-op running smoothly through the season.\n\nHope that’s the kind of thing you were looking for.\n\nBest,\nSable"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Meadow Mutual Aid Circle\nSubject: Fwd: December 2024 Updates & Mutual Aid Highlights\nDate: December 7, 2024\n\nAnd a great example from Leif Barleycombe over at Emerald City Tramways. I'll forward his note below.\n\nRowan\n\n---------- Forwarded message ----------\nFrom: Leif Barleycombe, Emerald City Tramways\nTo: Rowan Bell, Community Manager\nDate: December 6, 2024\nSubject: Re: December 2024 Updates & Mutual Aid Highlights"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln193",
+      "text": "Rowan,\n\nRegarding your request: it was a small thing, but it was causing a persistent issue. At the Brickway Junction depot, we have an older-style fare box on one of the backup trams. For months, we'd been finding the coins inside were corroding, which is a problem for counting and for the machines later on. I tracked it down to a very slow leak—condensation was getting in overnight. The original gasket had perished and the part wasn't made anymore.\n\nI took the measurements and sourced a custom-cut rubber gasket from a supplier over in the Quadling market district. It was a simple fix once we had the right piece. It seals properly now, so the revenue is protected and we don't have to spend time cleaning corroded coinage. It should last for years.\n\nRegards,\nLeif Barleycombe"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Meadow Mutual Aid Circle\nSubject: Re: December 2024 Updates & Mutual Aid Highlights\nDate: December 7, 2024\n\nThanks to both Sable and Leif for sharing. Sable's work preserves a space for community care, and Leif's protects the resources that keep our city moving. Two different forms of stewardship, both deeply valuable.\n\nIf anyone else has similar stories of troubleshooting, trading, or tending to our shared systems, please send them my way.\n\nRowan Bell\nCommunity Manager"
+    }
+  ],
+  "content_sha256": "984d2a733fda2ac64d7780e4b72719a76545eadc2e72d814ddaa8b568bfcbf90"
+}

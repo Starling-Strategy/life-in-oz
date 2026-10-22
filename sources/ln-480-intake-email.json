@@ -1,0 +1,29 @@
+{
+  "id": "ln-480-intake-email",
+  "title": "Fwd: Winter prep notes from the farm and apiary",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln161",
+    "ln113"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln113",
+      "text": "From: Hollis Cinderton, Dairy farmer, Cinderton Dairy\nTo: Network Intake\nSubject: Fwd: Winter prep notes\nDate: June 4, 2026\n\nRowan,\n\nPassing this along for the records. Saw Kai's note and it reminded me to send my own bit. Both attached below. Feels like the sort of thing the Growers circle likes to know.\n\nBest,\nHollis"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Kai Kilnby, Beekeeper, Kilnby Apiaries\nTo: Hollis Cinderton\nSubject: Re: Winter prep notes\nDate: June 3, 2026\n\nHollis,\n\nGood to hear from you. Yes.\n\nI did get to those hive floors.\n\nThree of the older boxes had rotted through. The wood was soft. Couldn't wait.\n\nFound some good scrap wood in a neighbor's shed. They were clearing out. Oak, mostly.\n\nCut it to size before the first frost settled in. The bees... they seem quieter on the new floors. A good thing, I think.\n\nThat's it from here.\n\nKai"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "--- Hollis Cinderton's note ---\nDate: June 4, 2026\n\nMy turn.\n\nWas doing the rounds last week and noticed a good-sized tear in the silage tarp. Wind must have caught it. Could've ruined a quarter of the winter feed if the rain got in.\n\nHad a roll of that heavy-duty mending tape in the barn. The sticky kind meant for poly tarps.\n\nTook about twenty minutes to patch it up proper, dry and clean. Looks ugly as sin now, but it's sealed. Feed's dry.\n\nHollis"
+    }
+  ],
+  "content_sha256": "8049e95ade184b98a653c65757c9c63fb8e9f18f952ebbca6e17add39dfb978b"
+}

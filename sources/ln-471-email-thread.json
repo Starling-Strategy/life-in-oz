@@ -1,0 +1,35 @@
+{
+  "id": "ln-471-email-thread",
+  "title": "Re: Friday's round-up & a small offer",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln227",
+    "ln119",
+    "ln263"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager, Emerald City Leadership Network\nTo: Small Business Circle\nSubject: Friday's round-up & a small offer\nDate: May 7, 2026\n\nHello all,\n\nA quick note from this week's check-ins.\n\nAmbrose at Bramblefield's Cafe finally tackled the wobbly table in the corner. He gave the uneven leg a light sanding and added some self-adhesive felt pads to the feet. He says the regulars are noticeably relieved not to have their tea cups rattling anymore.\n\nNoor at Meadowbank Bicycle Shop has been busy. She took in a batch of donated bicycles, refurbished them, and passed them along to apprentices who had no way to get to the Works. Simple thing, but it got people moving.\n\nAnd Golda at Hedgestead Upholstery has an idea. She's thinking of hosting a small workshop on making and replacing simple cushion inserts for dining chairs, using fabric scraps and basic tools. It's just a thought for now, but if it sounds like something you or your customers might be interested in, let her know.\n\nWishing you a steady week,\nRowan"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln227",
+      "text": "From: Golda Hedgestead, Hedgestead Upholstery\nTo: Small Business Circle\nSubject: Re: Friday's round-up & a small offer\nDate: May 8, 2026\n\nHello Rowan, and everyone,\n\nThank you for mentioning the idea, Rowan. I've been looking at the scrap bin and thinking it's a shame to let good fabric go to waste when so many chairs end up with sad, flat cushions. It really is a simple process—measuring, cutting, stuffing, stitching a simple closure. I have the space here in the workroom for maybe five or six people at a time. If anyone hears of interest, do point them my way. No firm plans yet, just seeing if there's a need.\n\nAlso, Ambrose, I'm so glad about that table. There's nothing quite like the quiet satisfaction of fixing a persistent wobble.\n\nBest,\nGolda"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln119",
+      "text": "From: Ambrose Bramblefield, Bramblefield's Cafe\nTo: Small Business Circle\nSubject: Re: Friday's round-up & a small offer\nDate: May 9, 2026\n\nGolda, that workshop sounds wonderful. I have at least two chairs in the back room that could use your expertise. Or rather, I could use the expertise to fix them myself. Let me know if you decide to set a date.\n\nAnd thank you, Rowan. It was a ten-minute job that I'd put off for ten months. The regular at table four actually complimented the stability this morning. High praise.\n\nNoor, those bicycles—that's real work. I overheard one of the bakers at the market saying her nephew got one of yours and now he's never late. Well done.\n\nAmbrose"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln263",
+      "text": "From: Noor Brookmere, Meadowbank Bicycle Shop\nTo: Small Business Circle\nSubject: Re: Friday's round-up & a small offer\nDate: May 9, 2026\n\nThanks, both. It was just a matter of matching up what was coming in with who needed to go. The look on their faces when they rode off was payment enough.\n\nAmbrose, I'll be by for a stable cup of tea soon. Golda, I love this idea. My sister has been complaining about her dining chairs for a year. If you run it, count her in. Practical skills like that always find a use.\n\nNoor"
+    }
+  ],
+  "content_sha256": "8c059b801c138258ca7cee5ac260f668cd88e112eb542c86d616931ff1e4cb4b"
+}

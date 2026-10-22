@@ -1,0 +1,43 @@
+{
+  "id": "ln-451-press-release",
+  "title": "Westgate Foundry Adapts to Complete Timber Verge Order, Averts Crane Shutdown",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln252"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nApril 2026\nEMERALD CITY – Westgate Foundry supervisor Edmund Saffronham has overseen the successful completion of a municipal order for the Timber Verge community while also implementing a critical repair to keep the historic foundry operational."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Last month, the foundry cast six replacement iron park benches destined for a public square in the Timber Verge. The order required precise alignment of the benches' mounting bolt-holes with the original stone bases installed decades ago. Saffronham supervised the pattern-making and casting process to ensure this precision, preventing delays for the Timber Verge Repair Co-op's installation crew."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln252",
+      "text": "The existing bases are fixed, and the stonework is complex. There's no room for error. The pattern had to be right, and the iron had to cool without warping. We matched the holes within a sixteenth of an inch."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Separately, Saffronham identified a critical fault in the overhead crane’s control box that threatened to halt all major lifts for a week while waiting for a new part. He diagnosed a fried relay and, rather than waiting for a new shipment, sourced a compatible spare from a decommissioned control panel in the foundry’s storage yard. The bypass was completed in an afternoon, avoiding a costly shutdown."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln252",
+      "text": "The relay was standard for that generation of crane. We had three old panels from the '80s upgrade sitting on a shelf. It was a matter of verifying the amperage rating and soldering the connections. A week's downtime wasn't an option."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The Westgate Foundry is a member of the Emerald City Leadership Network’s Small Business Circle. The benches are now en route to the Timber Verge for installation."
+    }
+  ],
+  "content_sha256": "074d9eb704f0392d36ba8f07c3d6c1804658fffd0870a153af96932657ebb1df"
+}

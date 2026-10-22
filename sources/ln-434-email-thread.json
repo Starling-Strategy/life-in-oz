@@ -1,0 +1,29 @@
+{
+  "id": "ln-434-email-thread",
+  "title": "Re: Meadow Mutual Aid – winter coordination",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln193",
+    "ln056"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln193",
+      "text": "From: Leif Barleycombe, Ticket Office Supervisor, Emerald City Tramways\nTo: Ezra Hedgebourne, Blue Orchard Mutual Aid\nSubject: Re: Meadow Mutual Aid – winter coordination\nDate: 12 February 2026\n\nEzra,\n\nGood to hear from you. I did see your note about the food pantry runs. The timing is tricky with the scheduled track maintenance on the East Brickway spur, but let me think on it.\n\nIt reminds me of last month when we had unplanned roadworks blocking the line at the Junction. We had two spare buses sitting in the depot, so I arranged for them to ferry passengers between the Meadowview and Junction stops. Ran a shuttle service for three days, kept everyone moving. The drivers worked extra shifts, and we posted clear signs at every stop. It was just logistics.\n\nI mention it because if your pantry runs need a similar workaround—a van meeting a tram at a different stop, for instance—the principle is the same. We can likely find a vehicle.\n\nBest,\nLeif"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln056",
+      "text": "From: Ezra Hedgebourne, Volunteer Coordinator, Blue Orchard Mutual Aid\nTo: Leif Barleycombe, Ticket Office Supervisor, Emerald City Tramways\nSubject: Re: Meadow Mutual Aid – winter coordination\nDate: 15 February 2026\n\nLeif!\n\nThat shuttle story is exactly the kind of neighborly pivot we love. Thank you for doing that. And yes, let's definitely talk about a van meet-up spot. We can make it work.\n\nIt's all about seeing a need and filling it together. Like our holiday drive—we popped collection bins in five shops around Blue Orchard and just asked people to give what they could. We ended up with enough toys and books for fifty gift packages. Families picked them up right from the community hall. It wasn't complicated; we just provided the bins and the sorting hands.\n\nI'll call your office next week to see about those vehicles. Maybe we can set something regular up.\n\nCheers,\nEzra"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln193",
+      "text": "From: Leif Barleycombe, Ticket Office Supervisor, Emerald City Tramways\nTo: Ezra Hedgebourne, Blue Orchard Mutual Aid\nSubject: Re: Meadow Mutual Aid – winter coordination\nDate: 17 February 2026\n\nEzra,\n\nUnderstood. Fifty packages is a good number. I'll have the depot schedule for next month by then, so we'll know what's available.\n\nLooking forward to your call.\n\nLeif"
+    }
+  ],
+  "content_sha256": "0248c2492e3ce2c20cecf2ca24a368b3d40fa7cc64e8b3c570c144c23aa79002"
+}

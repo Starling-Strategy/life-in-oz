@@ -1,0 +1,103 @@
+{
+  "id": "ln-122-radio-interview",
+  "title": "Festival Committee Focus: Backstage Craft with Tamsin Reedwood",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln057"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good morning, Oz. You're listening to 'Community Spot,' on the Oz Travel Digest network. I'm your host, and I'm thrilled to be joined today by Tamsin Reedwood, a stage carpenter with the Emerald City Festival Committee. Tamsin, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln057",
+      "text": "Thanks for having me."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Now, your work often happens out of sight, but if it fails, everyone notices. Let's start with the recent Poetry Slam. I heard there was a problem with one of the portable sound booths."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln057",
+      "text": "That's right. The frame was wobbly. A few of us had noticed it rocking during setup. It was a distraction risk, and no one wants a rattling backdrop behind a poet."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "So what did you do?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln057",
+      "text": "I took it apart—well, partially—to see the joint angles. We had some scrap plywood from a different project in the workshop. I cut four corner braces, sized them to fit the interior frame, and screwed them in. It stiffened the whole structure."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "And the result?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln057",
+      "text": "The booth stayed put all weekend. No new noise, no more wobble. The audio team didn't have to think about it again, which is exactly what you want."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "Excellent. Let's move to another project. The Children's Festival puppet stage. That's a pretty iconic piece of kit, isn't it?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln057",
+      "text": "It is. It's old, travels all over. One of the main proscenium hinges snapped during load-in. It’s a specific, heavy-duty fitting you can't just buy."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "That sounds like a crisis."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln057",
+      "text": "It would have been. The first show was in a few hours. I took the broken hinge back to the workshop, measured everything, and fabricated a replacement out of steel plate. Drilled the holes, shaped it to match."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "You made it?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln057",
+      "text": "Yes. Got it bolted on, and the stage was ready. The puppeteers never missed a cue."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "That's remarkable. It seems like your work is all about anticipation—seeing the wobble, having the scrap on hand—and then rapid response."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln057",
+      "text": "I suppose so. It's just... you look at what's in front of you, see what it needs, and use what you've got. The goal is for the show to happen like nothing was ever wrong."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "host",
+      "text": "And you achieve that. Tamsin Reedwood, stage carpenter with the Festival Committee. Thank you for keeping the magic—well, the perfectly stable and silent magic—of our festivals alive."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln057",
+      "text": "Thank you."
+    }
+  ],
+  "content_sha256": "c7542b62bddb9827eb8e2ef5c1c571293f0a45509fb9bee322dd235d7312ab50"
+}

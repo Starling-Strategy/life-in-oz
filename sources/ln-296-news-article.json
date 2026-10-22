@@ -1,0 +1,80 @@
+{
+  "id": "ln-296-news-article",
+  "title": "Small Business Circle Roundup: A Ferry Timetable, a Footbridge, and a Grant Deadline",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln004",
+    "ln002",
+    "ln001"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "While the Small Business Circle often gathers to discuss shared challenges over tea, the real work happens out on the roads, in the woods, and across kitchen tables. This month, three members tackled distinctly different tasks, each one a quiet solution to a local snag."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In South Copse, the announcement that the Quadling ferry would run on reduced hours from October through March sent a ripple through the local freight schedule. For Leona Bracken of Bracken Freight, it meant a potential disruption to her regular hardware store deliveries across the water."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln004",
+      "text": "I saw the posted notice and my first thought was, 'Well, that won't do.' It was a risk. I couldn't just hope my drivers and the ferry would meet up. So I went down there, met with the ferry master, and we spread his new timetable out on his desk. We mapped my whole route against his crossings, pen on paper."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "By rearranging her truck routes to align precisely with the new ferry schedule, Bracken ensured her shipments continued without a single delay throughout the winter months."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln004",
+      "text": "It was just logistics. Nervous-making, but you solve it by looking at the facts. We made it work."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Timber Verge, a safety concern caught Martin Woodward's eye. The handrail on the old footbridge over the creek, a shortcut used by co-op members and children, had rotted through in a key section."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln002",
+      "text": "The post was soft for about eighteen inches. You could feel it give. We had seasoned oak from a windfall last autumn, already milled. So I got two volunteers, and we measured, cut, and fitted a new section."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The project took an afternoon. Woodward and the volunteers sanded the new rail smooth and secured it with galvanized bolts, not nails, to prevent the wobble that had plagued the old repair."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln002",
+      "text": "Bolts hold better under strain. We'll see how it settles after the next good rain, but it's solid for now. You can lean on it."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Back in Munchkin Country, a different kind of deadline was looming. Brickway Junction's market gardeners were eligible for a county agricultural grant, but their yield records—a vital part of the application—were a patchwork of notes on invoice backs, seed packets, and calendar margins."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln001",
+      "text": "Seven different gardens, seven different ways of jotting things down. The deadline was coming up fast, and everyone was too busy in the fields to sort it. So I collected all the scraps. It was a week of evenings at my kitchen table, deciphering handwriting and getting totals to line up."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Dorothy Gale transferred the scattered data into a single, clear ledger, creating a consistent record for each gardener. Her work ensured all seven applications were submitted complete and on time."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln001",
+      "text": "It's just organizing. If the forms are right, the county can see the work they're doing. That's what matters. Gets the process moving so people can get back home to their real work."
+    }
+  ],
+  "content_sha256": "3b7597fe35a8d4634a2024424d0e11d0e443c34075f4eb790acfa521bc519a5a"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ln-419-news-article",
+  "title": "From Mills to Mills: Gillikin Growers Circle Members Keep the Wheels Turning",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln269",
+    "ln279",
+    "ln245",
+    "ln149"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "GILLIKIN FALLS – While the harvest season may be a memory, the work within the Gillikin Growers Circle is a year-round affair. Recent weeks have seen members from mills to seed banks making quiet, crucial adjustments, each turn of a dial or careful inspection ensuring the region's foodways remain robust and responsive."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "At the Gillikin Falls Grain Mill, operator Honor Reedmere spent a morning fine-tuning the mill's settings. A nearby bakery had requested a specific, fine spelt flour for a special harvest loaf. \"It’s not just about grinding it down,\" Reedmere said, her voice steady and unhurried. \"It’s about the consistency. You want it to feel the same in the baker’s hands every time they reach for the sack. A few adjustments to the flow, a check on the stones, and we had it.\" The bakery reported the resulting loaves had a perfect, even crumb."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Down the Brickway in Violet Hills, a similar story of calibration unfolded. Edith Reedstead, operator of the Violet Hills Grain Mill, was fielding requests from several bakeries preparing for the upcoming Quadling Cornbread Festival. \"They wanted a coarser grind,\" Reedstead said, her tone practical and firm. \"A finer meal soaks up liquid differently. For the festival cornbread, they need that bit of tooth. So I opened the gap a hair’s breadth wider on the stones. Not much to look at, but it’s the thing they asked for.\" The first batches of the coarser cornmeal were delivered last week."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The work of preservation extends beyond grinding. Quill Orchardley, a dedicated seed saver with the Gillikin Falls seed circle, recently faced a setback that underscores the vigilance required. During a routine inspection of his storage cupboard, he discovered a faint, powdery mildew on a batch of saved pea seeds. \"It was just a ghost of a thing on a few,\" Orchardley explained, his voice still carrying the enthusiasm of a teacher despite the loss. \"But with seeds, you can’t take chances. If it spreads, you could lose a whole season’s stock, or worse, pass it to another gardener’s plot.\" He made the decision to discard half his stock of that particular pea variety to prevent any further contamination. \"It’s hard, seeing those jars go empty,\" he admitted. \"But it means the rest of the cupboard—the beans, the tomatoes, the flower seeds—are safe. We’ll rebuild that stock next season.\""
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "While not directly tied to agriculture, another Gillikin Growers member has been applying a similar ethos of local sourcing and careful renewal to his own domain. Hugo Rushmere, manager of the Emerald Gate Hotel in the city’s Junction Quarter, recently oversaw a refresh of the guest room seating. \"The armchairs were tired,\" Rushmere said, his tone polished and diplomatic. \"But the frames were sound. It seemed a shame to bring in something entirely new when we have such skilled hands here.\" He coordinated with local upholsterers over a quiet midweek period, having twelve chairs restuffed and recovered in a durable, moss-green fabric. \"It’s a small project in the grand scheme,\" he noted, \"but it makes the rooms feel cared for. And it keeps the work with our neighbors.\""
+    }
+  ],
+  "content_sha256": "43002ec85a0eb8a7af3cd9fd237c096b104cd1fde91e80a8e6c0377fe30bab5e"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ln-121-survey-response",
+  "title": "Blue Orchard Seed Library Member Survey: Ada Reed's Response",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln022"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Members' Survey – November 2024\nTheme: Resourcefulness & Reuse\nRespondent: Ada Reed, Seed Librarian, Blue Orchard Seed Library"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Question: Describe a recent project where you repurposed materials for your circle's work."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln022",
+      "text": "The paper envelopes for seed packets, while fine, were generating a lot of single-use waste, especially for our regular borrowers. I collected worn-out tea towels—the linen-cotton blend type, the ones with faded gingham patterns or small holes—and cut them to size. I measured, cut, and stitched fifty reusable cloth envelopes. They have a simple fold-over flap. We offer them now at the lending desk. Borrowers can take seeds home in one and return it washed on their next visit. It’s a small system, but it has reduced our paper envelope use by about half among the participants."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Question: What is a new resource or tool your circle is planning to offer members in the coming season?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln022",
+      "text": "We have two small cold frames, the portable kind with hinged glass lids, that were donated last fall. They’ve been sitting in the shed, labeled ‘for early starts.’ Next planting season, we intend to loan them out from the seed library. The idea is for gardeners, especially those new to cool-weather crops like certain lettuces or peas, to borrow a frame for a few weeks to try getting a jump on spring. It’s an experiment in extending the season. The loan will come with a simple instruction sheet—care of the glass, ventilation, that sort of thing."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Question: In your view, what makes a shared resource, like a library, work well for a community?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln022",
+      "text": "Clear labeling. Predictable availability. And treating the thing being shared—whether it’s seeds, a cold frame, or a cloth envelope—as something that will come back to serve the next person. It’s a cycle, not a one-time transaction. The trust is in the return, and the care taken in between."
+    }
+  ],
+  "content_sha256": "016963995201734164a4e846cba32ed07b963fd9ca7c8e822ec03f7bcf7a8d41"
+}

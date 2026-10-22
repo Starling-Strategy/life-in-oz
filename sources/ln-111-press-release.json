@@ -1,0 +1,38 @@
+{
+  "id": "ln-111-press-release",
+  "title": "Timber Verge Repair Co-op Member Saves Client Cost with Sharp Ear, Awaits Materials for Workshop Improvement",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln298"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nNovember 2024\nCLAY HOLLOW, Quadling Country – Kezia Quadbourne of the Timber Verge Repair Co-op recently demonstrated that a keen ear can be as valuable as any tool. According to reports from her workshop, a client brought in a silent refrigerator, concerned it was beyond repair. Quadbourne listened closely to the unit's faint, irregular hum and correctly diagnosed a failing compressor before any disassembly was required."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln298",
+      "text": "Most folks hear 'silent' and think the worst. But that little hum was telling a story—it was struggling, not dead. We ordered the right part straight away, and the owner saved the time and fee for a full diagnostic teardown."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "In a separate initiative to improve the co-op's shared workspace, Quadbourne has drafted plans for wall-mounted shelving to better organize tools and parts. The project, however, is currently on hold."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln298",
+      "text": "The plans are drawn. It’s a simple, solid design that’ll get everything off the floor and within reach. But we’re waiting on a donation of the right timber—something sturdy enough to hold the weight. We’ll build it as soon as the materials come through."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The Timber Verge Repair Co-op, a member of the Emerald City Leadership Network, provides appliance repair and maintenance services across the Clay Hollow area, emphasizing skill-sharing and community resourcefulness."
+    }
+  ],
+  "content_sha256": "7055c84a734937010a0452d175b999007520c9d21668be1bafa602f3b8ad481a"
+}

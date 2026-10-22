@@ -1,0 +1,33 @@
+{
+  "id": "ln-190-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Silas Hazelmere · March 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln231"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Silas reported on two completed projects for the Reed Flats Market."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "First, the canopy lending scheme. Silas organized it last season. Vendors can borrow tarps and poles when rain hits suddenly. He said it prevented at least three major produce spoilage incidents. A dairy vendor told him it saved a whole day's cheese."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Second, the ice supply. Silas negotiated a bulk discount with an ice supplier from Gillikin Country, set for the coming summer. The deal is locked in. It will let fish and dairy vendors keep stock fresh during heatwaves without having to raise their stall fees to cover costs."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Silas sounded pleased both are done. No further actions requested from the network. He said the market committee will handle maintenance of the canopy kits."
+    }
+  ],
+  "content_sha256": "7215e72f3002fb42add0e8fa4354f3cacb6d38c355a3b2156bf452e28afcd57a"
+}

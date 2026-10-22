@@ -1,0 +1,22 @@
+{
+  "id": "ln-505-meeting-minutes",
+  "title": "Festival Committee Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln199",
+    "ln146",
+    "ln040",
+    "ln163",
+    "ln102"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Festival Committee Meeting\nDate: August 18, 2026\nPresent: Ines Emeryby, Toby Brickwick, Rosa Clay, Uri Pepperbourne, Jasper Gatefield, Rowan Bell (Community Manager)\n\n1. Welcome and Introductions\n   The meeting was called to order at 7:00 PM in the Spectacle Lane Reading Room meeting space. Rowan Bell welcomed members and reviewed the agenda.\n\n2. Updates from the South Meadow Spring Fair\n   Members shared brief updates on work completed in their own circles since the fair.\n   - Ines Emeryby reported on streamlining her dental practice's appointment reminder system by consolidating phone calls and text messages into a single automated process. She noted this has reduced missed visits by about 15%.\n   - Toby Brickwick reported that he facilitated a workshop at the Spectacle Lane Reading Room where participants used the letterpress to print their own short poems on broadside sheets. He described the event as well-attended and satisfying for participants.\n   - Rosa Clay stated that at Clay Hollow studios, she retrieved a clogged metal sink strainer from the studio's clay trap, cleaned it thoroughly with a wire brush, and re-seated it properly. This action has improved drainage in the communal cleaning area.\n   - Uri Pepperbourne noted that after the South Meadow Spring Fair, he observed the clinic's three portable first aid kits were depleted. He spent a morning restocking them with fresh bandages and antiseptic wipes from the central supply.\n   - Regarding Jasper Gatefield, other members reported that he provided evening tutoring to an adult learner preparing for a trade certification exam, helping them pass on the second attempt.\n\n3. Discussion: Planning for the Autumn Harvest Festival\n   a) Venue and Date\n      The committee agreed to propose the South Meadow Commons as the primary venue for the weekend of October 10-11, 2026. Uri Pepperbourne will confirm availability with the Commons scheduling board.\n   b) Program Themes\n      Toby Brickwick suggested a theme of 'Craft & Verse,' integrating hands-on workshops with spoken word and printed pieces. Jasper Gatefield supported the idea, drawing an analogy to tutoring where 'showing the work is as important as the final answer.'\n      Rosa Clay proposed including a community clay station for simple hand-building, contingent on securing a water source and cleanup plan.\n   c) Logistics and Safety\n      Ines Emeryby raised the need for clear, accessible first aid stations. Uri Pepperbourne agreed to draft a basic first aid station plan based on clinic protocols.\n      Discussion ensued regarding food vendor coordination and waste management. Jasper Gatefield volunteered to contact the Meadow Mutual Aid circle regarding their portable wash stations.\n\n4. Open Actions and Next Steps\n   - Action 1: Uri Pepperbourne to confirm South Meadow Commons availability by August 25.\n   - Action 2: Toby Brickwick and Rosa Clay to collaborate on a draft schedule for 'Craft & Verse' workshops by September 1.\n   - Action 3: Jasper Gatefield to connect with Meadow Mutual Aid regarding wash stations and report back at the next meeting.\n   - Action 4: Ines Emeryby and Uri Pepperbourne to develop a first aid station plan and supply list by September 8.\n   - Action 5: Rowan Bell to circulate these minutes and schedule the next committee meeting for September 15, 2026.\n\n5. Adjournment\n   The meeting adjourned at 8:30 PM.\n\nMinutes respectfully submitted by the Festival Committee."
+    }
+  ],
+  "content_sha256": "8cd85807c54a7c9b1b08dbaa9dd4062548222357f76af63d06484ace79363f19"
+}

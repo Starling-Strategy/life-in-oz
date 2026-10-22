@@ -1,0 +1,29 @@
+{
+  "id": "ln-019-email-thread",
+  "title": "Solar for the Shed, Flour in a Sack",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln234",
+    "ln186"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln234",
+      "text": "From: Basil Coppershaw, Founder, Coppershaw Solar\nTo: Young Founders Circle\nSubject: Spectacle Lane updates & a small-scale solar test\nDate: February 22, 2024\n\nHi all,\n\nA quick note from the Lane. Last week I had a chance to do a small-scale install for a neighbor—a handyman with a detached tool shed at the back of his property. He was tired of running an extension cord out there just to power the light and charge his drill batteries. We put up a single 400-watt panel on the south-facing roof slope, wired it to a small inverter and battery bank. It’s now running an LED fixture and a charging station for his cordless tools. Took about a day and a half, mostly because we had to reinforce the shed’s roof framing first. It’s a modest system, but it proves the concept for off-grid outbuildings. He’s thrilled not to have the cord tripping hazard anymore.\n\nBasil"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln186",
+      "text": "From: Reuben Spindlecombe, Founder, Spectacle Lane Refill Shop\nTo: Young Founders Circle\nSubject: Re: Spectacle Lane updates & a small-scale solar test\nDate: February 22, 2024\n\nBasil, that’s fantastic! A perfect proof of concept.\n\nMy own bit of news: I finally got the flour situation sorted. You know how we’ve been getting our Gillikin wheat flour in those giant disposable paper sacks? Well, I’ve been pestering the mill for months about a returnable system. They finally agreed to a trial! Now they ship to us in heavy-duty canvas sacks we send back each delivery. No more tearing open and throwing away a mountain of paper every week. It’s a small step, but it cuts our waste stream significantly and the mill says it might save them money on packaging in the long run. Customers seem to like the story, too.\n\nCheers,\nReuben"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln234",
+      "text": "From: Basil Coppershaw, Founder, Coppershaw Solar\nTo: Young Founders Circle\nSubject: Re: Spectacle Lane updates & a small-scale solar test\nDate: February 23, 2024\n\nReuben,\n\nBrilliant work on the sacks. That’s the kind of closed-loop thinking we need more of. Next time you’re at the mill, ask them about their roof space—could be a candidate for a larger array.\n\nB."
+    }
+  ],
+  "content_sha256": "dad6fb8f9af4d72f948ea76f07e1a3fa098b433d9037980163eb861418d4cf6e"
+}

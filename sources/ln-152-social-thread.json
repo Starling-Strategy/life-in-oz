@@ -1,0 +1,34 @@
+{
+  "id": "ln-152-social-thread",
+  "title": "Music in the common room, a health fair on the horizon",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln271",
+    "ln067"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln067",
+      "text": "Posted on The Yellow Brick Board: A quick update from Blue Orchard Care Home. A staff member mentioned to me that they’d heard from a neighbor about a music student at the nearby school looking for a place to practice. I followed up and arranged for her to come play violin in our common room once a month. I wasn’t there for the first session, but the reports were glowing—residents were tapping their feet, some even sang along to the old tunes. It doesn’t sound like much, but it really brightened the place."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln271",
+      "text": "That sounds wonderful, Wilfred. A bit of music does more good than half our supply closets. It’s got me thinking about connection. Over here at the Tinsmith Row Clinic, we’re drafting a proposal for a joint health fair with a clinic over in Munchkin Country, aiming for next spring. The idea is preventive screenings paired with sampling from local farms—get people thinking about health in a broader, more community-minded way. It’s just a draft on my desk for now, but the conversations are starting."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln067",
+      "text": "I like that idea, Ewan. Bringing clinics together and tying it to local growers—that’s preventive care in action. If it moves forward, let us know. We might have some residents or family members interested in attending, and we could help spread the word in this corner of Munchkin Country."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "a care home resident",
+      "text": "My granddaughter brought me a pear after that violin girl played. Said it was from the market. It was a good day."
+    }
+  ],
+  "content_sha256": "f4a61fb722194c1b4fa51e3b3a394a2c93106baf8b0990bca856081ad61edb68"
+}

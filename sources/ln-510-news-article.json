@@ -1,0 +1,85 @@
+{
+  "id": "ln-510-news-article",
+  "title": "From Straps to Stranded Guests: Small Business Owners Step Up",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln251",
+    "ln014",
+    "ln059"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Gazette – August 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "While the Emerald City Leadership Network's Small Business Circle often focuses on ledgers and logistics, the work of its members frequently spills out the shop door and into the community. This month, three stories from Munchkin Country—two from Reed Flats, one from Blue Orchard—show how local proprietors are using their skills and spaces to keep things running smoothly."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "In Reed Flats, the familiar hum of clippers at Heatherfield's Barbers was recently joined by a new, smoother sound. Cosmo Heatherfield, the shop's owner, finally addressed a piece of equipment that had been nagging at him for months: the worn leather strop on his vintage razor-honing machine."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln251",
+      "text": "It was getting patchy. You'd get an inconsistent pull, and that's no good for the edge or for the customer's comfort. I could have made do, but it's a point of pride."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Rather than opting for a generic replacement, Heatherfield sought out a Gillikin saddler known for working with harness leather. He sent precise measurements, and a few weeks later, a custom-cut strip arrived."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln251",
+      "text": "It's a different grade, thicker. Breaks in nicely. The razor just glides now. Not much to look at, but it makes the whole service feel right. Lets me do my job properly."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Down the street at Meadowmere's Barbers, the service extends beyond the chair. Last month, during what was supposed to be a routine afternoon of trims, the conversation among waiting clients turned to the proposed changes to the local bus schedules. Marlo Meadowmere, according to several clients who were there, didn't just let the grumbling happen."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln059",
+      "text": "Folks were talking about how the new times would miss the shift change at the mill, or how the later evening run was getting cut. Everyone had a piece of the problem, but it was all just floating around the room."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Meadowmere, known for his conversational ease, fetched a notepad from the back. He started jotting down the specific concerns as they came up: the missed connection to the Emerald City, the lack of a late Saturday service for market staff, the stop that was too far from the nursery school."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln059",
+      "text": "I just wrote it all down in one place. By the time my last appointment left, we had a pretty clear list. I passed it on to the transit liaison at the next network meeting. I don't know if it'll change anything, but at least they'll hear it all together, not in scattered complaints."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Blue Orchard, Eleanor Bougham of the Bougham Guesthouse found her hospitality skills put to an unexpected test. A sudden closure of the Brickway for emergency repairs left a busload of travelers with nowhere to go as night fell."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln014",
+      "text": "The driver came knocking, looking frazzled. They had about twenty people, including a couple of families with young children. My guesthouse was full—I had a group of orchard inspectors in every room—but I knew my neighbors."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Bougham quickly called three other households on her lane. One had a spare room, another a pull-out sofa, a third could offer floor space in a sunroom. She coordinated who had extra blankets and pillows, and directed the stranded passengers down the street."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln014",
+      "text": "We made sure everyone had a place to sleep and a warm blanket. In the morning, I put on a big pot of porridge and fetched bread from the baker early. The children had apples. It wasn't a planned service, but you can't have people stranded. It's just what you do."
+    }
+  ],
+  "content_sha256": "fa4170b3f506e394c32d9afdd0c3a9ce392ee4740146968f8289057b00f56dd2"
+}

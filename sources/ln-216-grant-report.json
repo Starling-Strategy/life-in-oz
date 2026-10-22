@@ -1,0 +1,40 @@
+{
+  "id": "ln-216-grant-report",
+  "title": "Small Business Circle: Meadowbank and Reed Flats Micro-Grant Report",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln263",
+    "ln251",
+    "ln299"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nApril 2025\n\nReport to the Emerald City Leadership Network Micro-Grant Program\n\nThis report details the use of the $1,500 micro-grant awarded in February 2025 to support operational resilience and sustainability initiatives among three small businesses in Meadowbank and Reed Flats, Munchkin Country. The funds were distributed equally to the recipients listed below for their proposed projects."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln263",
+      "text": "The grant covered the parts and an hour of labor I wouldn't have billed the school club for. I adjusted the derailleur gears on ten bicycles for the Meadowbank school cycling club. They were all a bit out of alignment from heavy use, making the shifts clunky and unreliable. Now they're running smooth as anything for their weekend ride along the canal towpath. It's one less worry for the volunteer leaders, and it keeps those kids riding safely."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln251",
+      "text": "My oldest chair—the one with the green leather—has a hydraulic pump for raising and lowering. Started sinking slow a few months back. A new pump unit would have cost more than the grant, honestly. But I used my share to cover the cost of a reconditioned seal I tracked down through a retired mechanic over in Glendale. Took an afternoon to fit it, but now all three stations are operational. No more having to apologize and point a customer to the other end of the shop."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln299",
+      "text": "We go through a lot of single-use containers for soup, especially in the cooler months. I used the grant money to offset the initial cost of implementing a 'bring your own container' discount. We promoted it on our board and to our regulars. Now, if a customer brings a clean, suitable container for takeaway soup, they get a small discount. It's not a huge saving for them, but it's an encouragement. We've seen about a dozen people adopt the habit so far, and it's reducing our packaging order bit by bit."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Funds Expended:\n- Parts and labor for bicycle maintenance: $500\n- Sourced hydraulic seal and associated repair costs: $500\n- Promotion and initial discount subsidy for reusable container program: $500\nTotal: $1,500\n\nOutcomes:\n- Ten bicycles serviced for a community youth group.\n- One barber chair restored to full function, preserving a small business asset.\n- A new customer incentive program launched to reduce single-use waste.\n\nUnfinished / Ongoing:\nThe reusable container discount at Brookwood's Cafe is an ongoing program. The barber chair repair is complete. The bicycles will require routine maintenance again in the future, outside the scope of this grant.\n\nSubmitted by,\nRowan Bell\nCommunity Manager, Emerald City Leadership Network\nOn behalf of the Small Business Circle"
+    }
+  ],
+  "content_sha256": "83a60503eafb6a3c908e67f4995e0972f99cf7ec220986470e1835cb1b8d66d2"
+}

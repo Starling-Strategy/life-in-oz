@@ -1,0 +1,23 @@
+{
+  "id": "ln-169-intake-email",
+  "title": "Fwd: Shed labels & beverage station idea",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln038"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln038",
+      "text": "From: Esther Lane, Evening classroom caretaker\nTo: ECLN Intake Desk\nSubject: Fwd: Shed labels & beverage station idea\nDate: February 2025\n\nHi Rowan,\n\nPassing this along from the Junction Quarter Learning Rooms. Two things from last week. See below.\n\n--Esther"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Esther Lane\nTo: Self\nSubject: notes\n\nItem one, done: On Tuesday afternoon I cleared out the chair storage shed. It was a proper jumble—folding chairs for three different rooms all mixed together. I sorted them, counted each stack, and put a card on the wall above each pile with the room number written large. Now when a group comes in late and needs the Gillikin room set up, you can pull the right chairs without hunting. It’s already saved us ten minutes of fumbling twice this week.\n\nItem two, a suggestion: The evening classes run straight through from six to nine, and people are always ducking out to the public fountain down the hall. I’d like to propose we set up a simple self-service station in our main hallway—a hot water urn, some teabags, a jar for contributions. It wouldn’t need tending. I’ll bring it up at the next facilities check-in."
+    }
+  ],
+  "content_sha256": "cf4a7631a7e2411167c310e07b812e57f903084851c548db48ed840dcf43bef2"
+}

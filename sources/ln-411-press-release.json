@@ -1,0 +1,43 @@
+{
+  "id": "ln-411-press-release",
+  "title": "Bluebell Crossing Tenants Secure Group Savings on Air Filters, Exterminator Meeting Rescheduled",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln284"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nJanuary 2026, Bluebell Crossing, Munchkin Country – The Bluebell Crossing Tenants' Association announced today the successful completion of a group purchase for high-efficiency air filters, securing savings for twenty households in the complex. Separately, a planned meeting with the building's pest control contractor has been moved to next week due to a mechanical delay."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The air filter initiative, organized by tenant Jem Quadmore, resulted in a fifteen percent discount from a Munchkin Country-based supplier. The bulk order allowed residents to upgrade their indoor air quality at a reduced cost, with filters delivered directly to the building last week."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln284",
+      "text": "We had a list of folks who'd mentioned the dust from the brickway, and it just made sense to pool our needs. A quick call to the supplier, and they were happy to work with us on the price. It's a simple thing, but it shows what we can do when we act together."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "In unrelated building business, a scheduled sit-down between the tenant association and the building's exterminator was postponed. The contractor's van experienced a breakdown just outside the Quadling border, requiring a week's delay for repairs and travel."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln284",
+      "text": "We got the call about the van right as we were setting up chairs. These things happen. We've rescheduled for next Tuesday, same time. The points about consistent service and notification we wanted to discuss will still be on the table."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The Bluebell Crossing Tenants' Association is a member-led group focused on improving living conditions and fostering community cooperation within the residential complex. It is part of the broader Emerald City Leadership Network."
+    }
+  ],
+  "content_sha256": "52ac5b9dafbd9ffe15191084f48747de4cb84a936a33857bc14a7900dcd8211c"
+}

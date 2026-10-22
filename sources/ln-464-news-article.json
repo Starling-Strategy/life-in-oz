@@ -1,0 +1,45 @@
+{
+  "id": "ln-464-news-article",
+  "title": "Eastfield class learns to read the town's own paperwork",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln006",
+    "ln019",
+    "ln098"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Munchkinland Herald · by June Arden · May 6, 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Thirty adults finished the Eastfield literacy program this spring, and their tutor says the textbook was the town itself."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln006",
+      "text": "“We read stall-fee notices, bus timetables and market receipts until they made sense, because that's what people actually have to read,” said Samuel Strawbridge, who has run the program for four years."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Several graduates said the first thing they read on their own was the notice about this year's market fees. One said she now checks her own receipts at the end of market day instead of taking the stallholder's word for the total."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Strawbridge is not the only one using ordinary paperwork as a reader. At the tram depot canteen in Bluebell Crossing, Thea Cloverwood, a Reading Room Network volunteer, runs a weekly paired-reading hour where conductors practice with timetables, payslips and route notices. She said six regulars kept coming through the winter."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The Eastfield program takes new learners in the autumn. Strawbridge said the waiting list is the longest it has been."
+    }
+  ],
+  "content_sha256": "db6af8c68cda9685fd7ce1679f576a5d26ea48ecc1d805ed14c5bb95dd8b7d04"
+}

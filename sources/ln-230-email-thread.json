@@ -1,0 +1,39 @@
+{
+  "id": "ln-230-email-thread",
+  "title": "Fwd: Correction to April Relief Log",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln169",
+    "ln241"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln169",
+      "text": "From: Abel Wickridge, Wickridge Haulage\nTo: Rowan Bell, Emerald City Leadership Network\nSubject: Correction to April Relief Log\nDate: 8 May 2025\n\nRowan,\n\nSaw the minutes from the April network meeting posted on the board. Item three, about the storm relief runs to the southern farms. It says I drove the first feed load through on the 12th. That's not right.\n\nMy rig was stuck at the Eastfield depot that whole day – a busted fuel line, of all things. Enid Poppydale took that run. Her rig's got better clearance for the washed-out bit of the Brickway past the mill. She went through. I didn't get my truck sorted until the evening, and by then I was hauling sandbags for the levy crew.\n\nYou should fix the record. It was Enid.\n\nRegards,\nAbel Wickridge"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager\nTo: Abel Wickridge, Wickridge Haulage\nSubject: Re: Correction to April Relief Log\nDate: 9 May 2025\n\nAbel,\n\nThanks for writing. I'll amend the official minutes and note the correction in the next newsletter. Can you confirm the date was definitely the 12th? And do you know what Enid was carrying? Trying to get the log straight.\n\nRowan"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln169",
+      "text": "From: Abel Wickridge, Wickridge Haulage\nTo: Rowan Bell, Community Manager\nSubject: Re: Correction to April Relief Log\nDate: 9 May 2025\n\nRowan,\n\nYes, the 12th. Mid-morning. She had a full load of mill feed for a farm up the lane. Pretty sure she had some medical supplies tucked in there too, for that pop-up clinic they set up in a farm barn up the lane. Small crates. You should ask her for the details.\n\nAbel"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager\nTo: Enid Poppydale, Poppydale Haulage\nSubject: Storm relief run on April 12\nDate: 10 May 2025\n\nEnid,\n\nHope you're well. Following up on the storm relief coordination. Abel Wickridge mentioned you were the one who drove the first feed load through to the southern farms on April 12th, not him. Could you confirm that for the network's records? Anything you remember about the load or the conditions would be helpful.\n\nThanks,\nRowan"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln241",
+      "text": "From: Enid Poppydale, Poppydale Haulage\nTo: Rowan Bell, Community Manager\nSubject: Re: Storm relief run on April 12\nDate: 11 May 2025\n\nRowan,\n\nAbel's right. It was me. Left Bluebell Crossing just after sunrise on the 12th. The Brickway was a mess past the old mill – more of a creek than a road. Load was thirty sacks of mill feed for a farm up the lane, and I had two crates of bandages and antiseptic riding up in the cab, bound for the clinic they'd set up in their barn. Took it slow. Got through, dropped it all off. Saw Abel's truck on blocks at the depot when I rolled back through Eastfield that afternoon. Fuel line, he said.\n\nLet the record show: I drove the truck. Abel fixed his and did the sandbag run. All got done.\n\nEnid"
+    }
+  ],
+  "content_sha256": "19db8d41b9ed2216b459e786c1538a9c9de46708c8821a90299b83099494c0e4"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ln-266-manager-conversation",
+  "title": "Ozma Tipwell · Community Manager · call with Ida Poppyford · June 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln054",
+    "ln126"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Call with Ida Poppyford. She called, enthusiastic, to share an update and ask about connecting with someone in the network."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Ida said her design work for the new cafe on Lantern Row is finished. She designed the logo and all the menu cards. The owner loves them and they’re going to print this week."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "She also mentioned hearing about the Young Founders circle and was interested. I brought up Ozma Tipwell’s work in Westgate Mills."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Ida was excited by the idea of a youth league doing budget presentations. She asked if there was a way to connect, maybe to have some of Ozma’s students see a real design studio's process, even if just through pictures of her work."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "I shared what I knew about Ozma’s recent project firsthand: Ozma coached her youth league in preparing a modest budget presentation for a community garden expansion. They used hand-drawn charts. The group received partial funding for tool purchases."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Ida said that was exactly the kind of practical skill she wished she’d learned earlier. She offered to put together a one-page visual of how she priced the cafe project, from sketches to final quote, if it would be useful for Ozma’s students."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Action: Connect Ida and Ozma via email, proposing a simple exchange—Ida’s pricing visual for a look at the students’ hand-drawn budget charts. See if Ozma is open to it."
+    }
+  ],
+  "content_sha256": "376b14973cb9dab7f9a6afd0207f9e7a795d584d4cc41fb1de5ff0c2e14bd57a"
+}

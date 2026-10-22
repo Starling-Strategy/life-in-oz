@@ -1,0 +1,95 @@
+{
+  "id": "ln-502-newsletter-feature",
+  "title": "Network Roundup: July 2026",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln081",
+    "ln121",
+    "ln148"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "While the sun is high and the days are long, members across the Emerald City and the four countries are busy with the work that makes our communities run. This month, we’re sharing a few quiet examples of how small, thoughtful actions can have a ripple effect."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Spectacle Lane Gets Ahead of the Fall"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "In the Emerald City’s Spectacle Lane, Festival Committee member Basil Bramblebourne is already thinking about autumn. 'It’s about being ready,' he says. 'The leaves come down fast, and we’ve had issues with slick pavements in past years.'"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Last month, Bramblebourne organized an early leaf collection drive. He sourced a stack of unused burlap sacks from a mill that closed down last year and distributed them to neighbors. He then arranged for the filled sacks to be transported to a community garden in Gillikin Country, where they’ll be composted for next season’s planting."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln081",
+      "text": "It’s a simple system. The sacks are at the end of my lane, people take them, fill them, and leave them by the green postbox. The Gillikin Growers circle is happy to get the material. It’s not glamorous, but it means we won’t be scrambling in October."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "A Dairy-Free Gesture on the Early Shift"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Pella Crowshaw, a Brickway Transit driver based in the Blue Orchard depot in Munchkin Country, starts her route before dawn. The depot’s coffee station is a vital first stop for many drivers."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "One morning in late June, Crowshaw noticed the oat milk container was empty. 'Several of us don’t take dairy,' she noted. 'It’s a small thing, but it’s the small thing that makes the difference between a good start and a frustrating one.'"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Without waiting for the next supply run, she used her own supply from home to refill the container, ensuring it was available for the rest of the early shift."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln121",
+      "text": "I just picked up an extra carton on my way home that evening. It was there the next morning. It’s not a policy change or anything, just… making sure the person after you has what they need."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Clarity Amidst Renovation"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "The Gate Quarter library’s renovation, while welcome, has been a source of confusion for residents. The initial closure notice, posted months ago, lacked specifics about where to return books after the main doors were sealed."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Orla Greenwick of the Wizard’s Office public notices desk took action. She revised the official notice, adding clear, bulleted instructions: books could be returned to the mobile library unit stationed in Market Square on Tuesdays and Fridays, or left with the clerk at the adjacent community hall during its open hours."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln148",
+      "text": "The purpose of a notice is to inform, not merely to announce. When we learned patrons were holding onto books because they were unsure how to return them, it was a clear signal the original notice was insufficient. The updated version provides the necessary procedure."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "She then ensured the revised notice was redistributed to all Gate Quarter posting boards and the Wizard’s Office circular."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "narrator",
+      "text": "These are just a few threads in the wider tapestry of the Network. If you have a story of a member’s quiet contribution, let us know at the intake desk."
+    }
+  ],
+  "content_sha256": "9386311fbea4924d6dda654eb03bab7f5194c0b1a342e4923b447e731c839ce8"
+}

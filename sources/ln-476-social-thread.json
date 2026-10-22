@@ -1,0 +1,45 @@
+{
+  "id": "ln-476-social-thread",
+  "title": "Did anyone else realize the projector died?",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln007",
+    "ln012",
+    "ln011"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Yellow Brick Board · town hall · June 2026"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "neighbor",
+      "text": "Did anyone else realize the projector died ten minutes into the budget presentation?"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln012",
+      "text": "Oscar Diggs ran the whole thing from behind the stage curtain with a flashlight and a flip chart. Nobody in the room knew until he took a bow. I took the reading room's copy of the draft budget along afterwards, for anyone who wants to read the figures at their own pace."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln007",
+      "text": "The flip chart was the backup. Always bring the backup."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln011",
+      "text": "I was the one at the back asking why the budget had no line for the ward repair fund. The office said it would publish the full numbers. We'll see."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "neighbor",
+      "text": "Good question. Nobody else asked it."
+    }
+  ],
+  "content_sha256": "15c86ec27d28e408e17ac826d517277315a37b3d350a195d3940365e530e59a5"
+}

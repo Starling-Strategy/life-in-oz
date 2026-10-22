@@ -1,0 +1,85 @@
+{
+  "id": "ln-229-newsletter-feature",
+  "title": "April Notes: Checklists, Compartments, and Clearer Paths",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln010",
+    "ln030",
+    "ln017"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "As spring work picks up across the Network, here are a few quiet projects from members that might just make the next job a little smoother."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "The Lane Where You Can't Miss the Turn"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "If you're heading to the North Orchard clinic after dark, the lane leading in might soon be a bit easier to spot. Visiting nurses in the area report that Nora Northcott has been speaking to the parish council about adding reflective markers along the route."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The push, neighbors say, came after Nora herself nearly missed the turn on a rainy night visit. She’s known for her pre-dawn route planning, and a disappearing road in bad weather is the kind of inefficiency she can’t abide. The council is apparently listening; no decision yet, but the request is on the docket."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln010",
+      "text": "It’s a simple thing. But if you’re looking for a house number in the wet, or someone’s waiting for you, simple things matter. The rules are there so we can get where we’re needed."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "A Tray for Every Thread"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Over at Brook Device Repair in the Junction Quarter, the time spent digging through a coffee tin of loose screws for the right one is now officially wasted time. Owner Amir Brook recently took a bulk purchase of miscellaneous hardware and sorted every screw into a new compartmented tray, each section neatly labeled by thread size."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The first beneficiary was a batch of tablet cases. What used to be a frustrating hunt is now a quick glance and a grab. Amir noted it shaves a noticeable few minutes off each reassembly, which adds up over a day. He’s already eyeing the bins of spare charging port components next."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln030",
+      "text": "You wouldn’t believe how many different screws are in these things. The sealed batteries are bad enough, but at least now the fasteners make sense. It’s just easier when everything has its place."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Sign Here Before You Take the Stage"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Back in the Festival Committee storehouse in Bell Market, Bennett Cole is drafting a new document. It’s not a thrilling read, but its aim is to prevent less thrilling conversations later. It’s a mandatory pre-event inspection checklist for any group borrowing staging or large equipment."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "The plan is simple: before a single piece leaves the store, a representative from the borrowing group and a committee custodian will walk through the checklist together, noting any existing scuffs, loose bolts, or worn cables. Both parties will sign off. The goal, Bennett says, is to set a clear baseline and reduce disputes—and damage—after the fact."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln017",
+      "text": "It’s about accountability. If we all agree on the state it’s in when it goes out, we can all agree on what needs fixing when it comes back. It’s just good inventory management. The draft’s not done; it has to be clear enough for anyone to use."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "These are small things, perhaps. A marker on a post, a labeled tray, a line on a form. But they’re the kind of small things that, done once, save a hundred small frustrations later. If you’ve got a similar fix in your own circle, let us know."
+    }
+  ],
+  "content_sha256": "8249c846af8b955958db174842bcc6bfef5d6732d4cb1a0131a58064cc128ff5"
+}

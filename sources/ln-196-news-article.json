@@ -1,0 +1,75 @@
+{
+  "id": "ln-196-news-article",
+  "title": "Office Basement to Bridge Repair: Liaisons Keep Oz Moving",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln172",
+    "ln064",
+    "ln217"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "As spring approaches, members of the Emerald City Leadership Network’s Wizard’s Office Liaisons circle are busy with tasks ranging from the civic to the structural, each aiming to clear a path, literal or metaphorical."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In the basement of the Wizard’s Office, clerk Edmund Tinworth recently took on a project of rediscovery and removal. A collection of six cardboard boxes, long forgotten in a corner, contained outdated license application forms from several cycles ago. The forms were not only obsolete but posed a minor security risk, as they contained personal details of applicants."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln172",
+      "text": "Procedure is quite clear on the retention schedule for such documents. These had exceeded their term by a good three years. I had to consult the archive register, confirm the disposal authorization with the senior clerk, and then schedule a secure collection with the Office’s contracted shredding service. They came on a Tuesday afternoon."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The result is a neatly cleared section of basement, freeing up what Tinworth calls “valuable, dry storage space” for current records. “It reduces clutter and the temptation to just shove things back there,” he noted."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Across town, community grants officer Roland Spindlemere is looking ahead. His work involves disbursing funds from the Office’s small community chest to projects across the four countries, but he’s observed that once the grant letter is sent, recipients can feel isolated if they hit a snag."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln064",
+      "text": "The idea is a simple check-in. Quarterly, at a neutral place like the Lantern Row reading room. It’s not an audit. It’s a chance for the Meadow Mutual Aid folks, or the Timber Verge crew, to share a quick update, ask a question if they’re delayed by a supplier, or even learn from each other’s solutions. Sometimes just knowing someone else is facing a similar weather delay is reassuring."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The first such meeting is being planned for late April. Spindlemere emphasizes the informality of the plan. “It’s about maintaining the connection,” he says, a trace of weariness in his voice suggesting he’s seen too many well-intentioned grants stall from simple lack of support."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, out in Munchkin Country, a more tangible kind of support was recently installed. Mott Peppercombe, lead of a Brickway Works bridge crew, oversaw the replacement of a critical safety fixture."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln217",
+      "text": "It was on that little stone bridge over the creek, west of Bluebell Crossing. One of the main guardrail posts was rotted right through at the base. You could wiggle it with your hand. Not safe."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Peppercombe’s crew sourced a pre-treated timber post to resist future rot and new galvanized brackets to secure it to the old stone abutment. The work took most of a day, requiring a temporary closure of one side of the narrow bridge."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln217",
+      "text": "We matched the existing rail height and bolt pattern. It’s not a glamorous job, but if someone’s cart wheel slips on a wet day, that rail needs to hold. Now it will."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "From clearing paper clutter to preventing roadside mishaps, the Liaisons’ work exemplifies the network’s focus on the practical mechanics of community life. As Tinworth put it while discussing his basement project, “Sometimes progress is just making sure the old things are properly finished with, so you have room for what’s next.”"
+    }
+  ],
+  "content_sha256": "4fde0d4fef1aba4574d5a5a95a003bca940a155589e361f1c24ab0c6a76bf881"
+}

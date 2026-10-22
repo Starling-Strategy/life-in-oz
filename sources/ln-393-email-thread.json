@@ -1,0 +1,29 @@
+{
+  "id": "ln-393-email-thread",
+  "title": "Re: Festival Committee Updates and a Proposal",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln129",
+    "ln163"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln163",
+      "text": "From: Uri Pepperbourne\nTo: Festival Committee\nSubject: Proposal for Extended Hours\nDate: 16 November 2025\n\nDear Committee,\n\nI hope this finds everyone well after the recent events. I’m writing separately from the usual festival planning to share a proposal I’ve drafted for Quadling Health Access. It suggests offering clinic appointments one evening per week, specifically for patients whose work or care responsibilities make daytime visits difficult. The proposal outlines staffing, security, and lighting considerations for the South Meadow Clinic. It is currently under review by the Quadling Health Access steering group.\n\nOn a different note, I heard from a few of you at the last meeting about Quill Tincombe’s recent work. It sounds like the city’s recycling campaign has a charming new figurehead, courtesy of his workshop.\n\nBest regards,\nUri Pepperbourne\nClinic Manager, South Meadow Clinic"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln129",
+      "text": "From: Quill Tincombe\nTo: Festival Committee\nSubject: Re: Proposal for Extended Hours\nDate: 18 November 2025\n\nHello Uri and all,\n\nYour proposal sounds eminently sensible. I’ve seen how the evening markets on Lantern Row have helped some of our neighbors, and a clinic doing the same seems a logical, kind extension. I hope the steering group sees its merit.\n\nAs for the mascot, yes—several committee members mentioned it to me after the fact. The city’s sanitation office commissioned a large, friendly puppet meant to resemble a happy, tidy compost heap. They’ve been using it in their presentations at schools and community gatherings. I’m told the children have named it ‘Pip.’ It’s quite a different scale from our usual festival giants, but it was a pleasant project.\n\nLooking forward to our next meeting,\nQuill\nTincombe Puppets"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln163",
+      "text": "From: Uri Pepperbourne\nTo: Festival Committee\nSubject: Re: Proposal for Extended Hours\nDate: 19 November 2025\n\nThank you, Quill. ‘Pip’ is an excellent name. It’s good to see our members’ skills applied to such varied and worthwhile causes.\n\nUri"
+    }
+  ],
+  "content_sha256": "db73c390796f28e90147ab257411cfa1d089c4f8fcc5af515fe80255395cd174"
+}

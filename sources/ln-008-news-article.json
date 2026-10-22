@@ -1,0 +1,97 @@
+{
+  "id": "ln-008-news-article",
+  "title": "Small Acts, Shared Gains: Meadow Mutual Aid Members Keep the Neighborhoods Running",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln152",
+    "ln265",
+    "ln257",
+    "ln140",
+    "ln056"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY, January 2024 – In the quiet corners of daily life across Oz, the work of mutual aid isn't always about grand gestures or loud announcements. It's often in the steady, practical agreements that keep a community fridge stocked, the sharp eye that spots a wobbly handrail, or the coordinated effort that saves a neighbor an hour's trip. This month, members of the Emerald City Leadership Network's Meadow Mutual Aid circle have been busy with exactly that kind of quiet, essential upkeep."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Reed Flats, Xan Poppyshaw tends to a small but vital hub: the community fridge tucked between two brick apartments. It's a simple metal box, its hum a constant background note, but its contents rely on a web of local arrangements. This week, Poppyshaw renewed one of the most reliable."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln152",
+      "text": "The bakery down the lane, they bake more than they can sell each day. A waste, you know? So we have a handshake. Every Tuesday, Thursday, and Saturday, I swing by after closing. They have a crate of day-old rolls ready by the back door. It's not a contract. It's just... what we do."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The renewed agreement means three weekly pickups, adding a consistent source of bread to the fridge's ever-changing inventory of donated vegetables, milk, and prepared meals."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, on the Brickway, safety can depend on a conductor's attention to detail. Briony Oakmere, navigating her tram through the midday crowd, felt the shift more than saw it—a slight shudder in the metal pole near the rear doors as a passenger leaned into a turn."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln265",
+      "text": "It wasn't hanging off, but it had too much give. Enough that someone could lose their balance if we stopped short. I carry a small toolkit—just basics. I had a metal brace, the kind you can clamp on. I secured it right there between stops. It'll hold until the depot can weld it properly tonight."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Oakmere's temporary fix took less than two minutes, a minor intervention that prevented a potential injury and saved a repair call during peak service hours."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Cooperation often means consolidating tasks to ease collective burdens. In the Meadow Mutual Aid garden plots, plot-holders were facing the annual chore of collecting municipal compost, a trip that meant borrowing a cart or finding a ride to the city depot. According to others in the circle, Maren Hedgemore of the Gillikin Growers Cooperative took the lead."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Hedgemore, they say, arranged for a single bulk delivery of compost to be dropped at the central garden shed. The move saved each of the two dozen plot-holders the individual trip, freeing up a Saturday morning for planting instead of hauling."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "For families sharing childcare, the mundane details of health and cleanliness are a constant negotiation. At the Bluebell Crossing Childcare Co-op, coordinator Delphine Pepperford looked at the cycle of sniffles and sticky toys and saw a system waiting to be implemented."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln140",
+      "text": "We already had a cleaning roster for the main space. But toys travel home, they come back. So now, on the first Monday of the month, every family brings any co-op toys they have at home. We have one large bottle of child-safe disinfectant we all chipped in for, and a big, clearly labeled laundry basket. Everything gets wiped down, air-dries overnight, and is sorted back to the playrooms the next day. It's one less thing for any one family to track."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "The new schedule, launched this month, adds a layer of routine hygiene without placing the logistical burden on a single household."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Looking ahead, some mutual aid work is seasonal by nature. In Blue Orchard, Ezra Hedgebourne is already thinking about the chill that will follow the summer heat. As volunteer coordinator for Blue Orchard Mutual Aid, his focus is on gathering resources before they're desperately needed."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln056",
+      "text": "We're planning a winter coat collection for early fall. Last year, we had a rush in late October, and it was chaos—coats with broken zippers, stains, sizes all mixed. This time, we're preparing sorting guidelines upfront: men's, women's, children's, and by approximate size ranges. And we're reaching out to local dry cleaners now, seeing if any would offer a cleaning discount for donations. A clean, ready coat is a gift you can wear right away."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "Hedgebourne's plans are still on the drawing board—the outreach to cleaners is just beginning, and the sorting guidelines are notes in a ledger—but the preparatory work aims to transform a well-intentioned donation drive into a efficient distribution system."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "narrator",
+      "text": "From a handshake over bread rolls to a clamped brace on a tram, from a shared bottle of disinfectant to a bulk compost delivery, the pattern is the same: a member sees a need, applies their particular skill or position, and finds a way to weave a stronger, more resilient thread into the community fabric. It's work that rarely makes headlines, but it's the work that keeps the neighborhoods running."
+    }
+  ],
+  "content_sha256": "c66661ae00dd1a2b8ca58a2fa122353860f20795affaf14639f6ed287bb207d0"
+}

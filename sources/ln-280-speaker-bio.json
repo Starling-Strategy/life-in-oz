@@ -1,0 +1,30 @@
+{
+  "id": "ln-280-speaker-bio",
+  "title": "Meet Our Speakers",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln221",
+    "ln138",
+    "ln236"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Ren Cinderholt operates the Violet Hills Grain Mill, ensuring quality from field to flour. This past July, Ren’s sharp nose caught a slight damp smell rising from Silo Three. Within the hour, they had the crew transferring the entire contents to a dry silo and running the aeration belts, a swift move that saved several tons of Gillikin barley from spoilage. Ren brings this same pragmatic, watchful approach to everything from equipment maintenance to community grain shares."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Una Fernford runs Fernford Design Studio in Bell Market, where she translates the spirit of local producers into vibrant visual identities. Recently, she collaborated with three different Gillikin apiaries and orchards, designing a trio of honey and jam jar labels that capture the distinct character of each—one label echoes the deep purple of Violet Hills lavender fields, another the sunny geometry of a Quadling quilt, and a third the crisp, clean lines of a Timber Verge timber frame. Her work helps these small-batch products stand out on crowded market shelves."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Linus Hazelridge is the keeper of the Timber Verge community fridge, a role that extends far beyond simple stocking. When a sudden Winkie Country cold snap threatened to turn the fridge’s dairy compartment into a solid block of ice this July, Linus didn’t wait. He fitted a simple, low-wattage frost guard heater coil inside the unit’s existing insulation, a modification that maintained a safe temperature for milk and yogurt without overhauling the entire system. His brief, practical fixes keep essential resources reliably available to his neighbors."
+    }
+  ],
+  "content_sha256": "ecdf690c1e0dc2e737e2c2bf69f6db926c6b53343c63d55534f1b6c397cdf3bf"
+}

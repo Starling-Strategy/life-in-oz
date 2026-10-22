@@ -1,0 +1,23 @@
+{
+  "id": "ln-277-speaker-bio",
+  "title": "Meet the Speaker: Basil Coppershaw",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln234"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Basil Coppershaw founded Coppershaw Solar to bring reliable, locally maintained power systems to homes and businesses across Oz. He's known for his ability to translate complex electrical concepts into something a neighbor with a toolbox can understand. Last month, when the Spectacle Lane secondary school's technology teacher mentioned her students were struggling to visualize full-system layouts, Basil stayed up late drafting. He delivered a simplified, large-format wiring diagram that mapped a typical home solar installation from panels to battery, using color-coding and clear icons instead of dense schematics. The teacher reports the poster is now permanently mounted in the shop, and students use it to trace circuits with their fingers."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Looking ahead, Basil plans to put that same practical mindset toward a community project. He has offered to conduct a free, preliminary solar assessment for the roof of the Clay Hollow community centre. The goal is to gather concrete data—square footage, orientation, shading estimates—to strengthen their upcoming application for a green infrastructure grant. 'If the numbers are there,' he says, 'we can build the case.'"
+    }
+  ],
+  "content_sha256": "4013a4defa7ec8d144a5637b12acd5d12187bfe69a06027451814b307f390629"
+}

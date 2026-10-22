@@ -1,0 +1,36 @@
+{
+  "id": "ln-210-speaker-bio",
+  "title": "Meadow Mutual Aid: Partner Spotlights",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln224",
+    "ln243",
+    "ln176",
+    "ln296"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Clem Kilnford keeps the stove lit at the Green Market warm room, a space he’s tended for years. When he noticed folks coming in without proper outerwear last winter, he didn’t just make another pot of tea. He organized a coat swap in the warm room’s back area, clearing out a storage corner and spreading the word through his regulars. In one brisk afternoon, over fifty clean, serviceable coats found new owners, with no fuss and plenty of hot drinks on hand."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Saffi Orchardmere sees clearly that looking the part can be the first step to getting the part. At her Bell Market opticians shop, she set aside a tray of nearly-new frames for Meadow Mutual Aid clients preparing for job interviews. She makes time for fittings herself, adjusting the frames to fit comfortably on the spot, offering a quiet word of encouragement along with a clearer view of the path ahead."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Sable Orchardfield coordinates the Eastfield Childcare Co-op with a steady focus on what the group can build together. Faced with long indoor days and dwindling supplies, she rallied parents to gather donated fabric scraps, cardboard, and non-toxic glue. From these simple materials, she assembled activity kits that sparked creativity and gave caregivers a much-needed resource, proving that ‘we have what we need’ is more than just a saying."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Kai Tinmere tends the community fridge in Reed Flats, seeing it as a hub for sharing more than just food. When a local grower donated a bumper crop of tomatoes, Kai knew they’d spoil before they could all be taken. He led a workshop in the square, showing a dozen neighbors how to safely preserve the glut into simple, shelf-stable sauce. The jars were distributed through the fridge, turning a windfall into a lasting resource and a shared skill."
+    }
+  ],
+  "content_sha256": "dc50be95a54085d56a5d48617b4055a1f0ba46507850d615bea6e68ffc56f363"
+}

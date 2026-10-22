@@ -1,0 +1,111 @@
+{
+  "id": "ln-521-newsletter-feature",
+  "title": "What's Happening Around the Network",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln090",
+    "ln249",
+    "ln156",
+    "ln238"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Across the Emerald City and the four countries, members are finding ways to share skills, solve problems, and make their corners of Oz a little more workable. Here’s a quick roundup from a few of our circles this September."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "A Lending Library for Tools in Brickway Junction"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln090",
+      "text": "We have all these tools sitting at the Makers Space that only get used a few times a year, and I keep hearing from neighbors who need a decent saw for one project or a post-hole digger for another. It just makes sense to pool them."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Dinah Haywick of the Brickway Junction Makers Space is proposing a community tool lending library. The idea is to start with garden tools and basic home repair items—things an individual might not need to own outright. The library would operate from the Makers Space, with a simple check-out system. Dinah is currently gathering interest and suggestions for the initial inventory."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln090",
+      "text": "If you’ve got a tool sitting unused, or you’ve ever put off a job because you didn’t have the right gear, let me know. We can make this work."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Lighting the Way for a School Play"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "When a primary school in the Emerald City put on its annual play, they ran into a common problem: their lighting board operator, a parent volunteer, was overwhelmed by the technical cue sheet. Enter Milo Winkleham."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln249",
+      "text": "The original sheet was just a list of cue numbers and channel percentages—fine for a technician, but not for someone who’s never touched a board before. I redid it with large-print numbers, simple symbols for ‘up’ and ‘down,’ and grouped the cues by scene. Color-coded the faders they actually needed to use."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Milo’s simplified sheets meant the volunteer could confidently run the lights for the two-night performance. The school’s drama teacher reported that the backstage panic was noticeably reduced, and the volunteer said they’d be willing to help again next year."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln249",
+      "text": "It’s about removing the fear factor. If the instructions are clear, anyone can make the magic happen."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Finding the Right Time for an Apprentice"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Coralie Stonecombe, Apprentice Coordinator for the Winkie Works Guild, recently navigated a tricky scheduling knot. A promising apprentice was struggling to balance their required workshop hours with a part-time job they relied on."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln156",
+      "text": "The conflict was causing stress for the apprentice and delays in their progress. It wasn’t a matter of willingness, just of hours in the day. I spoke with the workshop master and the apprentice’s employer to outline the issue."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "By shifting the apprentice’s workshop attendance to a newly opened afternoon slot, Coralie found a solution that worked for all parties. The apprentice has now completed their foundational module on time, and the employer was pleased their schedule could be accommodated."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln156",
+      "text": "Flexibility, when communicated clearly, often reveals a path forward. The important thing is that the training continues uninterrupted."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "narrator",
+      "text": "A Stitch in Time at Timber Verge"
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln238",
+      "text": "So many of the machines that come in just need a simple tension adjustment. People get nervous, they think it’s broken, but it’s often a five-minute fix."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "narrator",
+      "text": "Gideon Pepperham of the Timber Verge Repair Co-op plans to host a short, practical session on basic tension adjustment for common domestic sewing machines. The goal is to empower owners to solve this frequent issue themselves, reducing simple repair requests and wait times at the co-op. Gideon is looking at a weekday evening in late October for the session and will post details on the co-op’s notice board."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln238",
+      "text": "If you can thread the machine, you can probably learn to adjust the tension. It’ll save you a trip and maybe a few silver coins."
+    }
+  ],
+  "content_sha256": "d6bd7a922cb458fa260b1627a411df7506bde72be263d2b2dc40c2972bbc4385"
+}

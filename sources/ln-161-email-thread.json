@@ -1,0 +1,35 @@
+{
+  "id": "ln-161-email-thread",
+  "title": "Checking in from the Bluebell Clinic",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln151",
+    "ln250",
+    "ln047"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln151",
+      "text": "From: Wilhelmina Thistlewaite, Clinic Manager, Bluebell Crossing Clinic\nTo: Rowan Bell, Emerald City Leadership Network\nSubject: Clinic garden update\nDate: 15 January 2025\n\nHi Rowan,\n\nA quick note from Bluebell Crossing. I noticed our garden bench had developed a nasty crack along one of the slats—it was getting a bit precarious for our patients who like to wait outside on nice days. Didn't seem right to make them stand or risk a splinter. I tapped a bit of petty cash and got a local carpenter from the village to come take a look. He fixed it up beautifully last week, reinforced the whole frame. It's solid as a rock now. Just a small thing, but it felt important.\n\nWarmly,\nBillie"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln047",
+      "text": "From: Mara Wells, Care Equipment Loan Coordinator, North Orchard Loan Desk\nTo: Wilhelmina Thistlewaite, Clinic Manager, Bluebell Crossing Clinic; Rowan Bell, Emerald City Leadership Network\nSubject: Re: Clinic garden update\nDate: 16 January 2025\n\nBillie,\n\nThat's a good use of the petty cash fund. A comfortable place to wait matters.\n\nIt reminds me I've been looking at our own layout here. Our storage shelves are in the same configuration they were when I started, and I'm certain we're losing time retrieving the high-turnover items—walkers, shower chairs. I'm reviewing the layout now to see if repositioning a few shelves would cut down retrieval time. It's just a plan at this stage, but I'll have a draft map by month's end.\n\nMara"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln250",
+      "text": "From: Nell Heatherholt, Tool Library Steward, Violet Hills Tool Library\nTo: Wilhelmina Thistlewaite, Clinic Manager, Bluebell Crossing Clinic; Mara Wells, Care Equipment Loan Coordinator, North Orchard Loan Desk; Rowan Bell, Emerald City Leadership Network\nSubject: Re: Clinic garden update\nDate: 17 January 2025\n\nHello all,\n\nBillie, glad the bench is sorted. A solid bench makes a difference.\n\nMara, mapping your flow is smart. I heard a story recently that made me think about small fixes—a member from the Timber Verge Repair Co-op mentioned he'd seen someone fix a seized block plane adjustment knob once. He said they used a single drop of penetrating oil and applied gentle heat with a small lamp, just enough to loosen things up without damaging the tool. It wasn't me, but it sounded like a neat trick. Sometimes the right tiny adjustment saves a lot of future hassle, whether it's a tool or a shelf layout.\n\nNell"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln151",
+      "text": "From: Wilhelmina Thistlewaite, Clinic Manager, Bluebell Crossing Clinic\nTo: Nell Heatherholt, Tool Library Steward, Violet Hills Tool Library; Mara Wells, Care Equipment Loan Coordinator, North Orchard Loan Desk; Rowan Bell, Emerald City Leadership Network\nSubject: Re: Clinic garden update\nDate: 18 January 2025\n\nNell, Mara,\n\nThanks both. Nell, that's a good story—the right touch at the right time. Mara, I look forward to seeing your map. Let me know if you want a second pair of eyes on it.\n\nBillie"
+    }
+  ],
+  "content_sha256": "5c438eff667bdae42e2912248527416c0037765bce889399509dfc0ff8144676"
+}

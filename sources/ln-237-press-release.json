@@ -1,0 +1,53 @@
+{
+  "id": "ln-237-press-release",
+  "title": "Wizard's Office Completes Grant-File Archiving, Approves Community Garden Funding",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln256"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY, May 2025 — The Wizard’s Office has completed a major records-management project, securely archiving five years of closed community-grant files, while also ensuring recent grant funds are being used as intended for local projects."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Community Grants Officer Wynn Thistlewick coordinated the transfer of the completed files to a dedicated off-site storage facility. Each storage box was clearly labeled with its scheduled destruction date, bringing the office’s records system into compliance with updated civic data-retention policies."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln256",
+      "text": "It’s a procedural step, but an important one. Clearing the active cabinets of these completed cases allows current grant officers to focus on active applications and support. The labeled dates ensure we handle the documents responsibly until their retention period ends."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "In a separate recent action, Thistlewick reviewed and approved the final receipt bundle for a grant awarded to a Gillikin community garden group for irrigation-pipe upgrades. The review confirmed the allocated funds were spent exactly as outlined in the original grant proposal."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln256",
+      "text": "The group provided clear invoices for the piping materials and the hired installer. Matching those to the grant’s scope is the final step. It’s good to see the project completed and the paperwork in order."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The archive project involved dozens of boxes of paperwork from grants closed between 2020 and 2024. The Gillikin garden grant was a smaller, current-year award, typical of the office’s support for local infrastructure and food-security initiatives."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "The Wizard’s Office administers civic grants and liaises with community networks across the Four Countries."
+    }
+  ],
+  "content_sha256": "96981fc69c5282fd0264d0da7989ea5cfc6b472cfa2915ba98dc0a6119eebab7"
+}

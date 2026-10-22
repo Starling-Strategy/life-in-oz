@@ -1,0 +1,29 @@
+{
+  "id": "ln-269-email-thread",
+  "title": "Upcoming Gillikin printing lecture & a civic design chat",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln230",
+    "ln206"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln230",
+      "text": "From: Hollis Wheatfield\nTo: Reading Room Network\nSubject: Invitation: History of Early Gillikin Printing, June 25\nDate: June 2, 2025\n\nDear all,\n\nI hope this finds you well, and that the late spring light is treating your reading nooks kindly. I’m writing to extend an invitation to the Lantern Row Reading Room for an evening I’ve been quietly arranging.\n\nOn the 25th of this month, we’ll be hosting a talk by a visiting scholar who has been studying the history of early printing presses in the Gillikin country. Their research touches on some fascinating, almost forgotten presses that operated near the Perilous Mountains, using local paper stocks and typefaces cast from Gillikin alloys. It’s not just about the machinery, of course, but about what those presses allowed to circulate—broadside ballads, guild ordinances, philosophical tracts. The way ink settles on a page has its own story.\n\nThe talk will begin at 7 PM. I’ve cleared the long table by the west window to give us space. I do hope some of you can join us.\n\nWarmly,\nHollis"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln206",
+      "text": "From: Aurelia Ashmere\nTo: Reading Room Network\nSubject: Re: Invitation: History of Early Gillikin Printing, June 25\nDate: June 3, 2025\n\nHi Hollis, and everyone,\n\nThat sounds like a wonderful evening. The connection between regional materials and what gets published is so important. I’ll certainly try to be there.\n\nIt reminds me of something we just did here at the Junction Quarter school. Our middle-grade classes are in a unit on Oz civic design—looking at why our public squares are shaped the way they are, how the Brickway routes were planned, that sort of thing. To complement it, I arranged a video call last week with a historian from the Emerald City archives. She shared original sketches of early fountain designs and spoke about the debates over using local stone versus imported brick for civic buildings. The students were riveted, especially by a drawing of a proposed (but never built) triple-tiered clock tower for Munchkinland. It really brought the concepts off the page for them.\n\nMaybe there’s a way to connect these threads for older students someday. In any case, thank you for organizing, Hollis.\n\nBest,\nAurelia"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln230",
+      "text": "From: Hollis Wheatfield\nTo: Aurelia Ashmere, Reading Room Network\nSubject: Re: Invitation: History of Early Gillikin Printing, June 25\nDate: June 4, 2025\n\nAurelia,\n\nThank you. The clock tower anecdote is precisely the kind of detail that makes history breathe. I’m glad the call went so well. I often think students—and the rest of us—are more receptive to the grand ideas when they come through a specific, tangible artifact, whether it’s a sketch or a poorly inked broadside.\n\nThe scholar’s work does touch on how those early Gillikin printers saw their role as a civic one, distributing knowledge. I’ll be sure to mention your students’ project to them; it might provide a nice point of connection.\n\nLooking forward to the 25th.\n\nHollis"
+    }
+  ],
+  "content_sha256": "4242a29353623bcdbd604aa14893e9cda9a995c3affc0c7049f0bb469dc34a7e"
+}

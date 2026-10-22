@@ -1,0 +1,44 @@
+{
+  "id": "ln-027-grant-report",
+  "title": "Grant Report: Reading Room Network, March 2024",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln086",
+    "ln038"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\n\nEmerald City, Oz – The Reading Room Network reports on the use of recent grant funds allocated for facility maintenance and material preservation. The grant has enabled members to address minor but critical repairs and protect collections, ensuring the rooms remain safe, secure, and welcoming for all."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "At the Green Market Reading Room, a sudden roof leak threatened the biography section. According to accounts from others on site, librarian Vida Barleystead acted quickly to move three shelves of poetry collections—identified as particularly vulnerable to water damage—to higher ground, preventing any loss. The incident highlighted the need for ongoing vigilance in our older buildings."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln086",
+      "text": "The priority was getting the books out of the drip line. It was a simple relocation, but it meant the difference between a damp shelf and a ruined collection."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, at the Junction Quarter Learning Rooms, evening classroom caretaker Esther Lane completed a hands-on repair. A high window latch had worn to the point of failure, leaving the window insecure during evening sessions. Using grant funds, Esther procured a generic replacement mechanism from the hardware store and installed it herself, restoring full functionality."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln038",
+      "text": "The old latch just wouldn't catch. Modest, I know, but if a window won't close properly, the room isn't ready for class. Now it seals tight, and the evening groups don't have to worry about the draft or the noise."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Grant expenditures for the period totaled 12 silver pieces: 10 for the window latch hardware and associated supplies, and 2 allocated for supplemental shelving materials to improve storage flexibility at Green Market. The work demonstrates how modest, targeted funding allows members to solve problems directly, maintaining the integrity of these vital community spaces. Further inspection of the Green Market roof is planned, but remains unfunded."
+    }
+  ],
+  "content_sha256": "1efdae9455d05f7164c8fc7b658c586471f660d1271e6dfbf8858a0c28a94426"
+}

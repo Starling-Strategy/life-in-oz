@@ -1,0 +1,63 @@
+{
+  "id": "ln-171-membership-intake-form",
+  "title": "Membership Intake Form: Beryl Cloverton",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln202"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Membership Application"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Applicant Name: Beryl Cloverton"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Circle Affiliation: Timber Verge Repair Co-op"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Location: Yellow Kiln, Winkie Country"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Primary Trade: Appliance repairer"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Please describe your most recent work in the community (the last 3-6 months). List specific projects and outcomes."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln202",
+      "text": "Got my hands on four washing machines that were headed for the scrap yard. Refurbished them—new belts, checked the pumps, the usual. Worked with the manager at the old brick housing complex on Brickway to install them in the basement laundry room. They’re on a coin-op timer now, so the tenants have a reliable place to wash clothes without hauling everything across town."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln202",
+      "text": "Separate thing: a dairy farmer out past the mill had a walk-in fridge with a compressor about to shake itself loose. Made a nasty racket day and night. I cut and welded a new mounting bracket to replace the rusted-out one. Bolted it in solid. No more rattle, and the compressor’s not trying to walk across the floor anymore."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "What interests you about the Emerald City Leadership Network?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln202",
+      "text": "The Co-op talks about you all. Sounds like a place to hear what other folks are fixing, or struggling to fix. Could be useful. Maybe find a source for decent used parts, or someone who needs a hand with a tricky weld."
+    }
+  ],
+  "content_sha256": "c99cf7cd92fe227fdf6c4c7f0cedc07380f7f241fff130f22e83f4f5d6341f0e"
+}

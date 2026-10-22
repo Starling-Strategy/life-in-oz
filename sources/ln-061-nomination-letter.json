@@ -1,0 +1,19 @@
+{
+  "id": "ln-061-nomination-letter",
+  "title": "Nomination of Jago Cloverley for the Founders' Gala",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln148",
+    "ln292"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln148",
+      "text": "To the Founders’ Gala Selection Committee,\n\nI am writing to nominate Jago Cloverley for recognition at this year’s Gala, specifically for his work as a Planning Officer and his exemplary commitment to the tangible improvement of our public spaces. I have seen this commitment firsthand through our collaboration in the Wizard's Office Liaisons circle.\n\nTo provide context for my nomination, last month a water main break in Gate Quarter required an urgent public notice. My role was to format and distribute the boil water advisory as quickly as possible. I used both printed flyers for door-to-door distribution and the digital alert system to reach a broader audience. It was a straightforward but critical task to ensure community safety.\n\nThat episode, however, underscores the value of Jago’s different but equally vital kind of work. Where my task was reactive and urgent, his is proactive and patient, requiring a meticulous navigation of process to achieve a lasting good. A prime example is his recent project regarding a public bench. For months, he facilitated the consultation and paperwork required to relocate a bench from a poorly lit, seldom-used alley to a sunnier, more welcoming spot outside the popular bakery on Spectacle Lane. He coordinated with the relevant city departments, managed the necessary permits, and ensured the move was compliant with all regulations. The result is not just a change of location, but a transformation of the bench’s utility—it is now consistently occupied, fostering a small but meaningful point of community interaction.\n\nJago’s measured approach and procedural clarity turn bureaucratic hurdles into achievable outcomes. He demonstrates that diligent, behind-the-scenes work is what makes our city not just functional, but genuinely pleasant to live in. For his successful effort in making a small piece of our shared space more usable and joyful, I wholeheartedly nominate Jago Cloverley.\n\nSincerely,\nOrla Greenwick\nPublic Notices Editor, Wizard's Office"
+    }
+  ],
+  "content_sha256": "180680330716a9f1cb40ef1a33642d980a01adf1afeda957d9e0427abef0b9db"
+}

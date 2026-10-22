@@ -1,0 +1,33 @@
+{
+  "id": "ln-332-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Quill Tincombe · September 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln129"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Call with Quill Tincombe, September 2025. Quill reported two recent projects."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "First, the Emerald River cleanup parade. Quill said he designed and built several large fish and river creature puppets from recycled materials. He described using old canvas banners shaped over wire frames for a giant carp, and piecing together scrap-green glass bottles for the scales on a serpent puppet. He said they were a hit with the kids in the parade, especially the one with the hinged jaw."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Second, a repair job for a Lantern Row librarian. Quill said the librarian brought him a vintage marionette of a scarecrow for a children's storytelling event. The original strings were frayed and the balance was off. Quill replaced them with a stronger grade of braided fishing line. He said this let him re-balance the wooden limbs so the scarecrow could walk and wave smoothly again. The librarian was very pleased, and Quill noted the fishing line was more durable and less likely to tangle."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Quill mentioned he's thinking about offering a basic puppet repair workshop through the Reading Room Network, but it's just an idea for now. He'll follow up if he drafts a plan."
+    }
+  ],
+  "content_sha256": "6ae80bf2cfc9bdd3255f61cdf981077a1a596ddcd792788101a3fa274203f928"
+}

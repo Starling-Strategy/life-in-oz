@@ -1,0 +1,64 @@
+{
+  "id": "ln-192-press-release",
+  "title": "Young Founders Turn Practical Wisdom into Resilient Harvests",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln077",
+    "ln031"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE\nMarch 2025\nEMERALD CITY, Oz – The Emerald City Leadership Network’s Young Founders circle, a group of emerging entrepreneurs from across the four countries, is spotlighting how small, intentional actions build enduring operations. Two members, from the orchards of Munchkin Country to the highlands of Gillikin, demonstrate that foundational business strength often grows from the ground up."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Violet Hills, soil adviser Bram Poppyworth of Gillikin Growers was consulting with a local smallholder last autumn. The farmer was struggling with a persistently soggy, unproductive corner of a pasture. “The ground was like a brick,” Poppyworth noted, “but not the good, road-building kind.”"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln077",
+      "text": "We didn’t need to bring in a big rig. A broadfork, some sweat, and the right seed. We opened the soil up just enough, let it breathe, and put in a clover mix that sends roots down deep. By early spring, the water was moving through, not pooling. It’s a simple fix, but you have to see the problem clearly first."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The aerated and overseeded section showed marked drainage improvement, turning a wasted patch into usable grazing land within a single season."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Eastfield, orchard manager Lydia Hart of the Eastfield Orchard Partnership faced a more immediate crisis. On the first busy day of the apple harvest, a crew’s canvas picking sacks, weakened from the previous year, began to split open."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln031",
+      "text": "After we ran short last season, I made a note. So this year, I ordered a few extra crates and tucked them in the back of the shed. When the bags started failing, we just went and got the replacements. No arguments, no stopping the clock. The crew kept moving."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Hart’s foresight, a direct lesson from a previous season’s pinch, prevented work stoppages and potential fruit loss on a critical day."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "What Bram and Lydia show is that young leadership isn’t about grand, distant visions. It’s about the practical step you take today because of what you learned yesterday. They’re building resilience into the very fabric of their work, one compacted corner or spare crate at a time."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Both Poppyworth and Hart are active members of the Network’s Young Founders circle, which connects emerging enterprise leaders across Oz for peer problem-solving and shared learning."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Emerald City Leadership Network is an association of adult members across the Emerald City and the Munchkin, Winkie, Quadling, and Gillikin countries, organized into professional and community circles. The Young Founders circle supports emerging entrepreneurs through connection and practical exchange."
+    }
+  ],
+  "content_sha256": "311549b5b57b63610ca909b2fe4130e3369cce5752e5d2f220c27a452e38a9df"
+}

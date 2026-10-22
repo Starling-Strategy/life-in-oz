@@ -1,0 +1,54 @@
+{
+  "id": "ln-447-press-release",
+  "title": "Blue Orchard Seed Library to Lend Cold Frames; Tinsmith Row Mill Hosts Educational Tours",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln022",
+    "ln293"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE: March 2026\n\nBLUE ORCHARD, Munchkin Country – Two initiatives from Emerald City Leadership Network members are bringing hands-on agricultural education to communities in Oz."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Ada Reed, seed librarian at the Blue Orchard seed library, announced plans to expand the library’s offerings beyond seeds. Starting next growing season, the library will loan out two small cold frames to local gardeners on a first-come basis."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln022",
+      "text": "The idea is to lower the barrier for experimenting with season extension. We have gardeners interested in cool-weather crops—think early lettuce, spinach, certain root vegetables—but who are hesitant to invest in the materials. These will be labeled 'Library Cold Frame A' and 'B', with simple care instructions. It’s a trial, to see how much earlier we can get things going."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Winkie Country, Pia Reedford of the Tinsmith Row Grain Mill recently hosted a tour for a class of local schoolchildren. Reedford guided the group through the entire milling process, from the grain intake pit to the final bagging station."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln293",
+      "text": "We let them feel the difference between wheat berries, cracked wheat, and the final flour at each sifting stage. They handled samples from the tempering bin—that’s where we adjust moisture—and saw the stones turning. The key was having props they could touch. It’s one thing to hear 'grain becomes flour,' another to feel the texture change through each step."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The tour concluded with each child receiving a small bag of flour milled that day. A teacher accompanying the group noted the students were keen to discuss the process on the ride back to school."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Both Reed and Reedford are members of the Gillikin Growers circle within the Emerald City Leadership Network, which connects professionals and enthusiasts across Oz’s agricultural and food-production sectors."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network: The Emerald City Leadership Network is an association of adult members across the Emerald City and the Munchkin, Winkie, Quadling and Gillikin countries, focused on practical collaboration and shared learning across trades and community initiatives."
+    }
+  ],
+  "content_sha256": "8b2c9b911da064b4266b8efbf163eec2daed1efd18e0f2def8640bc2b71ad441"
+}

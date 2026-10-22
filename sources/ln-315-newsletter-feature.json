@@ -1,0 +1,66 @@
+{
+  "id": "ln-315-newsletter-feature",
+  "title": "Places for the Hands",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln286",
+    "ln178",
+    "ln147",
+    "ln142"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Across the network, members are making things that last, with an eye to the person who will use them next. This month, we're looking in on the Timber Verge Repair Co-op, where the work is about extending the life of what we already have."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "In Blue Orchard, Doris Emerycombe of Emerycombe Fabrication was asked to help with a mobile bike repair project. They needed a way to keep wrenches, tire levers, and patch kits organized and accessible on a rolling cart. Doris took the measurements and returned with a welded steel rack, its compartments sized for specific tools. She designed it to mount with bolt-on clamps, not a permanent weld."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln286",
+      "text": "You bolt it on, you can bolt it off. Maybe the cart frame gives out before the rack does. If it does, the rack can go on the next one. No sense wasting good steel."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Over in Saffron Flats, the community garden needed a spot for volunteers to take a break and for some kitchen herbs to grow. Alma Plumfield of Plumfield Joinery saw the two needs as one. She built a long, low planter box from weather-treated pine, with a wide, flat top that doubles as a bench. The soil area runs along the edges, leaving the center clear for sitting."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln178",
+      "text": "It’s just a box and a seat. But you get thyme and basil coming up on either side of you while you lace your boots. It’s efficient."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Back in Blue Orchard, Yara Wheatley of Wheatley Stationers wanted to share a craft that feels a bit like magic. She cleared the big table in her shop’s back room and invited people in for a free paper marbling demonstration. The swirling patterns came from pigments she’d gathered herself from the banks of a Quadling river."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln147",
+      "text": "It’s all about suspension—the color floats on the surface of the water, and you lay the paper down to catch it. Every single sheet is a one-of-a-kind map. I wanted people to see that you can make something beautiful from what’s just lying around."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "In Violet Hills, the tool library’s most popular wheelbarrow had seen better days. The tire was flat, and the axle was loose, making it wobble dangerously under a load of compost. Oren Cinderley, who stewards the library, took it into the workshop. He patched the inner tube, sanded the rough spots on the wheel rim, and tightened the axle bolts back to a firm, secure fit."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln142",
+      "text": "It’s not about making it new. It’s about making it right. A wheelbarrow is a simple machine. If the wheel turns and the load stays balanced, it’s done its job. This one has several more seasons in it, I’d say."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "A rack built for the next cart, a bench that feeds you, patterns pulled from river mud, a wobble corrected—none of these acts are grand. But together, they represent a philosophy the Timber Verge Co-op holds dear: care is a tangible thing, applied directly to the problem at hand."
+    }
+  ],
+  "content_sha256": "e9ddbdfaf6247e93711a180784222ad40d2512e11429909477fea668bba4dd76"
+}

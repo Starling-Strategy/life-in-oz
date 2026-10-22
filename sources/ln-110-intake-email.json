@@ -1,0 +1,23 @@
+{
+  "id": "ln-110-intake-email",
+  "title": "Fwd: Timber Verge Market & Planning Meeting Refreshments",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln270"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln270",
+      "text": "From: Isla Emeryley, Founder, Emeryley Food Truck\nTo: Network Intake Desk\nSubject: Fwd: A couple things from the truck\nDate: 15 November 2024\n\nHi Rowan,\n\nJust forwarding these notes over from the past few weeks—thought they might be useful for the network's records. The planning meeting pies went over even better than I hoped.\n\nBest,\nIsla"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Isla Emeryley\nTo: Myself\nSubject: Notes for intake\n\nFor the community planning meeting last week: Prepared eighty mini vegetable pies using surplus root vegetables (carrots, turnips, a few purple potatoes) from a Gillikin Growers member who had more than they could store. The pies were a hit—the clerk from the planning board said they disappeared before the first agenda item was finished. No leftovers!\n\nSeparately, for the Timber Verge winter market volunteer setup this past Saturday: Made two large insulated dispensers of spiced apple tea for the crew. It was a particularly chilly morning, and the road crew member managing the barricades said it kept their hands warm during the two-hour setup. They drained both dispensers by 9 AM."
+    }
+  ],
+  "content_sha256": "3f02d886b29365d6604256881fac12feb87c42b4917fc2bbc4e73cd4e3cb9b35"
+}

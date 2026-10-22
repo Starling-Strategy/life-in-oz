@@ -1,0 +1,19 @@
+{
+  "id": "ln-258-nomination-letter",
+  "title": "Letter of Nomination for Albin Fernwick",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln288",
+    "ln204"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln288",
+      "text": "To the Founders’ Gala Committee,\n\nI’m writing to nominate Albin Fernwick for recognition at this year’s event. I know nominations are meant to highlight how members quietly get things done for their communities, and I can’t think of anyone who fits that better than Albin.\n\nI’m a tinsmith, and my own current plan—producing a batch of forty drip pans for the older wood-stoves—is still just that, a plan, waiting on a confirmed order from the hardware collective. It’s the sort of small, practical project our guild supports. But Albin’s work is the finished version of that spirit.\n\nLast month, the Timber Verge reading room had three book carts whose wheels had gone so wobbly and loud they were disturbing people trying to read. Albin took them to his machine shop, cut off the old axles, and welded on new ones. He didn’t just make them functional; he made them silent and smooth-rolling again. He didn’t announce it or invoice them; he just did it because it needed doing. That’s the kind of member he is—factual, understated, and incredibly capable.\n\nIn our guild, talk about supporting local institutions and preserving tools is common. Albin embodies it. He fixes the things that let other work continue, without any fuss. I believe his steady, skilled contributions are exactly what the Gala should honor.\n\nSincerely,\nKerensa Lanternstead\nLanternstead Tinware"
+    }
+  ],
+  "content_sha256": "e87ea756964d40f07556d6705e724f2a41c55c32047f773019dca09ca4dda9a9"
+}

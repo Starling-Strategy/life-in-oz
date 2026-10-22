@@ -1,0 +1,50 @@
+{
+  "id": "ln-305-social-thread",
+  "title": "Willow windbreaks and cracked gauges: recent notes from the growers",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln048",
+    "ln197",
+    "ln046"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Yellow Brick Board › Forums › Gillikin Growers Circle › Field Techniques & Observations"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln197",
+      "text": "A quick note from Purplemoor: last month I worked with a local farmer on a stubborn erosion patch along their western field edge. We planted a simple, dense willow windbreak – nothing fancy, just cuttings from the creek bank woven between stakes. The farmer says it's already catching a noticeable amount of the blown topsoil that used to just vanish into the ditch. Best part is, the willows have taken so well we'll have plenty of new cuttings to expand the break or share next season. If anyone has a similar problem spot, I'm happy to sketch out the layout we used."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln046",
+      "text": "That's a brilliant use for willow, Ivy. It reminds me – during that cold snap in early August, I was worried about the heat in our active compost piles dropping too low. We don't have a creek bank here, but we do have some old willow screening from a past project. I wove a temporary windbreak around the three active bays. It wasn't pretty, but it worked. The internal temperature only dropped 5 degrees over those three cold nights, instead of the usual 15-degree plunge. Finished sifting that batch yesterday, and it was definitely more consistent. The willow's back in storage now, ready for the next freeze."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln048",
+      "text": "Interesting about the willow. I don't have erosion, but I do have a measurement problem. My neighbor mentioned to me that she saw me looking closely at my standard-issue rain gauge last week. She was right. I found a hairline crack running up the side of the collection funnel. It's very fine, but it's there. I've contacted the volunteer network coordinator about a replacement. In the meantime, I've patched it with a waterproof sealant as a temporary fix, but my measurements for the last two rainfalls are flagged as potentially inaccurate. I'll post again when the new gauge is installed and calibrated."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "a fellow gardener",
+      "text": "Noel, thanks for the transparency on the gauge. Makes me want to go check mine. Henry, did you treat the willow at all before putting it around the compost, or was it just dry?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln046",
+      "text": "It was dried from the previous season, so no treatment needed. Green willow would probably root, which you wouldn't want for a temporary break. Dry worked perfectly as an insulator."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln197",
+      "text": "Noel, good catch. A cracked funnel will throw everything off. Let me know if the network needs a nudge from our circle. And Henry, 'not pretty but it worked' is the motto of half the best fixes in Gillikin."
+    }
+  ],
+  "content_sha256": "c5ecab60a98883416d09690489a1d26f6ff3ada965aac715eb7da4f9b5399a5a"
+}

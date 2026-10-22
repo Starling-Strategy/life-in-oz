@@ -1,0 +1,125 @@
+{
+  "id": "ln-206-meeting-minutes",
+  "title": "Munchkin Country Storm Relief Coordination Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln241",
+    "ln169",
+    "ln001"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network – Munchkin Country Relief Coordination Committee"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Minutes – 15 April 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Present: Enid Poppydale (Poppydale Haulage), Abel Wickridge (Wickridge Haulage), Dorothy Gale (Gale Agricultural Supply), Rowan Bell (Network Community Manager)"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "1. Call to order and review of previous minutes"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Rowan opened the meeting and thanked everyone for their work during the late March windstorms. The purpose was to review what was delivered and identify any gaps."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "2. Delivery report and acknowledgments"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln241",
+      "text": "Enid ran through the final tally. We moved thirty-two tons of feed, six pallets of fencing materials, and about four hundred parcels of household supplies between March 28th and April 5th. The Brickway was clear enough for rigs by the 29th, but the back roads to the eastern farms were a mess."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln241",
+      "text": "The minutes should record that Abel Wickridge drove the first feed load through to the cut-off farms on the 30th. He found a passable route past the downed sweet-gum at the mile marker."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln169",
+      "text": "It was just getting the job done. The ground was soft but firm enough if you didn't stop."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Rowan formally thanked Abel for taking that first run, which gave others the confidence to follow."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "3. Review of the relief list and identified gaps"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln001",
+      "text": "Dorothy Gale presented an analysis of the farm list used for targeting relief. She noted that the list, compiled from Chamber and Growers' Circle rolls, was largely accurate but missed two holdings."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln001",
+      "text": "The place run by a neighbor, which is a lease operation on an old family acreage, wasn't on any of the main membership lists. And the small dairy run by the sisters south of Bluebell Crossing—they sell direct at the junction market, so they weren't on the commercial rolls. We got word they were running low on feed by April 3rd."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln001",
+      "text": "We managed to reroute a partial load to them on the 4th, but the list getting it wrong upfront meant they spent three extra days worrying. For next time, we need to cross-check with the market vendor registry and the land-lease office."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln241",
+      "text": "Makes sense. The lists are never complete. Good catch, Dorothy."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln169",
+      "text": "Aye. It's always the quiet ones you miss."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "narrator",
+      "text": "4. Action items"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "narrator",
+      "text": "a) Dorothy Gale to draft a short procedure for expanding the contact list during a relief effort, incorporating market vendor and land-lease sources. To be shared with the Gillikin Growers and Meadow Mutual Aid circles by 30 April."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "narrator",
+      "text": "b) Enid Poppydale to update the network's emergency haulage contact sheet with the alternate route past the mile marker sweet-gum, noting ground conditions."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "narrator",
+      "text": "c) Rowan Bell to circulate these minutes to the Brickway Transit Union and the wider network membership."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "narrator",
+      "text": "5. Adjournment"
+    },
+    {
+      "id": "b022",
+      "speaker_id": "narrator",
+      "text": "Meeting adjourned at 4:15 PM."
+    }
+  ],
+  "content_sha256": "13bf7af87b1002591a9d65c6a70d4140e7a93488c9393285a89c33f49822a144"
+}

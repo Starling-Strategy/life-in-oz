@@ -1,0 +1,19 @@
+{
+  "id": "ln-336-nomination-letter",
+  "title": "Nomination for the Winkie Works Guild Recognition Award",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln275",
+    "ln168"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln275",
+      "text": "To the Founders’ Gala Selection Committee,\n\nI’m writing to nominate Minna Winkleworth of the Winkie Works Guild for the Recognition Award this year.\n\nAs someone who runs a small upholstery shop, I understand the quiet importance of preventative maintenance. My own recent project involved repairing and recovering the worn armchairs for the South Meadow care home lounge. It was a straightforward job of making things comfortable and durable again. But Minna’s work is on a different scale and demonstrates a vigilance that protects entire teams and production lines.\n\nLast month, during a routine inspection at Westgate Foundry, she spotted a hairline crack in a large mold frame. That’s not something everyone would catch, or would prioritize if they did. Minna recognized the risk immediately. Instead of letting it slide or causing a disruptive shutdown later, she coordinated the welding repair during a planned lull in the production schedule. That kind of foresight—seeing a small flaw and acting on it calmly and efficiently—prevents costly breakdowns and, more importantly, keeps her colleagues safe. It’s the essence of skilled, responsible craftsmanship.\n\nHer direct, no-nonsense approach gets the right thing done without fanfare. In our guild, where the work is often heavy and the margins for error are small, that reliability is invaluable. Minna Winkleworth represents the best of what we do: not just making things, but maintaining the integrity of the systems we all depend on.\n\nShe has my full support for this recognition.\n\nRespectfully,\nYves Brambleholt\nOwner, Brambleholt Upholstery"
+    }
+  ],
+  "content_sha256": "c1b7b257a9f3d884c2c760c9f7ade91d4ae3fc61cb555aa80972fc9972240db7"
+}

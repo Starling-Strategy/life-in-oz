@@ -1,0 +1,59 @@
+{
+  "id": "ln-136-newsletter-feature",
+  "title": "Hemp Knots and Sprouting Shoots: Gillikin Growers Keep Things Flowing",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln025",
+    "ln022"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "While winter settles in, the work of the Gillikin Growers doesn't stop—it just gets more fundamental. This month, we caught up with two members whose quiet, careful labor ensures that water flows where it should and seeds remember how to grow."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Out in Eastfield, Jonas Pike keeps an eye on the Eastfield Water Users' network. A recent job took him to the Number 3 gate, where the old rope holding the sluice had frayed after a season of use. Jonas didn't just tie a new knot; he spliced a new length of hemp rope, a slower, more permanent fix. When asked about it, he was characteristically brief."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln025",
+      "text": "The old one was chewed up. The new one's good hemp. Had to be sure it'd hold."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "How did he test it? Not with a fancy gauge. He filled a bucket with stones, hooked it on, and watched the gate lift and hold. Satisfied, he reopened the channel. 'It'll last,' he said, glancing at the sky. 'Long as the weather holds.'"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, in Blue Orchard, Ada Reed of the seed library was thinking about the future. When a local school group came through, she wanted to show them something immediate, something they could touch. She set up a sprouting demonstration with simple jars and mesh lids, explaining how a dry bean becomes a plant."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln022",
+      "text": "We used mung beans. They're fast, and you can see the whole process: soaking, rinsing, the root tip emerging, then the shoot. It's a complete little life cycle in a few days."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "By the end of the visit, each child had their own paper cup with a sprouted mung bean to take home. Ada labeled each cup with the date and the variety, a small act of record-keeping she hopes will stick."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln022",
+      "text": "The hope is they'll watch it grow, or maybe even plant it. If they remember the name 'mung bean' and that it came from a jar on a shelf, that's enough. It connects the library to the garden, and the garden to the table."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "From the heavy, stone-tested pull of a water gate to the delicate green nub of a sprout, the work is all about ensuring continuity—of water, of knowledge, of life itself. It's not flashy, but as the days shorten, it feels essential."
+    }
+  ],
+  "content_sha256": "68b45e52d3ddbbcb81d3962c6b9ef13c76a0806744881649c1a62fc8b1f1b68a"
+}

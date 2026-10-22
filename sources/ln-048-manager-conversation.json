@@ -1,0 +1,33 @@
+{
+  "id": "ln-048-manager-conversation",
+  "title": "Call with Pantry Coordinator Omby Amby",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln052"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Omby Amby · June 2024"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Omby says the Saturday shift was humming along until one of the hand-dollies started shimmying badly on the Brickway. A volunteer was about to abandon a crate of carrots. He flagged her down, pulled a wrench from his tool bag, and tightened the axle nut right there. He says the sound of that wheel rolling smoothly again was better than the lunch bell."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Separately, he’s been working on the bread supply. He talked to the baker at Gate Quarter Gables. They agreed the pantry will send a volunteer every Tuesday to collect day-old loaves in a big waxed canvas tote the bakery provided. Omby says it’s not a huge quantity, but it’s dependable, and it means every parcel gets a starch now."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "He posted the new Tuesday collection duty on the volunteer board this morning. He’s pleased it didn’t require any new funds, just a handshake and a tote."
+    }
+  ],
+  "content_sha256": "f128099b531ae320ce35d06a022efd2c60c2be9d88e5fc2388426387e6cfc889"
+}

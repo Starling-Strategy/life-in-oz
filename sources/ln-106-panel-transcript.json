@@ -1,0 +1,121 @@
+{
+  "id": "ln-106-panel-transcript",
+  "title": "Meadow Mutual Aid: Sharing Skills, Feeding Community",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln243",
+    "ln087",
+    "ln104",
+    "ln248"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good evening, everyone, and thank you for joining this panel from Meadow Mutual Aid. I'm Rowan Bell, the community manager for the Emerald City Leadership Network, and I'm thrilled to be hosting this conversation with four members who are doing such different, essential work. Let's go ahead and introduce our panelists. Saffi, would you like to start?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln243",
+      "text": "Of course. I'm Saffi Orchardmere, from Orchardmere Opticians in Bell Market. I've been a member of the Chamber circle for a while now, and my work is all about clarity and comfort, which I think fits right in with the mutual aid idea."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln087",
+      "text": "Hal Thistleworth, from Thistleworth & Co. Accountants in Redfern Hill. My focus is on helping people understand their numbers, so they can keep doing the good work they're doing without getting tripped up by paperwork."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln104",
+      "text": "Briony Gateholt. I run the warm room at Reed Flats in Munchkin Country. It's a place to come in out of the cold, have a hot drink, and sometimes, as it turns out, get a bit of other help too."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln248",
+      "text": "Hello! I'm Phoebe Greenworth, and I manage the community pantry down in Saffron Flats, Winkie Country. My job is mostly making sure what comes in the door finds its way to someone who needs it, which sometimes involves a bit of creative thinking!"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Wonderful. I'd like to start with skills sharing. Saffi, you recently gave a talk at an Emerald City Chamber meeting. Can you tell us about that?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln243",
+      "text": "Yes. It was about shopfront lighting. Not the most glamorous topic, but a real one. I see so many independent shops using harsh, flickering lights or leaving their windows too dark. It makes customers uncomfortable; they don't linger. I showed some before-and-after photos from my own place and a few others, demonstrating how consistent, glare-free lighting actually lets people see the goods properly and feel welcome. It's a small change that can help a small business hold its own. The questions afterward were very practical—about bulb types, timers, energy costs."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "Hal, you also ran a workshop through the Chamber. A slightly different set of skills."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln087",
+      "text": "Indeed. It was an evening session on tax obligations for independent contractors. We had furniture repair people, muralists, freelance tutors—a full room. The key was using clear examples from their sectors: how to track mileage for a mobile repair person, what counts as a supply expense for an artist, record-keeping for someone paid in small installments. We walked through a sample quarterly form together. The goal wasn't to make them experts, but to take the fear out of it and give them a system they could actually use. Several folks stayed afterward to talk about setting up separate bank accounts, which is a great first step."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Briony, your warm room seems to have become a place for more than warmth. We've heard you hosted a resume session?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln104",
+      "text": "Oh, that was nothing so formal! One of our regulars who helps out sometimes mentioned to a few neighbors that I'd helped her daughter sort out a work history list last year. Word got around. So one quiet afternoon, three people showed up, asking if I had a minute. We sat around the old computer in the back. It's slow, but it works. One gentleman had been a farmhand for thirty years and had never written a resume; we just listed the farms and seasons. Another woman had done several different things—childcare, kitchen work, cleaning—and we grouped them into skills. It was just about getting it down on paper in a way that made sense to them. She says the neighbors told her one of them got an interview at a stable not long after."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "That's a perfect example of how mutual aid often works—someone sees a need and quietly fills it. Phoebe, your work is literally about filling needs. Can you tell us about the courgettes?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln248",
+      "text": "(laughs) The giant courgettes! Yes. A grower from Gillikin Country donated a whole crate of them—they were massive, the kind you miss for a day in the patch and they turn into clubs. You can't just put those out in the pantry; nobody would know what to do with them. So I put a note on our board asking if anyone knew how to make relish. Turns out, four people did! We organized an afternoon here. They brought their own knives and jars, I supplied vinegar and sugar from the pantry stores, and we chopped and cooked and jarred. We ended up with twenty-four jars of perfectly good courgette relish. It's now on the shelves, and it's been popular. It turned a donation that might have been compost into something that will feed people for months."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "manager",
+      "text": "That's incredible. It seems like a thread here is adapting what you have—whether it's knowledge, space, or vegetables—to meet a need. Hal, from your perspective, does this kind of informal skill-sharing have a financial impact?"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln087",
+      "text": "A measurable one, yes. For the contractor, understanding taxes means no surprise bills or penalties, which protects their cash flow. For the small shop owner, better lighting might mean a few more sales a week. It's marginal, but margins are what keep small operations alive. For the pantry, turning a donation into a preserved good stretches its value considerably. It's all about resourcefulness, which is a financial skill in itself."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln243",
+      "text": "I'd add that it's also about confidence. When a business owner feels in control of their space, or a job-seeker has a document they're proud of, that changes how they move forward. It's not just about the direct outcome."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln104",
+      "text": "Exactly. The man with the farmhand resume, he walked out standing a bit straighter. He had a record of his work, something to show. That matters as much as the interview."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "manager",
+      "text": "Phoebe, what's the biggest challenge in making these connections happen?"
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln248",
+      "text": "Communication, I suppose. The relish afternoon worked because I put up a physical note in a place people see. Not everyone comes to the pantry, though. And sometimes the need is urgent—a family needs a bedframe, someone needs a ride to a medical appointment—and you have to match it quickly. We've started a simple board system: green notes for offers, yellow notes for needs. It's low-tech, but it works for us."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln087",
+      "text": "The Chamber workshops use the network's calendar, which helps. But the informal things, like Briony's resume help, they spread by word of mouth. There's a trust there that you can't schedule."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "manager",
+      "text": "Thank you all so much. And thank you to everyone listening."
+    }
+  ],
+  "content_sha256": "9bd40990a20866836a496d9bb1450c3fb5213ea2137130d82de0999b08723a5e"
+}

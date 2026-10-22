@@ -1,0 +1,51 @@
+{
+  "id": "ln-413-survey-response",
+  "title": "Young Founders Circle Members' Survey Responses",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln166",
+    "ln077",
+    "ln222",
+    "ln097"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network\nYoung Founders Circle Member Survey\nJanuary 2026\n\nSurvey Question: What recent project, within your circle or the wider network, are you most proud of? What did you learn from it?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln077",
+      "text": "A Violet Hills cafe, you know the one by the old mill, was having real trouble with their kitchen herb garden. The basil was pale, the thyme was thin. They called me over. I showed them how to brew a simple compost tea from their own kitchen scraps—no special equipment, just a bucket and an old sack. We applied it together. Within two weeks, you could see the difference. The rosemary perked right up. It reminded me that the best solutions are often the ones already in your hands. You don't need a fancy fertilizer shipment from the city; you need to understand what's already in your soil and how to wake it up."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Survey Question: What's a project you're planning to tackle in the next few months, and what do you hope it will achieve for your community?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln166",
+      "text": "My project is the parts shelf at the Timber Verge Repair Co-op. Right now, it's a jumble—motors, switches, cords, all mixed together. I'm going to spend a weekend sorting it all out. I'll build some simple bins, label everything clearly, and make a master list. The goal is to cut the time it takes someone to find a working part for a repair in half. It saves the customer money, it keeps an appliance out of the scrap heap, and it makes the co-op more efficient. It's not glamorous, but it's necessary work."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln097",
+      "text": "I am proposing a joint first-aid refresher course for members of the Brickway Transit Union and the Young Founders Circle. We'd hold it at the tram depot on a quiet Sunday. The idea is to bring together people from different parts of the network—drivers and founders—to practice essential skills. On the trams, we see all sorts of minor incidents, and in any workspace, preparedness matters. I hope it achieves two things: practical, up-to-date training for everyone involved, and stronger connections between our different circles. A shared skill builds a shared understanding."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Survey Question: Can you share an example of a network member's work that has inspired you recently? What about it resonated?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln222",
+      "text": "I've heard from folks at the Lantern Row Reading Room about Gus Poppyridge's project. Apparently, he spent three months transcribing and translating a set of old, handwritten ledgers from a former Gillikin orchard for their archive. The writing was faded, the ink blotched. The patience and care that must have required... It resonates because it's about preserving a local story that would otherwise be lost. It's not a commercial translation job; it's a gift to the community's memory. That kind of quiet, meticulous dedication to history inspires me. It shows that building something meaningful isn't always about launching the new thing; sometimes it's about safeguarding the old."
+    }
+  ],
+  "content_sha256": "47984424589d438cd96aa187ef2b151afac5a8db218059fa9d2db12adea12643"
+}

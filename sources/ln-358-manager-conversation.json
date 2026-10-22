@@ -1,0 +1,50 @@
+{
+  "id": "ln-358-manager-conversation",
+  "title": "Festival Committee Check-in",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln146",
+    "ln035",
+    "ln249"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell · Community Manager · call with Toby Brickwick, Tessa Finch, Milo Winkleham · October 2025"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Rowan opened the call, checking in on how everyone was doing ahead of scheduling the next Festival Committee meeting."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln146",
+      "text": "Toby mentioned a small crisis at the Spectacle Lane Reading Room. He noticed a drip from one of the tall skylights above the biography section during the last rain. He said he didn't want any of the collection at risk, so he went up a ladder with some sealing tape and an old tarpaulin from the storage cupboard. He managed to patch it well enough that the drip stopped. Proper repairs are scheduled with a glazier for next week."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln035",
+      "text": "Tessa reported that the Bell Market Players' latest run is going smoothly. She specifically mentioned rehearsing a complex set change that had to be nearly silent for a scene transition. She had the crew fit all the furniture legs with felt pads and drilled them on a series of hand signals. She said the 'Emerald City Gazette' review last week actually mentioned how seamless the scene changes were, which she was pleased about."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln249",
+      "text": "Milo described a difficult gig last weekend for an outdoor concert in Munchkinland. The hired generator for the stage lights failed completely halfway through the show. He said there was no replacement available on site or nearby that night. His only option was to reroute power to a single, small backup battery system. He was only able to provide minimal safety lighting along the stage edge for the second half—enough for the musicians to see their way on and off, but not for any of the planned effects."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln146",
+      "text": "Toby asked Milo if that kind of generator failure was common. Milo said it's rare, but when it happens, it's a total showstopper unless you have a second unit on standby, which the budget didn't allow for."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Rowan thanked everyone for the updates and said she'd circulate some potential dates for the next committee planning session."
+    }
+  ],
+  "content_sha256": "bcbc26485d0c3b5560b201e3ba6c0febea758c10b0626ac2b277c0a8712384a5"
+}

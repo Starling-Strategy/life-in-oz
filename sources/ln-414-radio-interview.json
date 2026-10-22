@@ -1,0 +1,79 @@
+{
+  "id": "ln-414-radio-interview",
+  "title": "Funding the Festivities: A Chat with the Wizard's Office Liaisons",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln076",
+    "ln088"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln088",
+      "text": "Good evening, and welcome to 'Community Corner' on the Emerald City Public Radio network. I'm your host, Gideon Thistleham, Council aide with the Wizard's Office. Tonight, we're talking about the connections between civic administration and the people it serves. I'm joined by my colleague from the Community Grants office, Tomas Saffronley. Welcome, Tomas."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln076",
+      "text": "Thank you, Gideon. Happy to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln088",
+      "text": "So, Tomas, your work involves a lot of the funding that helps local groups and events get off the ground. I understand there was a recent situation with a neighborhood lantern festival that ran into a bit of a financial snag. Can you tell us about that?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln076",
+      "text": "Well, I can speak to what I heard. Colleagues mentioned that the organizers discovered a budget shortfall quite late in their planning. The issue was presented as a potential cancellation of some of the evening's programmed events. My understanding, from these secondhand accounts, is that a review of the existing grant and city support packages was conducted. This review identified a small contingency fund, allocated for public safety coordination, that had gone unused in previous years due to a change in volunteer staffing models. The procedure allowed for those funds to be re-designated to cover the shortfall for the festival's core programming, provided the safety plan was already secured—which it was."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln088",
+      "text": "So it was a matter of finding the right existing mechanism."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln076",
+      "text": "Exactly. The funds were already there, earmarked for a related purpose. The process just required aligning the documented need with the appropriate procedural pathway. It wasn't about finding new money, but about correctly applying the rules that were already in place to solve the problem. The festival, I'm told, proceeded with its full schedule."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln088",
+      "text": "That's a good example of how administrative clarity can have a very real impact. On a related note, my own team has been looking at our internal processes. We recently completed a revision of the standard acknowledgment letter template for our small business grant recipients."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln076",
+      "text": "The one that used to require, what, five separate signatures before it could go out?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln088",
+      "text": "That's the one. It was a relic from an older auditing system. We analyzed the actual approval needs and determined that only two signatures were necessary: the initial grants officer and a final authorization from the department head. We revised the template and the workflow last month. The new process is now live."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln076",
+      "text": "What's the practical effect of that change, do you think?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln088",
+      "text": "It shaves about three business days off the notification time for applicants. For someone who's been waiting to hear if they can order equipment or hire their first employee, those three days matter. It also frees up a considerable amount of clerical time that was spent routing a single piece of paper through multiple in-boxes. That time can now be spent on other applicant support."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln076",
+      "text": "A sensible streamlining. It reminds me that efficiency isn't just for its own sake; it's about returning time and certainty to the people we're meant to be serving."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln088",
+      "text": "Precisely. Well, that's all the time we have for tonight. Thank you to Tomas Saffronley for joining us. And thank you for listening to 'Community Corner.' For Emerald City Public Radio, I'm Gideon Thistleham. Good night."
+    }
+  ],
+  "content_sha256": "19c3945a27936a3764897284f0a9544894941125a5887a2bc0c5f15506c77f6e"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ln-043-speaker-bio",
+  "title": "Mabry Brickford, Community Health Worker",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln079"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Mabry Brickford is a community health worker with Quadling Health Access based in Redfern Hill. Their work focuses on making health resources accessible and less daunting for their neighbors. One of Mabry's recent initiatives is a weekly walking group that leaves from the Hill and follows the path to the Quadling health centre. The group provides residents with light, steady exercise while also helping them learn the route for future appointments in a relaxed, social setting, turning a potential source of anxiety into a familiar journey. Separately, recognizing that medication schedules can be a challenge, especially for those who struggle with written instructions, Mabry designed a set of simple, pictogram-based reminder cards. These cards, which use clear images to denote times of day and types of pills, have already helped reduce missed doses in several households where they've been introduced. Mabry brings a calm, systematic approach to their work, grounded in a practical warmth that meets people where they are."
+    }
+  ],
+  "content_sha256": "94643936af897a53b77195efadad422b43aeeb5274d292056a8af10a0d574ba4"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ln-141-grant-report",
+  "title": "Wickcombe Electrical Year-End Report for the Emerald City Leadership Network Small Projects Fund",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln094"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR IMMEDIATE RELEASE\nJanuary 2025\nTimber Verge, Winkie Country"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Funding from the Emerald City Leadership Network's Small Projects Fund was allocated to Wickcombe Electrical in the fourth quarter of last year for two community safety and accessibility improvements in Timber Verge."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "The first project involved a complete overhaul of the electrical system at the Timber Verge Tool Library. Previously, the library operated on a single, overloaded circuit, which posed a safety risk and limited the number of members who could use power tools simultaneously. Electrician Faye Wickcombe rewired the space, installing three new dedicated 20-amp circuits. This allows for the safe, concurrent operation of equipment such as table saws, air compressors, and miter saws. The work was completed over three days in late November. A library volunteer noted, 'We used to have to schedule who could sand and who could drill. Now it's just... work.'"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln094",
+      "text": "The old setup was a fire waiting to happen. Now they can run the big tools without tripping a breaker or melting a wire. Simple, solid work."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The second project addressed safety and access at the Timber Verge Community Garden. The main path to the compost and water spigots was poorly lit after sunset, creating a hazard for volunteers working late. Using the remaining funds, Wickcombe installed four solar-powered motion-sensor lights along the path. The fixtures are mounted on simple posts and provide ample light for navigating the garden after dark. The lights were operational by mid-December."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln094",
+      "text": "Solar means no wiring, no digging, no ongoing cost. They come on when someone walks by, and the gardeners don't have to fumble with a torch while carrying a bucket of compost. It just works."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "All materials were sourced locally from suppliers in the Winkie Works Guild. The fund covered the cost of wire, conduit, breakers, fixtures, solar units, and Faye Wickcombe's labor. The projects are now complete, with no outstanding actions or follow-up required. The Timber Verge Repair Co-op has reported increased evening activity at the garden, and the Tool Library has seen a reduction in wait times for workbench space."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "About the Emerald City Leadership Network Small Projects Fund: The fund provides modest grants to member-led initiatives that improve safety, access, or sustainability within their local communities across Oz."
+    }
+  ],
+  "content_sha256": "d0e2f87faae0e0418fe83bee7b859e8359a95cd29313d91f401f8ec9b0419c69"
+}

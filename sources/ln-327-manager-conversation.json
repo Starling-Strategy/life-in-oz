@@ -1,0 +1,28 @@
+{
+  "id": "ln-327-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Lena Thistlecombe · September 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln092"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Call with Lena Thistlecombe of the Bluebell Crossing community fridge, recorded September 2025."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Lena reports the fridge's internal drain line blocked with ice last weekend. She says the usual trick with a hair dryer wasn't reaching it. Instead, she used a kitchen baster to slowly drip warm water into the line until the plug melted. Took about twenty minutes of patience. This cleared it, and the compressor is now running fine. She estimates this prevented a service call from the nearest repair co-op, which would have taken three days and cost about fifty Winkie dollars in travel fees alone."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Separately, Lena is thinking ahead. She is proposing a summer produce swap meet to be held in the Meadow Mutual Aid lot. The idea is for gardeners in Bluebell Crossing and the neighboring hamlets to bring their surpluses—zucchini, tomatoes, early apples—and share them directly with regular fridge users. She thinks it would build connections and get more fresh food circulating before it ever needs refrigerating. She plans to bring it up at the next Meadow Mutual Aid circle meeting to see if they can provide tables and a rain date."
+    }
+  ],
+  "content_sha256": "d8b4d49a7059f639743e9724b10b4cc700f324d6b3168f31eef064110b02fedb"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ln-124-grant-report",
+  "title": "Meadowshaw Joinery: Small Grant Progress Report, December 2024",
+  "format": "grant_report",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln130"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR THE ATTENTION OF THE WINKIE WORKS GUILD COMMUNITY FUND\n\nREPORT ON THE SMALL GRANT AWARDED TO MEADOWSHAW JOINERY, YELLOW KILN\n\nThis report outlines the use of funds from the Winkie Works Guild’s 2024 Community Improvement Grant, awarded in October to Kezia Meadowshaw of Meadowshaw Joinery. The grant of one hundred and twenty silver pieces was designated for materials and labor for projects benefiting the wider community."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln130",
+      "text": "The money went exactly where I said it would. First job was the Blue Orchard garden gate. The old posts were so rotten you could poke a finger through them. I got good, straight timber from the mill over in Timber Verge—the co-op pointed me there. Took the old gate down, set the new posts deep, and re-hung it so it swings true now. Doesn’t sag or catch on the path. The gardening group was out there the next day, hauling in wheelbarrows without having to wrestle the gate open."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "The second portion of the grant funded a community resource: a set of portable display stands for the Guild’s annual craft fair and other local events."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln130",
+      "text": "Built eight collapsible stands. They fold flat for storage in a cart, but lock up solid when you need them. Light enough for one person to carry a couple. The idea was for the Guild to own them, so members don’t have to cobble something together from borrowed tables every year. A few folks from the pottery circle and the weavers have already used them for the winter market. There’s a small rental fee that goes back into the Guild’s kitty for maintenance or to fund another set someday."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Funds were expended as follows:\n- Timber, hardware, and finishes for the Blue Orchard gate: 68 silver pieces.\n- Timber, hardware, and transport for the display stands: 52 silver pieces.\nTotal: 120 silver pieces. Labor was contributed by Meadowshaw Joinery at no cost to the grant.\n\nBoth projects are complete and in active use. The display stands remain in the care of the Winkie Works Guild stewardship committee for scheduling and rental."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln130",
+      "text": "That covers it. The gate’s done, the stands are built. Thanks for the support.\n\nKezia Meadowshaw\nMeadowshaw Joinery\nYellow Kiln"
+    }
+  ],
+  "content_sha256": "9eb6b4a4b458e09b022ef99b245e20c0196661384e65d28b158c7455da11eb15"
+}

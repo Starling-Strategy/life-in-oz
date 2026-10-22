@@ -1,0 +1,93 @@
+{
+  "id": "ln-477-radio-interview",
+  "title": "The Tool Library: Sharing More Than Just Tools",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln058"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Welcome back to Community Ties on WINK. Today we’re talking about shared resources—specifically, tools. Our guest is Pia Oakridge, the steward of the Timber Verge tool library. Pia, thanks for coming in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln058",
+      "text": "Thank you for having me."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "Before we get into the day-to-day, I understand the library recently helped another group get started. Can you tell us about that?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln058",
+      "text": "Yes. We had some duplicates in our inventory—hand tools like hammers, screwdrivers, wrenches. Nothing broken, just extras. I heard through the network that a new repair co-op was forming in one of the villages down the river. They were just starting their basic inventory."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "And you sent them some tools."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln058",
+      "text": "That’s right. Twelve tools in total. I spent an afternoon checking each one for wear, wiped them down, and packed them in a sturdy cardboard box. I included a printed list of what was inside. It wasn’t a huge donation, but it meant they had a core set to begin with. It’s good to know the tools will be used."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "A simple act, but it makes a difference. Now, let’s talk about what you do to keep your own library’s tools in good shape. I hear you had a ‘tune-up day’ recently."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln058",
+      "text": "We did. That was for the garden tools, mostly. It’s a quieter time before the spring rush, so it’s the right moment. We gathered a few volunteers and focused on the rakes and shovels."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "What does a ‘tune-up’ involve?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln058",
+      "text": "Well, it’s mostly care. Wooden handles can get rough, so we sand them smooth to prevent splinters. The metal edges on shovels and hoes get dull, so we sharpen them properly. We wiped everything down with oil to protect the metal. We got through twelve tools that day. It’s satisfying work. You can feel the difference in your hands when you’re done."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "It sounds very hands-on. What’s the goal with that kind of maintenance?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln058",
+      "text": "A few things. First, it makes the tools safer and nicer to use. A sharp shovel is easier on your back. But it also extends their life. If we take care of them, they can be borrowed for years. It’s a form of respect for the object and for the next person who needs it."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "That philosophy seems to extend beyond your own shelves, given the donation. Is that connection important to the library?"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln058",
+      "text": "I think so. The library isn’t just a shed. It’s part of a… a system. Sometimes that means lending a drill to a neighbor. Sometimes it means helping another group start their own system. The tools should be working, not sitting idle."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "Pia Oakridge, steward of the Timber Verge tool library. Thank you for sharing your time and your quiet expertise with us today."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln058",
+      "text": "You’re welcome."
+    }
+  ],
+  "content_sha256": "ab3a90c04213c1262e216b784eddaa752055b7a12d0baae17433e7ebdf950bc9"
+}

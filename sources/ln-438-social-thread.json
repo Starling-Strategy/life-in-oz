@@ -1,0 +1,39 @@
+{
+  "id": "ln-438-social-thread",
+  "title": "Bluebell Crossing Clinic - Morning Queue Update",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln151",
+    "ln140"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "neighbor",
+      "text": "Is it just me or is the clinic line actually moving before 10 AM? I walked by at half past eight and it was already at the door, not wrapped around the corner."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln140",
+      "text": "Not just you! The new board showing estimated wait times is a game-saver. And the separate window for repeat prescriptions? Brilliant. I can now: 1) drop my kid at the co-op, 2) swing by the clinic, and 3) still get to my appointment with time to spare. It used to be a whole morning affair."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "another_neighbor",
+      "text": "Seconding that. Picked up my mother’s heart medicine yesterday. In and out the side window in three minutes. Billie and the team really sorted it."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "clinic manager",
+      "text": "Thank you, everyone. It’s a team effort. The board helps manage expectations, and moving the script pick-ups has cleared the main queue significantly. We’re glad it’s working for you."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln140",
+      "text": "It absolutely is. The co-op parents have noticed. Less stress about running late means fewer rescheduled appointments, which is better for everyone. Well done, Billie."
+    }
+  ],
+  "content_sha256": "31c57a9c82e6195ec96f97721418f7f029ff107bf463d447e4ceb16133634cab"
+}

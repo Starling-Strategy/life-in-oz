@@ -1,0 +1,49 @@
+{
+  "id": "ln-319-newsletter-feature",
+  "title": "Around the Table and the Shelves",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln266",
+    "ln195"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "A common thread runs through our network: the desire to build something good, share something valuable, and bring people together. This month, two members show that impulse in action, one in the world of words and another in the world of food."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Lena Kilnfield, the librarian at Gate Quarter school, is looking ahead to the fall. She’s seeking permission from the school administration to launch a monthly graphic novel discussion club for middle graders. The plan is simple and resource-light: using the library’s existing collection and borrowing a few specific titles from the wider Reading Room Network’s lending pool."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln266",
+      "text": "The visual storytelling in graphic novels can be such a powerful gateway. It’s not just about the pictures; it’s about how the text and images work together to build a world. I want to give students a structured, comfortable space to talk about what they’re seeing and reading, to compare styles, and maybe even think about creating their own panels one day."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, across town in Junction Quarter, Otis Greenfield of The Greenfield Table has already turned the page on a successful gathering. Last month, he hosted a supplier showcase dinner for fifty guests. The menu was a deliberate tour of Oz: every dish was made exclusively from ingredients provided by six different farms, one from each of the Munchkin, Winkie, Quadling, and Gillikin countries, plus two from the Emerald City’s own greenbelt."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln195",
+      "text": "It was about making the connection tangible. You taste the Gillikin honey in the glaze, you see the color of the Quadling beetroot, and you’re not just hearing about local sourcing—you’re experiencing it. I wanted the farmers in the room to hear the reactions directly, and I wanted our regulars to understand the journey from their field to our fork."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The dinner, by all accounts, was a warm and buzzing affair. Guests left with not just full stomachs, but a clearer picture of the web of producers that stock their city’s kitchens. It’s a different kind of literacy—one of flavor and origin."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "One member is preparing a space for young readers to dissect narratives panel by panel. Another just convened a room to savor the stories behind every ingredient on the plate. Both are acts of curation and community, reminding us that sharing what we value—whether it’s a book or a beet—is how we build a richer common life."
+    }
+  ],
+  "content_sha256": "a25e02023930cb4adb0eb2f3f8ecb6e8fe3022a99c88de67098ba09e082369dd"
+}

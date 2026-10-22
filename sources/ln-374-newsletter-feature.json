@@ -1,0 +1,70 @@
+{
+  "id": "ln-374-newsletter-feature",
+  "title": "A Clearer View: How a Reading Room’s Loaner Glasses Bring Notices into Focus",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln012",
+    "ln135",
+    "ln019"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "At the Junction Quarter Reading Room, the notices on the community board are essential. They announce everything from changes to Brickway schedules to Meadow Mutual Aid’s next food distribution. But for some regular visitors, those printed words can swim into a blurry mess. Attendant Greta Vane watched people squint, lean in close, and sometimes just walk away."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln012",
+      "text": "We have a rule: every important public notice gets posted here for seven days. It’s no good if half the neighborhood can’t read them. I saw the problem. The solution needed to be simple, and it had to stay with us. You can’t just hand out glasses that wander off."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Her simple solution is a shallow wooden drawer at the main desk, labeled ‘Loaner Glasses.’ Inside, nestled in soft cloth, are five pairs of reading frames, each marked with a strength. Anyone who needs them can borrow a pair while in the room, after signing a dated card at the desk. The card stays, the glasses stay."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln012",
+      "text": "It’s not a medical service. It’s a reading aid. The rules are clear: use them here, return them here, sign the card. People understand that. Once they see the system, they’re grateful. They can read the notice about the roadwork detour or the new hours at the Timber Verge Co-op. That’s the point."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "The first box of frames arrived thanks to Gwen Violetmore of Violetmore Opticians in Bell Market. When Greta mentioned the idea to her, Gwen saw a direct way to help."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln135",
+      "text": "We often have demonstration frames that are perfectly good but have minor scratches or are from a discontinued line. They’re not for sale, but they’re ideal for this. I sorted out a selection of the most common low-strength reading powers. The important thing is they’re sturdy, with simple, non-adjustable temples. Less to break."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The drawer has been in use for three weeks. Greta reports that two or three people use it most days, often the same regulars who now know it’s there. One older passenger, who declined to give his name, said he’d missed a notice about a transit fare voucher last month. ‘I just had to ask my neighbor later, feeling foolish,’ he said. ‘Now I come here first.’"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "News of the drawer reached June Arden, a reporter and editor for the Munchkinland Herald who lives in Bell Market. She wrote a short item about it for the Herald’s local newsletter, ‘The Bell Ringer.’"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln019",
+      "text": "I checked the facts. Greta started it. Gwen donated the frames. People use them. It works. It’s a small fix for a common problem. Other reading rooms might do the same."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Indeed, the Reading Room Network is now discussing whether to propose a similar setup at other locations. For Greta, the success is in the quiet moments at the desk."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln012",
+      "text": "Yesterday, a woman borrowed the +1.50 pair. She read the entire notice about the new Quadling Health Access clinic hours. Then she copied the details into her own notebook, returned the glasses, and thanked me. She didn’t thank me for the glasses. She thanked me for the information. That was exactly right."
+    }
+  ],
+  "content_sha256": "9eae1c4a470e410eedbb7a88f5318ceca6d7f56d94ff6f2ee2bca9a8746edc5c"
+}

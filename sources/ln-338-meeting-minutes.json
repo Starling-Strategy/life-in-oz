@@ -1,0 +1,81 @@
+{
+  "id": "ln-338-meeting-minutes",
+  "title": "Emerald City Chamber Small Business Committee Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln111",
+    "ln051",
+    "ln267",
+    "ln159"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Chamber Small Business Committee\nDate: 12 September 2025\nPresent: Merritt Thistleshaw (Membership Officer), Florence Gray (Gray's Grocery), Cecily Orchardham (Emerald Gate Hotel), Ren Hazelham (Hazelham Hardware), Rowan Bell (Network Community Manager)\n\n1. Welcome and Updates\nMerritt Thistleshaw welcomed attendees and noted the upcoming Chamber general assembly in October. Rowan Bell provided a brief overview of recent network-wide activity, including the Timber Verge Repair Co-op's tool-share expansion."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln111",
+      "text": "I’ve been thinking about how our new members sometimes feel a bit adrift after the initial orientation. The monthly mixer is great, but it can be overwhelming. I’d like to propose something simpler: a quarterly coffee meetup at that bakery on Brickway, the one with the good scones. No agenda, just a chance for people to connect in a low-pressure setting. I’ve spoken to the owner, and she’s willing to set aside a corner for us on a Tuesday morning."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Florence Gray and Cecily Orchardham voiced support for the idea. Ren Hazelham suggested ensuring it was clearly billed as informal to manage expectations. Action: Merritt Thistleshaw to draft a date proposal and circulate to the committee for feedback before presenting to the full Chamber board."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "2. Member Spotlight: Heritage Month Event\nFlorence Gray reported on her Heritage Month event."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln051",
+      "text": "We hosted a Quadling poet in the back room of the grocery. Had to pull every spare chair from the storeroom—they were all mismatched, but it gave the place a nice, lived-in feel. Every seat was taken, and it was wonderfully quiet, just the poet's voice and the hum of the coolers. For the week after, we saw a noticeable bump in sales of poetry collections from the little book nook by the register. Nothing dramatic, but enough to cover the poet's honorarium and then some."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Cecily Orchardham commended the use of existing space. Ren Hazelham asked if the poet had any work referencing local crafts or materials. Action: Florence Gray to share the poet’s contact details with Ren and Cecily for potential future collaborations."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "3. Sustainability Initiatives\nCecily Orchardham introduced a new project concept."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln267",
+      "text": "The hotel kitchen generates a significant amount of food waste. Rather than sending it all to the city incinerator, I'm drafting a proposal for a test project. The idea is to partner with a community garden in Quadling Country—they have the space and the need for compost. We’d arrange for a weekly collection. It’s a practical step, and it builds a bridge with our neighbors. I’ll be seeking Chamber endorsement and possibly a small logistical stipend to get it started."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Merritt Thistleshaw asked about the volume of waste and transportation. Florence Gray mentioned her grocery also has produce waste and expressed interest in the outcomes. Action: Cecily Orchardham to complete the draft proposal and share it with the committee by month’s end for review before Chamber submission."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "4. Retail Support Resources\nRen Hazelham presented an idea for a shared resource."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln159",
+      "text": "Window displays. Some of our newer retailers look at the empty space and freeze. I’m not talking about professional design, just the basics: using layers, lighting from within the shop, repurposing stock as props. I intend to draft a simple, one-page guide with pictures from my own shop as examples. Things you can do with a ladder, some fabric, and what’s already on your shelves. The Chamber could distribute it."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Florence Gray offered to review the text for clarity. Cecily Orchardham suggested including a tip on seasonal rotations. Action: Ren Hazelham to create the draft guide and circulate to Florence and Cecily for comment by mid-October."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "5. Other Business and Next Meeting\nRowan Bell reminded the group of the upcoming Festival Committee planning session and encouraged cross-pollination. The next Small Business Committee meeting was tentatively scheduled for 14 November 2025, pending room availability at the Chamber offices. Meeting adjourned at 4:30 PM."
+    }
+  ],
+  "content_sha256": "4695ae3775354eed9156508daaa0b46cb4d9a82818b3386560e91693fe3cbc1c"
+}

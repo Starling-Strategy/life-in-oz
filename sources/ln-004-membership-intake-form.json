@@ -1,0 +1,68 @@
+{
+  "id": "ln-004-membership-intake-form",
+  "title": "Membership Intake Form: Poppyford Design Studio",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln126"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Membership Application"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Applicant Name: Ida Poppyford"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Organization: Poppyford Design Studio"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Date: January 2024"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Primary Circle Interest: Young Founders"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Please describe a recent project where you collaborated with or contributed to a community group."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln126",
+      "text": "Two things come to mind right away! First, I made a workbook for the Young Founders workshop on pricing. All those cost structures and profit margins can glaze eyes over, so I drew up flowcharts and little visual metaphors—like a watering can for overhead costs—to make it stick. They used it last month and said the room was a lot less quiet."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Please describe a second project or contribution."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln126",
+      "text": "Oh, the other one was the banners for the Festival Committee. They needed something for the street fair that wouldn’t wilt in a downpour and could change a bit each year without starting from scratch. I sewed up these big fabric panels with a clever grommet system—the center artwork pops out. They’re up on Lantern Row right now, looking bright even after that last windy night."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "What do you hope to gain from joining the network?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln126",
+      "text": "Connections, honestly. I can make things clear and colorful, but I want to meet the people who are doing the work—the growers, the transit folks, the repair co-ops. See where my studio can slot in."
+    }
+  ],
+  "content_sha256": "142d6c1d2d61260fac991a359aec58d8aa4bc6937ec68540540e17a6c92e25a1"
+}

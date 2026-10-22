@@ -1,0 +1,69 @@
+{
+  "id": "ln-450-meeting-minutes",
+  "title": "Quadling Health Access Steering Committee Meeting Minutes",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln151",
+    "ln091"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Quadling Health Access Steering Committee"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "April 16, 2026"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Present: Wilhelmina Thistlewaite, Enid Hazelstead, Rowan Bell (Community Manager), a pharmacist from Hammerhead Rise, a transport coordinator from the Brickway Transit Union."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "1. Waiting Board Results (Bluebell Crossing Clinic)"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln151",
+      "text": "Wilhelmina Thistlewaite reported on the waiting board trial at the Bluebell Crossing Clinic, which concluded last week. The board, placed in the main waiting area, listed the day’s available services and estimated wait times. Over the three-week trial, we tracked 127 patient interactions. The most noted outcome was a reduction in repeated front-desk inquiries about flu shot availability, which dropped by about half. A few older patients asked for the lettering to be larger, which we’ve done."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "2. Proposal: Extended Access Days"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln091",
+      "text": "Enid Hazelstead proposed extending the mobile health access days to include Bluebell Crossing. Currently, our navigator team visits settlements along the southern Gillikin border and Hammerhead Rise. Adding a monthly clinic day in Bluebell Crossing would connect Munchkin residents near the Quadling border to our network of specialists and paperwork assistance. The Bluebell clinic has space we could use on a third Tuesday."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln151",
+      "text": "Wilhelmina Thistlewaite agreed in principle, noting the clinic’s schedule has light patient load on third Tuesdays. She will need to confirm with her staff and check storage for our materials."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Rowan Bell suggested the committee support the proposal and asked Enid to draft a one-page plan covering staffing, materials transport, and a six-month timeline for review."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Decision: The committee agreed in principle to extend access days to Bluebell Crossing, pending a formal plan and scheduling confirmation. Enid Hazelstead will draft the plan by the end of May."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "3. Next Meeting: May 21, 2026, at the Hammerhead Rise Community Hall."
+    }
+  ],
+  "content_sha256": "878b99f58baf98ba767e1d9327db2aef34922d2fcb568796915c4b280481d588"
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ln-018-news-article",
+  "title": "Herbs, Repairs, and Rye: Three Gardeners Tend the Commons",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln245",
+    "ln033",
+    "ln185"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY GAZETTE – In a network where the work is often quiet and communal, the small acts of looking ahead—for a neighbor, for a tool, for a crop—build resilience. This month, across two countries, three members of the Emerald City Leadership Network demonstrated just that."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Gillikin Falls Harvest Fair Yields More Than Produce"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "At the Gillikin Falls harvest fair in late January, among the tables of winter squash and preserved fruits, Quill Orchardley set out two dozen small pots. They held rooted cuttings of a fragrant purple sage from her own garden, a perennial herb known for its hardiness and strong, savory scent."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln245",
+      "text": "I’ve been propagating this particular plant for years—it came from my grandmother’s patch. It survives our winters beautifully and the bees adore it. I brought them to the fair with simple instructions written out: ‘Plant in a sunny spot, don’t overwater, and next year you’ll have enough to share, too.’"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Orchardley gave all two dozen away by midday, mostly to local gardeners who were intrigued by the idea of a perennial herb that could establish itself for seasons to come. ‘Several people came back later to tell me they’d already found a spot for it,’ she said, clearly pleased."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "The Drip That Didn't Get Away"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Meanwhile, at the Eastfield allotments in Munchkin Country, coordinator Celia Dove was doing her weekly check of the communal tools. She noticed a persistent, slow drip from the spout of a large green watering can left on the tool rack."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln033",
+      "text": "It wasn’t a flood, just enough to make a dark patch on the shelf and waste water. We’ve a roll of plumber’s tape in the shed for exactly this sort of thing. It took a minute to dry the joint, wrap it tightly, and refit the spout. Now it’s back on the rack, ready and dry for the next person."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Dove’s quiet repair means one less minor annoyance for the gardeners on her waiting list, who rely on the shared tools when they get their turn on a plot. ‘It’s the sort of thing that, if left, becomes a nuisance,’ she noted. ‘Better to catch it while it’s small.’"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "A Mill Operator's Plan for New Grain"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Further north in Gillikin Country, Elspeth Stoneley, who operates the North Orchard Grain Mill, is looking ahead to the spring. A local farmer, new to growing rye, has approached her about milling their first modest harvest."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln185",
+      "text": "They’ve a good-looking stand coming in, but they need to see what their flour is like—the color, the texture—before they can talk to bakers about it. My plan is to run a small test batch through the mill once it’s dried and cleaned. I’ll give them a few sample bags to take around. It’s how we’ve always done it up here. You help a new crop find its feet."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Stoneley’s offer provides a crucial, low-risk step for the farmer. Without a mill’s cooperation, marketing a specialty grain can be daunting. Her ‘test batch’ and sample bags could be the bridge between a field of rye and a baker’s loaf."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "While one act spreads a proven plant, another mends a shared resource, and a third invests in a harvest yet to come. Together, they form a pattern of stewardship that sustains more than just gardens and fields—it sustains the community itself."
+    }
+  ],
+  "content_sha256": "b228a15729f33bf504b3fe3ef15119f476f8ec17c140070a52fdad7012ab8553"
+}

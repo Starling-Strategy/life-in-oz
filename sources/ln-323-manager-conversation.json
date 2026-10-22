@@ -1,0 +1,55 @@
+{
+  "id": "ln-323-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Brickway Transit Union members · August 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln024",
+    "ln018",
+    "ln015"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Spoke with Mina Vale, Elena Cross, and Victor Sedge of the Brickway Transit Union on August 12, 2025. General check-in on coordination between driving, dispatch, and road crews ahead of the fall schedule."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln024",
+      "text": "Mina talked about the updated Route 4 timetables. Said she had a stack of them in her bag for a month after the printed ones at the shelter ran out. She’d hand them out herself to regulars at the stops, especially at the end of the line near the mill. Said she’s down to her last few now."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Asked how that came about. Mina said the printer was down at the works yard and the usual re-order got delayed. She didn’t want people missing the new afternoon timing, so she took it on herself."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln018",
+      "text": "Elena described a new training aid. She put together a set of simple photo cards for the Timber Verge route—shots of key landmarks and the tricky turns where people often overshoot. Said she gave them to a new driver last week to study between runs."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Elena said the driver picked up the route in three days instead of the usual week. She plans to make a set for the Brickway-to-Market route next, if it seems useful."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln015",
+      "text": "Victor’s update was all about the milling schedule. He mentioned his crew was set up on the old Gillikin spur near the junction when they found a water main leak right under their work zone."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "According to Victor, he got the call from the water crew lead and redirected his team to a different sector within the hour. He said it kept the whole crew from sitting idle for a day waiting on repairs. I heard this secondhand from other liaisons; Victor confirmed the sequence of events."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "All three mentioned the increased coordination with the Timber Verge Repair Co-op for fall roadwork planning. Elena is working on alternate routes for when milling starts on the main Brickway. Next check-in scheduled for late October."
+    }
+  ],
+  "content_sha256": "093007c167c79606065b481f9c09c10408a0b84d1e5ad8a2a01a03838c1b6021"
+}

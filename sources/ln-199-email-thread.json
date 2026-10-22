@@ -1,0 +1,29 @@
+{
+  "id": "ln-199-email-thread",
+  "title": "Summer Signs and Leather Sounds",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln158",
+    "ln134"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln134",
+      "text": "From: Ewan Meadowton\nTo: Rowan Bell, Reading Room Network\nSubject: Recording update & a question\nDate: 12 March 2025\n\nRowan,\n\nHope you're well. Wanted to let you know I finally sat down with that retired cobbler from the Gate Quarter for the oral history project. It went beautifully. He had this whole collection of punches and awls, each for a different kind of leather or stitch. I got him talking about his apprenticeship—he started when he was fourteen, can you imagine?—and as he spoke, he’d pick up a tool and demonstrate on a scrap. The recording captured it all: the soft thump of the mallet on the round punch, the sharper click of the smaller awl, and this wonderful, rhythmic tap-tap-tap as he lined up a row of holes for stitching. It’s not just his voice; it’s the whole soundscape of his craft. I’m editing it now and hope to have a clean version for the archive by month’s end.\n\nWhich brings me to my question. I heard a lovely bit of gossip from a friend who volunteers at the Heatherford school library. She said the librarian there, Noor, painted a series of small, whimsical signs on recycled wood to mark the different genre sections for their upcoming summer reading challenge. I’m always looking for these little community-made artifacts—they tell a story too. Do you think she might be open to me coming by to see them, maybe even chat about the thinking behind them? It could be a nice companion piece, the visual and the auditory. Let me know if an introduction would be possible.\n\nAll the best,\nEwan"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell\nTo: Ewan Meadowton\nCc: Noor Greenton\nSubject: Re: Recording update & a question\nDate: 13 March 2025\n\nEwan,\n\nThis is wonderful news. Capturing those specific sounds adds such a rich layer to the history. I’m very much looking forward to hearing the final edit.\n\nI’ve copied Noor Greenton on this. Noor, Ewan is one of our oral history volunteers, and he was quite taken by the description of your painted signs for the summer challenge. He’s wondering if he might see them and perhaps learn a bit about the project, if you have time.\n\nNoor, feel free to connect with Ewan directly if you’re interested.\n\nRowan"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln158",
+      "text": "From: Noor Greenton\nTo: Ewan Meadowton\nCc: Rowan Bell\nSubject: Re: Recording update & a question\nDate: 15 March 2025\n\nDear Ewan,\n\nThank you, Rowan, for the introduction.\n\nEwan, what a fascinating project. The sound of a craft is so often overlooked. I can almost hear the leather punches from your description.\n\nRegarding the signs, it’s true, though I’m afraid the gossip has made them sound more grand than they are! We had some old fence palings from a neighbor’s repair. They were sitting behind the shed, and the idea just came. I painted little icons for each genre: a tiny, crooked castle for Fantasy, a magnifying glass for Mystery, a rocket ship that looks a bit like a teapot for Sci-Fi. The children helped choose the symbols. They’re just nailed to the ends of the bookshelves. They’re rather charming in their unevenness.\n\nYou’d be very welcome to visit. The library is quietest on Thursday afternoons after the early dismissal. I could show you the signs and tell you about the summer challenge we’re planning—it involves a map and stickers shaped like silver shoes. It’s all rather silly, but the children seem to like a bit of whimsy.\n\nYours,\nNoor"
+    }
+  ],
+  "content_sha256": "6050dd5b2e4d0d8a54fa972c24a23e41754fb8b9cd1eefd9fd7831b58438bbc9"
+}

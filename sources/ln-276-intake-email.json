@@ -1,0 +1,23 @@
+{
+  "id": "ln-276-intake-email",
+  "title": "Fwd: Two Ward Updates for Network Awareness",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln196"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln196",
+      "text": "Rowan,\n\nForwarding two items from the ward that might be of interest across the network, particularly for anyone coordinating similar efforts in other areas.\n\nHeath"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Heath Gatecombe, Ward Councillor, Brickway Junction\nTo: Ward Bulletin List\nDate: 15 July 2025\nSubject: Ward Updates: Health Clinic Visit & Playground Grant\n\nA couple of updates from the ward office.\n\nFirst, the mobile health clinic from the Quadling Health Access program will be at the Brickway Junction community hall on the 24th of this month. They are set up to provide basic check-ups and flu vaccinations. This is particularly for residents who find the trip to the main clinic in Center Munchkin difficult. We had to coordinate the hall booking, some volunteer greeters, and signage along the Brickway to direct people. It’s a straightforward service, but one that fills a real gap.\n\nSecond, I’m pleased to share that we’ve secured a small grant from the Wizard’s Office’s community infrastructure fund. The money is specifically for resurfacing the worn rubber tiles at the Brickway playground. The tiles have become cracked and uneven in spots, which isn’t safe for the little ones. The work is scheduled for early autumn, once the order for materials is in.\n\nBoth are modest steps, but good ones. As always, feel free to reach out to the ward office with any questions.\n\nHeath Gatecombe\nWard Councillor, Brickway Junction"
+    }
+  ],
+  "content_sha256": "52214232ed54df56a1087ae052f56e6a9aa5d6926e47c2f46ce43f15a6f124e7"
+}

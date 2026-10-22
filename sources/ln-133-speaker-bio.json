@@ -1,0 +1,36 @@
+{
+  "id": "ln-133-speaker-bio",
+  "title": "Young Founders Spotlight: December 2024",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln216",
+    "ln258",
+    "ln282",
+    "ln066"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Ivo Fernby leads the floor at the Saffron Flats Can Works in Timber Verge. His straightforward, results-focused approach is felt on the line every day. Recently, Ivo booked the works’ maintenance room for an evening and brought in a specialist to sharpen and realign the full set of seam crimping tools. The next day’s run saw a marked improvement in seal consistency, reducing waste and downtime for the crew."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Posy Haystead runs Haystead Design Studio from Spectacle Lane in the Emerald City. With a brisk, visual eye, she focuses on elegant solutions for practical problems. Posy is currently proposing to design a modular, flat-pack booth kit for small makers at the Emerald City street-fair. Her aim is to slash the cost and complexity of setup, giving more independent creators a professional presence at the market."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Dov Wickwood founded Wickwood Translations in the Gate Quarter. His work is precise and fueled by a quiet enthusiasm for bridging language gaps. Dov has offered to provide translation and proofreading support for the next quarterly Gate Quarter community newsletter. His goal is to help make the publication trilingual, ensuring it reaches more neighbors in their preferred language."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Calla Thistlestead is the energetic founder of the Junction Quarter Refill Shop. Her friendly, can-do attitude turns ideas into action. Last month, facing a mountain of donated jars, Calla organized a volunteer rota to wash and sterilize them all. Using a simple double-sink setup in the shop’s back room, the team processed hundreds of containers, keeping the refill stations stocked and ready for customers."
+    }
+  ],
+  "content_sha256": "96ccced7116982bc6d5c00e826aba819a226a1c4da4736d0c8e3963805176c30"
+}

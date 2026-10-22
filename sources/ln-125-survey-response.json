@@ -1,0 +1,61 @@
+{
+  "id": "ln-125-survey-response",
+  "title": "Brickway Transit Union Members Survey: December 2024 Responses",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln073",
+    "ln289",
+    "ln157",
+    "ln085"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The following are compiled responses from members of the Brickway Transit Union to the Emerald City Leadership Network's December 2024 member survey. The theme for this cycle was 'Infrastructure and Care.'"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln073",
+      "text": "The main thing I've done lately that felt good? Got rid of that damn rattle on the 27 and 29. The passenger seat anchors on those two older Bluebell-line buses were just loose enough to make a racket on the brick seams. Spent an afternoon on it. Used reinforced washers and locknuts. Not much to look at, but you can hear the difference now. Passengers aren't getting that constant thrum-thrum in their ears for a whole route anymore."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln073",
+      "text": "What could be better? The tool crib. We're sharing wrenches and socket sets between three shifts. Someone's always hunting. A second set, even a basic one, would cut down on a lot of standing around waiting."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln289",
+      "text": "A recent contribution was mediating a dispute between two conductors. The track repairs on the West Emerald loop meant one of them lost their usual weekend run. Feelings ran high; seniority, familiarity with the regulars, all of that. We sat down, heard both sides, and worked out a temporary swap that acknowledged the inconvenience and kept the route covered. It was resolved. People can work together even when schedules get tight."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln289",
+      "text": "The network could help by sharing templates. Not every problem needs a brand-new solution. A simple, clear mediation process outline, or a checklist for handling reassignment grievances, would save stewards time. We're reinventing the wheel in each depot."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln157",
+      "text": "Got coat hooks installed in the drivers' locker room at the main depot. It's ridiculous it took asking. Wet jackets were getting draped over lockers, falling on the floor. It's a small fix, but it shows management is listening, sometimes, if you point out the obvious thing everyone's been ignoring. It took one pointed email and a follow-up. They put in a row of twelve simple hooks. Now the floor isn't a hazard."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln157",
+      "text": "What would make the union stronger? Faster communication from the central office to the stewards. We hear about policy changes from drivers sometimes before the official memo lands. It puts us on the back foot. A quick, reliable alert system for stewards only would help."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln085",
+      "text": "I haven't done anything major recently, just the driving. But I did put a suggestion to the union. We should organize a yearly first-aid refresher. A short course, maybe an afternoon. I've checked a few kits on my bus and some others—the older ones are getting close to expiry. It's one of those things you hope you never need, but if you do, you really need it to be right. It's just a plan right now, but I think it's a good one."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln085",
+      "text": "The network is good for sharing news from other circles. Lets you see you're not the only one dealing with, say, supply hiccups or scheduling snags. Maybe more of that—short notes from other transport groups, if there are any, on how they handle things like passenger complaints or vehicle checks."
+    }
+  ],
+  "content_sha256": "34d49f1b4781047392a0320309045bf9b46986f632d06dcf16715bff5342bcc9"
+}

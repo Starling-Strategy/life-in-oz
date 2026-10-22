@@ -1,0 +1,73 @@
+{
+  "id": "ln-326-membership-intake-form",
+  "title": "Emerald City Leadership Network Membership Intake Form",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln154"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network\nMembership Intake Form – Application Date: September 2025\n\nApplicant Name:"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln154",
+      "text": "Cyrus Poppymere"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Business/Organization:"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln154",
+      "text": "Poppymere Electrical"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Primary Location:"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln154",
+      "text": "Yellow Kiln, Winkie Country"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Please describe a recent professional challenge you navigated."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln154",
+      "text": "Had a batch of outdoor motion sensors. First install, they were sluggish when the temperature dropped. Had to pull them all, send them back, and reinstall a new set. Took three days total. The new ones are holding fine so far."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Please describe a recent project where your work directly supported a community member or local business."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln154",
+      "text": "Farmhouse out in Timber Verge. They were putting in a wood-pellet heater in the kitchen and needed a new circuit. The old main meter box was pretty weathered, so I replaced the whole box first to handle the new load safely. Everything's up to code now."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "What interests you about joining the Emerald City Leadership Network?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln154",
+      "text": "Heard the Winkie Works Guild folks talk about it. Sounds like a good way to hear what other trades are dealing with, maybe share notes on supply runs or tricky installs. Could be useful."
+    }
+  ],
+  "content_sha256": "0d25735f529e1ba2b4a261c14864dd2fca5670599c5c02c3d08f4b07fb26d74c"
+}

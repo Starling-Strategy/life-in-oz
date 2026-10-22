@@ -1,0 +1,30 @@
+{
+  "id": "ln-205-email-thread",
+  "title": "Western Route open to Timber Verge",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln002",
+    "ln181",
+    "ln018"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln002",
+      "text": "From: Martin Woodward, Woodward Timber & Trail\nTo: Western Route road crew\nSubject: Western Route open to Timber Verge\nDate: March 21, 2025\n\nAll,\n\nThe Western Route is open from the river crossing to Timber Verge. We had three days with the chainsaw crew clearing what the storm brought down, about sixty trees across the road, two of them oaks.\n\nThe relief trucks got through at four this afternoon. Drivers should keep to the uphill lane past the old clearing until the bank is shored up.\n\nPhotographs of the cleared sections are attached: mile 2, mile 5 and the clearing.\n\nMartin"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln181",
+      "text": "From: Kerensa Hedgecombe, Brickway Works\nTo: Martin Woodward; Western Route road crew\nSubject: Re: Western Route open to Timber Verge\nDate: March 21, 2025\n\nMartin,\n\nGood work. The bank past the old clearing is ours. I've looked at it from the road and it wants proper shoring, not sandbags. My crew can start on it next week once the stone is delivered. Until then, uphill lane only, as you say.\n\nKerensa"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln018",
+      "text": "From: Elena Cross, Brickway Transit dispatch\nTo: Martin Woodward; Kerensa Hedgecombe\nSubject: Re: Western Route open to Timber Verge\nDate: March 22, 2025\n\nThanks both. We put the Timber Verge bus back on the Western Route this morning, first run at 7:40, keeping to the uphill lane. It had been going the long way round through the river villages since the storm.\n\nElena"
+    }
+  ],
+  "content_sha256": "7f4efeab13d91df04638248fe7fb8468383cf8d6b210f1114fe2ce03e88706dc"
+}

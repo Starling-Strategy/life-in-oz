@@ -1,0 +1,24 @@
+{
+  "id": "ln-312-intake-email",
+  "title": "Fwd: Orchard thoughts & dairy surplus",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln031",
+    "ln113"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln031",
+      "text": "From: Lydia Hart, Orchard manager, Eastfield Orchard Partnership\nTo: Network Intake Desk\nSubject: Fwd: Orchard thoughts & dairy surplus\nDate: August 2025\n\nRowan,\n\nForwarding a couple notes I jotted down. First is my idea for the cider line this fall—I want to run it by the Growers circle. Second bit is about something good Hollis Cinderton did that I heard about through the Meadow Mutual Aid folks. Figured the network should know.\n\nLydia"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Lydia Hart\nNotes for Gillikin Growers, August\n\nItem 1: I've been looking at the cider apple bottleneck we always get in October. I intend to propose a dedicated afternoon shift just for sorting cider apples. Run it from two till six, separate from the main grading line. Would take the pressure off the morning crew and let us process the windfalls and smaller fruit without holding up the fresh market grading. Need to check if we can get enough hands, but I think the students from the local school could manage it.\n\nItem 2: Heard from the Meadow Mutual Aid coordinator that Hollis Cinderton from Reed Flats had a surplus from his herd last week. He didn't let it sit. He loaded up several crates of fresh milk and drove them over to the community pantry at Brickway Junction himself. The pantry folks were apparently very glad to see it."
+    }
+  ],
+  "content_sha256": "b99d36000b174d890ee6abade2e5ac4e4d74eef9e2fb6cdcff54ae1f12c13378"
+}

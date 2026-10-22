@@ -1,0 +1,65 @@
+{
+  "id": "ln-314-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Jago Winkleholt · August 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln187",
+    "ln259",
+    "ln171"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell called Jago Winkleholt for an August check-in."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln187",
+      "text": "Jago said the car seat drive wrapped up. They got seven. All gently used, all passed the safety check. It’s already made a difference—they transported three more little ones to their shots last week without having to turn anyone away."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Rowan asked about how the network could help spread word for future drives."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln187",
+      "text": "Jago said maybe a note in the newsletter when they run low again. He sounded tired but pleased. Said it’s one less thing for families to worry about."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Rowan shifted to ask if Jago had heard any updates from others in the Quadling Health Access circle."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln187",
+      "text": "Jago mentioned he’d heard something nice about Emrys Crowham from a South Copse staffer. Said the staffer told him Emrys makes sure every single resident gets a birthday card and gets to pick their dessert at lunch, even the ones who don’t get visitors. It’s not a big announcement, just something Emrys does."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Rowan noted that as hearsay from staff, via Jago."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln187",
+      "text": "Jago also brought up Honor Tinford, unprompted. Said he eats at The Tinford Table sometimes after long shifts. Heard from Honor directly last week that the walk-in cooler door hinge gave out. Instead of replacing the whole door, Honor tracked down the exact hinge at some specialist hardware place over in Brickway. Saved a bundle, she said. Place stayed open."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Rowan confirmed that was a done thing, and thanked Jago for the update."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln187",
+      "text": "Jago ended by saying the transport schedule is fuller than ever, and he’s looking at a possible partnership with a Meadow Mutual Aid driver for longer trips, but it’s just an idea for now."
+    }
+  ],
+  "content_sha256": "dabae0738cf63166ae342ba12b16974243f9a2ff09de2cc64d90348eb75cfba5"
+}

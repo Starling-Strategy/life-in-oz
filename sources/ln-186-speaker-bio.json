@@ -1,0 +1,23 @@
+{
+  "id": "ln-186-speaker-bio",
+  "title": "Daphne Lark - School Meal Buyer, North Orchard Schools",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln042"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Daphne Lark is the school meal buyer for North Orchard, managing food procurement across multiple schools with an eye for both quality and cost. She believes in building fair, reliable relationships with suppliers across Oz. Recently, after a riverside road closure disrupted the usual Brickway crossing, Daphne rescheduled the weekly bread delivery from a Munchkin Country bakery to a later ferry, ensuring the loaves arrived in time for Thursday's school sandwich prep."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Looking ahead, Daphne is planning a tasting session for kitchen staff to compare frozen berries from two different Quadling cooperatives, aiming to make a well-informed choice before committing to the yearly contract. Her careful approach ensures students get good food while supporting growers fairly."
+    }
+  ],
+  "content_sha256": "cb9467b63b1849516efe75fce5d2a5a376354665444ba5134537452ca14e8fef"
+}

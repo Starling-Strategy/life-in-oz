@@ -1,6 +1,6 @@
 # File formats
 
-All text is UTF-8. JSON is ordinary JSON, not a database export. Source documents use stable IDs and retain their original format labels.
+All text is UTF-8. JSON is ordinary JSON, not a database export. Source documents use stable IDs and retain their original format labels. Version 1.0.0 used eight labels. Leadership-network adds `newsletter_feature`, `intake_email`, `panel_transcript`, `post_event_debrief`, `nomination_letter`, `meeting_minutes`, `press_release`, `survey_response`, `radio_interview`, `speaker_bio`, `grant_report` and `membership_intake_form`; it also uses `news_article`, `email_thread`, `social_thread`, `webinar` and `manager_conversation`.
 
 ## Manifest and collections
 
@@ -14,7 +14,7 @@ Each file in `collections/` names its `document_ids`, totals, continuity boundar
 
 `.txt` is the readable document, including a fiction banner and labels. `.json` contains `id`, `title`, `format`, `fictional`, `notice`, `members`, `blocks` and `content_sha256`.
 
-Each block has `id`, `speaker_id` and `text`. `speaker_id` is a preserved attribution label, which may be a roster ID, a display name, `manager` or `narrator`. Do not treat every label as a person ID. `members` identifies roster participants but is not an assertion that every speaker is a roster member.
+Each block has `id`, `speaker_id` and `text`. `speaker_id` is a preserved attribution label, which may be a roster ID, a display name, `manager`, `narrator` or, in leadership-network, a lowercase role label for an unnamed person (`neighbor`, `clinic manager`). Do not treat every label as a person ID. `members` identifies roster participants but is not an assertion that every speaker is a roster member.
 
 The hashes use SHA-256:
 
@@ -33,8 +33,12 @@ An exact anchor proves where a quotation occurs. It does not prove that the surr
 
 In `member_coverage`, `source_documents` counts distinct documents cited by that person's reference experiences, not every document in which the person appears.
 
+## Target questions
+
+`evaluation/leadership-network-queries.json` lists `queries`, each with `id`, `query`, `kind` (`vocabulary-gap`, `exact-term`, `skill/sector/place`, `speaker/convening` or `negative-no-answer`), `expected_member_ids` and `support`. For each expected member, `support` gives the `episode_keys`, the `source_ids` that carry them, whether a `reference_lead` exists, and an `origin`: `planted` for answers briefed into the documents, `review` for members added after a strict completeness sweep of the reference experiences. Offers and plans can be supporting sources without a reference lead. Negative questions have no expected members.
+
 ## Roster and recipes
 
-`world/people.json` stores the community premise and `members`, including each person's `id`, name, role, home, background, voice, inspiration, relationships and experience domains. Background and relationship fields guide fiction writing; they are not independent evidence for document extraction.
+`world/people.json` (community-life) and `world/leadership-network-people.json` (leadership-network, which adds `organization`, `district`, `circles`, an optional `nickname`, and top-level `circles` and `districts`) store the community premise and `members`, including each person's `id`, name, role, home, background, voice, inspiration, relationships and experience domains. Background and relationship fields guide fiction writing; they are not independent evidence for document extraction.
 
 Generation recipes contain document briefs and authoring seeds. Reference identities live separately in `evaluation/members.json`. Keep both out of blind document tests.

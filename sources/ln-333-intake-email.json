@@ -1,0 +1,33 @@
+{
+  "id": "ln-333-intake-email",
+  "title": "Fwd: Apprentice updates for the network",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln120"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln120",
+      "text": "Rowan — Thought the network should have a note of a couple things we’ve gotten moving here in Blue Orchard. Details are below in the original note I sent to our local guild board. If you need anything else from me, just let me know.\n\nHazel"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---------- Forwarded message ----------"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "From: Hazel Copperstead\nTo: Winkie Works Guild Board\nDate: 12 September 2025\nSubject: Apprentice updates"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln120",
+      "text": "All,\n\nTwo items for the record.\n\nFirst, the tool loan program is now active. We’ve assembled twelve starter kits—each with a framing hammer, a combination square, a two-foot level, and a tape measure—and they’re available for any apprentice in good standing to sign out for up to six months. The idea is to get a quality tool in their hands without the upfront cost. Already have three kits out, and the feedback is they’re holding up to daily use just fine.\n\nSecond, I’ve placed young a neighbor (the one who showed such a keen eye for stone) with Master Carver one of the aides at the Brickway Junction worksite. We confirmed she has a fitted hard hat, gloves, and hearing protection before she started. one of the aides and I also sat down and drafted a clear set of goals for her first month: she’ll be learning to read a cutting diagram, practicing basic dressing techniques on scrap, and observing the setting of cornerstones. She started on Monday and reports it’s going well.\n\nThat’s all for now.\n\nHazel Copperstead\nApprentice Coordinator"
+    }
+  ],
+  "content_sha256": "a4531a2c9e2898760d9a8607c57424d8a7e2e6347eeed31cb35e243b504a5a68"
+}

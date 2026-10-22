@@ -1,0 +1,29 @@
+{
+  "id": "ln-321-email-thread",
+  "title": "Fabric scraps find a home & compost bins sprout at Sycamore",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln153",
+    "ln284"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln153",
+      "text": "From: Emrys Wickbourne, Wickbourne Puppets\nTo: Rowan Bell, Emerald City Leadership Network\nSubject: A few Meadow Mutual Aid updates\nDate: 15 August 2025\n\nHi Rowan,\n\nJust wanted to share a little bright spot from the last week. I was going through the workshop—you know how it gets, scraps of velvet, burlap, silk, and all sorts of interesting bits from old commissions everywhere—and I realized the local school art teacher is always looking for interesting textures for the kids' projects. So I got a couple of big bins and spent an afternoon sorting everything by color and texture, which was actually quite meditative. The reds were in one, the blues in another, the rough burlap and netting separate from the smooth silks. I had three full bins to give! I dropped them off at the Heatherford school art room yesterday, and the teacher was thrilled. She said the kids are starting a big collage project about the seasons, and now they’ll have proper ‘autumn golds’ and ‘winter whites’ to work with. It felt good to see all that potential clutter turn into potential art.\n\nHope all’s well,\nEmrys"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln284",
+      "text": "From: Jem Quadmore, Bluebell Crossing Tenants' Association\nTo: Rowan Bell, Emerald City Leadership Network\nDate: 18 August 2025\nSubject: Re: A few Meadow Mutual Aid updates\n\nRowan,\n\nSaw Emrys’s note about the fabric—that’s great. Practical and creative.\n\nOn our end, we finally got the compost bins approved at Sycamore Apartments. It took a few rounds of pushing. I drafted a petition, got signatures from over two-thirds of the tenants, and presented it to building management with a simple proposal: three sturdy bins in the rear courtyard, away from the main entrance. We argued it would reduce general waste volume and give gardeners a resource. They agreed after a week of review. The bins were installed yesterday. A minor change, but it gives people a shared task and cuts down on waste. A couple of neighbors have already started dropping off their coffee grounds and vegetable peels.\n\nCheers,\nJem"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "From: Rowan Bell, Community Manager\nTo: Emrys Wickbourne, Jem Quadmore\nDate: 20 August 2025\nSubject: Re: A few Meadow Mutual Aid updates\n\nEmrys, Jem,\n\nThank you both for these updates. Emrys, what a thoughtful way to redirect materials—sorting by texture is a wonderful detail. Jem, congratulations on the petition success; getting that level of tenant buy-in and a management agreement is no small feat.\n\nI’ve added these to the Mutual Aid log. They’re perfect examples of using what’s at hand and organizing for shared benefit.\n\nBest,\nRowan"
+    }
+  ],
+  "content_sha256": "069dfc2c15b030db52a8b31a6ad357971ef4963737a4c938743cb807b560c890"
+}

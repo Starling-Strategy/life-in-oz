@@ -1,0 +1,50 @@
+{
+  "id": "ln-227-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Iolo Winkleton, Kezia Meadowshaw, Hazel Copperstead · April 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln144",
+    "ln130",
+    "ln120"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Called the three Winkie Works Guild members to check in on projects and plans. Iolo, Kezia, and Hazel all joined."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln144",
+      "text": "Iolo said he’d finished walking the Saffron Flats floor and made a list. Counted seventeen mats with the tread worn smooth or corners curled. Said it’s a tripping hazard and bad on the knees. Got the Guild’s approval to replace them in batches—first six ordered, should be in by end of the month."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln130",
+      "text": "Kezia mentioned a neighbor’s garden shed door in Yellow Kiln. Said the frame had warped so bad it wouldn’t close. She rebuilt it with pressure-treated lumber from her shop and used heavy-duty hinges she got through the Guild’s supplier list. Said it swings true now."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln120",
+      "text": "Hazel said she’s drafting a proposal for a Guild-wide safety day focused on apprentices. It would cover ladder setup and electrical hazard recognition, hands-on. Said she’s talking to the Guild’s training committee about funding for materials and instructor time. No date set yet; it’s still in planning."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln144",
+      "text": "Iolo agreed the safety day is a good idea. Said apprentices at the Can Works could use a refresher on lock-out tag-out, but that’s a separate thing."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln130",
+      "text": "Kezia said she’d be willing to help with the ladder station if the day happens, but only if it’s scheduled outside her busy season."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Hazel noted the interest and said she’d keep them posted as the proposal develops."
+    }
+  ],
+  "content_sha256": "d54e1af948f457163fcd17ed4c70f6b0177a96443aabc42a37546d2813528d5e"
+}

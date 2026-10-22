@@ -1,0 +1,30 @@
+{
+  "id": "ln-432-speaker-bio",
+  "title": "Bios: Winkie Works Guild Event Participants",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln156",
+    "ln072",
+    "ln275"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Coralie Stonecombe coordinates the apprenticeship program for the Winkie Works Guild, based in Tinsmith Row. Her approach blends structured skill-building with attentive mentorship, ensuring that foundational techniques are mastered before more complex tasks are introduced. Coralie is currently planning a series of one-on-one sessions to review practice portfolios with apprentices who are nearing the end of their first year, focusing on their detailed progress notes to tailor their next steps in the program."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Rufus Winkleby serves as a quality inspector at the Yellow Kiln Works and lives in Bluebell Crossing. Known for his meticulous eye, Rufus’s precision often catches flaws that others might miss. Last month, he identified a subtle warping in a batch of dinnerware before it left the kiln works, an intervention that prevented what would have been a costly recall from a major restaurant supplier. His work exemplifies the Guild’s commitment to craftsmanship and reliability."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Yves Brambleholt is the owner of Brambleholt Upholstery, operating from his workshop in South Meadow. His thoughtful, measured approach to restoration balances aesthetic fidelity with practical durability. Recently, he completed the re-upholstering of twelve reading chairs for the Hammerhead Rise library, sourcing a durable wool blend that matched the original forest green color precisely. His work ensures that community spaces remain both beautiful and functional for years to come."
+    }
+  ],
+  "content_sha256": "f04414930f803c2267917f53b29fdedcbc5e6231aa97901958cc9dd581d7d3f0"
+}

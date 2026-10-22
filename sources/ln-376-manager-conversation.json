@@ -1,0 +1,38 @@
+{
+  "id": "ln-376-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Selwyn Bramblecombe · November 2025",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln075"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Rowan Bell called Selwyn Bramblecombe to check in on his proposal for evening hours. Selwyn confirmed the plan is to stay open two evenings a week during the school term, specifically to serve university and trade-school students who can’t make it during the day. He’s working out which nights will be most useful."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln075",
+      "text": "It’s the scheduling, you see. If a student’s lectures run until four, and they have a lab after, they can’t get here before we close at five. We’re thinking Tuesdays and Thursdays until eight. It’s a quiet time for families, but perfect for that crowd."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Rowan asked about recent work. Selwyn mentioned a recent fitting for a competitive swimmer."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln075",
+      "text": "Yes, that was last week. A young woman training at the Quadling baths needed prescription lenses sealed into her swimming goggles. It’s a fiddly job—you have to get the curvature just right and ensure the seal is perfect, or the chlorine gets in and ruins the vision. We managed it. She came back yesterday to say they held up through her five a.m. laps without a single leak."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Rowan noted the plan is still pending final scheduling and promotion. Selwyn agreed to keep the network posted once the evenings are confirmed."
+    }
+  ],
+  "content_sha256": "5ee900cc7830c4bac1f5a21595132d8b81ec8cc80f2b346a40639928f265c93e"
+}

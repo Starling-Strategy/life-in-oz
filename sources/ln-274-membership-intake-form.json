@@ -1,0 +1,93 @@
+{
+  "id": "ln-274-membership-intake-form",
+  "title": "Emerald City Leadership Network Membership Intake Form",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln072"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY LEADERSHIP NETWORK MEMBERSHIP INTAKE FORM"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Date: July 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Applicant Name:"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln072",
+      "text": "Rufus Winkleby"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Role & Organization:"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln072",
+      "text": "Quality inspector, Yellow Kiln Works"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Residence:"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln072",
+      "text": "Bluebell Crossing, Munchkin Country"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "What attracts you to the Emerald City Leadership Network?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln072",
+      "text": "Heard about it from one of the folks in the Brickway Transit Union. Seems like a place to swap notes on how things get done, without a lot of fuss."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Describe a recent situation where you saw something that could be improved and took action."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln072",
+      "text": "Two things come to mind, last month. First was the clay slip recycler. The slurry was getting thin, which points to a clog. Found the filter was packed. Cleaned it out, and that got three lines back to proper consistency. Saved a batch of greenware from being too fragile to fire."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Please share another example, if you have one."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln072",
+      "text": "Different matter. Noticed a pattern of chipped edges on tiles from a specific shipment. Traced it back to how the crates were stacked on the pallets for transport—too much vibration. Worked out a simple cross-bracing method for the stacks. It’s just a few extra wooden slats, but it cut down the breakage."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "Is there a particular Network circle you are interested in connecting with?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln072",
+      "text": "The Small Business Circle, maybe. And the Repair Co-op. Sounds practical."
+    }
+  ],
+  "content_sha256": "eb5b69554952f28b94b12ae6263885283a1b8d3ee0054d86f6c62feb3af10b61"
+}

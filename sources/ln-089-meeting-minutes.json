@@ -1,0 +1,123 @@
+{
+  "id": "ln-089-meeting-minutes",
+  "title": "Meadow Mutual Aid Circle Meeting Minutes, September 2024",
+  "format": "meeting_minutes",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln153",
+    "ln284",
+    "ln215",
+    "ln128",
+    "ln188",
+    "ln258"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Meadow Mutual Aid Circle Meeting\nDate: 12 September 2024\nPresent: Emrys Wickbourne, Jem Quadmore, Gilda Fernham, Phoebe Thistleholt, Saffi Wheatmore, Posy Haystead, Rowan Bell (Community Manager, non-voting)."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "1. Welcome and Introductions\n   Rowan Bell welcomed members. The purpose of the meeting was to share updates on local aid activities, discuss resource challenges, and coordinate on upcoming seasonal needs."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Let's start with a quick round of what everyone's been up to. Posy, you mentioned something about a bake sale?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln258",
+      "text": "Yes. The Bluebell Crossing group was running their annual bake sale last weekend and the old tally sheet was a mess—three people writing on the same slip, numbers getting crossed out. I drew up a new one. It's double-sided, with large numbered boxes for each item type and a column for cash and trade goods. Simple. They said it cut the confusion in half. They're going to keep using it."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "2. Member Updates and Resource Sharing"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln128",
+      "text": "Our big project was the playground. The structures at Westgate Mills were looking rusty and wobbly. We organized a parent volunteer weekend. Got sandpaper and non-toxic paint through the Timber Verge Repair Co-op at their member rate. We had six parents out there sanding, painting, and tightening every bolt we could find. It's solid now, and the kids were back on it Monday morning."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln188",
+      "text": "That's wonderful. We had our own maintenance win. The playroom roof at Heatherford has had a slow leak for months, right over the block corner. We finally had a parent volunteer who used to work with roofing materials. I supervised—mostly just held the ladder and made tea. She patched it beautifully with some salvaged roofing felt from an old shed repair. Got it done just before the last big rain. Dry as a bone now."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln215",
+      "text": "It's the season for using what's at hand. I was asked to do the centrepieces for the Winkie harvest dinner—twenty tables. I didn't want to use floral foam, so I designed arrangements using dried native grasses. We dyed some with beet and onion skin for colour, arranged them in borrowed ceramic bowls. They were a hit. After the dinner, the whole lot went straight into the community compost heap. Nothing wasted."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln153",
+      "text": "Oh, I love that! So tactile. I've been wrestling with supply chains, which is less poetic. I had an order for a specialty fleece for a puppet set—a big, shaggy monster commission. My usual supplier's invoice system completely failed. They couldn't process payment for a week. I had to wait it out, which pushed the whole project back by a week. The client was understanding, but it meant my workshop schedule was a juggling act. It's done now, the monster is very shaggy."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "3. Tenant Support Discussion\n   Jem Quadmore provided an overview of common issues facing tenants in Bluebell Crossing as the colder season approaches."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln284",
+      "text": "The main thing right now is getting people prepared for the heating season and knowing their rights about repairs. It's about filling out forms correctly and knowing which civic office to bother. Speaking of forms..."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "manager",
+      "text": "There was a mention at the last Reading Room meet-up that you'd helped someone outside your own building with a particularly complicated housing repair grant application. Is that something you'd advise others on?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln284",
+      "text": "(Pauses) Well, I don't know who said that. But the application for the Civic Housing Repair Grant is a beast. It's eight pages and asks for three different proofs of residency. If a tenant in another building asked for a hand, I wouldn't say no. It's just paperwork. The key is getting the dates lined up with the inspection report and not skipping the supplemental budget sheet. That's where most people get tripped up."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "4. Seasonal Planning and Coordination\n   The group discussed priorities for the coming months: winter coat and blanket drives, holiday meal coordination, and checking in on elderly or isolated neighbors."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln215",
+      "text": "The dried grass centrepieces were one idea for low-waste gatherings. I'm happy to share the simple dye method if any other community dinners are planned."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln258",
+      "text": "I can adapt the tally sheet template for a coat drive inventory. It would track sizes and conditions easily."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "ln188",
+      "text": "Heatherford can host a collection point. We have the space in the co-op's front hall."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln128",
+      "text": "Westgate Mills will promote it through our parent network."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln153",
+      "text": "I might have some fabric scraps that could be used for patching or small quilting projects. I'll sort through my off-cuts."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "narrator",
+      "text": "5. Action Items\n   - Posy Haystead to adapt the donation tally sheet for a coat/blanket drive inventory and share with the group by 26 September.\n   - Saffi Wheatmore to confirm Heatherford Childcare Co-op as a primary collection point and draft a drop-off schedule.\n   - Phoebe Thistleholt to coordinate promotion through Westgate Mills networks.\n   - Emrys Wickbourne to sort and box usable fabric scraps for craft supply distribution.\n   - Jem Quadmore to compile a one-page guide on common pitfalls of the Housing Repair Grant application, based on her experience, for the circle's shared resource folder.\n   - Gilda Fernham to add her native grass dye method notes to the same folder."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "narrator",
+      "text": "6. Next Meeting\n   The next meeting is scheduled for 10 October 2024, to be held via the Reading Room Network's conference line. Agenda to focus on winter drive logistics and any urgent tenant issues.\nMeeting adjourned at 8:45 PM."
+    }
+  ],
+  "content_sha256": "05bc13901986d96237aacfcb337334cbb4908d6b9cd770d6d638a7a82e3757ab"
+}

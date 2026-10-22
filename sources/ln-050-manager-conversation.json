@@ -1,0 +1,55 @@
+{
+  "id": "ln-050-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Otis Orchardholt · June 2024",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln137",
+    "ln088",
+    "ln268"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Called to check in on Otis's participation in the Wizard's Office Liaisons circle, especially following up on his workshop last month."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln137",
+      "text": "Otis said the Redfern Hill primary school garden club was a real delight. He spent an afternoon with them at their new bug hotel. They'd built it with little bamboo tubes and drilled logs. He showed them how to spot the mud seals and leaf plugs that solitary bees use to close up their nests. The air smelled of damp soil and the late-blooming clover from the meadow next to the schoolyard."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Asked if there were any follow-ups needed from the network."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln137",
+      "text": "He said not at all; the club leader has his contact if they have more questions. He mentioned he's been thinking about how to adapt the workshop for the Reading Room Network's summer program."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Shifted to asking about the Liaisons circle's work within the Wizard's Office itself, and if he'd heard anything from colleagues."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln137",
+      "text": "Otis mentioned he'd heard a few things through the grapevine. He said some of Gideon Thistleham's colleagues were talking about how Gideon stayed late for a solid week to sort through a mountain of sidewalk cafe permit renewals. They said he got them all filed before the summer seating rush really began."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "Asked if he'd spoken with Elspeth Wickham recently."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln137",
+      "text": "He said he had, just last week. Elspeth told him she'd finally cleared the backlog of property-record requests at the South Copse office. She said she'd sorted the whole pile by street—Apple Lane, Brickway East, Meadow Path, and so on—and that made it much easier for everyone to find what they needed. She sounded pleased it was done."
+    }
+  ],
+  "content_sha256": "4a9b549a886eecc5c7c9cae286b22994a302ceb2f2eb87ce081756a9ed966e9a"
+}

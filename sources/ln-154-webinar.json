@@ -1,0 +1,86 @@
+{
+  "id": "ln-154-webinar",
+  "title": "Reading Rooms in Winter: Connecting Through Script, Story, and Steps",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln290",
+    "ln098",
+    "ln218",
+    "ln182"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Hello everyone, and thank you for joining on this grey January afternoon. I'm Rowan Bell, your community manager with the Emerald City Leadership Network. We're here today with members of the Reading Room Network to talk about the quiet, essential work that keeps our communities connected through learning, history, and care. I'm delighted to introduce our panel: Wade Emeryfield and Edith Copperdale, who are both adult education coordinators at their respective Quarter Learning Rooms; Thea Cloverwood, a dedicated literacy volunteer; and Percy Brickworth, an archivist at the City Records Hall. Welcome, all. Wade, let's start with you. I understand your penmanship group just wrapped up. What was that like?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln290",
+      "text": "Thank you, Rowan. It was… a very gentle success. We ran for six weeks, in the afternoons. The room was always warm, and the light was good. Many of our seniors, they find that their hands don't cooperate the way they used to, and it frustrates them. Letters blur, checks are hard to write. So we provided slanted writing guides, the kind that show the proper angle, and these smooth-paper notebooks that don't catch the pen. It wasn't about fancy script. It was about legibility. About being able to write a note to a grandchild, or address an envelope, without that feeling of… erosion. By the end, you could see the concentration, and you could see the relief when a line stayed clear."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "That sounds profoundly practical. Thea, you work one-on-one with people. We've heard word of you assisting a neighbor with a specific kind of reading. Could you share a bit about that?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln098",
+      "text": "Of course. This… it's a delicate matter. I was visiting an elderly resident in Spectacle Lane, just for a friendly chat, and she became quite distressed. She had received a document, a basic will form, and the language was… it was a wall. All these 'hereinafters' and 'parties of the first part'. She said she felt like she was being asked to sign a secret. So we sat at her kitchen table. I am not a legal advisor, let me be clear. But I can read. We went through it line by line, very slowly, and I would say, 'This line means you are saying who gets your bookshelf.' 'This part names a person to carry out your instructions.' We turned the wall into a series of small doors. She just needed to know what she was being asked to agree to. Understanding is a form of peace."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Turning a wall into doors—that's a powerful image. Edith, your work takes reading and history out into the streets. Tell us about 'Gate Quarter Footsteps'."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln218",
+      "text": "Gladly. It was a collaboration with a retired archivist who knows the Quarter's cobblestones like the lines on his palm. We developed a six-week walking tour, each week focusing on a different trade's history—the masons, the wheelwrights, the early glass-blowers. We'd meet at the Learning Rooms, he'd give a short introduction with some maps and ledgers, and then we'd walk. Twenty people, every time, full limit. We'd stop at a now-closed workshop entrance and he'd tell a story about the family that worked there for three generations. It made history tangible. People started pointing out features on their own commute. It wasn't just learning; it was re-inhabiting the place you live."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "That connection between the document and the physical place is so vivid. Percy, you work with some of our oldest documents. What does preservation look like day to day?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln182",
+      "text": "It is often a matter of halting a process that is already well advanced. Recently, I worked on a blueprint from the 19th century, showing the original layout for the city's water conduits. It was badly torn and the paper was crumbling at the edges, like ash. It could not be handled. The treatment involved backing the entire sheet with a specific, lightweight archival tissue paper, applied with a reversible adhesive. It is a slow process, under weights, ensuring no further distortion. The result is not a like-new document. It remains fragile. But it is now a coherent document that can be safely placed on a table for a researcher to study. The information—the pathways our water once took—is secured."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "So it's about creating a condition for future access. I'm struck by how all of your work—clear handwriting, understanding a form, walking a history, stabilizing a blueprint—is about creating access. What's a hope or a plan for the coming months? Wade?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln290",
+      "text": "I'd like to plan a session on filling out common forms—the ones for utility assistance, for library cards. Things that shouldn't be barriers but often are. Maybe partner with someone from the Chamber circle."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln098",
+      "text": "I simply plan to keep my door, and my schedule, open. The need finds its way. Sometimes it's a will, sometimes it's instructions for a new stove. The common thread is the anxiety before the words are understood."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln218",
+      "text": "We're planning a spring series on the history of the public gardens, coordinating with the Growers. And I'd like to see if we can develop a similar 'Footsteps' program for other Quarters, if we can find the local guides."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln182",
+      "text": "My work is less about new plans and more about continuation. The backlog of documents requiring stabilization is considerable. The plan is simply to proceed with the next item in the queue, with the same measured care."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "manager",
+      "text": "Practical, open, collaborative, and steady. A perfect summary of the Reading Room Network's spirit. Thank you all for your time and for your detailed, thoughtful work. To our attendees, thank you for listening. Please feel free to reach out to any of our panelists through the network if you have ideas or questions. Good afternoon."
+    }
+  ],
+  "content_sha256": "8bac16ee3ae0e471679df8957bd9c46be8bccff1dbcaa35dda7bf0026682f534"
+}

@@ -1,0 +1,157 @@
+{
+  "id": "ln-410-news-article",
+  "title": "The Week's Quiet Work",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln020",
+    "ln026",
+    "ln021",
+    "ln005",
+    "ln016"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Emerald City Gazette"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "December 2025"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "From the Munchkin Country to the Emerald City, the work of running things often runs underfoot—a shift in a schedule, a repair to a banner, a new line on a map. It’s not the work of grand plans, but the work of making the small ones stick. This is a roundup of a few such efforts from the past week."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Buses, Appointments, and a Quieter Clinic Lobby"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "At the North Orchard Clinic, reception lead Caleb Alder noticed a pattern. Every morning, the clinic’s first appointments were a source of stress—not for patients, but for the clock. The Route 4 bus, which serves the outlying farms, reliably arrived at the square at 8:23 a.m. The clinic’s first appointments were at 8:30."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln020",
+      "text": "It was a seven-minute dash, uphill, for anyone with a cane or a stroller. They’d rush in, flustered, we’d be rushing to get them checked in, and everyone started the day feeling behind. It felt like a puzzle with an obvious piece."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The piece was moving the first non-urgent slots to 8:45. Caleb rebooked the clinic’s morning schedule, shifting a handful of regular appointments. The front desk now reports a calmer first hour, and the frantic apologies have largely stopped."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln020",
+      "text": "It’s not a cure for anything, but it’s a bit of peace. And you can actually hear the kettle boil now around nine."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "A Grant’s Leftovers, Carefully Shelved"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "When the roofing grant for the South Meadow Housing Cooperative came in, the bids from local contractors were a pleasant surprise. They came in slightly under the awarded amount. For Elias Moss, the co-op’s treasurer, that wasn’t just good news; it was a paperwork event."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln026",
+      "text": "The Wizard’s Office requires a variance report for any unspent grant balance over a certain threshold. It’s not complicated, but you have to be precise. You state the amount, the reason for the variance—in our case, competitive local bids—and the planned use of the remaining funds."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "narrator",
+      "text": "Elias submitted the report last week, detailing that the surplus, about enough to cover materials for a season’s worth of gutter repairs, would be held in a dedicated account. No fanfare, just a line in a ledger ensuring the money stays with the job it was meant for."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln026",
+      "text": "It means next spring, when the gutters need attention, we won’t be starting from zero. The money’s already there, tagged and waiting."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "narrator",
+      "text": "The Holiday Roster, Simplified"
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "In Meadowbank, the home-care service faces its annual squeeze during the winter holidays, when regular staff take well-earned days off and volunteers step in. Iris Marsh, who schedules the carers, looked at last year’s chaotic roster and saw a geography problem."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln021",
+      "text": "We had volunteers criss-crossing the district, passing each other on the road, burning petrol and time. I thought, what if we grouped by neighborhood instead of by client list? Just for that one week."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "narrator",
+      "text": "She redrew the roster, clustering clients by street. The new plan allowed two volunteers with a single shared car to cover all essential visits in the central neighborhoods for the entire week between the Solstice and New Year’s Day."
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln021",
+      "text": "It’s fewer miles, less confusion, and the volunteers can support each other. It’s a rota that actually helps the people following it."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "narrator",
+      "text": "The Banner, Mended"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "narrator",
+      "text": "On Lantern Row, the Autumn Parade banner is a familiar sight, its bright letters announcing the event year after year. This year, after storage, it had a torn hem and some loose stitching on the ‘P’ in ‘Parade’. Ruth Fenwick, the cobbler from Fenwick’s, saw it lying over a chair in the parade committee’s makeshift office."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln005",
+      "text": "It was a sorry sight. Good canvas, though. Just needed someone who knows how to pull a stitch tight."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "narrator",
+      "text": "She took it to her shop, spent an evening with a heavy-duty awl and waxed thread, mending the hem and re-anchoring the frayed lettering. The repair is nearly invisible against the weave. The banner was back on its pole the next morning."
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln005",
+      "text": "Better it holds the wind than flaps about in pieces."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "narrator",
+      "text": "A New Line on the Map"
+    },
+    {
+      "id": "b025",
+      "speaker_id": "narrator",
+      "text": "The new community clinic in Brickway Junction is a welcome addition, but its main entrance involves a short but steep set of steps from the high street. Hannah Bellamy of the Brickway Junction Community Centre knew the accessible entrance was around the back, but finding it from the bus stop was a puzzle of alleys and service lanes."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln016",
+      "text": "If you’re new, or in a wheelchair, or just tired, you shouldn’t have to guess. So I went for a walk with a notepad."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "narrator",
+      "text": "She traced a clear, step-free route from the bus shelter, down a paved back lane, to the clinic’s rear ramp. She sketched it simply, and the centre has now added the diagram to its printed accessibility guides, which are available at the library and the bus station kiosk."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "ln016",
+      "text": "It’s just a dotted line on paper. But it turns a worry into a direction. That’s the point."
+    }
+  ],
+  "content_sha256": "b0839a78d6da0544aa6e0dd2e8ece866e1086d8deb0cec1ff3b578d33ad29a4e"
+}

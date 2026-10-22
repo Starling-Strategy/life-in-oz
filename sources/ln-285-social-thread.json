@@ -1,0 +1,61 @@
+{
+  "id": "ln-285-social-thread",
+  "title": "Anybody else ever had to pivot on power?",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln237",
+    "ln035",
+    "ln189",
+    "ln117"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln237",
+      "text": "Calling all event planners and stage managers! The Quadling River Poetry Float is happening next month, and I just spent a week chasing down a mobile sound system that doesn't need mains power. Found a great little battery-powered unit that can project clear vocals across the water without a single extension cord. It's a game-saver for the riverbank site. Anyone else have a favorite piece of gear for when you're miles from an outlet?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln035",
+      "text": "Oh, absolutely. Last summer for the Bell Market Players, our rented generator decided it had seen enough of the Bard and quit halfway through 'a classic fairy play.' No power meant no mics, no stage lights. I had a handbell for scene changes and the crew handed out torches to the front-row audience. We called the rest of the show by torchlight. It was... atmospheric. The show did run."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln189",
+      "text": "That's proper improvisation, Tessa. It reminds me of the value of maintaining what you have, even if it's not for a live show. I just donated a weekend to the Records Hall archive—their vintage reel-to-reel was making a terrible warbling sound. Turned out the rubber drive wheel had perished. Cleaned the heads, found a replacement wheel in an old parts bin, and got it spinning true again. It's not glamorous, but now they can transfer another dozen oral histories."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln117",
+      "text": "Bravo! It's all about the show going on, isn't it? I had a headliner for the Gillikin Harvest Festival come down with laryngitis two days before the event. Panic! Then I remembered this wonderful folk trio I'd caught at The Gilded Acorn pub last month. A few frantic calls later, and they were booked. They brought a completely different energy—more fiddle, less ballad—and the crowd loved it. Sometimes the understudy steals the scene."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln237",
+      "text": "Love these stories. It's never the plan, is it? It's the plan after the plan. Yves, that reel-to-reel work is a public service. Tessa, torchlight performance of a classic play sounds genuinely magical. And Anselm, that's a producer's instinct right there—always keeping a mental list of acts you've seen. Maybe we should compile a 'Festival Committee Emergency Kit' guide: spare cables, backup contacts, and, apparently, a handbell."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln035",
+      "text": "I'd add 'a willing crew' to that list. They were the ones who thought of the torches. And a deep breath. The audience mostly thought it was a special effect."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln189",
+      "text": "A basic toolkit is a good idea. Spare cables, yes, but also contact cleaner, various adhesives, and a multimeter. For the audio-minded, a small battery-powered backup amp could be a literal lifesaver. Marlo, what's the runtime on your battery unit?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln237",
+      "text": "They claim eight hours at half volume, which should cover our readings. I'm bringing a spare battery pack just in case. Anselm, did your folk trio need any special setup, or were they good to go?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln117",
+      "text": "They were wonderfully self-contained! Just three voices, a fiddle, a guitar, and a stand-up bass. They showed up, did a quick line check, and were ready in twenty minutes. Sometimes simpler is more resilient."
+    }
+  ],
+  "content_sha256": "529ec93620673b7c4596f7212cf42680f1f42b2c912283b020457a4896788c59"
+}

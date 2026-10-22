@@ -1,0 +1,195 @@
+{
+  "id": "ln-102-panel-transcript",
+  "title": "Putting Things Right: A Timber Verge Repair Co-op Panel",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln238",
+    "ln154",
+    "ln044"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Hello everyone, and welcome. I’m Rowan Bell, community manager for the Emerald City Leadership Network. Today we’re talking with members of the Timber Verge Repair Co-op, a group that’s doing some fantastic work keeping things—and skills—alive. With me are Gideon Pepperham, a sewing machine repairer; Cyrus Poppymere, an electrician; and Arthur Keene, a retired joiner. Gentlemen, thank you for joining."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln044",
+      "text": "Thank you for having us."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln154",
+      "text": "Yes."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln238",
+      "text": "It’s good to be here."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Let’s start with what brought each of you into the co-op. Gideon, you work with sewing machines. What’s the draw there?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln238",
+      "text": "It’s the mechanism. The way the parts work together. Everything has a purpose. The historical society donated a treadle machine last month—a real vintage piece, all cast iron and oak. It was seized up, full of old dust and hardened oil. I took it apart completely, every pin and cam. Cleaned each piece, re-oiled it. When I put it back together… it ran smooth. No clatter. It’s ready for their demonstration room now."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "manager",
+      "text": "And you do this alongside your regular work?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln238",
+      "text": "Yes. The co-op gives me a bench. People bring things in. It’s quiet work. You have to focus."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Cyrus, you’re an electrician by trade, not a co-op member, but you’ve been helping. Why?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln154",
+      "text": "The co-op called. A member had a farmhouse, vintage wiring. Needed a specific circuit breaker, discontinued for thirty years. Nothing modern would fit the old panel. You can’t just leave that."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "manager",
+      "text": "What did you do?"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln154",
+      "text": "Spent a morning on the phone. Called every salvage yard in my book, then called the guys those yards know. Found one. Up near Yellow Kiln. Had it shipped down. It’s installed now. House is safe."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "manager",
+      "text": "That’s a very practical kind of help."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln154",
+      "text": "It’s what was needed."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "Arthur, you’ve been with the co-op from the start. What’s changed?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln044",
+      "text": "Well, we get more donations now. Furniture, mostly. People see a broken thing and think it’s trash. We see a project. Last week, a dresser. Lovely old oak, but the drawers… the runners were chewed to splinters. Couldn’t open without a fight. I took it to the bench."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "You rebuilt it?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln044",
+      "text": "I did. But the point is, a young volunteer was watching. Good hands, but he’d never cut a runner. So I showed him. You have to measure the old one, see the angle of the wear, then transfer that to your new wood. We used a bit of ash, nice and hard. He watched me do one, then he did the next. A bit rough, but it fit. That’s how it stays alive. The dresser slides smooth now."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "manager",
+      "text": "Gideon, does that teaching aspect resonate with your work?"
+    },
+    {
+      "id": "b020",
+      "speaker_id": "ln238",
+      "text": "In a way. I don’t… talk as much as Arthur. But if someone watches, I’ll point things out. ‘See how this lever lifts the presser foot? That’s the timing.’ It’s about showing the logic of the thing."
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln044",
+      "text": "It’s the same principle. A joint isn’t just glue. It’s a understanding of forces. You show someone the forces."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "manager",
+      "text": "Cyrus, does your electrical work allow for that kind of teaching? Or is it too dangerous?"
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln154",
+      "text": "You can teach safety. You can teach how to identify a wire, how to test for current. But for the complex work, you call a professional. That’s the lesson. Knowing when to call."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "manager",
+      "text": "What’s next for the co-op? Any plans?"
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln044",
+      "text": "We’d like to build a small shed for outdoor projects. Chair re-caning, wheelwright work. It’s just a plan for now. Need to source the lumber."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln154",
+      "text": "I can look at the wiring for it. When you’re ready."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "ln238",
+      "text": "I have some tools that could go out there. The heavy shears."
+    },
+    {
+      "id": "b028",
+      "speaker_id": "manager",
+      "text": "It sounds like the work creates its own momentum. A question from the audience, submitted earlier: ‘How do you decide what to take on and what to turn away?’"
+    },
+    {
+      "id": "b029",
+      "speaker_id": "ln044",
+      "text": "Space. Skill. If we have the bench space and someone knows how, we take it. If it’s a safety issue like wiring or a gas fitting, we refer out. To Cyrus, for example."
+    },
+    {
+      "id": "b030",
+      "speaker_id": "ln154",
+      "text": "Or a proper guild member."
+    },
+    {
+      "id": "b031",
+      "speaker_id": "ln238",
+      "text": "And time. Some things need a hundred hours. We can’t do that. The treadle machine was a weekend."
+    },
+    {
+      "id": "b032",
+      "speaker_id": "manager",
+      "text": "Final thoughts? What does ‘repair’ mean to you?"
+    },
+    {
+      "id": "b033",
+      "speaker_id": "ln238",
+      "text": "Respect for the design. Making it work as it was meant to."
+    },
+    {
+      "id": "b034",
+      "speaker_id": "ln154",
+      "text": "Preventing a bigger problem. Finding the right part keeps the whole system stable."
+    },
+    {
+      "id": "b035",
+      "speaker_id": "ln044",
+      "text": "It’s a conversation with the object. And with the person who’ll use it next. You’re the link in between."
+    },
+    {
+      "id": "b036",
+      "speaker_id": "manager",
+      "text": "Thank you, Gideon, Cyrus, Arthur. And thank you to everyone listening."
+    }
+  ],
+  "content_sha256": "7f6db9a62ca86d84b983b40fd98082d9edc904780bd5d7e96a62df76f05adcdb"
+}

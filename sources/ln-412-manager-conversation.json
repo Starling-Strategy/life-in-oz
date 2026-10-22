@@ -1,0 +1,38 @@
+{
+  "id": "ln-412-manager-conversation",
+  "title": "Rowan Bell · Community Manager · call with Magnus Greendale · January 2026",
+  "format": "manager_conversation",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln136"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Reached out to Magnus for an update on the Wizard's Office's public notices work and to discuss a proposal he'd mentioned."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln136",
+      "text": "The parking map situation, yes. A clerk in the print room told me they'd run a batch with the wrong dates for the Brickway market closures. I heard about it after they'd already been collated. Rather than reprint the whole run, I spent an afternoon with a date stamp and an ink pad at the back table. Corrected about fifty of them before they went out to the branch libraries. Tidy enough work, if a bit tedious."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Noted the hands-on correction. Asked about the proposal for festival forms."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln136",
+      "text": "That's the bigger picture item. Right now, if a neighborhood circle wants to block a lane for a harvest supper or a block party, they might need to file a Notice of Temporary Occupancy, a Public Assembly Waiver, a Non-Commercial Vending Permit if there's food, and a separate Noise Variance if there's music. All different forms from different divisions. I've proposed—it's just a draft on my desk—a single 'Small Community Gathering Application.' One form, one fee schedule, routed internally. It would cut down on confusion for applicants and clerical work here. Still just a proposal."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "manager",
+      "text": "Acknowledged the potential efficiency gain. No timeline yet for review. Call ended with thanks."
+    }
+  ],
+  "content_sha256": "80bd7a903112f8f71f86cc935536c8a29e3300790051caaad32ddff258dcee86"
+}

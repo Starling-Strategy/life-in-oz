@@ -1,0 +1,60 @@
+{
+  "id": "ln-337-social-thread",
+  "title": "Meadow Mutual Aid - Reed Flats Bulletin",
+  "format": "social_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln071",
+    "ln104",
+    "ln212"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "The Yellow Brick Board | Community: Reed Flats & Meadow Mutual Aid"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln071",
+      "text": "Posted by Fergus Bramblemore: For anyone with an older wringer washer, the big rubber roller can crack. a neighbor on the east lane was in a fix, couldn't get her quilts through. I had a salvage part from an old machine I took out of service last year. Took about an hour to swap it over. She's back in business with the heavy linens now."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln104",
+      "text": "Briony Gateholt here. We had that sudden cold snap last week and the warm room was packed. Thanks to everyone who donated coats—we sorted through over fifty of them. Made sure each person got one that actually fit, not just whatever was on top of the pile. A good warm coat makes a real difference when you're waiting for the morning bus."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln212",
+      "text": "Barnaby Stonefield: The fishmonger on the canal closed up. They had a stack of those thick, reusable gel ice packs they used for deliveries. Washed every last one of them. They're in the depot cooler now. Should help a lot this summer keeping the greens and berries cool on the longer delivery runs."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "a neighbor",
+      "text": "Saw you hauling those boxes, Barnaby. Good find. Those things aren't cheap."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln212",
+      "text": "Couldn't let them get tossed. They're built to last."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "another neighbor",
+      "text": "Briony, my cousin has a few more winter things. Still okay to bring them by the warm room?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln104",
+      "text": "Always. We'll sort and store them for next season. Thank you."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln071",
+      "text": "If anyone else has an appliance acting up, bring it by the shop. I can't promise miracles, but I've got a bin of useful old parts. Better to fix what we have."
+    }
+  ],
+  "content_sha256": "f00f890a89f6ae585d9e0f3f550b18c2cc34d69f6b9cb59d66d7afd110dfb712"
+}

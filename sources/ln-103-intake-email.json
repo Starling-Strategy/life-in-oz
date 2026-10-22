@@ -1,0 +1,24 @@
+{
+  "id": "ln-103-intake-email",
+  "title": "Fwd: A couple small wins from Blue Orchard",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln043",
+    "ln203"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln043",
+      "text": "From: Simon Fern, Fern Crate Wash\nTo: ECLN Intake Desk\nSubject: Fwd: A couple small wins from Blue Orchard\nDate: October 2024\n\nRowan,\n\nHope you're well! Saw your note about sharing updates for the newsletter. Nothing huge, but I heard something nice about Lux Thistlemore's work and I've got a little thing rolling myself. Figured I'd pass them both along. Here's my note and what I got from the grocer.\n\nSimon\n\n---\n\nFrom: Simon Fern\nDate: October 2024\nTo: Myself\nSubject: notes for Rowan\n\nFor Lux: She was doing a big corporate lunch last week for that new office tower team. The client sent over the allergy list, but the printer at the office must have been acting up—it cut off the bottom line that listed the nut allergies. Lux caught it because the number of 'no's' didn't match the headcount she was given. She didn't just flag it; she had her team pivot on the spot and prep a whole separate set of nut-free platters from her backup ingredients. Client never knew there was almost a problem. Hannah at the Chamber office told me about it; she knows the office manager.\n\nFor me: Finally got the Bell Market on Brickway to let me take their used crates. They were just getting tossed into the recycler, all cracked and dirty. Now I collect from that one and two others on Tuesdays and Fridays. I wash them, let them dry proper on the racks (no mildew!), and I've started returning the good ones to a couple growers out near the Orchard instead of them having to buy fresh cardboard boxes every season. It's only about forty crates a week right now, but the growers seem pleased. It's a start!"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "---\n\n[Forwarded email from Bell Market manager to Simon Fern, October 2024]\nSimon, just a quick line to say the crate pickup is working smoothly. The crew doesn't have to break down as many boxes, and we had a note from one of the apple growers saying the returned crates were in better shape than they expected. Keep it up."
+    }
+  ],
+  "content_sha256": "e677431c805c4adfae14552d32a75f370d73b3d03ac69b8a31d45a96f745d9f6"
+}

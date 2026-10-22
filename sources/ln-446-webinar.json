@@ -1,0 +1,92 @@
+{
+  "id": "ln-446-webinar",
+  "title": "Pedals, Paths, and Practical Fixes: Small Business Circle Webinar",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln107",
+    "ln263",
+    "ln062",
+    "ln155",
+    "ln239"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Good morning, everyone, and welcome. Rowan Bell here, community manager for the Emerald City Leadership Network. This is our March Small Business Circle discussion. We’ve got a great group today to talk about small-scale projects, supply chain hiccups, and the kind of work that keeps a community rolling—sometimes quite literally. We’ll hear from Fennel, Noor, Nell, Wade, and Verity. Let me just say thanks for making the time. Fennel, why don’t you start us off? You had a display weekend recently?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln107",
+      "text": "Thank you, Rowan. Yes. I set up three of our most affordable commuter models on the sidewalk outside the South Copse shop for a full weekend. I included laminated maps of local bike path routes—the one that follows the river south to the mill, and the newer gravel path that cuts through the old poppy field. The goal was visibility and education, not just sales. It did lead to two sales of the displayed models, which was welcome. More notably, it prompted several inquiries about the basic maintenance classes I run on first market days. People saw the bicycles as attainable, and the maps made the idea of using them for errands feel practical, not adventurous."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "manager",
+      "text": "Making the practical visible. I like that. Noor, you took a slightly different tack with visibility and access over in Meadowbank."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln263",
+      "text": "I did. The bike rack outside our library was bent beyond repair when a delivery van backed into it. Orders for a new one from the city were… indefinite. So I gathered some scrap steel channel from behind the shop—leftovers from a shelving job—and welded up a simple six-bike stand. It’s not fancy, but it’s sturdy. I bolted it into the same concrete pad on a Saturday morning. The librarian said it was full by afternoon. Sometimes the fix doesn’t need to be ordered; it just needs doing with what’s on hand."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln155",
+      "text": "I wish that philosophy applied to cork tape. I’m jealous of your scrap pile, Noor."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "That’s Wade Plumwood from Blue Orchard Bicycle. Wade, you’ve hit a snag?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln155",
+      "text": "A classic Quadling border post snag. My supplier’s shipment, which includes a very popular moss-green cork handlebar tape, is sitting in a warehouse on the other side of the border. Paperwork issue, they say. I’ve had to temporarily stop offering that color. A minor change, but it’s frustrating because customers specifically ask for it—it matches the green of the Gillikin ferns a lot of tourists like. I’m offering a slate grey instead, but it’s not the same. Teaches you not to rely on a single source for your most popular accessory, I guess."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln062",
+      "text": "That’s so true, Wade. It reminds me of our chairs. Not that we import them, but we relied on the assumption they’d just… last. I’m Nell Violetby, from the Bell Market school library. Our wooden chairs were getting wobbly, and the budget line for furniture replacement is always the first to vanish. So I started a simple repair log in the workroom. Just a notebook with a diagram of the reading room, and a note whenever a student mentioned a chair was loose. ‘Chair 3, front left leg,’ that sort of thing. Once a month, I’d take the log to the custodian, and he’d bring his glue and clamps. We’ve tightened or reglued five chairs this year that were headed for the scrap heap. It’s not exciting, but it saved the cost of five new chairs."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln239",
+      "text": "Oh, I love that, Nell. It’s the same principle as planting a herb garden. I’m Verity Lanternholt, a caterer in Brickway Junction. I volunteered with a community kitchen over in Munchkin Country. They were buying dried herbs in little jars, which adds up. So we built a small raised bed just outside their back door—just one, maybe four feet by six. We planted thyme and parsley. They’re hardy, they come back, and now the cooks can snip a handful for their soup sessions. It’s a tiny supply chain, right outside the door. It doesn’t solve everything, but it makes the soup taste brighter and saves them a few coins each week."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "From bike racks to herb gardens, it’s about resilient, local solutions. Fennel, did the interest from your display weekend translate into signing people up for those maintenance classes?"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln107",
+      "text": "Three have signed up for the next session so far. The inquiry was more about confidence than cost. They saw the bicycles outside, asked about flat tires or chain care, and the class seemed less daunting. The display acted as a conversation starter, which was the primary objective."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln263",
+      "text": "That’s the key, isn’t it? Making the first step obvious. Like a bike rack in front of a library. If it’s not there, people might not think to bike. If it is, even a homemade one, it says ‘you’re welcome here.’"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln155",
+      "text": "And my missing tape says ‘check your border paperwork.’ But seriously, it’s got me talking to a Gillikin supplier about a potential alternative. A more local scrap pile, you might say."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln062",
+      "text": "A log book, a scrap pile, a raised bed… they’re all just ways of paying closer attention to what’s already around you, before looking further away."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "manager",
+      "text": "Well said. This has been wonderfully practical. Thank you all for sharing what you’ve done and what you’ve learned. For everyone listening, the conversation continues on the Yellow Brick Board in the Small Business Circle thread. Have a good day, and keep those wheels—and chairs—turning."
+    }
+  ],
+  "content_sha256": "0351fd3eafc7d74f68d6791b5cbf65aad236f7332bf6f3161452bf930b889684"
+}

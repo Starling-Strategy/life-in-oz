@@ -1,0 +1,19 @@
+{
+  "id": "ln-203-email-thread",
+  "title": "Fwd: Spring project ideas",
+  "format": "email_thread",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln022",
+    "ln025"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln022",
+      "text": "From: Ada Reed <Seed Librarian, Blue Orchard Seed Library>\nTo: Rowan Bell <Community Manager, Emerald City Leadership Network>\nSubject: Fwd: Spring project ideas\nDate: 12 March 2025\n\nRowan,\n\nPassing this along from Jonas. I'm in agreement about the toolbox—anything that keeps the basic tools circulating is a good thing. It reminded me of my own little repair last month, which I've noted below his message.\n\nBest,\nAda\n\n--- Forwarded message ---\nFrom: Jonas Pike <Irrigation Caretaker, Eastfield Water Users>\nTo: Ada Reed <Seed Librarian, Blue Orchard Seed Library>\nSubject: Spring project ideas\nDate: 10 March 2025\n\nAda,\n\nSaw your note in the Growers digest about shared resources. Got an idea. Main canal junction needs a locked toolbox. Stock it with common wrenches, sealant. For co-op members. Key from the water office. Saves a trip when a gate seal weeps.\n\nThinking of proposing it to the Eastfield board next week. Could use a second voice from the network.\n\nJonas\n\n--- End forwarded message ---\n\nMy addition: In late February, we had that heavy rain come through right after I'd started a tray of Black Gillikin tomatoes. The small greenhouse had developed a hairline crack in one of the upper panels—likely from the winter freeze-thaw. I used a clear adhesive patch from the library's mending kit. Sealed it up just before the storm. Humidity held steady at the right level; the seeds never got waterlogged. Simple fix, but it kept the batch viable. Labeled the patch in the log: \"Panel 4, repaired 28 Feb, adhesive type B.\""
+    }
+  ],
+  "content_sha256": "126748275fe51e8d6bc1e4864faa1f243adf5314fe5f8d64388b6b4aaf38c07c"
+}

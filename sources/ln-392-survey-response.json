@@ -1,0 +1,81 @@
+{
+  "id": "ln-392-survey-response",
+  "title": "Network Members' Survey: Timber Verge Repair Co-op Focus",
+  "format": "survey_response",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln207",
+    "ln082",
+    "ln044",
+    "ln063"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Emerald City Leadership Network Members' Survey – November 2025\n\n1. In your work this past season, what's one task you completed that felt particularly satisfying? Why?"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln207",
+      "text": "A building manager came in late on a Tuesday, looking desperate. Needed a specific plumbing gasket for an old building’s main line—said he’d tried three other places. I had a box of them in the back, a size most folks don’t keep. Sold him the pack. The satisfying part was the next week: I sold six more packs to different people. Just having it on the shelf solved problems they didn’t know they were about to have. It’s satisfying to be the place that has the thing."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "2. Describe a recent challenge where you had to find an unusual part or material. How did you track it down?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln082",
+      "text": "Three lamp posts on Bell Market’s north side kept shorting. The wiring was original, and the insulators were crumbling ceramic, not the modern stuff. I knew the replacement had to match, or the preservation society would have my head. Called a few suppliers—nothing. Then I remembered a contact from a job out in Winkie Country years back, a fellow who dealt with decommissioned warehouses. He had a pallet of the old ceramic insulators, just sitting there. Drove out, picked them up, and did the repair. Took a day to rewire all three. They work perfectly now."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "3. Think about a repair you've done recently, not for pay but for a community space or for the sake of the work itself. What was it?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln044",
+      "text": "The tool shed door at the co-op. It’s a good solid wooden door, but it had sagged over the years. Dragged on the gravel path every time you opened it, wore a groove in the bottom. So I took it off its hinges—they were rusted something awful—and brought it to my bench. Planed the bottom edge nice and even, just a sixteenth at a time until it was clean. Then I fitted new brass hinges, good heavy ones. The trick is getting the pins aligned just so, so the swing is smooth and the door hangs plumb. Now it clears the path by a good half-inch, swings shut with a solid click. No more scraping."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "4. Have you ever spent significant time trying to source something only to hit a dead end? What did you learn from the process?"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln063",
+      "text": "A cartographer came in. Needed a specific shade of green felt-tip, said it matched the old Gillikin county maps exactly. I spent the better part of a week on it. Called distributors, wrote to the stationers' guild, even sent a query to a supplier in Quadling Country. Everyone said they’d check. Finally got a call back from the manufacturer’s old rep—retired now, but he remembered. Said they’d discontinued that line last year. No more being made. I had to tell the customer I’d failed. Learned that sometimes the hunt is the whole story, and the answer is ‘no.’ You have to be honest about it. I offered him the closest match I could find, but it wasn’t the same."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "5. For the Timber Verge Co-op specifically: what's one piece of practical advice you'd give about maintaining tools or workspaces?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln207",
+      "text": "Keep a log. Not just an inventory, but a note on when a tool was last cleaned, oiled, or had its blade sharpened. A chalkboard by the bench works. It stops the ‘Did anyone oil the saw?’ conversations. If the last date is there, the next person knows what to do."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln082",
+      "text": "Label everything. Every drawer, every bin. And not just ‘nails.’ ‘Finishing nails, 1-inch.’ Saves ten minutes of rummaging on every job."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln044",
+      "text": "Always sweep up at the end of the day. Not just the big shavings, but a proper sweep. Sawdust gets into everything—the hinges, the plane mechanisms. A clean floor means cleaner tools, and that means they last."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln063",
+      "text": "Have a designated spot for the pencil. One spot. And tie the pencil to something. You’ll never lose it, and you’ll always know where to make your mark."
+    }
+  ],
+  "content_sha256": "409fc693f98d30f737d937277e4e95e3cdf58a5bfffd197121ef96dd77813e2a"
+}

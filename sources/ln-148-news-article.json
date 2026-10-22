@@ -1,0 +1,80 @@
+{
+  "id": "ln-148-news-article",
+  "title": "Festival Committee Preps for Season with Transport, Power, and Volunteer Comfort Plans",
+  "format": "news_article",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln061",
+    "ln117",
+    "ln213"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "EMERALD CITY – As the year’s first festival season approaches, members of the Emerald City Leadership Network’s Festival Committee are tackling logistics from the ground up. Their focus: ensuring that the people who make the events happen are seen, heard, and, most importantly, able to get home."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "For Greer Saffroncombe, a Brickway Transit driver who has ferried countless tired crews after past Emerald Lights Festivals, the solution is a simple loop. “The cleanup volunteers are the last ones out,” Saffroncombe noted. “By the time the last tent pole is packed, the regular service has wound down. They end up walking or crowding into a single cart.”"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln061",
+      "text": "I’ve driven that last bus. You see the same faces every year, looking exhausted but pleased with the work. My proposal is just an extra loop, running a couple of hours past the official end. It would circle the main market squares twice, hitting all the major crew assembly points. It’s not glamorous, but it says ‘thank you’ in a very concrete way."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "The plan, currently under review by the Brickway Transit Union circle, would utilize an existing driver and vehicle, adjusting the schedule for the festival night only. Saffroncombe’s dry wit surfaced when asked about potential rider interest. “I think we’ll manage a full bus. It’s either that or a very long, dark walk carrying a coil of rope.”"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Power, or the sudden lack of it, is a perennial festival worry. Anselm Ashdale, an events producer, had a recent trial run during the Gillikin Flower Festival’s setup week. A localized outage left the main stage sound system silent a day before the first act was due."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln117",
+      "text": "It was all rather dramatic for a Tuesday morning! One moment we were testing microphone levels, the next – utter quiet. Not the good kind of quiet. I had contacts with a equipment hire firm over in Violet Hills, and after a few frantic calls, they agreed to divert two portable generators from another job. They were on site within three hours."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "The generators, Ashdale explained, were sufficient to power the sound board and a string of work lights, allowing rehearsals to continue uninterrupted. “It turned a potential crisis into a mere footnote in the setup log,” he said, his theatrical tone relishing the narrow escape. “Now we know exactly who to call, and we’ve added a backup generator clause to our standard vendor agreements.”"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "While Ashdale dealt with the audible, Lorna Plumshaw, the committee’s volunteer lead, is thinking about the tangible comforts of those on the ground. Her proposal aims to address two opposing festival weather extremes: rain and sun."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln213",
+      "text": "We ask a great deal of our volunteers, standing for hours in all conditions. It seems a basic courtesy to provide some protection. I am proposing the Committee funds a sturdy, lockable outdoor cabinet at the main events field. It would hold communal rain ponchos and bottles of sunscreen, managed with a simple sign-out sheet maintained by the shift lead."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Plumshaw’s plan is precise, noting that the initial stock would be purchased in bulk, with replenishment costs built into future festival budgets. “It’s a small capital outlay for a significant quality-of-life improvement,” she said. “It communicates that we are considering their well-being proactively, not reactively.”"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "The three initiatives—one solving a transit gap, one born of a recent power scare, and one focused on volunteer care—illustrate the Festival Committee’s broadening focus. It’s no longer just about programming and permits, but about the entire ecosystem that makes a public celebration possible."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln213",
+      "text": "A festival is a machine with hundreds of moving parts. Greer ensures the parts can get home. Anselm ensures they have power to function. My hope is to ensure the parts themselves don’t rust or burn out in the process."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "The late-night bus loop and the weather cabinet proposals will be put to a committee vote next month. As for the generators, Ashdale confirms they are now a standard line item. “Peace of mind,” he declared, “is worth its weight in kilowatts.”"
+    }
+  ],
+  "content_sha256": "2211d93caec8bb9500be3bc1f09ae24958537f352bf177e23002ab1372964b39"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ln-523-panel-transcript",
+  "title": "Members' safety forum: open floor",
+  "format": "panel_transcript",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln004",
+    "ln217",
+    "ln169"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Members' safety forum · September 17, 2026 · open floor"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "manager",
+      "text": "Anyone else? Yes, at the back."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln004",
+      "text": "Leona Bracken, Bracken Freight. I'll say it here, because I said it to the freight association and nobody wanted to hear it."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln004",
+      "text": "Last spring I told public works the Mile 14 crossing wouldn't take another loaded season, and I asked them to close it to trucks."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln004",
+      "text": "They closed it in April, and in May the bridge gave out with nothing on it."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Thank you, Leona. That's one we should all know about. Mott, your crew was out there, wasn't it?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln217",
+      "text": "Mott Peppercombe, Brickway Works bridge crew. We put the truck barriers in at Mile 14 in April, the week after the committee decided. I was there the morning the deck went. You hear it before you see it. There was nothing on it, and that's the whole point of what Leona did."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln169",
+      "text": "Abel Wickridge, Wickridge Haulage. I'll be honest, I grumbled. The closure put time on every run I make out of Eastfield. I rerouted through Bluebell Crossing and I'd do it again tomorrow."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "manager",
+      "text": "Thank you all."
+    }
+  ],
+  "content_sha256": "490431f9839fd8249e02cb135363bcd156971ab9f734dd899485b8c3c072e4dd"
+}

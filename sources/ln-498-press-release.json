@@ -1,0 +1,65 @@
+{
+  "id": "ln-498-press-release",
+  "title": "Winkie Works Guild Members Showcase Craftsmanship in Community Projects",
+  "format": "press_release",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln130",
+    "ln041",
+    "ln300"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "FOR RELEASE"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Yellow Kiln, Winkie Country – July 2026 – Members of the Winkie Works Guild, a circle within the Emerald City Leadership Network, are applying their trade skills to enhance local spaces and support community events. From custom furniture to essential repairs, these artisans demonstrate the tangible value of skilled craftsmanship."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln130",
+      "text": "A client mentioned that Kezia Meadowshaw sourced reclaimed wood from a deconstructed Winkie Country barn to build a distinctive dining table, preserving the wood's original character marks."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Kezia Meadowshaw of Meadowshaw Joinery, based in Yellow Kiln, is known for her straightforward, no-nonsense approach to woodworking. While she has not publicly commented on the project, the client's account highlights the growing interest in materials with a local history and a second life."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln041",
+      "text": "It was a simple enough job, but a vital one. The market canopy had a failing seam right along a stress point. I stitched it with a heavy-duty thread and sealed it properly. Then I tested the repair with a garden hose spray for a full ten minutes. No leaks. A dry market is a successful market."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Isaac Holt of Holt Alterations in Timber Verge repaired the large canopy tent used for the Winkie Works Guild's own outdoor market. His precise work and practical testing ensured the guild's events could proceed regardless of weather."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln300",
+      "text": "The garden committee needed something that wouldn't tip over when you locked a heavy cargo bike to it. We had some scrap angle iron and plate from a previous job. It's not fancy, but it's sturdy. Now it holds six bikes without complaint."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Fennel Heatherbourne of the Heatherbourne Machine Shop in Saffron Flats fabricated and welded a bespoke bicycle rack for the Reed Flats community garden, utilizing scrap steel from his shop. The rack provides a secure, lasting solution for visitors and volunteers."
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "These projects reflect the Winkie Works Guild's ethos: applying practical skills to meet community needs with resourcefulness and durability."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "About the Winkie Works Guild: The Winkie Works Guild is a professional circle within the Emerald City Leadership Network, connecting artisans, tradespeople, and makers across Winkie Country. The guild facilitates skill-sharing, collaborative projects, and advocacy for the trades."
+    }
+  ],
+  "content_sha256": "6143a3c3e316506a8c458db75ef27d8f60fffa211355a787962f9b9bf7498511"
+}

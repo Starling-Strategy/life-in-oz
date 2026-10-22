@@ -1,0 +1,30 @@
+{
+  "id": "ln-418-speaker-bio",
+  "title": "Reading Room Network Program Bios",
+  "format": "speaker_bio",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln290",
+    "ln230",
+    "ln254"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Wade Emeryfield coordinates adult education for the Junction Quarter Learning Rooms. His warm, encouraging manner and deliberate pace help students build confidence alongside new skills. Last autumn, his four-week 'Everyday Budgeting' class was so oversubscribed that he arranged for a second tutor and split the group into two concurrent sessions, ensuring everyone who signed up could attend."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Hollis Wheatfield is the librarian at the Lantern Row Reading Room, where a quiet, precise attention to detail preserves the collection for future readers. Recently, she carefully repaired the cracked leather binding and resewed the signature of a rare 19th-century botany folio from the Reading Room's special collection, a task requiring patience and a steady hand."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Rufus Brambledale is a freelance translator whose precise work bridges practical gaps between Oz's communities. In a recent project, he translated a feed-supply contract for a Gillikin growers' cooperative, clarifying ambiguous clauses about delivery timelines that had been a source of dispute in previous seasons, providing much-needed clarity for both growers and suppliers."
+    }
+  ],
+  "content_sha256": "17f96fdd59b5e64fc7716d8ee3e4e58bbfbf4a14808ddbfee9bead2ac17a4b8e"
+}

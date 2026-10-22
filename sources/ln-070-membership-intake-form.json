@@ -1,0 +1,93 @@
+{
+  "id": "ln-070-membership-intake-form",
+  "title": "Emerald City Leadership Network Membership Application",
+  "format": "membership_intake_form",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln145"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "Application Date: August 2024"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Circle of Interest: Brickway Transit Union"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "Applicant Name:"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln145",
+      "text": "Adele Barleyton"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Role/Organization:"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln145",
+      "text": "Timetable planner, Brickway Transit"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "Location:"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln145",
+      "text": "Brickway Junction, Munchkin Country"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Why do you want to join the Emerald City Leadership Network?"
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln145",
+      "text": "To connect with other members managing public-facing operations across Oz. Hearing how different groups solve scheduling and coordination problems could be useful. The Brickway has its own set of persistent knots."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "Briefly describe a recent project you led or contributed to:"
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln145",
+      "text": "Recalibrated the timing of seven bus schedules last month. The Westgate Mills school zone extended its hours, so we had to adjust morning and afternoon runs to maintain safety margins. It was mostly a data entry and verification task, but it affected about a third of our daily trips."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "narrator",
+      "text": "Describe a challenge you're currently working on or plan to address:"
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln145",
+      "text": "I plan to hold some informal listening sessions with our drivers. I need direct input on which intersection stops are causing the most trouble—the ones where passengers can't board safely, or we get backed up blocking traffic. The schedule data doesn't always show the whole story. Hoping to gather specifics to propose some stop relocations or timing adjustments."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "narrator",
+      "text": "What skills or perspectives do you hope to share with the network?"
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln145",
+      "text": "A methodical approach to transit scheduling. I'm good at balancing policy requirements, operational limits, and passenger needs into a workable timetable. Also, firsthand experience with the Brickway's particular mix of rural junctions and city traffic."
+    }
+  ],
+  "content_sha256": "eab9e2ebea7f12cfa308e1a3e90d61585669fa5a9f985cad11b74b769eec012f"
+}

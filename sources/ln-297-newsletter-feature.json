@@ -1,0 +1,72 @@
+{
+  "id": "ln-297-newsletter-feature",
+  "title": "July Roundup: From Foggy Reroutes to Magnets on the Bench",
+  "format": "newsletter_feature",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln010",
+    "ln014",
+    "ln024",
+    "ln025",
+    "ln030"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "narrator",
+      "text": "It’s been a month of quiet, determined problem-solving across the network. Here’s a look at some of the work that kept things moving, lit, and organized."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "Nora Northcott’s Fog-Bound Detour"
+    },
+    {
+      "id": "b003",
+      "speaker_id": "narrator",
+      "text": "A dense, stubborn fog settled into the North Orchard valley one Tuesday morning, grounding the usual pharmacy courier flight. For five of her homebound patients, that meant a potential gap in essential medications. Nora Northcott, who had already mapped her day’s route before dawn, didn’t wait for the fog to lift. Using her detailed patient rota, she coordinated with a volunteer who had a reliable car and clear directions. By mid-afternoon, a week’s worth of prescriptions had been collected from the central depot and delivered to each front door, right on schedule. The fog lingered for two more days, but the worry didn’t."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "narrator",
+      "text": "Eleanor Bougham’s Sweet-Toothed Guide"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "narrator",
+      "text": "Guests at the Bougham Guesthouse in Blue Orchard kept asking Eleanor Bougham where to find the local honey and the best summer berries. Rather than giving the same directions over breakfast, Eleanor typed up a single-page guide. It lists the self-serve stands along the winding lanes—‘Look for the red wagon with the tin roof,’ ‘The green box is just past the third apple tree’—and notes each one’s honor-system payment tin. She laminated a few copies to survive summer dew and sticky fingers. ‘It saves me repeating myself,’ she says, ‘and it means visitors get to have a little adventure, and a blackberry tart, all on their own.’"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "narrator",
+      "text": "Mina Vale Lights the Way"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "narrator",
+      "text": "On her evening #47 route, Mina Vale heard a familiar grumble from the back seats: passengers squinting, leaning forward, trying to read street signs in the dark. The rear interior light above the back door had flickered out again. ‘I knew it wasn’t just a bad bulb from last time,’ she said. At the end of her shift, instead of heading home, she went straight to the depot logbook. She tagged the specific fixture as faulty, noting the recurring issue and the complaints. ‘If it’s not written down, it doesn’t exist for the maintenance crew,’ she explained. ‘My people need to see where they’re going.’"
+    },
+    {
+      "id": "b008",
+      "speaker_id": "narrator",
+      "text": "Jonas Pike’s Gatekeeper Calendar"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "narrator",
+      "text": "Confusion over the summer irrigation schedule was causing headaches—and some overwatered plots—for the Eastfield Water Users. The posted paper notices would bleach in the sun or get blown away by a gusty afternoon. Jonas Pike took the new rotation schedule, which allocates canal gate access by day and plot group, and engraved it onto a sheet of painted metal. He mounted the sign right at the main headgate. Now, instead of guessing or arguing, plot holders just walk up, check the permanent record, and know exactly when their water is coming. ‘Fewer words needed,’ Jonas reported, which, from him, is high praise."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "narrator",
+      "text": "Amir Brook’s Magnetic Solution"
+    },
+    {
+      "id": "b011",
+      "speaker_id": "narrator",
+      "text": "The workbench at Brook Device Repair is a landscape of tiny screws, delicate connectors, and minuscule brackets. ‘You breathe wrong and a part goes on a journey under a circuit board,’ Amir Brook says. Tired of the hunt, he took an old, shallow cafeteria tray and glued a grid of strong neodymium magnets into its grooves. Now, when he’s taking apart a stubborn device, he places the tray nearby. Small steel components snap into place and stay put. ‘It’s not fancy,’ he admits, ‘but it saves about ten minutes of frustrated searching per repair. And my sanity.’ The tray, now dotted with a constellation of tiny hardware, has become a permanent fixture on the bench."
+    }
+  ],
+  "content_sha256": "04340da1659a473bc1643a0063c9fe2d71046a3740418fd276dcb53d8b74a927"
+}

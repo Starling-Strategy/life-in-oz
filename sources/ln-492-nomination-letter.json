@@ -1,0 +1,19 @@
+{
+  "id": "ln-492-nomination-letter",
+  "title": "Letter to the Founders' Gala Selection Committee",
+  "format": "nomination_letter",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln006",
+    "ln031"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln031",
+      "text": "To the Founders' Gala Selection Committee,\n\nI’m writing to nominate Samuel Strawbridge for recognition at this year’s Gala. I manage the Eastfield Orchard Partnership, and Samuel runs our town’s adult literacy program. I’ve seen his work up close, and it’s made a real, practical difference here.\n\nLast season, one of our regular seasonal pickers, a woman who’d been with us for years, started attending Samuel’s classes. She’d always relied on her daughter or a neighbor to read her the picking contract. Samuel used our contract—the old, dense one full of ‘heretofores’ and ‘parties of the first part’—as a lesson in his class. He didn’t just have them sound out the words; he asked them, ‘What do you need to understand from this? What’s fair?’ They picked it apart together.\n\nA few weeks later, that picker came to my office. She brought her contract, pointed to the sections about pay scales and break times, and asked me two clear questions about them. She was reading it herself. She told me Samuel’s class taught her to ask those questions, that it wasn’t about being smart, it was about knowing what to look for. That moment changed how I saw my own work.\n\nIn fact, seeing Samuel’s class struggle with our legalese prompted me to rewrite the entire orchard picking contract in plain language this past spring. Samuel reviewed a draft for me. He said, ‘If your crew can’t read it, it’s not a good contract.’ Now the new version is clearer for everyone.\n\nSamuel’s curious and patient. He never makes a big deal about what he does; he just asks people what they need to read and helps them find the confidence to do it. That quiet, persistent work builds a stronger foundation for all of us in Eastfield. He’s a founder in the truest sense—he helps people build their own capacity.\n\nThank you for your consideration,\n\nLydia Hart\nOrchard Manager, Eastfield Orchard Partnership"
+    }
+  ],
+  "content_sha256": "1be8a343f2de96a3e3ad9cb98363e5a8ee9ce1a91f8791d692b8c81eb5e295bd"
+}

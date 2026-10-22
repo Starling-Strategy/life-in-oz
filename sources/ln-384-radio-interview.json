@@ -1,0 +1,89 @@
+{
+  "id": "ln-384-radio-interview",
+  "title": "Mutual Aid in Action: From Bluebell Crossing to Spectacle Lane",
+  "format": "radio_interview",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln258",
+    "ln284"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "host",
+      "text": "Good evening, and welcome to 'Community Threads' on Oz Community Radio. Tonight, we're talking about mutual aid—not just the big ideas, but the everyday ways people help each other out. I'm Posy Haystead, and joining me from Munchkin Country is Jem Quadmore of the Bluebell Crossing Tenants' Association. Welcome, Jem."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln284",
+      "text": "Thanks, Posy. Good to be here."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "host",
+      "text": "So, Jem, mutual aid can sound abstract, but you've got a very concrete example from just last month. Can you tell us what happened?"
+    },
+    {
+      "id": "b004",
+      "speaker_id": "ln284",
+      "text": "Sure. We had a building-wide power outage over in Bluebell Crossing for nearly two days. It knocked out the routers, so a lot of folks couldn't get online to transfer their rent. By the time the lights came back on, eight tenants were looking at late fees from the management company. That's money people don't have to spare."
+    },
+    {
+      "id": "b005",
+      "speaker_id": "host",
+      "text": "So what did you do?"
+    },
+    {
+      "id": "b006",
+      "speaker_id": "ln284",
+      "text": "I got on the line with the property manager. Explained the situation wasn't anyone's fault—you can't click 'pay' if your screen is black. It was a straightforward conversation: here's the problem, here's why it happened, can we waive the fees this one time? They agreed. It was pragmatic. Saved everyone a headache and about two hundred coins total."
+    },
+    {
+      "id": "b007",
+      "speaker_id": "host",
+      "text": "That's a perfect example. It's not about a grand gesture; it's about seeing a shared problem and clearing the path. Now, you might think my world—design—is a bit removed from tenant organizing, but I see a similar thread. I recently worked with the Young Founders circle on a business-planning workshop."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "ln284",
+      "text": "What did that involve?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "host",
+      "text": "They asked if I could make the participation certificates feel a bit special. These were people who'd spent their evenings learning about cash flow and marketing; they deserved more than a slip of copy paper. So I designed a simple, elegant template—clean lines, a nice border—and had them printed on that recycled parchment-style paper. It has a good weight to it."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "ln284",
+      "text": "That's a good touch. It shows their effort is valued. A minor change, but it matters. Like the fee waiver—it's not the money itself always, it's the recognition that circumstances happen, and we can adjust."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "host",
+      "text": "Exactly. Mutual aid, to me, is about using your specific skill—whether it's talking to a property manager or knowing what paper to use—to reduce friction for someone else. It's design thinking, in a way."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln284",
+      "text": "I'd call it neighbor thinking. You see a need, you use what you've got to meet it. Sometimes that's negotiation, sometimes it's a certificate. The result is the same: the community feels a little stronger, a little more supported."
+    },
+    {
+      "id": "b013",
+      "speaker_id": "host",
+      "text": "Well said. Jem, thank you for sharing your story from Bluebell Crossing. It's been a pleasure."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "ln284",
+      "text": "Thank you, Posy. Keep making things look good."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "host",
+      "text": "And that's 'Community Threads' for this evening. For Oz Community Radio, I'm Posy Haystead. Goodnight."
+    }
+  ],
+  "content_sha256": "c499ac45f4cf80f0775eba2def82d291786db941d00509a8cac6478d24929727"
+}

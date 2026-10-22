@@ -1,0 +1,149 @@
+{
+  "id": "ln-093-webinar",
+  "title": "Brickway Transit Union: Night Safety & Day-to-Day Problem Solving",
+  "format": "webinar",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln289",
+    "ln277"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "manager",
+      "text": "Hello everyone, and welcome to this Emerald City Leadership Network webinar. I'm Rowan Bell, your community manager. Tonight we're talking with two members of the Brickway Transit Union. Our focus is on the practical work of making transit safer and more reliable. With me are Sable Gateby, a union steward, and Kit Amberworth, a bus driver. Welcome, both."
+    },
+    {
+      "id": "b002",
+      "speaker_id": "ln289",
+      "text": "Thank you, Rowan."
+    },
+    {
+      "id": "b003",
+      "speaker_id": "ln277",
+      "text": "Happy to be here."
+    },
+    {
+      "id": "b004",
+      "speaker_id": "manager",
+      "text": "Sable, let's start with you. There's been some recent work around safety for night-shift workers at the Green Market tram sheds. Can you tell us about that?"
+    },
+    {
+      "id": "b005",
+      "speaker_id": "ln289",
+      "text": "Absolutely. Two of our conductors came to me last month. They were concerned about the walk across the yard after their shift ends, which is often after midnight. The yard lighting is insufficient, frankly. It's a long walk from the platform to the shed where they clock out, and it didn't feel secure. So I took that to management. We negotiated a simple, effective solution: conductors on the late shift now walk out in pairs. Management agreed to adjust the schedule so their clock-out times align. It's a small change on paper, but it means no one is crossing that dark yard alone. It's been in place for three weeks now."
+    },
+    {
+      "id": "b006",
+      "speaker_id": "manager",
+      "text": "Was there any pushback?"
+    },
+    {
+      "id": "b007",
+      "speaker_id": "ln289",
+      "text": "There was the usual discussion about operational impact, but the facts were clear. We presented it as a duty-of-care issue. When you have members raising a legitimate safety concern, the response shouldn't be complicated. You find a way. The paired walk was the most straightforward fix."
+    },
+    {
+      "id": "b008",
+      "speaker_id": "manager",
+      "text": "Kit, switching gears—or routes, I suppose—you had an interesting day recently involving a water main. What happened?"
+    },
+    {
+      "id": "b009",
+      "speaker_id": "ln277",
+      "text": "Oh, that was a morning! I was on my usual 7:15 run from Green Market down the central Brickway. We got about halfway and there were city works vehicles everywhere, and water just bubbling up across the eastbound lanes. The crew foreman waved us down and said the break was major, and the road would be closed for hours. My bus was full—mostly folks heading to offices and the market warehouses. Now, the official diversion would have sent us way up past the festival grounds, adding at least forty minutes."
+    },
+    {
+      "id": "b010",
+      "speaker_id": "manager",
+      "text": "Forty minutes."
+    },
+    {
+      "id": "b011",
+      "speaker_id": "ln277",
+      "text": "At least. And I could see people checking the time, getting that tense look. So I got on the intercom. I said, 'Folks, we've got a river where the road should be. I'm going to try something a little different. Please bear with me.' I know those side streets from when I used to do the Meadow route. There's a sequence of turns—down Cobble Lane, cut through the old textile district—that comes out right before the Quadling Bridge. It's tight for a bus, but it's passable if you take it slow."
+    },
+    {
+      "id": "b012",
+      "speaker_id": "ln289",
+      "text": "Did you check with dispatch?"
+    },
+    {
+      "id": "b013",
+      "speaker_id": "ln277",
+      "text": "I radioed them as I was turning. Told them my plan and that I'd keep them posted. They gave the okay, but I could tell they were skeptical. The main thing was keeping the passengers in the loop. Every couple of turns, I'd get back on the intercom: 'Alright, we're bypassing the textile warehouses now, we'll be back on the main Brickway in about five minutes.' You could feel the mood shift. People relaxed. We got to the bridge only about eight minutes behind schedule, which, considering, was a win."
+    },
+    {
+      "id": "b014",
+      "speaker_id": "manager",
+      "text": "So the key elements were your knowledge of the alternate route and the communication."
+    },
+    {
+      "id": "b015",
+      "speaker_id": "ln277",
+      "text": "Exactly. The route knowledge is part of the job, you pick things up over the years. But the communication… that's what stops a hiccup from becoming a full-blown complaint. Nobody likes sitting in a bus wondering what's happening."
+    },
+    {
+      "id": "b016",
+      "speaker_id": "ln289",
+      "text": "And it aligns with our union's emphasis on driver discretion for on-the-spot issues. The handbook supports reasonable reroutes for obstructions. Kit's use of the intercom was textbook good practice."
+    },
+    {
+      "id": "b017",
+      "speaker_id": "manager",
+      "text": "Sable, how does something like Kit's experience inform the union's broader work? Is there a connection between these day-to-day problem-solving moments and the kind of structural negotiation you did for the night shift?"
+    },
+    {
+      "id": "b018",
+      "speaker_id": "ln289",
+      "text": "There is. They're two sides of the same coin. Kit's situation is about the individual driver using their skill and judgment to maintain service. My work is about creating the conditions—like clear safety protocols—that allow members to do their jobs effectively and without undue risk. One supports the other. When drivers feel supported by the union on the big things, like safe working conditions, they have the confidence to handle the small crises on the road. And when management sees how we handle those small crises professionally, it builds trust for the bigger negotiations."
+    },
+    {
+      "id": "b019",
+      "speaker_id": "ln277",
+      "text": "That's right. Knowing Sable and the stewards have our backs on the safety stuff means my head is clear to focus on the road and the passengers. I'm not worrying about whether I'll get in trouble for being five minutes late because of an act of… well, water."
+    },
+    {
+      "id": "b020",
+      "speaker_id": "manager",
+      "text": "We have a question from the audience. 'For Sable: Is the paired walk a permanent change, and are there plans to improve the yard lighting itself?'"
+    },
+    {
+      "id": "b021",
+      "speaker_id": "ln289",
+      "text": "The paired walk is now a permanent part of the late-shift procedure. As for the lighting, that's the next step. We've logged the condition formally with facilities. The agreement on the paired walk was the immediate solution; the longer-term push is for infrastructure improvement. It's now a documented item on our ongoing safety review with management."
+    },
+    {
+      "id": "b022",
+      "speaker_id": "manager",
+      "text": "Another question, this one for Kit. 'Did any passengers thank you after the reroute?'"
+    },
+    {
+      "id": "b023",
+      "speaker_id": "ln277",
+      "text": "A few did, yeah. One older gentleman said, 'You saved my meeting.' Mostly, it was just nods and smiles as they got off. That's plenty. You don't need a parade; you just want people to get where they're going without the headache."
+    },
+    {
+      "id": "b024",
+      "speaker_id": "manager",
+      "text": "Thank you both. This has been a really concrete look at how problems get solved on the ground and at the bargaining table. Any final thoughts?"
+    },
+    {
+      "id": "b025",
+      "speaker_id": "ln289",
+      "text": "Just that most of the work isn't headlines. It's the quiet, persistent stuff that makes the system function better for everyone—the workers and the public."
+    },
+    {
+      "id": "b026",
+      "speaker_id": "ln277",
+      "text": "And sometimes it's about avoiding a forty-minute delay one puddle at a time."
+    },
+    {
+      "id": "b027",
+      "speaker_id": "manager",
+      "text": "Well said. Thank you, Sable and Kit. And thank you to everyone who joined us. The recording and notes will be available on the network platform. Goodnight."
+    }
+  ],
+  "content_sha256": "1a701333befb1f510d620018630c55e634704ecccdf8d96989411a4fe46b7ba7"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ln-371-intake-email",
+  "title": "Fwd: Silo pins and a calibration idea",
+  "format": "intake_email",
+  "fictional": true,
+  "notice": "Synthetic demo material. Invented document; no real meeting, publication, email or call occurred.",
+  "members": [
+    "ln108",
+    "ln192"
+  ],
+  "blocks": [
+    {
+      "id": "b001",
+      "speaker_id": "ln108",
+      "text": "From: Gus Crowby\nTo: Network Intake Desk\nSubject: Fwd: Silo pins and a calibration idea\nDate: October 2025\n\nRowan,\n\nHere's something from the shop bulletin board Wilfred put up. Thought the network should know. See the note I clipped below.\n\nGus"
+    },
+    {
+      "id": "b002",
+      "speaker_id": "narrator",
+      "text": "--- Forwarded message ---\nFrom: Bulletin Board, Crowby Machine Shop\nSubject: Shop Notes\nDate: October 2025\n\nCommunity Contribution: Last week, Gus Crowby machined a set of replacement latch pins for the heavy doors of the Westgate Mills community grain silo. The old pins had worn and were letting the doors swing in high winds, a hazard for anyone loading or unloading. Gus used a piece of scrap steel stock from the corner bin, turned them down to the right diameter, and cut the threads himself. The doors now lock shut tight. The silo manager came by this morning to pick them up, no charge.\n\nProposal: Wilfred Spindlebourne has proposed to the foreman that the shop implement a monthly calibration schedule for all workshop micrometers and calipers. He notes that small measurement errors on precision parts are often traced back to tools that have been knocked or worn in daily use. A regular check, he argues, would save material and rework time. The foreman has the proposal under review."
+    }
+  ],
+  "content_sha256": "c846feaf083c584f646e93083fa16b31d516e8d8a8a42bb94f6607d8aa6a2f8d"
+}
